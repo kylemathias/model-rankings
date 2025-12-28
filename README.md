@@ -14,12 +14,54 @@ This repository provides a `rankings.json` file that contains intelligence and c
     "openai/gpt-4o": { "int": 71, "code": 68 },
     "anthropic/claude-3.5-sonnet": { "int": 70, "code": 65 }
   },
+  "fullData": {
+    "openai/gpt-4o": {
+      "name": "GPT-4o",
+      "slug": "gpt-4o",
+      "model_creator": { "name": "OpenAI", "slug": "openai" },
+      "evaluations": {
+        "artificial_analysis_intelligence_index": 71.2,
+        "artificial_analysis_coding_index": 68.5,
+        "mmlu_pro": 0.82,
+        "gpqa": 0.65,
+        "...": "..."
+      },
+      "pricing": {
+        "price_1m_input_tokens": 2.5,
+        "price_1m_output_tokens": 10.0,
+        "price_1m_blended_3_to_1": 5.0
+      },
+      "median_output_tokens_per_second": 85.3,
+      "median_time_to_first_token_seconds": 0.45,
+      "...": "all other AA fields"
+    }
+  },
   "updated": "2025-12-28",
   "source": "Artificial Analysis API",
   "attribution": "Rankings provided by Artificial Analysis...",
-  "count": 123
+  "count": 123,
+  "metadata": {
+    "total_models": 150,
+    "compact_entries": 400,
+    "full_data_entries": 150,
+    "prompt_options": {}
+  }
 }
 ```
+
+### Data Structure
+
+- **`models`**: Compact lookup map for quick matching (int/code scores only)
+  - Keys: Multiple formats for flexible matching (slug, creator/slug, name)
+  - Values: `{ int: number, code: number }`
+  
+- **`fullData`**: Complete Artificial Analysis data for each model
+  - Keys: Primary identifier (creator/slug or slug)
+  - Values: Full AA response including:
+    - All evaluation benchmarks (MMLU, GPQA, HumanEval, etc.)
+    - Pricing (input/output tokens, blended)
+    - Performance metrics (tokens/sec, TTFT)
+    - Model metadata (name, creator, parameters, etc.)
 
 - `int`: Intelligence score (0-100)
 - `code`: Coding score (0-100)

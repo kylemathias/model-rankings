@@ -24,6 +24,7 @@ const aa = await res.json();
 console.log(`Received ${aa.data?.length || 0} models from AA`);
 
 const models = {};
+const fullData = {};
 let count = 0;
 
 for (const m of aa.data || []) {
@@ -34,30 +35,60 @@ for (const m of aa.data || []) {
   
   if (!slug) continue;
   
+  // Compact entry for matching (just scores)
   const entry = {};
   if (int != null && Number.isFinite(int)) entry.int = Math.round(int);
   if (code != null && Number.isFinite(code)) entry.code = Math.round(code);
   
   if (Object.keys(entry).length === 0) continue;
   
-  // Store under multiple keys for flexible matching
+  // Store compact entry under multiple keys for flexible matching
   if (creator) {
     models[`${creator}/${slug}`] = entry;
     count++;
   }
   models[slug] = entry;
   if (m.name) models[m.name.toLowerCase()] = entry;
-  count++;
+  
+  // Store complete AA data for reference
+  const fullKey = creator ? `${creator}/${slug}` : slug;
+  fullData[fullKey] = {
+    name: m.name,
+    slug: m.slug,
+    model_creator: m.model_creator,
+    evaluations: m.evaluations,
+    pricing: m.pricing,
+    median_output_tokens_per_second: m.median_output_tokens_per_second,
+    median_time_to_first_token_seconds: m.median_time_to_first_token_seconds,
+    median_time_to_first_answer_token: m.median_time_to_first_answer_token,
+    // Include any other fields AA provides
+    ...Object.fromEntries(
+      Object.entries(m).filter(([key]) => 
+        !['name', 'slug', 'model_creator', 'evaluations', 'pricing', 
+          'median_output_tokens_per_second', 'median_time_to_first_token_seconds', 
+          'median_time_to_first_answer_token'].includes(key)
+      )
+    )
+  };
 }
 
 const output = {
   models,
+  fullData,
   updated: new Date().toISOString().split("T")[0],
   source: "Artificial Analysis API",
   attribution: "Rankings provided by Artificial Analysis (https://artificialanalysis.ai/). Please attribute per their terms.",
-  count: count
+  count: count,
+  metadata: {
+    total_models: aa.data?.length || 0,
+    compact_entries: Object.keys(models).length,
+    full_data_entries: Object.keys(fullData).length,
+    prompt_options: aa.prompt_options || {}
+  }
 };
 
 await fs.writeFile(outPath, JSON.stringify(output, null, 2), "utf8");
 console.log(`✓ Wrote ${count} model entries to ${outPath}`);
+console.log(`✓ Compact entries: ${Object.keys(output.models).length}`);
+console.log(`✓ Full data entries: ${Object.keys(output.fullData).length}`);
 console.log(`Updated: ${output.updated}`);
