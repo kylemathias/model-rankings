@@ -1,7 +1,4029 @@
 {
-  "models": {},
+  "models": {
+    "openai/gpt-oss-20b": {
+      "int": 52,
+      "code": 41
+    },
+    "gpt-oss-20b": {
+      "int": 52,
+      "code": 41
+    },
+    "gpt-oss-20b (high)": {
+      "int": 52,
+      "code": 41
+    },
+    "openai/gpt-oss-120b-low": {
+      "int": 48,
+      "code": 37
+    },
+    "gpt-oss-120b-low": {
+      "int": 48,
+      "code": 37
+    },
+    "gpt-oss-120b (low)": {
+      "int": 48,
+      "code": 37
+    },
+    "openai/gpt-5-2": {
+      "int": 73,
+      "code": 62
+    },
+    "gpt-5-2": {
+      "int": 73,
+      "code": 62
+    },
+    "gpt-5.2 (xhigh)": {
+      "int": 73,
+      "code": 62
+    },
+    "openai/gpt-oss-120b": {
+      "int": 61,
+      "code": 50
+    },
+    "gpt-oss-120b": {
+      "int": 61,
+      "code": 50
+    },
+    "gpt-oss-120b (high)": {
+      "int": 61,
+      "code": 50
+    },
+    "openai/o3": {
+      "int": 66,
+      "code": 52
+    },
+    "o3": {
+      "int": 66,
+      "code": 52
+    },
+    "openai/gpt-oss-20b-low": {
+      "int": 44,
+      "code": 35
+    },
+    "gpt-oss-20b-low": {
+      "int": 44,
+      "code": 35
+    },
+    "gpt-oss-20b (low)": {
+      "int": 44,
+      "code": 35
+    },
+    "openai/gpt-5-1": {
+      "int": 70,
+      "code": 58
+    },
+    "gpt-5-1": {
+      "int": 70,
+      "code": 58
+    },
+    "gpt-5.1 (high)": {
+      "int": 70,
+      "code": 58
+    },
+    "xai/grok-1": {
+      "int": 18
+    },
+    "grok-1": {
+      "int": 18
+    },
+    "openai/gpt-5-nano": {
+      "int": 51,
+      "code": 42
+    },
+    "gpt-5-nano": {
+      "int": 51,
+      "code": 42
+    },
+    "gpt-5 nano (high)": {
+      "int": 51,
+      "code": 42
+    },
+    "openai/gpt-5-1-codex-mini": {
+      "int": 62,
+      "code": 53
+    },
+    "gpt-5-1-codex-mini": {
+      "int": 62,
+      "code": 53
+    },
+    "gpt-5.1 codex mini (high)": {
+      "int": 62,
+      "code": 53
+    },
+    "openai/gpt-5-1-codex": {
+      "int": 67,
+      "code": 53
+    },
+    "gpt-5-1-codex": {
+      "int": 67,
+      "code": 53
+    },
+    "gpt-5.1 codex (high)": {
+      "int": 67,
+      "code": 53
+    },
+    "openai/gpt-5-mini": {
+      "int": 64,
+      "code": 51
+    },
+    "gpt-5-mini": {
+      "int": 64,
+      "code": 51
+    },
+    "gpt-5 mini (high)": {
+      "int": 64,
+      "code": 51
+    },
+    "openai/gpt-5-2-non-reasoning": {
+      "int": 48,
+      "code": 46
+    },
+    "gpt-5-2-non-reasoning": {
+      "int": 48,
+      "code": 46
+    },
+    "gpt-5.2 (non-reasoning)": {
+      "int": 48,
+      "code": 46
+    },
+    "meta/llama-3-3-instruct-70b": {
+      "int": 28,
+      "code": 19
+    },
+    "llama-3-3-instruct-70b": {
+      "int": 28,
+      "code": 19
+    },
+    "llama 3.3 instruct 70b": {
+      "int": 28,
+      "code": 19
+    },
+    "meta/llama-3-1-instruct-405b": {
+      "int": 28,
+      "code": 22
+    },
+    "llama-3-1-instruct-405b": {
+      "int": 28,
+      "code": 22
+    },
+    "llama 3.1 instruct 405b": {
+      "int": 28,
+      "code": 22
+    },
+    "meta/llama-3-2-instruct-90b-vision": {
+      "int": 19
+    },
+    "llama-3-2-instruct-90b-vision": {
+      "int": 19
+    },
+    "llama 3.2 instruct 90b (vision)": {
+      "int": 19
+    },
+    "meta/llama-3-2-instruct-11b-vision": {
+      "int": 16,
+      "code": 8
+    },
+    "llama-3-2-instruct-11b-vision": {
+      "int": 16,
+      "code": 8
+    },
+    "llama 3.2 instruct 11b (vision)": {
+      "int": 16,
+      "code": 8
+    },
+    "meta/llama-4-maverick": {
+      "int": 36,
+      "code": 26
+    },
+    "llama-4-maverick": {
+      "int": 36,
+      "code": 26
+    },
+    "llama 4 maverick": {
+      "int": 36,
+      "code": 26
+    },
+    "meta/llama-4-scout": {
+      "int": 28,
+      "code": 16
+    },
+    "llama-4-scout": {
+      "int": 28,
+      "code": 16
+    },
+    "llama 4 scout": {
+      "int": 28,
+      "code": 16
+    },
+    "google/gemma-3-27b": {
+      "int": 22,
+      "code": 13
+    },
+    "gemma-3-27b": {
+      "int": 22,
+      "code": 13
+    },
+    "gemma 3 27b instruct": {
+      "int": 22,
+      "code": 13
+    },
+    "google/gemini-3-pro": {
+      "int": 73,
+      "code": 62
+    },
+    "gemini-3-pro": {
+      "int": 73,
+      "code": 62
+    },
+    "gemini 3 pro preview (high)": {
+      "int": 73,
+      "code": 62
+    },
+    "google/gemma-3-270m": {
+      "int": 6,
+      "code": 0
+    },
+    "gemma-3-270m": {
+      "int": 6,
+      "code": 0
+    },
+    "gemma 3 270m": {
+      "int": 6,
+      "code": 0
+    },
+    "google/gemini-3-flash": {
+      "int": 55,
+      "code": 53
+    },
+    "gemini-3-flash": {
+      "int": 55,
+      "code": 53
+    },
+    "gemini 3 flash preview (non-reasoning)": {
+      "int": 55,
+      "code": 53
+    },
+    "google/gemma-3n-e2b": {
+      "int": 11,
+      "code": 5
+    },
+    "gemma-3n-e2b": {
+      "int": 11,
+      "code": 5
+    },
+    "gemma 3n e2b instruct": {
+      "int": 11,
+      "code": 5
+    },
+    "google/gemma-3-1b": {
+      "int": 7,
+      "code": 1
+    },
+    "gemma-3-1b": {
+      "int": 7,
+      "code": 1
+    },
+    "gemma 3 1b instruct": {
+      "int": 7,
+      "code": 1
+    },
+    "google/gemma-3-4b": {
+      "int": 15,
+      "code": 6
+    },
+    "gemma-3-4b": {
+      "int": 15,
+      "code": 6
+    },
+    "gemma 3 4b instruct": {
+      "int": 15,
+      "code": 6
+    },
+    "google/gemma-3-12b": {
+      "int": 20,
+      "code": 11
+    },
+    "gemma-3-12b": {
+      "int": 20,
+      "code": 11
+    },
+    "gemma 3 12b instruct": {
+      "int": 20,
+      "code": 11
+    },
+    "google/gemma-3n-e4b": {
+      "int": 16,
+      "code": 8
+    },
+    "gemma-3n-e4b": {
+      "int": 16,
+      "code": 8
+    },
+    "gemma 3n e4b instruct": {
+      "int": 16,
+      "code": 8
+    },
+    "google/gemini-3-pro-low": {
+      "int": 65,
+      "code": 56
+    },
+    "gemini-3-pro-low": {
+      "int": 65,
+      "code": 56
+    },
+    "gemini 3 pro preview (low)": {
+      "int": 65,
+      "code": 56
+    },
+    "google/gemini-3-flash-reasoning": {
+      "int": 71,
+      "code": 59
+    },
+    "gemini-3-flash-reasoning": {
+      "int": 71,
+      "code": 59
+    },
+    "gemini 3 flash preview (reasoning)": {
+      "int": 71,
+      "code": 59
+    },
+    "google/gemini-2-5-flash-lite-preview-09-2025": {
+      "int": 42,
+      "code": 33
+    },
+    "gemini-2-5-flash-lite-preview-09-2025": {
+      "int": 42,
+      "code": 33
+    },
+    "gemini 2.5 flash-lite preview (sep '25) (non-reasoning)": {
+      "int": 42,
+      "code": 33
+    },
+    "google/gemini-2-5-flash-lite-preview-09-2025-reasoning": {
+      "int": 48,
+      "code": 37
+    },
+    "gemini-2-5-flash-lite-preview-09-2025-reasoning": {
+      "int": 48,
+      "code": 37
+    },
+    "gemini 2.5 flash-lite preview (sep '25) (reasoning)": {
+      "int": 48,
+      "code": 37
+    },
+    "google/gemini-2-5-pro": {
+      "int": 60,
+      "code": 49
+    },
+    "gemini-2-5-pro": {
+      "int": 60,
+      "code": 49
+    },
+    "gemini 2.5 pro": {
+      "int": 60,
+      "code": 49
+    },
+    "anthropic/claude-4-5-sonnet": {
+      "int": 50,
+      "code": 43
+    },
+    "claude-4-5-sonnet": {
+      "int": 50,
+      "code": 43
+    },
+    "claude 4.5 sonnet (non-reasoning)": {
+      "int": 50,
+      "code": 43
+    },
+    "anthropic/claude-4-5-haiku": {
+      "int": 42,
+      "code": 37
+    },
+    "claude-4-5-haiku": {
+      "int": 42,
+      "code": 37
+    },
+    "claude 4.5 haiku (non-reasoning)": {
+      "int": 42,
+      "code": 37
+    },
+    "anthropic/claude-opus-4-5-thinking": {
+      "int": 70,
+      "code": 60
+    },
+    "claude-opus-4-5-thinking": {
+      "int": 70,
+      "code": 60
+    },
+    "claude opus 4.5 (reasoning)": {
+      "int": 70,
+      "code": 60
+    },
+    "anthropic/claude-opus-4-5": {
+      "int": 60,
+      "code": 53
+    },
+    "claude-opus-4-5": {
+      "int": 60,
+      "code": 53
+    },
+    "claude opus 4.5 (non-reasoning)": {
+      "int": 60,
+      "code": 53
+    },
+    "anthropic/claude-4-5-sonnet-thinking": {
+      "int": 63,
+      "code": 50
+    },
+    "claude-4-5-sonnet-thinking": {
+      "int": 63,
+      "code": 50
+    },
+    "claude 4.5 sonnet (reasoning)": {
+      "int": 63,
+      "code": 50
+    },
+    "anthropic/claude-4-5-haiku-reasoning": {
+      "int": 55,
+      "code": 43
+    },
+    "claude-4-5-haiku-reasoning": {
+      "int": 55,
+      "code": 43
+    },
+    "claude 4.5 haiku (reasoning)": {
+      "int": 55,
+      "code": 43
+    },
+    "mistral/magistral-small-2509": {
+      "int": 43,
+      "code": 37
+    },
+    "magistral-small-2509": {
+      "int": 43,
+      "code": 37
+    },
+    "magistral small 1.2": {
+      "int": 43,
+      "code": 37
+    },
+    "mistral/devstral-small": {
+      "int": 27,
+      "code": 19
+    },
+    "devstral-small": {
+      "int": 27,
+      "code": 19
+    },
+    "devstral small (jul '25)": {
+      "int": 27,
+      "code": 19
+    },
+    "mistral/ministral-3b": {
+      "int": 22,
+      "code": 13
+    },
+    "ministral-3b": {
+      "int": 22,
+      "code": 13
+    },
+    "ministral 3b (dec '25)": {
+      "int": 22,
+      "code": 13
+    },
+    "mistral/mistral-large-3": {
+      "int": 38,
+      "code": 33
+    },
+    "mistral-large-3": {
+      "int": 38,
+      "code": 33
+    },
+    "mistral large 3": {
+      "int": 38,
+      "code": 33
+    },
+    "mistral/devstral-medium": {
+      "int": 28,
+      "code": 24
+    },
+    "devstral-medium": {
+      "int": 28,
+      "code": 24
+    },
+    "devstral medium": {
+      "int": 28,
+      "code": 24
+    },
+    "mistral/mistral-small-3-2": {
+      "int": 29,
+      "code": 20
+    },
+    "mistral-small-3-2": {
+      "int": 29,
+      "code": 20
+    },
+    "mistral small 3.2": {
+      "int": 29,
+      "code": 20
+    },
+    "mistral/mistral-medium-3-1": {
+      "int": 35,
+      "code": 28
+    },
+    "mistral-medium-3-1": {
+      "int": 35,
+      "code": 28
+    },
+    "mistral medium 3.1": {
+      "int": 35,
+      "code": 28
+    },
+    "mistral/devstral-2": {
+      "int": 36,
+      "code": 32
+    },
+    "devstral-2": {
+      "int": 36,
+      "code": 32
+    },
+    "devstral 2": {
+      "int": 36,
+      "code": 32
+    },
+    "mistral/devstral-small-2": {
+      "int": 32,
+      "code": 26
+    },
+    "devstral-small-2": {
+      "int": 32,
+      "code": 26
+    },
+    "devstral small 2": {
+      "int": 32,
+      "code": 26
+    },
+    "mistral/ministral-8b": {
+      "int": 28,
+      "code": 18
+    },
+    "ministral-8b": {
+      "int": 28,
+      "code": 18
+    },
+    "ministral 8b (dec '25)": {
+      "int": 28,
+      "code": 18
+    },
+    "mistral/ministral-14b": {
+      "int": 31,
+      "code": 21
+    },
+    "ministral-14b": {
+      "int": 31,
+      "code": 21
+    },
+    "ministral 14b (dec '25)": {
+      "int": 31,
+      "code": 21
+    },
+    "mistral/magistral-medium-2509": {
+      "int": 52,
+      "code": 42
+    },
+    "magistral-medium-2509": {
+      "int": 52,
+      "code": 42
+    },
+    "magistral medium 1.2": {
+      "int": 52,
+      "code": 42
+    },
+    "deepseek/deepseek-r1-distill-llama-70b": {
+      "int": 30,
+      "code": 20
+    },
+    "deepseek-r1-distill-llama-70b": {
+      "int": 30,
+      "code": 20
+    },
+    "deepseek r1 distill llama 70b": {
+      "int": 30,
+      "code": 20
+    },
+    "deepseek/deepseek-v3-1-terminus-reasoning": {
+      "int": 58,
+      "code": 50
+    },
+    "deepseek-v3-1-terminus-reasoning": {
+      "int": 58,
+      "code": 50
+    },
+    "deepseek v3.1 terminus (reasoning)": {
+      "int": 58,
+      "code": 50
+    },
+    "deepseek/deepseek-r1-qwen3-8b": {
+      "int": 31,
+      "code": 24
+    },
+    "deepseek-r1-qwen3-8b": {
+      "int": 31,
+      "code": 24
+    },
+    "deepseek r1 0528 qwen3 8b": {
+      "int": 31,
+      "code": 24
+    },
+    "deepseek/deepseek-v3-2": {
+      "int": 52,
+      "code": 43
+    },
+    "deepseek-v3-2": {
+      "int": 52,
+      "code": 43
+    },
+    "deepseek v3.2 (non-reasoning)": {
+      "int": 52,
+      "code": 43
+    },
+    "deepseek/deepseek-r1": {
+      "int": 52,
+      "code": 44
+    },
+    "deepseek-r1": {
+      "int": 52,
+      "code": 44
+    },
+    "deepseek r1 0528 (may '25)": {
+      "int": 52,
+      "code": 44
+    },
+    "deepseek/deepseek-v3-2-speciale": {
+      "int": 59,
+      "code": 55
+    },
+    "deepseek-v3-2-speciale": {
+      "int": 59,
+      "code": 55
+    },
+    "deepseek v3.2 speciale": {
+      "int": 59,
+      "code": 55
+    },
+    "deepseek/deepseek-v3-2-reasoning": {
+      "int": 66,
+      "code": 53
+    },
+    "deepseek-v3-2-reasoning": {
+      "int": 66,
+      "code": 53
+    },
+    "deepseek v3.2 (reasoning)": {
+      "int": 66,
+      "code": 53
+    },
+    "deepseek/deepseek-v3-1-terminus": {
+      "int": 46,
+      "code": 38
+    },
+    "deepseek-v3-1-terminus": {
+      "int": 46,
+      "code": 38
+    },
+    "deepseek v3.1 terminus (non-reasoning)": {
+      "int": 46,
+      "code": 38
+    },
+    "perplexity/r1-1776": {
+      "int": 19
+    },
+    "r1-1776": {
+      "int": 19
+    },
+    "r1 1776": {
+      "int": 19
+    },
+    "xai/grok-4-fast-reasoning": {
+      "int": 60,
+      "code": 48
+    },
+    "grok-4-fast-reasoning": {
+      "int": 60,
+      "code": 48
+    },
+    "grok 4 fast (reasoning)": {
+      "int": 60,
+      "code": 48
+    },
+    "xai/grok-4": {
+      "int": 65,
+      "code": 55
+    },
+    "grok-4": {
+      "int": 65,
+      "code": 55
+    },
+    "grok 4": {
+      "int": 65,
+      "code": 55
+    },
+    "xai/grok-4-1-fast-reasoning": {
+      "int": 64,
+      "code": 50
+    },
+    "grok-4-1-fast-reasoning": {
+      "int": 64,
+      "code": 50
+    },
+    "grok 4.1 fast (reasoning)": {
+      "int": 64,
+      "code": 50
+    },
+    "xai/grok-4-1-fast": {
+      "int": 38,
+      "code": 28
+    },
+    "grok-4-1-fast": {
+      "int": 38,
+      "code": 28
+    },
+    "grok 4.1 fast (non-reasoning)": {
+      "int": 38,
+      "code": 28
+    },
+    "xai/grok-4-fast": {
+      "int": 39,
+      "code": 28
+    },
+    "grok-4-fast": {
+      "int": 39,
+      "code": 28
+    },
+    "grok 4 fast (non-reasoning)": {
+      "int": 39,
+      "code": 28
+    },
+    "xai/grok-3-mini-reasoning": {
+      "int": 57,
+      "code": 42
+    },
+    "grok-3-mini-reasoning": {
+      "int": 57,
+      "code": 42
+    },
+    "grok 3 mini reasoning (high)": {
+      "int": 57,
+      "code": 42
+    },
+    "xai/grok-code-fast-1": {
+      "int": 49,
+      "code": 39
+    },
+    "grok-code-fast-1": {
+      "int": 49,
+      "code": 39
+    },
+    "grok code fast 1": {
+      "int": 49,
+      "code": 39
+    },
+    "aws/nova-micro": {
+      "int": 18,
+      "code": 8
+    },
+    "nova-micro": {
+      "int": 18,
+      "code": 8
+    },
+    "nova micro": {
+      "int": 18,
+      "code": 8
+    },
+    "aws/nova-2-0-lite-reasoning-low": {
+      "int": 47,
+      "code": 28
+    },
+    "nova-2-0-lite-reasoning-low": {
+      "int": 47,
+      "code": 28
+    },
+    "nova 2.0 lite (low)": {
+      "int": 47,
+      "code": 28
+    },
+    "aws/nova-2-0-omni-reasoning-medium": {
+      "int": 56,
+      "code": 36
+    },
+    "nova-2-0-omni-reasoning-medium": {
+      "int": 56,
+      "code": 36
+    },
+    "nova 2.0 omni (medium)": {
+      "int": 56,
+      "code": 36
+    },
+    "aws/nova-2-0-omni-reasoning-low": {
+      "int": 49,
+      "code": 32
+    },
+    "nova-2-0-omni-reasoning-low": {
+      "int": 49,
+      "code": 32
+    },
+    "nova 2.0 omni (low)": {
+      "int": 49,
+      "code": 32
+    },
+    "aws/nova-2-0-lite-reasoning-medium": {
+      "int": 58,
+      "code": 40
+    },
+    "nova-2-0-lite-reasoning-medium": {
+      "int": 58,
+      "code": 40
+    },
+    "nova 2.0 lite (medium)": {
+      "int": 58,
+      "code": 40
+    },
+    "aws/nova-2-0-pro-reasoning-medium": {
+      "int": 62,
+      "code": 46
+    },
+    "nova-2-0-pro-reasoning-medium": {
+      "int": 62,
+      "code": 46
+    },
+    "nova 2.0 pro preview (medium)": {
+      "int": 62,
+      "code": 46
+    },
+    "aws/nova-2-0-omni": {
+      "int": 34,
+      "code": 22
+    },
+    "nova-2-0-omni": {
+      "int": 34,
+      "code": 22
+    },
+    "nova 2.0 omni (non-reasoning)": {
+      "int": 34,
+      "code": 22
+    },
+    "aws/nova-premier": {
+      "int": 32,
+      "code": 22
+    },
+    "nova-premier": {
+      "int": 32,
+      "code": 22
+    },
+    "nova premier": {
+      "int": 32,
+      "code": 22
+    },
+    "aws/nova-2-0-pro-reasoning-low": {
+      "int": 58,
+      "code": 40
+    },
+    "nova-2-0-pro-reasoning-low": {
+      "int": 58,
+      "code": 40
+    },
+    "nova 2.0 pro preview (low)": {
+      "int": 58,
+      "code": 40
+    },
+    "aws/nova-2-0-lite": {
+      "int": 36,
+      "code": 22
+    },
+    "nova-2-0-lite": {
+      "int": 36,
+      "code": 22
+    },
+    "nova 2.0 lite (non-reasoning)": {
+      "int": 36,
+      "code": 22
+    },
+    "aws/nova-2-0-pro": {
+      "int": 42,
+      "code": 30
+    },
+    "nova-2-0-pro": {
+      "int": 42,
+      "code": 30
+    },
+    "nova 2.0 pro preview (non-reasoning)": {
+      "int": 42,
+      "code": 30
+    },
+    "azure/phi-4": {
+      "int": 23,
+      "code": 18
+    },
+    "phi-4": {
+      "int": 23,
+      "code": 18
+    },
+    "azure/phi-4-multimodal": {
+      "int": 12
+    },
+    "phi-4-multimodal": {
+      "int": 12
+    },
+    "phi-4 multimodal instruct": {
+      "int": 12
+    },
+    "azure/phi-4-mini": {
+      "int": 16,
+      "code": 8
+    },
+    "phi-4-mini": {
+      "int": 16,
+      "code": 8
+    },
+    "phi-4 mini instruct": {
+      "int": 16,
+      "code": 8
+    },
+    "liquidai/lfm2-2-6b": {
+      "int": 12,
+      "code": 4
+    },
+    "lfm2-2-6b": {
+      "int": 12,
+      "code": 4
+    },
+    "lfm2 2.6b": {
+      "int": 12,
+      "code": 4
+    },
+    "liquidai/lfm2-1-2b": {
+      "int": 10,
+      "code": 2
+    },
+    "lfm2-1-2b": {
+      "int": 10,
+      "code": 2
+    },
+    "lfm2 1.2b": {
+      "int": 10,
+      "code": 2
+    },
+    "liquidai/lfm2-8b-a1b": {
+      "int": 17,
+      "code": 7
+    },
+    "lfm2-8b-a1b": {
+      "int": 17,
+      "code": 7
+    },
+    "lfm2 8b a1b": {
+      "int": 17,
+      "code": 7
+    },
+    "upstage/solar-pro-2-reasoning": {
+      "int": 38,
+      "code": 32
+    },
+    "solar-pro-2-reasoning": {
+      "int": 38,
+      "code": 32
+    },
+    "solar pro 2 (reasoning)": {
+      "int": 38,
+      "code": 32
+    },
+    "upstage/solar-pro-2": {
+      "int": 30,
+      "code": 24
+    },
+    "solar-pro-2": {
+      "int": 30,
+      "code": 24
+    },
+    "solar pro 2 (non-reasoning)": {
+      "int": 30,
+      "code": 24
+    },
+    "minimax/minimax-m2": {
+      "int": 61,
+      "code": 48
+    },
+    "minimax-m2": {
+      "int": 61,
+      "code": 48
+    },
+    "minimax/minimax-m2-1": {
+      "int": 64,
+      "code": 50
+    },
+    "minimax-m2-1": {
+      "int": 64,
+      "code": 50
+    },
+    "minimax-m2.1": {
+      "int": 64,
+      "code": 50
+    },
+    "nvidia/llama-3-1-nemotron-instruct-70b": {
+      "int": 24,
+      "code": 15
+    },
+    "llama-3-1-nemotron-instruct-70b": {
+      "int": 24,
+      "code": 15
+    },
+    "llama 3.1 nemotron instruct 70b": {
+      "int": 24,
+      "code": 15
+    },
+    "nvidia/nvidia-nemotron-nano-9b-v2": {
+      "int": 36,
+      "code": 31
+    },
+    "nvidia-nemotron-nano-9b-v2": {
+      "int": 36,
+      "code": 31
+    },
+    "nvidia nemotron nano 9b v2 (non-reasoning)": {
+      "int": 36,
+      "code": 31
+    },
+    "nvidia/llama-nemotron-super-49b-v1-5-reasoning": {
+      "int": 45,
+      "code": 38
+    },
+    "llama-nemotron-super-49b-v1-5-reasoning": {
+      "int": 45,
+      "code": 38
+    },
+    "llama nemotron super 49b v1.5 (reasoning)": {
+      "int": 45,
+      "code": 38
+    },
+    "nvidia/llama-nemotron-super-49b-v1-5": {
+      "int": 27,
+      "code": 19
+    },
+    "llama-nemotron-super-49b-v1-5": {
+      "int": 27,
+      "code": 19
+    },
+    "llama nemotron super 49b v1.5 (non-reasoning)": {
+      "int": 27,
+      "code": 19
+    },
+    "nvidia/llama-3-3-nemotron-super-49b-reasoning": {
+      "int": 36,
+      "code": 19
+    },
+    "llama-3-3-nemotron-super-49b-reasoning": {
+      "int": 36,
+      "code": 19
+    },
+    "llama 3.3 nemotron super 49b v1 (reasoning)": {
+      "int": 36,
+      "code": 19
+    },
+    "nvidia/nvidia-nemotron-3-nano-30b-a3b-reasoning": {
+      "int": 52,
+      "code": 39
+    },
+    "nvidia-nemotron-3-nano-30b-a3b-reasoning": {
+      "int": 52,
+      "code": 39
+    },
+    "nvidia nemotron 3 nano 30b a3b (reasoning)": {
+      "int": 52,
+      "code": 39
+    },
+    "nvidia/nvidia-nemotron-nano-9b-v2-reasoning": {
+      "int": 37,
+      "code": 32
+    },
+    "nvidia-nemotron-nano-9b-v2-reasoning": {
+      "int": 37,
+      "code": 32
+    },
+    "nvidia nemotron nano 9b v2 (reasoning)": {
+      "int": 37,
+      "code": 32
+    },
+    "nvidia/nvidia-nemotron-nano-12b-v2-vl": {
+      "int": 25,
+      "code": 17
+    },
+    "nvidia-nemotron-nano-12b-v2-vl": {
+      "int": 25,
+      "code": 17
+    },
+    "nvidia nemotron nano 12b v2 vl (non-reasoning)": {
+      "int": 25,
+      "code": 17
+    },
+    "nvidia/nvidia-nemotron-nano-12b-v2-vl-reasoning": {
+      "int": 41,
+      "code": 33
+    },
+    "nvidia-nemotron-nano-12b-v2-vl-reasoning": {
+      "int": 41,
+      "code": 33
+    },
+    "nvidia nemotron nano 12b v2 vl (reasoning)": {
+      "int": 41,
+      "code": 33
+    },
+    "nvidia/llama-3-1-nemotron-ultra-253b-v1-reasoning": {
+      "int": 39,
+      "code": 34
+    },
+    "llama-3-1-nemotron-ultra-253b-v1-reasoning": {
+      "int": 39,
+      "code": 34
+    },
+    "llama 3.1 nemotron ultra 253b v1 (reasoning)": {
+      "int": 39,
+      "code": 34
+    },
+    "nvidia/llama-3-1-nemotron-nano-4b-reasoning": {
+      "int": 26
+    },
+    "llama-3-1-nemotron-nano-4b-reasoning": {
+      "int": 26
+    },
+    "llama 3.1 nemotron nano 4b v1.1 (reasoning)": {
+      "int": 26
+    },
+    "nvidia/nvidia-nemotron-3-nano-30b-a3b": {
+      "int": 26,
+      "code": 23
+    },
+    "nvidia-nemotron-3-nano-30b-a3b": {
+      "int": 26,
+      "code": 23
+    },
+    "nvidia nemotron 3 nano 30b a3b (non-reasoning)": {
+      "int": 26,
+      "code": 23
+    },
+    "nvidia/llama-3-3-nemotron-super-49b": {
+      "int": 26,
+      "code": 17
+    },
+    "llama-3-3-nemotron-super-49b": {
+      "int": 26,
+      "code": 17
+    },
+    "llama 3.3 nemotron super 49b v1 (non-reasoning)": {
+      "int": 26,
+      "code": 17
+    },
+    "kimi/kimi-k2-0905": {
+      "int": 50,
+      "code": 38
+    },
+    "kimi-k2-0905": {
+      "int": 50,
+      "code": 38
+    },
+    "kimi k2 0905": {
+      "int": 50,
+      "code": 38
+    },
+    "kimi/kimi-k2-thinking": {
+      "int": 67,
+      "code": 52
+    },
+    "kimi-k2-thinking": {
+      "int": 67,
+      "code": 52
+    },
+    "kimi k2 thinking": {
+      "int": 67,
+      "code": 52
+    },
+    "kimi/kimi-linear-48b-a3b-instruct": {
+      "int": 26,
+      "code": 23
+    },
+    "kimi-linear-48b-a3b-instruct": {
+      "int": 26,
+      "code": 23
+    },
+    "kimi linear 48b a3b instruct": {
+      "int": 26,
+      "code": 23
+    },
+    "ai2/molmo-7b-d": {
+      "int": 9,
+      "code": 3
+    },
+    "molmo-7b-d": {
+      "int": 9,
+      "code": 3
+    },
+    "molmo 7b-d": {
+      "int": 9,
+      "code": 3
+    },
+    "ai2/olmo-3-1-32b-think": {
+      "int": 38,
+      "code": 33
+    },
+    "olmo-3-1-32b-think": {
+      "int": 38,
+      "code": 33
+    },
+    "olmo 3.1 32b think": {
+      "int": 38,
+      "code": 33
+    },
+    "ai2/olmo-3-7b-instruct": {
+      "int": 22,
+      "code": 12
+    },
+    "olmo-3-7b-instruct": {
+      "int": 22,
+      "code": 12
+    },
+    "olmo 3 7b instruct": {
+      "int": 22,
+      "code": 12
+    },
+    "ai2/olmo-3-7b-think": {
+      "int": 32,
+      "code": 28
+    },
+    "olmo-3-7b-think": {
+      "int": 32,
+      "code": 28
+    },
+    "olmo 3 7b think": {
+      "int": 32,
+      "code": 28
+    },
+    "ibm/granite-4-0-micro": {
+      "int": 16,
+      "code": 10
+    },
+    "granite-4-0-micro": {
+      "int": 16,
+      "code": 10
+    },
+    "granite 4.0 micro": {
+      "int": 16,
+      "code": 10
+    },
+    "ibm/granite-4-0-h-350m": {
+      "int": 8,
+      "code": 1
+    },
+    "granite-4-0-h-350m": {
+      "int": 8,
+      "code": 1
+    },
+    "granite 4.0 h 350m": {
+      "int": 8,
+      "code": 1
+    },
+    "ibm/granite-4-0-nano-1b": {
+      "int": 13,
+      "code": 5
+    },
+    "granite-4-0-nano-1b": {
+      "int": 13,
+      "code": 5
+    },
+    "granite 4.0 1b": {
+      "int": 13,
+      "code": 5
+    },
+    "ibm/granite-4-0-h-small": {
+      "int": 23,
+      "code": 16
+    },
+    "granite-4-0-h-small": {
+      "int": 23,
+      "code": 16
+    },
+    "granite 4.0 h small": {
+      "int": 23,
+      "code": 16
+    },
+    "ibm/granite-4-0-h-nano-1b": {
+      "int": 14,
+      "code": 7
+    },
+    "granite-4-0-h-nano-1b": {
+      "int": 14,
+      "code": 7
+    },
+    "granite 4.0 h 1b": {
+      "int": 14,
+      "code": 7
+    },
+    "ibm/granite-4-0-350m": {
+      "int": 8,
+      "code": 1
+    },
+    "granite-4-0-350m": {
+      "int": 8,
+      "code": 1
+    },
+    "granite 4.0 350m": {
+      "int": 8,
+      "code": 1
+    },
+    "reka-ai/reka-flash-3": {
+      "int": 26,
+      "code": 23
+    },
+    "reka-flash-3": {
+      "int": 26,
+      "code": 23
+    },
+    "reka flash 3": {
+      "int": 26,
+      "code": 23
+    },
+    "nous-research/deephermes-3-mistral-24b-preview": {
+      "int": 16
+    },
+    "deephermes-3-mistral-24b-preview": {
+      "int": 16
+    },
+    "deephermes 3 - mistral 24b preview (non-reasoning)": {
+      "int": 16
+    },
+    "nous-research/hermes-4-llama-3-1-70b-reasoning": {
+      "int": 39,
+      "code": 35
+    },
+    "hermes-4-llama-3-1-70b-reasoning": {
+      "int": 39,
+      "code": 35
+    },
+    "hermes 4 - llama-3.1 70b (reasoning)": {
+      "int": 39,
+      "code": 35
+    },
+    "nous-research/deephermes-3-llama-3-1-8b-preview": {
+      "int": 2
+    },
+    "deephermes-3-llama-3-1-8b-preview": {
+      "int": 2
+    },
+    "deephermes 3 - llama-3.1 8b preview (non-reasoning)": {
+      "int": 2
+    },
+    "nous-research/hermes-4-llama-3-1-70b": {
+      "int": 24,
+      "code": 18
+    },
+    "hermes-4-llama-3-1-70b": {
+      "int": 24,
+      "code": 18
+    },
+    "hermes 4 - llama-3.1 70b (non-reasoning)": {
+      "int": 24,
+      "code": 18
+    },
+    "nous-research/hermes-4-llama-3-1-405b-reasoning": {
+      "int": 42,
+      "code": 35
+    },
+    "hermes-4-llama-3-1-405b-reasoning": {
+      "int": 42,
+      "code": 35
+    },
+    "hermes 4 - llama-3.1 405b (reasoning)": {
+      "int": 42,
+      "code": 35
+    },
+    "nous-research/hermes-4-llama-3-1-405b": {
+      "int": 33,
+      "code": 33
+    },
+    "hermes-4-llama-3-1-405b": {
+      "int": 33,
+      "code": 33
+    },
+    "hermes 4 - llama-3.1 405b (non-reasoning)": {
+      "int": 33,
+      "code": 33
+    },
+    "lg/exaone-4-0-1-2b-reasoning": {
+      "int": 27,
+      "code": 20
+    },
+    "exaone-4-0-1-2b-reasoning": {
+      "int": 27,
+      "code": 20
+    },
+    "exaone 4.0 1.2b (reasoning)": {
+      "int": 27,
+      "code": 20
+    },
+    "lg/exaone-4-0-32b-reasoning": {
+      "int": 43,
+      "code": 38
+    },
+    "exaone-4-0-32b-reasoning": {
+      "int": 43,
+      "code": 38
+    },
+    "exaone 4.0 32b (reasoning)": {
+      "int": 43,
+      "code": 38
+    },
+    "lg/exaone-4-0-32b": {
+      "int": 30,
+      "code": 25
+    },
+    "exaone-4-0-32b": {
+      "int": 30,
+      "code": 25
+    },
+    "exaone 4.0 32b (non-reasoning)": {
+      "int": 30,
+      "code": 25
+    },
+    "lg/exaone-4-0-1-2b": {
+      "int": 21,
+      "code": 12
+    },
+    "exaone-4-0-1-2b": {
+      "int": 21,
+      "code": 12
+    },
+    "exaone 4.0 1.2b (non-reasoning)": {
+      "int": 21,
+      "code": 12
+    },
+    "xiaomi/mimo-v2-flash": {
+      "int": 46,
+      "code": 30
+    },
+    "mimo-v2-flash": {
+      "int": 46,
+      "code": 30
+    },
+    "mimo-v2-flash (non-reasoning)": {
+      "int": 46,
+      "code": 30
+    },
+    "xiaomi/mimo-v2-flash-reasoning": {
+      "int": 66,
+      "code": 51
+    },
+    "mimo-v2-flash-reasoning": {
+      "int": 66,
+      "code": 51
+    },
+    "mimo-v2-flash (reasoning)": {
+      "int": 66,
+      "code": 51
+    },
+    "baidu/ernie-4-5-300b-a47b": {
+      "int": 33,
+      "code": 28
+    },
+    "ernie-4-5-300b-a47b": {
+      "int": 33,
+      "code": 28
+    },
+    "ernie 4.5 300b a47b": {
+      "int": 33,
+      "code": 28
+    },
+    "baidu/ernie-5-0-thinking-preview": {
+      "int": 53,
+      "code": 47
+    },
+    "ernie-5-0-thinking-preview": {
+      "int": 53,
+      "code": 47
+    },
+    "ernie 5.0 thinking preview": {
+      "int": 53,
+      "code": 47
+    },
+    "deepcogito/cogito-v2-1-reasoning": {
+      "code": 42
+    },
+    "cogito-v2-1-reasoning": {
+      "code": 42
+    },
+    "cogito v2.1 (reasoning)": {
+      "code": 42
+    },
+    "kwaikat/kat-coder-pro-v1": {
+      "int": 64,
+      "code": 40
+    },
+    "kat-coder-pro-v1": {
+      "int": 64,
+      "code": 40
+    },
+    "kat-coder-pro v1": {
+      "int": 64,
+      "code": 40
+    },
+    "motif-technologies/motif-2-12-7b": {
+      "int": 45,
+      "code": 32
+    },
+    "motif-2-12-7b": {
+      "int": 45,
+      "code": 32
+    },
+    "motif-2-12.7b-reasoning": {
+      "int": 45,
+      "code": 32
+    },
+    "mbzuai/k2-v2-medium": {
+      "int": 40,
+      "code": 29
+    },
+    "k2-v2-medium": {
+      "int": 40,
+      "code": 29
+    },
+    "k2-v2 (medium)": {
+      "int": 40,
+      "code": 29
+    },
+    "mbzuai/k2-v2": {
+      "int": 46,
+      "code": 36
+    },
+    "k2-v2": {
+      "int": 46,
+      "code": 36
+    },
+    "k2-v2 (high)": {
+      "int": 46,
+      "code": 36
+    },
+    "mbzuai/k2-v2-low": {
+      "int": 31,
+      "code": 22
+    },
+    "k2-v2-low": {
+      "int": 31,
+      "code": 22
+    },
+    "k2-v2 (low)": {
+      "int": 31,
+      "code": 22
+    },
+    "korea-telecom/midm-250-pro-rsnsft": {
+      "int": 44,
+      "code": 30
+    },
+    "midm-250-pro-rsnsft": {
+      "int": 44,
+      "code": 30
+    },
+    "mi:dm k 2.5 pro preview": {
+      "int": 44,
+      "code": 30
+    },
+    "zai/glm-4-6v-reasoning": {
+      "int": 41,
+      "code": 20
+    },
+    "glm-4-6v-reasoning": {
+      "int": 41,
+      "code": 20
+    },
+    "glm-4.6v (reasoning)": {
+      "int": 41,
+      "code": 20
+    },
+    "zai/glm-4-5-air": {
+      "int": 49,
+      "code": 39
+    },
+    "glm-4-5-air": {
+      "int": 49,
+      "code": 39
+    },
+    "glm-4.5-air": {
+      "int": 49,
+      "code": 39
+    },
+    "zai/glm-4-7": {
+      "int": 68,
+      "code": 55
+    },
+    "glm-4-7": {
+      "int": 68,
+      "code": 55
+    },
+    "glm-4.7 (reasoning)": {
+      "int": 68,
+      "code": 55
+    },
+    "zai/glm-4-7-non-reasoning": {
+      "int": 51,
+      "code": 40
+    },
+    "glm-4-7-non-reasoning": {
+      "int": 51,
+      "code": 40
+    },
+    "glm-4.7 (non-reasoning)": {
+      "int": 51,
+      "code": 40
+    },
+    "zai/glm-4-6": {
+      "int": 45,
+      "code": 39
+    },
+    "glm-4-6": {
+      "int": 45,
+      "code": 39
+    },
+    "glm-4.6 (non-reasoning)": {
+      "int": 45,
+      "code": 39
+    },
+    "meta/llama-65b": {
+      "int": 1
+    },
+    "llama-65b": {
+      "int": 1
+    },
+    "llama 65b": {
+      "int": 1
+    },
+    "zai/glm-4-6v": {
+      "int": 30,
+      "code": 24
+    },
+    "glm-4-6v": {
+      "int": 30,
+      "code": 24
+    },
+    "glm-4.6v (non-reasoning)": {
+      "int": 30,
+      "code": 24
+    },
+    "cohere/command-a": {
+      "int": 27,
+      "code": 19
+    },
+    "command-a": {
+      "int": 27,
+      "code": 19
+    },
+    "command a": {
+      "int": 27,
+      "code": 19
+    },
+    "servicenow/apriel-v1-6-15b-thinker": {
+      "int": 57,
+      "code": 44
+    },
+    "apriel-v1-6-15b-thinker": {
+      "int": 57,
+      "code": 44
+    },
+    "apriel-v1.6-15b-thinker": {
+      "int": 57,
+      "code": 44
+    },
+    "ai21-labs/jamba-reasoning-3b": {
+      "int": 21,
+      "code": 9
+    },
+    "jamba-reasoning-3b": {
+      "int": 21,
+      "code": 9
+    },
+    "jamba reasoning 3b": {
+      "int": 21,
+      "code": 9
+    },
+    "ai21-labs/jamba-1-7-mini": {
+      "int": 15,
+      "code": 5
+    },
+    "jamba-1-7-mini": {
+      "int": 15,
+      "code": 5
+    },
+    "jamba 1.7 mini": {
+      "int": 15,
+      "code": 5
+    },
+    "ai21-labs/jamba-1-7-large": {
+      "int": 21,
+      "code": 13
+    },
+    "jamba-1-7-large": {
+      "int": 21,
+      "code": 13
+    },
+    "jamba 1.7 large": {
+      "int": 21,
+      "code": 13
+    },
+    "alibaba/qwen3-coder-480b-a35b-instruct": {
+      "int": 42,
+      "code": 37
+    },
+    "qwen3-coder-480b-a35b-instruct": {
+      "int": 42,
+      "code": 37
+    },
+    "qwen3 coder 480b a35b instruct": {
+      "int": 42,
+      "code": 37
+    },
+    "alibaba/qwen3-1.7b-instruct-reasoning": {
+      "int": 22,
+      "code": 12
+    },
+    "qwen3-1.7b-instruct-reasoning": {
+      "int": 22,
+      "code": 12
+    },
+    "qwen3 1.7b (reasoning)": {
+      "int": 22,
+      "code": 12
+    },
+    "alibaba/qwen3-coder-30b-a3b-instruct": {
+      "int": 33,
+      "code": 27
+    },
+    "qwen3-coder-30b-a3b-instruct": {
+      "int": 33,
+      "code": 27
+    },
+    "qwen3 coder 30b a3b instruct": {
+      "int": 33,
+      "code": 27
+    },
+    "alibaba/qwen3-235b-a22b-instruct-2507": {
+      "int": 45,
+      "code": 34
+    },
+    "qwen3-235b-a22b-instruct-2507": {
+      "int": 45,
+      "code": 34
+    },
+    "qwen3 235b a22b 2507 instruct": {
+      "int": 45,
+      "code": 34
+    },
+    "alibaba/qwen3-vl-30b-a3b-instruct": {
+      "int": 39,
+      "code": 28
+    },
+    "qwen3-vl-30b-a3b-instruct": {
+      "int": 39,
+      "code": 28
+    },
+    "qwen3 vl 30b a3b instruct": {
+      "int": 39,
+      "code": 28
+    },
+    "alibaba/qwen3-vl-32b-reasoning": {
+      "int": 52,
+      "code": 36
+    },
+    "qwen3-vl-32b-reasoning": {
+      "int": 52,
+      "code": 36
+    },
+    "qwen3 vl 32b (reasoning)": {
+      "int": 52,
+      "code": 36
+    },
+    "alibaba/qwen3-omni-30b-a3b-instruct": {
+      "int": 30,
+      "code": 21
+    },
+    "qwen3-omni-30b-a3b-instruct": {
+      "int": 30,
+      "code": 21
+    },
+    "qwen3 omni 30b a3b instruct": {
+      "int": 30,
+      "code": 21
+    },
+    "alibaba/qwen3-vl-32b-instruct": {
+      "int": 41,
+      "code": 30
+    },
+    "qwen3-vl-32b-instruct": {
+      "int": 41,
+      "code": 30
+    },
+    "qwen3 vl 32b instruct": {
+      "int": 41,
+      "code": 30
+    },
+    "alibaba/qwen3-next-80b-a3b-reasoning": {
+      "int": 54,
+      "code": 42
+    },
+    "qwen3-next-80b-a3b-reasoning": {
+      "int": 54,
+      "code": 42
+    },
+    "qwen3 next 80b a3b (reasoning)": {
+      "int": 54,
+      "code": 42
+    },
+    "alibaba/qwen3-30b-a3b-2507-reasoning": {
+      "int": 46,
+      "code": 36
+    },
+    "qwen3-30b-a3b-2507-reasoning": {
+      "int": 46,
+      "code": 36
+    },
+    "qwen3 30b a3b 2507 (reasoning)": {
+      "int": 46,
+      "code": 36
+    },
+    "alibaba/qwen3-30b-a3b-2507": {
+      "int": 37,
+      "code": 29
+    },
+    "qwen3-30b-a3b-2507": {
+      "int": 37,
+      "code": 29
+    },
+    "qwen3 30b a3b 2507 instruct": {
+      "int": 37,
+      "code": 29
+    },
+    "alibaba/qwen3-vl-4b-instruct": {
+      "int": 25,
+      "code": 14
+    },
+    "qwen3-vl-4b-instruct": {
+      "int": 25,
+      "code": 14
+    },
+    "qwen3 vl 4b instruct": {
+      "int": 25,
+      "code": 14
+    },
+    "alibaba/qwen3-vl-8b-instruct": {
+      "int": 27,
+      "code": 18
+    },
+    "qwen3-vl-8b-instruct": {
+      "int": 27,
+      "code": 18
+    },
+    "qwen3 vl 8b instruct": {
+      "int": 27,
+      "code": 18
+    },
+    "alibaba/qwen3-vl-8b-reasoning": {
+      "int": 32,
+      "code": 20
+    },
+    "qwen3-vl-8b-reasoning": {
+      "int": 32,
+      "code": 20
+    },
+    "qwen3 vl 8b (reasoning)": {
+      "int": 32,
+      "code": 20
+    },
+    "alibaba/qwen3-vl-235b-a22b-reasoning": {
+      "int": 54,
+      "code": 38
+    },
+    "qwen3-vl-235b-a22b-reasoning": {
+      "int": 54,
+      "code": 38
+    },
+    "qwen3 vl 235b a22b (reasoning)": {
+      "int": 54,
+      "code": 38
+    },
+    "alibaba/qwen3-max-thinking": {
+      "int": 56,
+      "code": 36
+    },
+    "qwen3-max-thinking": {
+      "int": 56,
+      "code": 36
+    },
+    "qwen3 max thinking": {
+      "int": 56,
+      "code": 36
+    },
+    "alibaba/qwen3-235b-a22b-instruct-2507-reasoning": {
+      "int": 58,
+      "code": 45
+    },
+    "qwen3-235b-a22b-instruct-2507-reasoning": {
+      "int": 58,
+      "code": 45
+    },
+    "qwen3 235b a22b 2507 (reasoning)": {
+      "int": 58,
+      "code": 45
+    },
+    "alibaba/qwen3-vl-235b-a22b-instruct": {
+      "int": 44,
+      "code": 34
+    },
+    "qwen3-vl-235b-a22b-instruct": {
+      "int": 44,
+      "code": 34
+    },
+    "qwen3 vl 235b a22b instruct": {
+      "int": 44,
+      "code": 34
+    },
+    "alibaba/qwen3-next-80b-a3b-instruct": {
+      "int": 45,
+      "code": 35
+    },
+    "qwen3-next-80b-a3b-instruct": {
+      "int": 45,
+      "code": 35
+    },
+    "qwen3 next 80b a3b instruct": {
+      "int": 45,
+      "code": 35
+    },
+    "alibaba/qwen3-0.6b-instruct-reasoning": {
+      "int": 14,
+      "code": 5
+    },
+    "qwen3-0.6b-instruct-reasoning": {
+      "int": 14,
+      "code": 5
+    },
+    "qwen3 0.6b (reasoning)": {
+      "int": 14,
+      "code": 5
+    },
+    "alibaba/qwen3-vl-4b-reasoning": {
+      "int": 27,
+      "code": 17
+    },
+    "qwen3-vl-4b-reasoning": {
+      "int": 27,
+      "code": 17
+    },
+    "qwen3 vl 4b (reasoning)": {
+      "int": 27,
+      "code": 17
+    },
+    "alibaba/qwen3-vl-30b-a3b-reasoning": {
+      "int": 45,
+      "code": 35
+    },
+    "qwen3-vl-30b-a3b-reasoning": {
+      "int": 45,
+      "code": 35
+    },
+    "qwen3 vl 30b a3b (reasoning)": {
+      "int": 45,
+      "code": 35
+    },
+    "alibaba/qwen3-max": {
+      "int": 55,
+      "code": 45
+    },
+    "qwen3-max": {
+      "int": 55,
+      "code": 45
+    },
+    "qwen3 max": {
+      "int": 55,
+      "code": 45
+    },
+    "alibaba/qwen3-omni-30b-a3b-reasoning": {
+      "int": 40,
+      "code": 34
+    },
+    "qwen3-omni-30b-a3b-reasoning": {
+      "int": 40,
+      "code": 34
+    },
+    "qwen3 omni 30b a3b (reasoning)": {
+      "int": 40,
+      "code": 34
+    },
+    "alibaba/qwen3-0.6b-instruct": {
+      "int": 11,
+      "code": 4
+    },
+    "qwen3-0.6b-instruct": {
+      "int": 11,
+      "code": 4
+    },
+    "qwen3 0.6b (non-reasoning)": {
+      "int": 11,
+      "code": 4
+    },
+    "alibaba/qwen-chat-14b": {
+      "int": 1
+    },
+    "qwen-chat-14b": {
+      "int": 1
+    },
+    "qwen chat 14b": {
+      "int": 1
+    },
+    "alibaba/qwen3-4b-2507-instruct-reasoning": {
+      "int": 43,
+      "code": 30
+    },
+    "qwen3-4b-2507-instruct-reasoning": {
+      "int": 43,
+      "code": 30
+    },
+    "qwen3 4b 2507 (reasoning)": {
+      "int": 43,
+      "code": 30
+    },
+    "alibaba/qwen3-1.7b-instruct": {
+      "int": 14,
+      "code": 7
+    },
+    "qwen3-1.7b-instruct": {
+      "int": 14,
+      "code": 7
+    },
+    "qwen3 1.7b (non-reasoning)": {
+      "int": 14,
+      "code": 7
+    },
+    "alibaba/qwen3-4b-2507-instruct": {
+      "int": 30,
+      "code": 20
+    },
+    "qwen3-4b-2507-instruct": {
+      "int": 30,
+      "code": 20
+    },
+    "qwen3 4b 2507 instruct": {
+      "int": 30,
+      "code": 20
+    },
+    "inclusionai/ring-1t": {
+      "int": 42,
+      "code": 36
+    },
+    "ring-1t": {
+      "int": 42,
+      "code": 36
+    },
+    "inclusionai/ling-flash-2-0": {
+      "int": 38,
+      "code": 33
+    },
+    "ling-flash-2-0": {
+      "int": 38,
+      "code": 33
+    },
+    "ling-flash-2.0": {
+      "int": 38,
+      "code": 33
+    },
+    "inclusionai/ling-1t": {
+      "int": 45,
+      "code": 38
+    },
+    "ling-1t": {
+      "int": 45,
+      "code": 38
+    },
+    "inclusionai/ring-flash-2-0": {
+      "int": 40,
+      "code": 29
+    },
+    "ring-flash-2-0": {
+      "int": 40,
+      "code": 29
+    },
+    "ring-flash-2.0": {
+      "int": 40,
+      "code": 29
+    },
+    "inclusionai/ling-mini-2-0": {
+      "int": 28,
+      "code": 19
+    },
+    "ling-mini-2-0": {
+      "int": 28,
+      "code": 19
+    },
+    "ling-mini-2.0": {
+      "int": 28,
+      "code": 19
+    },
+    "bytedance_seed/seed-oss-36b-instruct": {
+      "int": 52,
+      "code": 40
+    },
+    "seed-oss-36b-instruct": {
+      "int": 52,
+      "code": 40
+    },
+    "bytedance_seed/doubao-seed-code": {
+      "int": 57,
+      "code": 47
+    },
+    "doubao-seed-code": {
+      "int": 57,
+      "code": 47
+    },
+    "doubao seed code": {
+      "int": 57,
+      "code": 47
+    },
+    "openai/o1": {
+      "int": 47,
+      "code": 39
+    },
+    "o1": {
+      "int": 47,
+      "code": 39
+    },
+    "openai/o1-preview": {
+      "int": 45,
+      "code": 34
+    },
+    "o1-preview": {
+      "int": 45,
+      "code": 34
+    },
+    "openai/o1-mini": {
+      "int": 39
+    },
+    "o1-mini": {
+      "int": 39
+    },
+    "openai/gpt-4o-2024-08-06": {
+      "int": 29
+    },
+    "gpt-4o-2024-08-06": {
+      "int": 29
+    },
+    "gpt-4o (aug '24)": {
+      "int": 29
+    },
+    "openai/gpt-4o-2024-05-13": {
+      "int": 26,
+      "code": 24
+    },
+    "gpt-4o-2024-05-13": {
+      "int": 26,
+      "code": 24
+    },
+    "gpt-4o (may '24)": {
+      "int": 26,
+      "code": 24
+    },
+    "openai/gpt-4-turbo": {
+      "int": 24,
+      "code": 22
+    },
+    "gpt-4-turbo": {
+      "int": 24,
+      "code": 22
+    },
+    "gpt-4 turbo": {
+      "int": 24,
+      "code": 22
+    },
+    "openai/gpt-4o": {
+      "int": 27,
+      "code": 24
+    },
+    "gpt-4o": {
+      "int": 27,
+      "code": 24
+    },
+    "gpt-4o (nov '24)": {
+      "int": 27,
+      "code": 24
+    },
+    "openai/gpt-4o-mini": {
+      "int": 21
+    },
+    "gpt-4o-mini": {
+      "int": 21
+    },
+    "gpt-4o mini": {
+      "int": 21
+    },
+    "openai/gpt-35-turbo": {
+      "int": 8,
+      "code": 11
+    },
+    "gpt-35-turbo": {
+      "int": 8,
+      "code": 11
+    },
+    "gpt-3.5 turbo": {
+      "int": 8,
+      "code": 11
+    },
+    "openai/gpt-4-1-mini": {
+      "int": 43,
+      "code": 32
+    },
+    "gpt-4-1-mini": {
+      "int": 43,
+      "code": 32
+    },
+    "gpt-4.1 mini": {
+      "int": 43,
+      "code": 32
+    },
+    "openai/gpt-5-nano-medium": {
+      "int": 49,
+      "code": 42
+    },
+    "gpt-5-nano-medium": {
+      "int": 49,
+      "code": 42
+    },
+    "gpt-5 nano (medium)": {
+      "int": 49,
+      "code": 42
+    },
+    "openai/o3-pro": {
+      "int": 65
+    },
+    "o3-pro": {
+      "int": 65
+    },
+    "openai/gpt-5-minimal": {
+      "int": 44,
+      "code": 37
+    },
+    "gpt-5-minimal": {
+      "int": 44,
+      "code": 37
+    },
+    "gpt-5 (minimal)": {
+      "int": 44,
+      "code": 37
+    },
+    "openai/gpt-5-1-non-reasoning": {
+      "int": 43,
+      "code": 36
+    },
+    "gpt-5-1-non-reasoning": {
+      "int": 43,
+      "code": 36
+    },
+    "gpt-5.1 (non-reasoning)": {
+      "int": 43,
+      "code": 36
+    },
+    "openai/gpt-5-mini-medium": {
+      "int": 61,
+      "code": 46
+    },
+    "gpt-5-mini-medium": {
+      "int": 61,
+      "code": 46
+    },
+    "gpt-5 mini (medium)": {
+      "int": 61,
+      "code": 46
+    },
+    "openai/gpt-5-nano-minimal": {
+      "int": 29,
+      "code": 28
+    },
+    "gpt-5-nano-minimal": {
+      "int": 29,
+      "code": 28
+    },
+    "gpt-5 nano (minimal)": {
+      "int": 29,
+      "code": 28
+    },
+    "openai/gpt-4-1-nano": {
+      "int": 27,
+      "code": 21
+    },
+    "gpt-4-1-nano": {
+      "int": 27,
+      "code": 21
+    },
+    "gpt-4.1 nano": {
+      "int": 27,
+      "code": 21
+    },
+    "openai/gpt-4": {
+      "int": 22,
+      "code": 13
+    },
+    "gpt-4": {
+      "int": 22,
+      "code": 13
+    },
+    "openai/gpt-5-low": {
+      "int": 62,
+      "code": 47
+    },
+    "gpt-5-low": {
+      "int": 62,
+      "code": 47
+    },
+    "gpt-5 (low)": {
+      "int": 62,
+      "code": 47
+    },
+    "openai/gpt-5-medium": {
+      "int": 66,
+      "code": 49
+    },
+    "gpt-5-medium": {
+      "int": 66,
+      "code": 49
+    },
+    "gpt-5 (medium)": {
+      "int": 66,
+      "code": 49
+    },
+    "openai/gpt-5-codex": {
+      "int": 69,
+      "code": 54
+    },
+    "gpt-5-codex": {
+      "int": 69,
+      "code": 54
+    },
+    "gpt-5 codex (high)": {
+      "int": 69,
+      "code": 54
+    },
+    "openai/gpt-5-mini-minimal": {
+      "int": 42,
+      "code": 35
+    },
+    "gpt-5-mini-minimal": {
+      "int": 42,
+      "code": 35
+    },
+    "gpt-5 mini (minimal)": {
+      "int": 42,
+      "code": 35
+    },
+    "openai/gpt-4o-chatgpt-03-25": {
+      "int": 36
+    },
+    "gpt-4o-chatgpt-03-25": {
+      "int": 36
+    },
+    "gpt-4o (march 2025, chatgpt-4o-latest)": {
+      "int": 36
+    },
+    "openai/o1-pro": {
+      "int": 48
+    },
+    "o1-pro": {
+      "int": 48
+    },
+    "openai/o4-mini": {
+      "int": 60,
+      "code": 49
+    },
+    "o4-mini": {
+      "int": 60,
+      "code": 49
+    },
+    "o4-mini (high)": {
+      "int": 60,
+      "code": 49
+    },
+    "openai/o3-mini": {
+      "int": 48,
+      "code": 39
+    },
+    "o3-mini": {
+      "int": 48,
+      "code": 39
+    },
+    "openai/gpt-4-1": {
+      "int": 43,
+      "code": 32
+    },
+    "gpt-4-1": {
+      "int": 43,
+      "code": 32
+    },
+    "gpt-4.1": {
+      "int": 43,
+      "code": 32
+    },
+    "openai/gpt-5": {
+      "int": 69,
+      "code": 53
+    },
+    "gpt-5": {
+      "int": 69,
+      "code": 53
+    },
+    "gpt-5 (high)": {
+      "int": 69,
+      "code": 53
+    },
+    "openai/o3-mini-high": {
+      "int": 51,
+      "code": 42
+    },
+    "o3-mini-high": {
+      "int": 51,
+      "code": 42
+    },
+    "o3-mini (high)": {
+      "int": 51,
+      "code": 42
+    },
+    "openai/gpt-4o-chatgpt": {
+      "int": 25
+    },
+    "gpt-4o-chatgpt": {
+      "int": 25
+    },
+    "gpt-4o (chatgpt)": {
+      "int": 25
+    },
+    "openai/gpt-4-5": {
+      "int": 38
+    },
+    "gpt-4-5": {
+      "int": 38
+    },
+    "gpt-4.5 (preview)": {
+      "int": 38
+    },
+    "openai/gpt-5-chatgpt": {
+      "int": 42,
+      "code": 35
+    },
+    "gpt-5-chatgpt": {
+      "int": 42,
+      "code": 35
+    },
+    "gpt-5 (chatgpt)": {
+      "int": 42,
+      "code": 35
+    },
+    "meta/llama-3-1-instruct-70b": {
+      "int": 23,
+      "code": 18
+    },
+    "llama-3-1-instruct-70b": {
+      "int": 23,
+      "code": 18
+    },
+    "llama 3.1 instruct 70b": {
+      "int": 23,
+      "code": 18
+    },
+    "meta/llama-3-1-instruct-8b": {
+      "int": 17,
+      "code": 9
+    },
+    "llama-3-1-instruct-8b": {
+      "int": 17,
+      "code": 9
+    },
+    "llama 3.1 instruct 8b": {
+      "int": 17,
+      "code": 9
+    },
+    "meta/llama-3-2-instruct-3b": {
+      "int": 11
+    },
+    "llama-3-2-instruct-3b": {
+      "int": 11
+    },
+    "llama 3.2 instruct 3b": {
+      "int": 11
+    },
+    "meta/llama-3-instruct-70b": {
+      "int": 13
+    },
+    "llama-3-instruct-70b": {
+      "int": 13
+    },
+    "llama 3 instruct 70b": {
+      "int": 13
+    },
+    "meta/llama-3-instruct-8b": {
+      "int": 7
+    },
+    "llama-3-instruct-8b": {
+      "int": 7
+    },
+    "llama 3 instruct 8b": {
+      "int": 7
+    },
+    "meta/llama-3-2-instruct-1b": {
+      "int": 9,
+      "code": 1
+    },
+    "llama-3-2-instruct-1b": {
+      "int": 9,
+      "code": 1
+    },
+    "llama 3.2 instruct 1b": {
+      "int": 9,
+      "code": 1
+    },
+    "meta/llama-2-chat-7b": {
+      "int": 11
+    },
+    "llama-2-chat-7b": {
+      "int": 11
+    },
+    "llama 2 chat 7b": {
+      "int": 11
+    },
+    "meta/llama-2-chat-70b": {
+      "int": 6
+    },
+    "llama-2-chat-70b": {
+      "int": 6
+    },
+    "llama 2 chat 70b": {
+      "int": 6
+    },
+    "meta/llama-2-chat-13b": {
+      "int": 6
+    },
+    "llama-2-chat-13b": {
+      "int": 6
+    },
+    "llama 2 chat 13b": {
+      "int": 6
+    },
+    "google/gemini-2-0-pro-experimental-02-05": {
+      "int": 35,
+      "code": 26
+    },
+    "gemini-2-0-pro-experimental-02-05": {
+      "int": 35,
+      "code": 26
+    },
+    "gemini 2.0 pro experimental (feb '25)": {
+      "int": 35,
+      "code": 26
+    },
+    "google/gemini-2-0-flash-experimental": {
+      "int": 32
+    },
+    "gemini-2-0-flash-experimental": {
+      "int": 32
+    },
+    "gemini 2.0 flash (experimental)": {
+      "int": 32
+    },
+    "google/gemini-1-5-pro": {
+      "int": 30,
+      "code": 24
+    },
+    "gemini-1-5-pro": {
+      "int": 30,
+      "code": 24
+    },
+    "gemini 1.5 pro (sep '24)": {
+      "int": 30,
+      "code": 24
+    },
+    "google/gemini-2-0-flash-lite-preview": {
+      "int": 26
+    },
+    "gemini-2-0-flash-lite-preview": {
+      "int": 26
+    },
+    "gemini 2.0 flash-lite (preview)": {
+      "int": 26
+    },
+    "google/gemini-2-0-flash": {
+      "int": 34,
+      "code": 23
+    },
+    "gemini-2-0-flash": {
+      "int": 34,
+      "code": 23
+    },
+    "gemini 2.0 flash (feb '25)": {
+      "int": 34,
+      "code": 23
+    },
+    "google/gemini-1-5-flash": {
+      "int": 24
+    },
+    "gemini-1-5-flash": {
+      "int": 24
+    },
+    "gemini 1.5 flash (sep '24)": {
+      "int": 24
+    },
+    "google/gemini-1-5-flash-8b": {
+      "int": 16
+    },
+    "gemini-1-5-flash-8b": {
+      "int": 16
+    },
+    "gemini 1.5 flash-8b": {
+      "int": 16
+    },
+    "google/gemini-1-5-pro-may-2024": {
+      "int": 19,
+      "code": 20
+    },
+    "gemini-1-5-pro-may-2024": {
+      "int": 19,
+      "code": 20
+    },
+    "gemini 1.5 pro (may '24)": {
+      "int": 19,
+      "code": 20
+    },
+    "google/gemini-1-5-flash-may-2024": {
+      "int": 14
+    },
+    "gemini-1-5-flash-may-2024": {
+      "int": 14
+    },
+    "gemini 1.5 flash (may '24)": {
+      "int": 14
+    },
+    "google/gemini-2-5-flash-preview-09-2025-reasoning": {
+      "int": 54,
+      "code": 43
+    },
+    "gemini-2-5-flash-preview-09-2025-reasoning": {
+      "int": 54,
+      "code": 43
+    },
+    "gemini 2.5 flash preview (sep '25) (reasoning)": {
+      "int": 54,
+      "code": 43
+    },
+    "google/gemini-2-5-flash-reasoning-04-2025": {
+      "int": 46
+    },
+    "gemini-2-5-flash-reasoning-04-2025": {
+      "int": 46
+    },
+    "gemini 2.5 flash preview (reasoning)": {
+      "int": 46
+    },
+    "google/gemini-2-5-flash": {
+      "int": 40,
+      "code": 30
+    },
+    "gemini-2-5-flash": {
+      "int": 40,
+      "code": 30
+    },
+    "gemini 2.5 flash (non-reasoning)": {
+      "int": 40,
+      "code": 30
+    },
+    "google/gemini-2-5-flash-04-2025": {
+      "int": 34
+    },
+    "gemini-2-5-flash-04-2025": {
+      "int": 34
+    },
+    "gemini 2.5 flash preview (non-reasoning)": {
+      "int": 34
+    },
+    "google/gemini-2-5-flash-lite": {
+      "int": 30,
+      "code": 20
+    },
+    "gemini-2-5-flash-lite": {
+      "int": 30,
+      "code": 20
+    },
+    "gemini 2.5 flash-lite (non-reasoning)": {
+      "int": 30,
+      "code": 20
+    },
+    "google/gemini-2-5-flash-reasoning": {
+      "int": 51,
+      "code": 41
+    },
+    "gemini-2-5-flash-reasoning": {
+      "int": 51,
+      "code": 41
+    },
+    "gemini 2.5 flash (reasoning)": {
+      "int": 51,
+      "code": 41
+    },
+    "google/gemini-2-5-flash-lite-reasoning": {
+      "int": 40,
+      "code": 28
+    },
+    "gemini-2-5-flash-lite-reasoning": {
+      "int": 40,
+      "code": 28
+    },
+    "gemini 2.5 flash-lite (reasoning)": {
+      "int": 40,
+      "code": 28
+    },
+    "google/gemini-1-0-pro": {
+      "int": 6
+    },
+    "gemini-1-0-pro": {
+      "int": 6
+    },
+    "gemini 1.0 pro": {
+      "int": 6
+    },
+    "google/gemini-2-0-flash-thinking-exp-0121": {
+      "int": 38,
+      "code": 24
+    },
+    "gemini-2-0-flash-thinking-exp-0121": {
+      "int": 38,
+      "code": 24
+    },
+    "gemini 2.0 flash thinking experimental (jan '25)": {
+      "int": 38,
+      "code": 24
+    },
+    "google/gemini-2-5-flash-preview-09-2025": {
+      "int": 47,
+      "code": 38
+    },
+    "gemini-2-5-flash-preview-09-2025": {
+      "int": 47,
+      "code": 38
+    },
+    "gemini 2.5 flash preview (sep '25) (non-reasoning)": {
+      "int": 47,
+      "code": 38
+    },
+    "google/gemini-2-5-pro-05-06": {
+      "int": 53
+    },
+    "gemini-2-5-pro-05-06": {
+      "int": 53
+    },
+    "gemini 2.5 pro preview (may' 25)": {
+      "int": 53
+    },
+    "google/gemini-2-0-flash-thinking-exp-1219": {
+      "int": 20
+    },
+    "gemini-2-0-flash-thinking-exp-1219": {
+      "int": 20
+    },
+    "gemini 2.0 flash thinking experimental (dec '24)": {
+      "int": 20
+    },
+    "google/gemma-3n-e4b-preview-0520": {
+      "int": 13
+    },
+    "gemma-3n-e4b-preview-0520": {
+      "int": 13
+    },
+    "gemma 3n e4b instruct preview (may '25)": {
+      "int": 13
+    },
+    "google/gemini-2-5-pro-03-25": {
+      "int": 54,
+      "code": 47
+    },
+    "gemini-2-5-pro-03-25": {
+      "int": 54,
+      "code": 47
+    },
+    "gemini 2.5 pro preview (mar' 25)": {
+      "int": 54,
+      "code": 47
+    },
+    "google/palm-2": {
+      "int": 7,
+      "code": 5
+    },
+    "palm-2": {
+      "int": 7,
+      "code": 5
+    },
+    "google/gemini-2-0-flash-lite-001": {
+      "int": 27
+    },
+    "gemini-2-0-flash-lite-001": {
+      "int": 27
+    },
+    "gemini 2.0 flash-lite (feb '25)": {
+      "int": 27
+    },
+    "google/gemini-1-0-ultra": {
+      "int": 13,
+      "code": 18
+    },
+    "gemini-1-0-ultra": {
+      "int": 13,
+      "code": 18
+    },
+    "gemini 1.0 ultra": {
+      "int": 13,
+      "code": 18
+    },
+    "anthropic/claude-35-sonnet": {
+      "int": 30,
+      "code": 30
+    },
+    "claude-35-sonnet": {
+      "int": 30,
+      "code": 30
+    },
+    "claude 3.5 sonnet (oct '24)": {
+      "int": 30,
+      "code": 30
+    },
+    "anthropic/claude-35-sonnet-june-24": {
+      "int": 25,
+      "code": 26
+    },
+    "claude-35-sonnet-june-24": {
+      "int": 25,
+      "code": 26
+    },
+    "claude 3.5 sonnet (june '24)": {
+      "int": 25,
+      "code": 26
+    },
+    "anthropic/claude-3-opus": {
+      "int": 21,
+      "code": 20
+    },
+    "claude-3-opus": {
+      "int": 21,
+      "code": 20
+    },
+    "claude 3 opus": {
+      "int": 21,
+      "code": 20
+    },
+    "anthropic/claude-3-5-haiku": {
+      "int": 20
+    },
+    "claude-3-5-haiku": {
+      "int": 20
+    },
+    "claude 3.5 haiku": {
+      "int": 20
+    },
+    "anthropic/claude-3-sonnet": {
+      "int": 13
+    },
+    "claude-3-sonnet": {
+      "int": 13
+    },
+    "claude 3 sonnet": {
+      "int": 13
+    },
+    "anthropic/claude-3-haiku": {
+      "int": 10
+    },
+    "claude-3-haiku": {
+      "int": 10
+    },
+    "claude 3 haiku": {
+      "int": 10
+    },
+    "anthropic/claude-instant": {
+      "int": 1,
+      "code": 8
+    },
+    "claude-instant": {
+      "int": 1,
+      "code": 8
+    },
+    "claude instant": {
+      "int": 1,
+      "code": 8
+    },
+    "anthropic/claude-3-7-sonnet": {
+      "int": 41,
+      "code": 32
+    },
+    "claude-3-7-sonnet": {
+      "int": 41,
+      "code": 32
+    },
+    "claude 3.7 sonnet (non-reasoning)": {
+      "int": 41,
+      "code": 32
+    },
+    "anthropic/claude-3-7-sonnet-thinking": {
+      "int": 50,
+      "code": 36
+    },
+    "claude-3-7-sonnet-thinking": {
+      "int": 50,
+      "code": 36
+    },
+    "claude 3.7 sonnet (reasoning)": {
+      "int": 50,
+      "code": 36
+    },
+    "anthropic/claude-4-sonnet": {
+      "int": 44,
+      "code": 36
+    },
+    "claude-4-sonnet": {
+      "int": 44,
+      "code": 36
+    },
+    "claude 4 sonnet (non-reasoning)": {
+      "int": 44,
+      "code": 36
+    },
+    "anthropic/claude-21": {
+      "int": 10,
+      "code": 14
+    },
+    "claude-21": {
+      "int": 10,
+      "code": 14
+    },
+    "claude 2.1": {
+      "int": 10,
+      "code": 14
+    },
+    "anthropic/claude-4-1-opus-thinking": {
+      "int": 59,
+      "code": 46
+    },
+    "claude-4-1-opus-thinking": {
+      "int": 59,
+      "code": 46
+    },
+    "claude 4.1 opus (reasoning)": {
+      "int": 59,
+      "code": 46
+    },
+    "anthropic/claude-2": {
+      "int": 9,
+      "code": 13
+    },
+    "claude-2": {
+      "int": 9,
+      "code": 13
+    },
+    "claude 2.0": {
+      "int": 9,
+      "code": 13
+    },
+    "anthropic/claude-4-opus": {
+      "int": 42
+    },
+    "claude-4-opus": {
+      "int": 42
+    },
+    "claude 4 opus (non-reasoning)": {
+      "int": 42
+    },
+    "anthropic/claude-4-opus-thinking": {
+      "int": 54,
+      "code": 44
+    },
+    "claude-4-opus-thinking": {
+      "int": 54,
+      "code": 44
+    },
+    "claude 4 opus (reasoning)": {
+      "int": 54,
+      "code": 44
+    },
+    "anthropic/claude-4-1-opus": {
+      "int": 45
+    },
+    "claude-4-1-opus": {
+      "int": 45
+    },
+    "claude 4.1 opus (non-reasoning)": {
+      "int": 45
+    },
+    "anthropic/claude-4-sonnet-thinking": {
+      "int": 57,
+      "code": 45
+    },
+    "claude-4-sonnet-thinking": {
+      "int": 57,
+      "code": 45
+    },
+    "claude 4 sonnet (reasoning)": {
+      "int": 57,
+      "code": 45
+    },
+    "mistral/mistral-large-2": {
+      "int": 27,
+      "code": 21
+    },
+    "mistral-large-2": {
+      "int": 27,
+      "code": 21
+    },
+    "mistral large 2 (nov '24)": {
+      "int": 27,
+      "code": 21
+    },
+    "mistral/mistral-large-2407": {
+      "int": 22
+    },
+    "mistral-large-2407": {
+      "int": 22
+    },
+    "mistral large 2 (jul '24)": {
+      "int": 22
+    },
+    "mistral/pixtral-large-2411": {
+      "int": 25
+    },
+    "pixtral-large-2411": {
+      "int": 25
+    },
+    "pixtral large": {
+      "int": 25
+    },
+    "mistral/mistral-small-3": {
+      "int": 21
+    },
+    "mistral-small-3": {
+      "int": 21
+    },
+    "mistral small 3": {
+      "int": 21
+    },
+    "mistral/mistral-small": {
+      "int": 13
+    },
+    "mistral-small": {
+      "int": 13
+    },
+    "mistral small (sep '24)": {
+      "int": 13
+    },
+    "mistral/mistral-8x22b-instruct": {
+      "int": 12
+    },
+    "mistral-8x22b-instruct": {
+      "int": 12
+    },
+    "mixtral 8x22b instruct": {
+      "int": 12
+    },
+    "mistral/mistral-small-2402": {
+      "int": 9
+    },
+    "mistral-small-2402": {
+      "int": 9
+    },
+    "mistral small (feb '24)": {
+      "int": 9
+    },
+    "mistral/mistral-large": {
+      "int": 12
+    },
+    "mistral-large": {
+      "int": 12
+    },
+    "mistral large (feb '24)": {
+      "int": 12
+    },
+    "mistral/mixtral-8x7b-instruct": {
+      "int": 3
+    },
+    "mixtral-8x7b-instruct": {
+      "int": 3
+    },
+    "mixtral 8x7b instruct": {
+      "int": 3
+    },
+    "mistral/mistral-7b-instruct": {
+      "int": 1
+    },
+    "mistral-7b-instruct": {
+      "int": 1
+    },
+    "mistral 7b instruct": {
+      "int": 1
+    },
+    "mistral/mistral-small-3-1": {
+      "int": 25,
+      "code": 18
+    },
+    "mistral-small-3-1": {
+      "int": 25,
+      "code": 18
+    },
+    "mistral small 3.1": {
+      "int": 25,
+      "code": 18
+    },
+    "mistral/mistral-saba": {
+      "int": 20
+    },
+    "mistral-saba": {
+      "int": 20
+    },
+    "mistral saba": {
+      "int": 20
+    },
+    "mistral/devstral-small-2505": {
+      "int": 20
+    },
+    "devstral-small-2505": {
+      "int": 20
+    },
+    "devstral small (may '25)": {
+      "int": 20
+    },
+    "mistral/mistral-medium-3": {
+      "int": 34,
+      "code": 26
+    },
+    "mistral-medium-3": {
+      "int": 34,
+      "code": 26
+    },
+    "mistral medium 3": {
+      "int": 34,
+      "code": 26
+    },
+    "mistral/magistral-small": {
+      "int": 32,
+      "code": 27
+    },
+    "magistral-small": {
+      "int": 32,
+      "code": 27
+    },
+    "magistral small 1": {
+      "int": 32,
+      "code": 27
+    },
+    "mistral/magistral-medium": {
+      "int": 33,
+      "code": 30
+    },
+    "magistral-medium": {
+      "int": 33,
+      "code": 30
+    },
+    "magistral medium 1": {
+      "int": 33,
+      "code": 30
+    },
+    "mistral/mistral-medium": {
+      "int": 8
+    },
+    "mistral-medium": {
+      "int": 8
+    },
+    "mistral medium": {
+      "int": 8
+    },
+    "deepseek/deepseek-r1-distill-qwen-32b": {
+      "int": 33
+    },
+    "deepseek-r1-distill-qwen-32b": {
+      "int": 33
+    },
+    "deepseek r1 distill qwen 32b": {
+      "int": 33
+    },
+    "deepseek/deepseek-v3": {
+      "int": 33,
+      "code": 26
+    },
+    "deepseek-v3": {
+      "int": 33,
+      "code": 26
+    },
+    "deepseek v3 (dec '24)": {
+      "int": 33,
+      "code": 26
+    },
+    "deepseek/deepseek-r1-distill-qwen-14b": {
+      "int": 30
+    },
+    "deepseek-r1-distill-qwen-14b": {
+      "int": 30
+    },
+    "deepseek r1 distill qwen 14b": {
+      "int": 30
+    },
+    "deepseek/deepseek-v2-5": {
+      "int": 21
+    },
+    "deepseek-v2-5": {
+      "int": 21
+    },
+    "deepseek-v2.5 (dec '24)": {
+      "int": 21
+    },
+    "deepseek/deepseek-coder-v2": {
+      "int": 15
+    },
+    "deepseek-coder-v2": {
+      "int": 15
+    },
+    "deepseek/deepseek-r1-distill-llama-8b": {
+      "int": 20
+    },
+    "deepseek-r1-distill-llama-8b": {
+      "int": 20
+    },
+    "deepseek r1 distill llama 8b": {
+      "int": 20
+    },
+    "deepseek/deepseek-llm-67b-chat": {
+      "int": 6
+    },
+    "deepseek-llm-67b-chat": {
+      "int": 6
+    },
+    "deepseek llm 67b chat (v1)": {
+      "int": 6
+    },
+    "deepseek/deepseek-r1-distill-qwen-1-5b": {
+      "int": 9
+    },
+    "deepseek-r1-distill-qwen-1-5b": {
+      "int": 9
+    },
+    "deepseek r1 distill qwen 1.5b": {
+      "int": 9
+    },
+    "deepseek/deepseek-r1-0120": {
+      "int": 44,
+      "code": 34
+    },
+    "deepseek-r1-0120": {
+      "int": 44,
+      "code": 34
+    },
+    "deepseek r1 (jan '25)": {
+      "int": 44,
+      "code": 34
+    },
+    "deepseek/deepseek-v3-0324": {
+      "int": 41,
+      "code": 30
+    },
+    "deepseek-v3-0324": {
+      "int": 41,
+      "code": 30
+    },
+    "deepseek v3 0324": {
+      "int": 41,
+      "code": 30
+    },
+    "deepseek/deepseek-v3-1-reasoning": {
+      "int": 54,
+      "code": 47
+    },
+    "deepseek-v3-1-reasoning": {
+      "int": 54,
+      "code": 47
+    },
+    "deepseek v3.1 (reasoning)": {
+      "int": 54,
+      "code": 47
+    },
+    "deepseek/deepseek-v3-1": {
+      "int": 45,
+      "code": 39
+    },
+    "deepseek-v3-1": {
+      "int": 45,
+      "code": 39
+    },
+    "deepseek v3.1 (non-reasoning)": {
+      "int": 45,
+      "code": 39
+    },
+    "deepseek/deepseek-v3-2-0925": {
+      "int": 46,
+      "code": 40
+    },
+    "deepseek-v3-2-0925": {
+      "int": 46,
+      "code": 40
+    },
+    "deepseek v3.2 exp (non-reasoning)": {
+      "int": 46,
+      "code": 40
+    },
+    "deepseek/deepseek-v2-5-sep-2024": {
+      "int": 20
+    },
+    "deepseek-v2-5-sep-2024": {
+      "int": 20
+    },
+    "deepseek-v2.5": {
+      "int": 20
+    },
+    "deepseek/deepseek-coder-v2-lite": {
+      "int": 6
+    },
+    "deepseek-coder-v2-lite": {
+      "int": 6
+    },
+    "deepseek coder v2 lite instruct": {
+      "int": 6
+    },
+    "deepseek/deepseek-v3-2-reasoning-0925": {
+      "int": 57,
+      "code": 49
+    },
+    "deepseek-v3-2-reasoning-0925": {
+      "int": 57,
+      "code": 49
+    },
+    "deepseek v3.2 exp (reasoning)": {
+      "int": 57,
+      "code": 49
+    },
+    "deepseek/deepseek-v2": {
+      "int": 9
+    },
+    "deepseek-v2": {
+      "int": 9
+    },
+    "deepseek-v2-chat": {
+      "int": 9
+    },
+    "perplexity/sonar": {
+      "int": 29
+    },
+    "sonar": {
+      "int": 29
+    },
+    "perplexity/sonar-reasoning-pro": {
+      "int": 46
+    },
+    "sonar-reasoning-pro": {
+      "int": 46
+    },
+    "sonar reasoning pro": {
+      "int": 46
+    },
+    "perplexity/sonar-reasoning": {
+      "int": 34
+    },
+    "sonar-reasoning": {
+      "int": 34
+    },
+    "sonar reasoning": {
+      "int": 34
+    },
+    "perplexity/sonar-pro": {
+      "int": 28
+    },
+    "sonar-pro": {
+      "int": 28
+    },
+    "sonar pro": {
+      "int": 28
+    },
+    "xai/grok-beta": {
+      "int": 23
+    },
+    "grok-beta": {
+      "int": 23
+    },
+    "grok beta": {
+      "int": 23
+    },
+    "xai/grok-3": {
+      "int": 45,
+      "code": 30
+    },
+    "grok-3": {
+      "int": 45,
+      "code": 30
+    },
+    "grok 3": {
+      "int": 45,
+      "code": 30
+    },
+    "xai/grok-3-reasoning": {
+      "int": 41
+    },
+    "grok-3-reasoning": {
+      "int": 41
+    },
+    "grok 3 reasoning beta": {
+      "int": 41
+    },
+    "xai/grok-2-1212": {
+      "int": 25
+    },
+    "grok-2-1212": {
+      "int": 25
+    },
+    "grok 2 (dec '24)": {
+      "int": 25
+    },
+    "openchat/openchat-35": {
+      "int": 5
+    },
+    "openchat-35": {
+      "int": 5
+    },
+    "openchat 3.5 (1210)": {
+      "int": 5
+    },
+    "aws/nova-pro": {
+      "int": 25,
+      "code": 17
+    },
+    "nova-pro": {
+      "int": 25,
+      "code": 17
+    },
+    "nova pro": {
+      "int": 25,
+      "code": 17
+    },
+    "aws/nova-lite": {
+      "int": 22,
+      "code": 10
+    },
+    "nova-lite": {
+      "int": 22,
+      "code": 10
+    },
+    "nova lite": {
+      "int": 22,
+      "code": 10
+    },
+    "azure/phi-3-mini": {
+      "int": 13,
+      "code": 7
+    },
+    "phi-3-mini": {
+      "int": 13,
+      "code": 7
+    },
+    "phi-3 mini instruct 3.8b": {
+      "int": 13,
+      "code": 7
+    },
+    "liquidai/lfm-40b": {
+      "int": 7
+    },
+    "lfm-40b": {
+      "int": 7
+    },
+    "lfm 40b": {
+      "int": 7
+    },
+    "upstage/solar-mini": {
+      "int": 19
+    },
+    "solar-mini": {
+      "int": 19
+    },
+    "solar mini": {
+      "int": 19
+    },
+    "upstage/solar-pro-2-preview-reasoning": {
+      "int": 36
+    },
+    "solar-pro-2-preview-reasoning": {
+      "int": 36
+    },
+    "solar pro 2 (preview) (reasoning)": {
+      "int": 36
+    },
+    "upstage/solar-pro-2-preview": {
+      "int": 30
+    },
+    "solar-pro-2-preview": {
+      "int": 30
+    },
+    "solar pro 2 (preview) (non-reasoning)": {
+      "int": 30
+    },
+    "databricks/dbrx": {
+      "int": 5
+    },
+    "dbrx": {
+      "int": 5
+    },
+    "dbrx instruct": {
+      "int": 5
+    },
+    "minimax/minimax-m1-40k": {
+      "int": 40,
+      "code": 35
+    },
+    "minimax-m1-40k": {
+      "int": 40,
+      "code": 35
+    },
+    "minimax m1 40k": {
+      "int": 40,
+      "code": 35
+    },
+    "minimax/minimax-m1-80k": {
+      "int": 46,
+      "code": 37
+    },
+    "minimax-m1-80k": {
+      "int": 46,
+      "code": 37
+    },
+    "minimax m1 80k": {
+      "int": 46,
+      "code": 37
+    },
+    "kimi/kimi-k2": {
+      "int": 48,
+      "code": 35
+    },
+    "kimi-k2": {
+      "int": 48,
+      "code": 35
+    },
+    "kimi k2": {
+      "int": 48,
+      "code": 35
+    },
+    "ai2/tulu3-405b": {
+      "int": 25
+    },
+    "tulu3-405b": {
+      "int": 25
+    },
+    "llama 3.1 tulu3 405b": {
+      "int": 25
+    },
+    "ai2/olmo-2-7b": {
+      "int": 10,
+      "code": 3
+    },
+    "olmo-2-7b": {
+      "int": 10,
+      "code": 3
+    },
+    "olmo 2 7b": {
+      "int": 10,
+      "code": 3
+    },
+    "ai2/olmo-2-32b": {
+      "int": 14,
+      "code": 5
+    },
+    "olmo-2-32b": {
+      "int": 14,
+      "code": 5
+    },
+    "olmo 2 32b": {
+      "int": 14,
+      "code": 5
+    },
+    "ai2/olmo-3-32b-think": {
+      "int": 36,
+      "code": 32
+    },
+    "olmo-3-32b-think": {
+      "int": 36,
+      "code": 32
+    },
+    "olmo 3 32b think": {
+      "int": 36,
+      "code": 32
+    },
+    "ibm/granite-3-3-8b-instruct": {
+      "int": 15,
+      "code": 8
+    },
+    "granite-3-3-8b-instruct": {
+      "int": 15,
+      "code": 8
+    },
+    "granite 3.3 8b (non-reasoning)": {
+      "int": 15,
+      "code": 8
+    },
+    "reka-ai/reka-flash": {
+      "int": 19
+    },
+    "reka-flash": {
+      "int": 19
+    },
+    "reka flash (sep '24)": {
+      "int": 19
+    },
+    "nous-research/hermes-3-llama-3-1-70b": {
+      "int": 15
+    },
+    "hermes-3-llama-3-1-70b": {
+      "int": 15
+    },
+    "hermes 3 - llama-3.1 70b": {
+      "int": 15
+    },
+    "zai/glm-4-5v-reasoning": {
+      "int": 37,
+      "code": 29
+    },
+    "glm-4-5v-reasoning": {
+      "int": 37,
+      "code": 29
+    },
+    "glm-4.5v (reasoning)": {
+      "int": 37,
+      "code": 29
+    },
+    "zai/glm-4-6-reasoning": {
+      "int": 56,
+      "code": 44
+    },
+    "glm-4-6-reasoning": {
+      "int": 56,
+      "code": 44
+    },
+    "glm-4.6 (reasoning)": {
+      "int": 56,
+      "code": 44
+    },
+    "zai/glm-4.5": {
+      "int": 51,
+      "code": 43
+    },
+    "glm-4.5": {
+      "int": 51,
+      "code": 43
+    },
+    "glm-4.5 (reasoning)": {
+      "int": 51,
+      "code": 43
+    },
+    "zai/glm-4-5v": {
+      "int": 26,
+      "code": 20
+    },
+    "glm-4-5v": {
+      "int": 26,
+      "code": 20
+    },
+    "glm-4.5v (non-reasoning)": {
+      "int": 26,
+      "code": 20
+    },
+    "cohere/command-r-plus-04-2024": {
+      "int": 6
+    },
+    "command-r-plus-04-2024": {
+      "int": 6
+    },
+    "command-r+ (apr '24)": {
+      "int": 6
+    },
+    "cohere/command-r-03-2024": {
+      "int": 1
+    },
+    "command-r-03-2024": {
+      "int": 1
+    },
+    "command-r (mar '24)": {
+      "int": 1
+    },
+    "servicenow/apriel-v1-5-15b-thinker": {
+      "int": 52,
+      "code": 39
+    },
+    "apriel-v1-5-15b-thinker": {
+      "int": 52,
+      "code": 39
+    },
+    "apriel-v1.5-15b-thinker": {
+      "int": 52,
+      "code": 39
+    },
+    "ai21-labs/jamba-1-5-large": {
+      "int": 15
+    },
+    "jamba-1-5-large": {
+      "int": 15
+    },
+    "jamba 1.5 large": {
+      "int": 15
+    },
+    "ai21-labs/jamba-1-5-mini": {
+      "int": 4
+    },
+    "jamba-1-5-mini": {
+      "int": 4
+    },
+    "jamba 1.5 mini": {
+      "int": 4
+    },
+    "ai21-labs/jamba-1-6-large": {
+      "int": 14
+    },
+    "jamba-1-6-large": {
+      "int": 14
+    },
+    "jamba 1.6 large": {
+      "int": 14
+    },
+    "ai21-labs/jamba-1-6-mini": {
+      "int": 3
+    },
+    "jamba-1-6-mini": {
+      "int": 3
+    },
+    "jamba 1.6 mini": {
+      "int": 3
+    },
+    "snowflake/arctic-instruct": {
+      "int": 8
+    },
+    "arctic-instruct": {
+      "int": 8
+    },
+    "arctic instruct": {
+      "int": 8
+    },
+    "alibaba/qwen-2-5-max": {
+      "int": 31
+    },
+    "qwen-2-5-max": {
+      "int": 31
+    },
+    "qwen2.5 max": {
+      "int": 31
+    },
+    "alibaba/qwen2-5-72b-instruct": {
+      "int": 29,
+      "code": 20
+    },
+    "qwen2-5-72b-instruct": {
+      "int": 29,
+      "code": 20
+    },
+    "qwen2.5 instruct 72b": {
+      "int": 29,
+      "code": 20
+    },
+    "alibaba/qwen2-5-coder-32b-instruct": {
+      "int": 22
+    },
+    "qwen2-5-coder-32b-instruct": {
+      "int": 22
+    },
+    "qwen2.5 coder instruct 32b": {
+      "int": 22
+    },
+    "alibaba/qwen-turbo": {
+      "int": 19
+    },
+    "qwen-turbo": {
+      "int": 19
+    },
+    "qwen2.5 turbo": {
+      "int": 19
+    },
+    "alibaba/qwen2-72b-instruct": {
+      "int": 18
+    },
+    "qwen2-72b-instruct": {
+      "int": 18
+    },
+    "qwen2 instruct 72b": {
+      "int": 18
+    },
+    "alibaba/qwen3-14b-instruct": {
+      "int": 29,
+      "code": 20
+    },
+    "qwen3-14b-instruct": {
+      "int": 29,
+      "code": 20
+    },
+    "qwen3 14b (non-reasoning)": {
+      "int": 29,
+      "code": 20
+    },
+    "alibaba/qwen3-32b-instruct-reasoning": {
+      "int": 39,
+      "code": 31
+    },
+    "qwen3-32b-instruct-reasoning": {
+      "int": 39,
+      "code": 31
+    },
+    "qwen3 32b (reasoning)": {
+      "int": 39,
+      "code": 31
+    },
+    "alibaba/qwen3-8b-instruct": {
+      "int": 23,
+      "code": 13
+    },
+    "qwen3-8b-instruct": {
+      "int": 23,
+      "code": 13
+    },
+    "qwen3 8b (non-reasoning)": {
+      "int": 23,
+      "code": 13
+    },
+    "alibaba/qwq-32b": {
+      "int": 38
+    },
+    "qwq-32b": {
+      "int": 38
+    },
+    "qwq 32b": {
+      "int": 38
+    },
+    "alibaba/qwen3-235b-a22b-instruct-reasoning": {
+      "int": 42,
+      "code": 36
+    },
+    "qwen3-235b-a22b-instruct-reasoning": {
+      "int": 42,
+      "code": 36
+    },
+    "qwen3 235b a22b (reasoning)": {
+      "int": 42,
+      "code": 36
+    },
+    "alibaba/qwen3-32b-instruct": {
+      "int": 26
+    },
+    "qwen3-32b-instruct": {
+      "int": 26
+    },
+    "qwen3 32b (non-reasoning)": {
+      "int": 26
+    },
+    "alibaba/qwen3-8b-instruct-reasoning": {
+      "int": 28,
+      "code": 22
+    },
+    "qwen3-8b-instruct-reasoning": {
+      "int": 28,
+      "code": 22
+    },
+    "qwen3 8b (reasoning)": {
+      "int": 28,
+      "code": 22
+    },
+    "alibaba/qwen3-235b-a22b-instruct": {
+      "int": 30,
+      "code": 23
+    },
+    "qwen3-235b-a22b-instruct": {
+      "int": 30,
+      "code": 23
+    },
+    "qwen3 235b a22b (non-reasoning)": {
+      "int": 30,
+      "code": 23
+    },
+    "alibaba/qwen3-14b-instruct-reasoning": {
+      "int": 36,
+      "code": 29
+    },
+    "qwen3-14b-instruct-reasoning": {
+      "int": 36,
+      "code": 29
+    },
+    "qwen3 14b (reasoning)": {
+      "int": 36,
+      "code": 29
+    },
+    "alibaba/qwen3-4b-instruct": {
+      "int": 21
+    },
+    "qwen3-4b-instruct": {
+      "int": 21
+    },
+    "qwen3 4b (non-reasoning)": {
+      "int": 21
+    },
+    "alibaba/qwen3-30b-a3b-instruct-reasoning": {
+      "int": 37,
+      "code": 27
+    },
+    "qwen3-30b-a3b-instruct-reasoning": {
+      "int": 37,
+      "code": 27
+    },
+    "qwen3 30b a3b (reasoning)": {
+      "int": 37,
+      "code": 27
+    },
+    "alibaba/qwq-32b-preview": {
+      "int": 28
+    },
+    "qwq-32b-preview": {
+      "int": 28
+    },
+    "qwq 32b-preview": {
+      "int": 28
+    },
+    "alibaba/qwen3-max-preview": {
+      "int": 49,
+      "code": 40
+    },
+    "qwen3-max-preview": {
+      "int": 49,
+      "code": 40
+    },
+    "qwen3 max (preview)": {
+      "int": 49,
+      "code": 40
+    },
+    "alibaba/qwen3-4b-instruct-reasoning": {
+      "int": 26
+    },
+    "qwen3-4b-instruct-reasoning": {
+      "int": 26
+    },
+    "qwen3 4b (reasoning)": {
+      "int": 26
+    },
+    "alibaba/qwen2-5-coder-7b-instruct": {
+      "int": 12
+    },
+    "qwen2-5-coder-7b-instruct": {
+      "int": 12
+    },
+    "qwen2.5 coder instruct 7b ": {
+      "int": 12
+    },
+    "alibaba/qwen3-30b-a3b-instruct": {
+      "int": 27,
+      "code": 22
+    },
+    "qwen3-30b-a3b-instruct": {
+      "int": 27,
+      "code": 22
+    },
+    "qwen3 30b a3b (non-reasoning)": {
+      "int": 27,
+      "code": 22
+    },
+    "alibaba/qwen2.5-32b-instruct": {
+      "int": 23
+    },
+    "qwen2.5-32b-instruct": {
+      "int": 23
+    },
+    "qwen2.5 instruct 32b": {
+      "int": 23
+    },
+    "alibaba/qwen1.5-110b-chat": {
+      "int": 11
+    },
+    "qwen1.5-110b-chat": {
+      "int": 11
+    },
+    "qwen1.5 chat 110b": {
+      "int": 11
+    },
+    "alibaba/qwen-chat-72b": {
+      "int": 8
+    },
+    "qwen-chat-72b": {
+      "int": 8
+    },
+    "qwen chat 72b": {
+      "int": 8
+    }
+  },
   "updated": "2025-12-28",
-  "source": "Initial placeholder - run workflow to populate",
+  "source": "Artificial Analysis API",
   "attribution": "Rankings provided by Artificial Analysis (https://artificialanalysis.ai/). Please attribute per their terms.",
-  "count": 0
+  "count": 730
 }
