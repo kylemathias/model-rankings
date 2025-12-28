@@ -32,7 +32,7 @@ This repository provides a `rankings.json` file that contains intelligence and c
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/model-rankings.git
+git remote add origin https://github.com/kylemathias/model-rankings.git
 git push -u origin main
 ```
 
@@ -56,7 +56,7 @@ git push -u origin main
 Fetch the latest rankings in your application:
 
 ```javascript
-const res = await fetch("https://raw.githubusercontent.com/YOUR_USERNAME/model-rankings/main/rankings.json");
+const res = await fetch("https://raw.githubusercontent.com/kylemathias/model-rankings/main/rankings.json");
 const data = await res.json();
 console.log(data.models);
 ```
