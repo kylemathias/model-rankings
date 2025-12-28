@@ -1,0 +1,32 @@
+name: Update Rankings
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6am UTC
+  workflow_dispatch:  # Manual trigger button
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Fetch and build rankings
+        run: node rankings-builder.mjs
+        env:
+          ARTIFICIAL_ANALYSIS_KEY: ${{ secrets.ARTIFICIAL_ANALYSIS_KEY }}
+      
+      - name: Commit updated rankings
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update rankings.json - ${{ env.GITHUB_RUN_NUMBER }}"
+          file_pattern: rankings.json
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
