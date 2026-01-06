@@ -58,6 +58,31 @@ for (const m of aa.data || []) {
     models[orStyleSlug] = entry;
   }
   
+  // Handle NVIDIA naming: AA uses "nvidia-nemotron-*" but OpenRouter uses "nemotron-*"
+  // Create aliases without the redundant "nvidia-" prefix
+  if (creator === 'nvidia' && slug.startsWith('nvidia-')) {
+    const orNvidiaSlug = slug.replace(/^nvidia-/, '');
+    models[`${creator}/${orNvidiaSlug}`] = entry;
+    models[orNvidiaSlug] = entry;
+    // Also with dots for version numbers
+    const orNvidiaSlugDots = orNvidiaSlug.replace(/(\d)-(\d)/g, "$1.$2");
+    if (orNvidiaSlugDots !== orNvidiaSlug) {
+      models[`${creator}/${orNvidiaSlugDots}`] = entry;
+      models[orNvidiaSlugDots] = entry;
+    }
+  }
+  
+  // Handle Llama naming differences: AA uses "llama-3-1-*" but OpenRouter uses "llama-3.1-*"
+  // and sometimes different word order (e.g., "nemotron-instruct-70b" vs "nemotron-70b-instruct")
+  if (slug.includes('llama')) {
+    // Create dot-style version: llama-3-1 → llama-3.1
+    const llamaDotSlug = slug.replace(/llama-(\d+)-(\d+)/g, 'llama-$1.$2');
+    if (llamaDotSlug !== slug) {
+      if (creator) models[`${creator}/${llamaDotSlug}`] = entry;
+      models[llamaDotSlug] = entry;
+    }
+  }
+  
   // Store complete AA data for reference
   const fullKey = creator ? `${creator}/${slug}` : slug;
   fullData[fullKey] = {
