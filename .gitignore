@@ -2,3 +2,6 @@ node_modules/
 *.log
 .env
 .DS_Store
+
+# Hugging Face Docker builder file (not part of this repo)
+gen-modelspecs.mjs

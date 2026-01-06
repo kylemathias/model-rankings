@@ -50,6 +50,14 @@ for (const m of aa.data || []) {
   models[slug] = entry;
   if (m.name) models[m.name.toLowerCase()] = entry;
   
+  // Also store with OpenRouter-style IDs (hyphens → dots between digits)
+  // e.g., "gpt-5-2" → "gpt-5.2" so OpenRouter lookups work directly
+  const orStyleSlug = slug.replace(/(\d)-(\d)/g, "$1.$2");
+  if (orStyleSlug !== slug) {
+    if (creator) models[`${creator}/${orStyleSlug}`] = entry;
+    models[orStyleSlug] = entry;
+  }
+  
   // Store complete AA data for reference
   const fullKey = creator ? `${creator}/${slug}` : slug;
   fullData[fullKey] = {
