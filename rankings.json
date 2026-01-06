@@ -1469,6 +1469,14 @@
       "int": 14,
       "code": 23
     },
+    "nvidia/nemotron-3-nano-30b-a3b": {
+      "int": 14,
+      "code": 23
+    },
+    "nemotron-3-nano-30b-a3b": {
+      "int": 14,
+      "code": 23
+    },
     "nvidia/llama-3-3-nemotron-super-49b-reasoning": {
       "int": 19,
       "code": 19
@@ -1501,6 +1509,14 @@
       "int": 14,
       "code": 31
     },
+    "nvidia/nemotron-nano-9b-v2": {
+      "int": 14,
+      "code": 31
+    },
+    "nemotron-nano-9b-v2": {
+      "int": 14,
+      "code": 31
+    },
     "nvidia/nvidia-nemotron-3-nano-30b-a3b-reasoning": {
       "int": 25,
       "code": 39
@@ -1510,6 +1526,14 @@
       "code": 39
     },
     "nvidia nemotron 3 nano 30b a3b (reasoning)": {
+      "int": 25,
+      "code": 39
+    },
+    "nvidia/nemotron-3-nano-30b-a3b-reasoning": {
+      "int": 25,
+      "code": 39
+    },
+    "nemotron-3-nano-30b-a3b-reasoning": {
       "int": 25,
       "code": 39
     },
@@ -1525,6 +1549,14 @@
       "int": 10,
       "code": 17
     },
+    "nvidia/nemotron-nano-12b-v2-vl": {
+      "int": 10,
+      "code": 17
+    },
+    "nemotron-nano-12b-v2-vl": {
+      "int": 10,
+      "code": 17
+    },
     "nvidia/nvidia-nemotron-nano-12b-v2-vl-reasoning": {
       "int": 15,
       "code": 33
@@ -1534,6 +1566,14 @@
       "code": 33
     },
     "nvidia nemotron nano 12b v2 vl (reasoning)": {
+      "int": 15,
+      "code": 33
+    },
+    "nvidia/nemotron-nano-12b-v2-vl-reasoning": {
+      "int": 15,
+      "code": 33
+    },
+    "nemotron-nano-12b-v2-vl-reasoning": {
       "int": 15,
       "code": 33
     },
@@ -1601,6 +1641,14 @@
       "code": 32
     },
     "nvidia nemotron nano 9b v2 (reasoning)": {
+      "int": 19,
+      "code": 32
+    },
+    "nvidia/nemotron-nano-9b-v2-reasoning": {
+      "int": 19,
+      "code": 32
+    },
+    "nemotron-nano-9b-v2-reasoning": {
       "int": 19,
       "code": 32
     },
@@ -5527,9 +5575,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 364.428,
-      "median_time_to_first_token_seconds": 0.435,
-      "median_time_to_first_answer_token": 5.923,
+      "median_output_tokens_per_second": 364.056,
+      "median_time_to_first_token_seconds": 0.436,
+      "median_time_to_first_answer_token": 5.93,
       "id": "f0083258-8646-45b8-8082-7aaf6c2ea82a",
       "release_date": "2025-08-05"
     },
@@ -6643,9 +6691,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 133.393,
-      "median_time_to_first_token_seconds": 4.144,
-      "median_time_to_first_answer_token": 4.144,
+      "median_output_tokens_per_second": 132.882,
+      "median_time_to_first_token_seconds": 4.135,
+      "median_time_to_first_answer_token": 4.135,
       "id": "b2f3191f-77d6-4155-8be6-330f0baa1ae5",
       "release_date": "2025-11-18"
     },
@@ -13483,9 +13531,9 @@
         "price_1m_input_tokens": 0.045,
         "price_1m_output_tokens": 0.155
       },
-      "median_output_tokens_per_second": 67.786,
-      "median_time_to_first_token_seconds": 0.381,
-      "median_time_to_first_answer_token": 0.381,
+      "median_output_tokens_per_second": 67.719,
+      "median_time_to_first_token_seconds": 0.38,
+      "median_time_to_first_answer_token": 0.38,
       "id": "82879bb8-89fb-4adc-b519-315b8ef30b77",
       "release_date": "2024-04-18"
     },
@@ -15427,9 +15475,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 105.422,
-      "median_time_to_first_token_seconds": 0.306,
-      "median_time_to_first_answer_token": 0.306,
+      "median_output_tokens_per_second": 105.414,
+      "median_time_to_first_token_seconds": 0.304,
+      "median_time_to_first_answer_token": 0.304,
       "id": "35d602fc-b8b8-4698-9f4d-f2ce11ca50e4",
       "release_date": "2024-02-26"
     },
@@ -18752,7 +18800,7 @@
   "count": 369,
   "metadata": {
     "total_models": 374,
-    "compact_entries": 1462,
+    "compact_entries": 1474,
     "full_data_entries": 369,
     "prompt_options": {
       "parallel_queries": 1,
