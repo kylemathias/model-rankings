@@ -33,3 +33,11 @@ jobs:
           file_pattern: rankings.json
           commit_user_name: GitHub Actions
           commit_user_email: actions@github.com
+
+      - name: Ping Hugging Face Space to keep alive
+        if: ${{ env.HF_SPACE_URL != '' }}
+        run: |
+          echo "Pinging Hugging Face Space..."
+          curl -sf --max-time 30 "$HF_SPACE_URL" > /dev/null && echo "✓ HF Space is awake" || echo "⚠ HF Space ping failed (may be sleeping)"
+        env:
+          HF_SPACE_URL: ${{ secrets.HF_SPACE_URL }}
