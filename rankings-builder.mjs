@@ -50,6 +50,17 @@ for (const m of aa.data || []) {
   models[slug] = entry;
   if (m.name) models[m.name.toLowerCase()] = entry;
   
+  // Handle Z.AI naming: AA uses "zai" but OpenRouter uses "z-ai"
+  // Create aliases with hyphenated creator
+  if (creator === 'zai') {
+    models[`z-ai/${slug}`] = entry;
+    // Also create versions with dots for version numbers
+    const dotSlug = slug.replace(/(\d)-(\d)/g, "$1.$2");
+    if (dotSlug !== slug) {
+      models[`z-ai/${dotSlug}`] = entry;
+    }
+  }
+  
   // Also store with OpenRouter-style IDs (hyphens → dots between digits)
   // e.g., "gpt-5-2" → "gpt-5.2" so OpenRouter lookups work directly
   const orStyleSlug = slug.replace(/(\d)-(\d)/g, "$1.$2");
