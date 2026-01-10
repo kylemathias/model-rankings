@@ -341,6 +341,14 @@
       "int": 48,
       "code": 45
     },
+    "google/gemini-3-pro-preview": {
+      "int": 48,
+      "code": 45
+    },
+    "gemini-3-pro-preview": {
+      "int": 48,
+      "code": 45
+    },
     "gemini 3 pro preview (high)": {
       "int": 48,
       "code": 45
@@ -370,6 +378,14 @@
       "code": 37
     },
     "gemini-3-flash": {
+      "int": 35,
+      "code": 37
+    },
+    "google/gemini-3-flash-preview": {
+      "int": 35,
+      "code": 37
+    },
+    "gemini-3-flash-preview": {
       "int": 35,
       "code": 37
     },
