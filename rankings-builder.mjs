@@ -83,6 +83,26 @@ for (const m of aa.data || []) {
     }
   }
   
+  // Generate common suffix variants (-preview, -beta, -exp, -experimental, -latest)
+  // OpenRouter often appends these suffixes to model IDs that AA doesn't have
+  const suffixes = ['-preview', '-beta', '-exp', '-experimental', '-latest'];
+  const allSlugsForModel = new Set();
+  
+  // Collect all slug variants we've created so far for this model
+  if (creator) allSlugsForModel.add(`${creator}/${slug}`);
+  allSlugsForModel.add(slug);
+  if (orStyleSlug !== slug) {
+    if (creator) allSlugsForModel.add(`${creator}/${orStyleSlug}`);
+    allSlugsForModel.add(orStyleSlug);
+  }
+  
+  // Add suffix variants for each base slug
+  for (const baseSlug of [...allSlugsForModel]) {
+    for (const suffix of suffixes) {
+      models[`${baseSlug}${suffix}`] = entry;
+    }
+  }
+  
   // Store complete AA data for reference
   const fullKey = creator ? `${creator}/${slug}` : slug;
   fullData[fullKey] = {
