@@ -5135,103 +5135,103 @@
       "code": 76
     },
     "google/gemini-3-1-pro-preview": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3-1-pro-preview": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini 3.1 pro preview": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3.1-pro-preview": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3.1-pro-preview": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3-1-pro-preview-preview": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3-1-pro-preview-beta": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3-1-pro-preview-exp": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3-1-pro-preview-experimental": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3-1-pro-preview-latest": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3-1-pro-preview-preview": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3-1-pro-preview-beta": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3-1-pro-preview-exp": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3-1-pro-preview-experimental": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3-1-pro-preview-latest": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3.1-pro-preview-preview": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3.1-pro-preview-beta": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3.1-pro-preview-exp": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3.1-pro-preview-experimental": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3.1-pro-preview-latest": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3.1-pro-preview-preview": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3.1-pro-preview-beta": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3.1-pro-preview-exp": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3.1-pro-preview-experimental": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "gemini-3.1-pro-preview-latest": {
-      "int": 38,
+      "int": 37,
       "code": 69
     },
     "google/gemini-3-7-flash-low": {
@@ -7067,55 +7067,55 @@
       "code": 5
     },
     "mistral/mistral-large-3": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral-large-3": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral large 3": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral/mistral-large-3-preview": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral/mistral-large-3-beta": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral/mistral-large-3-exp": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral/mistral-large-3-experimental": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral/mistral-large-3-latest": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral-large-3-preview": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral-large-3-beta": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral-large-3-exp": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral-large-3-experimental": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral-large-3-latest": {
-      "int": 10,
+      "int": 11,
       "code": 20
     },
     "mistral/magistral-small-2509": {
@@ -19518,103 +19518,103 @@
       "code": 56
     },
     "alibaba/qwen3-8-27b": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3-8-27b": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3.8 27b (xhigh)": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3.8-27b": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3.8-27b": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3-8-27b-preview": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3-8-27b-beta": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3-8-27b-exp": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3-8-27b-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3-8-27b-latest": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3-8-27b-preview": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3-8-27b-beta": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3-8-27b-exp": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3-8-27b-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3-8-27b-latest": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3.8-27b-preview": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3.8-27b-beta": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3.8-27b-exp": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3.8-27b-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3.8-27b-latest": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3.8-27b-preview": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3.8-27b-beta": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3.8-27b-exp": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3.8-27b-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "qwen3.8-27b-latest": {
-      "int": 42,
+      "int": 41,
       "code": 68
     },
     "alibaba/qwen3-omni-30b-a3b-reasoning": {
@@ -28436,103 +28436,103 @@
       "code": 20
     },
     "google/gemini-3-5-flash": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3-5-flash": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini 3.5 flash (high)": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3.5-flash": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3.5-flash": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3-5-flash-preview": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3-5-flash-beta": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3-5-flash-exp": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3-5-flash-experimental": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3-5-flash-latest": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3-5-flash-preview": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3-5-flash-beta": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3-5-flash-exp": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3-5-flash-experimental": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3-5-flash-latest": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3.5-flash-preview": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3.5-flash-beta": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3.5-flash-exp": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3.5-flash-experimental": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3.5-flash-latest": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3.5-flash-preview": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3.5-flash-beta": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3.5-flash-exp": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3.5-flash-experimental": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "gemini-3.5-flash-latest": {
-      "int": 42,
+      "int": 40,
       "code": 70
     },
     "google/gemini-3-pro-low": {
@@ -43279,9 +43279,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 0,
-      "median_time_to_first_token_seconds": 0,
-      "median_time_to_first_answer_token": 0,
+      "median_output_tokens_per_second": 57.255,
+      "median_time_to_first_token_seconds": 21.249,
+      "median_time_to_first_answer_token": 21.249,
       "id": "e05a4828-0536-4876-870d-a235023f992b",
       "release_date": "2026-09-03"
     },
@@ -43317,9 +43317,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 0,
-      "median_time_to_first_token_seconds": 0,
-      "median_time_to_first_answer_token": 0,
+      "median_output_tokens_per_second": 56.636,
+      "median_time_to_first_token_seconds": 1.203,
+      "median_time_to_first_answer_token": 1.203,
       "id": "a3f8100d-e38f-408b-b0fa-0085dae18dc1",
       "release_date": "2026-09-03"
     },
@@ -43355,9 +43355,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 0,
-      "median_time_to_first_token_seconds": 0,
-      "median_time_to_first_answer_token": 0,
+      "median_output_tokens_per_second": 61.33,
+      "median_time_to_first_token_seconds": 184.627,
+      "median_time_to_first_answer_token": 184.627,
       "id": "2f339a97-9a0d-499a-9cb5-e0db665bfa25",
       "release_date": "2026-09-03"
     },
@@ -43393,9 +43393,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 0,
-      "median_time_to_first_token_seconds": 0,
-      "median_time_to_first_answer_token": 0,
+      "median_output_tokens_per_second": 58.36,
+      "median_time_to_first_token_seconds": 3.06,
+      "median_time_to_first_answer_token": 3.06,
       "id": "e97a4ef5-e817-480e-9595-12f81dc4974f",
       "release_date": "2026-09-03"
     },
@@ -43431,9 +43431,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 0,
-      "median_time_to_first_token_seconds": 0,
-      "median_time_to_first_answer_token": 0,
+      "median_output_tokens_per_second": 57.452,
+      "median_time_to_first_token_seconds": 61.929,
+      "median_time_to_first_answer_token": 61.929,
       "id": "1f541ef3-913f-4eb2-9d07-0e93c7a9a5e3",
       "release_date": "2026-09-03"
     },
@@ -43469,9 +43469,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 45.28,
-      "median_time_to_first_token_seconds": 1.273,
-      "median_time_to_first_answer_token": 45.442,
+      "median_output_tokens_per_second": 43.823,
+      "median_time_to_first_token_seconds": 1.209,
+      "median_time_to_first_answer_token": 46.847,
       "id": "19496b81-9f41-4214-a77a-1df803b3c5ae",
       "release_date": "2026-08-26"
     },
@@ -43507,9 +43507,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 429.221,
-      "median_time_to_first_token_seconds": 19.74,
-      "median_time_to_first_answer_token": 19.74,
+      "median_output_tokens_per_second": 339.975,
+      "median_time_to_first_token_seconds": 8.147,
+      "median_time_to_first_answer_token": 8.147,
       "id": "8a999846-4c1d-4ce7-a8b7-1310a7166fd7",
       "release_date": "2026-09-02"
     },
@@ -43545,9 +43545,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 361.072,
-      "median_time_to_first_token_seconds": 0.523,
-      "median_time_to_first_answer_token": 0.523,
+      "median_output_tokens_per_second": 288.457,
+      "median_time_to_first_token_seconds": 0.688,
+      "median_time_to_first_answer_token": 0.688,
       "id": "f6db039b-0f3b-485c-9d7f-982988e44f26",
       "release_date": "2026-09-02"
     },
@@ -43583,9 +43583,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 296.25,
-      "median_time_to_first_token_seconds": 7.688,
-      "median_time_to_first_answer_token": 7.688,
+      "median_output_tokens_per_second": 391.997,
+      "median_time_to_first_token_seconds": 5.045,
+      "median_time_to_first_answer_token": 5.045,
       "id": "744fa3c1-42a7-4995-b138-fb6be11f463c",
       "release_date": "2026-09-02"
     },
@@ -43621,9 +43621,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.47
       },
-      "median_output_tokens_per_second": 80.372,
-      "median_time_to_first_token_seconds": 1.322,
-      "median_time_to_first_answer_token": 26.206,
+      "median_output_tokens_per_second": 73.944,
+      "median_time_to_first_token_seconds": 1.302,
+      "median_time_to_first_answer_token": 28.35,
       "id": "9ac3908c-9eb2-44db-8c01-3ec7da6fc2ae",
       "release_date": "2026-08-26"
     },
@@ -43697,9 +43697,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 1.8
       },
-      "median_output_tokens_per_second": 188.601,
-      "median_time_to_first_token_seconds": 0.356,
-      "median_time_to_first_answer_token": 10.961,
+      "median_output_tokens_per_second": 188.12,
+      "median_time_to_first_token_seconds": 0.357,
+      "median_time_to_first_answer_token": 10.989,
       "id": "f9739750-6d42-450f-ba1e-2f76c869b4fe",
       "release_date": "2026-08-10"
     },
@@ -43735,9 +43735,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.19
       },
-      "median_output_tokens_per_second": 152.543,
-      "median_time_to_first_token_seconds": 0.462,
-      "median_time_to_first_answer_token": 13.573,
+      "median_output_tokens_per_second": 184.302,
+      "median_time_to_first_token_seconds": 0.418,
+      "median_time_to_first_answer_token": 11.27,
       "id": "36f73aaf-d38a-4b56-a2b3-d04d17186910",
       "release_date": "2025-08-05"
     },
@@ -43773,9 +43773,9 @@
         "price_1m_input_tokens": 0.07,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 200.247,
-      "median_time_to_first_token_seconds": 0.566,
-      "median_time_to_first_answer_token": 10.554,
+      "median_output_tokens_per_second": 232.436,
+      "median_time_to_first_token_seconds": 0.553,
+      "median_time_to_first_answer_token": 9.157,
       "id": "16149b9c-a1e9-4669-a5cb-ff3c00d78f89",
       "release_date": "2025-08-05"
     },
@@ -43811,9 +43811,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 92.375,
-      "median_time_to_first_token_seconds": 1.862,
-      "median_time_to_first_answer_token": 1.862,
+      "median_output_tokens_per_second": 90.644,
+      "median_time_to_first_token_seconds": 1.837,
+      "median_time_to_first_answer_token": 1.837,
       "id": "26e0f83a-ca98-4f34-94ac-7c5e251ee410",
       "release_date": "2026-07-09"
     },
@@ -43849,9 +43849,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.595
       },
-      "median_output_tokens_per_second": 167.061,
-      "median_time_to_first_token_seconds": 0.499,
-      "median_time_to_first_answer_token": 12.47,
+      "median_output_tokens_per_second": 180.858,
+      "median_time_to_first_token_seconds": 0.463,
+      "median_time_to_first_answer_token": 11.521,
       "id": "f0083258-8646-45b8-8082-7aaf6c2ea82a",
       "release_date": "2025-08-05"
     },
@@ -43887,9 +43887,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 8
       },
-      "median_output_tokens_per_second": 123.285,
-      "median_time_to_first_token_seconds": 5.165,
-      "median_time_to_first_answer_token": 5.165,
+      "median_output_tokens_per_second": 122.51,
+      "median_time_to_first_token_seconds": 4.411,
+      "median_time_to_first_answer_token": 4.411,
       "id": "16c5b637-8bce-4252-81f2-1b87a36a4e4c",
       "release_date": "2025-04-16"
     },
@@ -43925,9 +43925,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 75.812,
-      "median_time_to_first_token_seconds": 2.163,
-      "median_time_to_first_answer_token": 2.163,
+      "median_output_tokens_per_second": 75.824,
+      "median_time_to_first_token_seconds": 2.098,
+      "median_time_to_first_answer_token": 2.098,
       "id": "0904b596-8932-43bd-9b21-324f128e1723",
       "release_date": "2026-07-09"
     },
@@ -43963,9 +43963,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 108.679,
-      "median_time_to_first_token_seconds": 1.624,
-      "median_time_to_first_answer_token": 1.624,
+      "median_output_tokens_per_second": 103.837,
+      "median_time_to_first_token_seconds": 1.514,
+      "median_time_to_first_answer_token": 1.514,
       "id": "050c61cd-cddc-463a-a30a-a82aaa37be59",
       "release_date": "2026-07-09"
     },
@@ -44001,9 +44001,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.545
       },
-      "median_output_tokens_per_second": 171.733,
-      "median_time_to_first_token_seconds": 0.507,
-      "median_time_to_first_answer_token": 12.153,
+      "median_output_tokens_per_second": 211.773,
+      "median_time_to_first_token_seconds": 0.456,
+      "median_time_to_first_answer_token": 9.9,
       "id": "c99f3bde-7c08-4de8-bd5c-8ee9123ebffa",
       "release_date": "2025-08-05"
     },
@@ -44040,8 +44040,8 @@
         "price_1m_output_tokens": 12
       },
       "median_output_tokens_per_second": 104.085,
-      "median_time_to_first_token_seconds": 116.648,
-      "median_time_to_first_answer_token": 116.648,
+      "median_time_to_first_token_seconds": 104.021,
+      "median_time_to_first_answer_token": 104.021,
       "id": "bcf8db0a-3bb6-4d82-9516-0f57370c85a6",
       "release_date": "2026-07-09"
     },
@@ -44115,9 +44115,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 79.411,
-      "median_time_to_first_token_seconds": 51.274,
-      "median_time_to_first_answer_token": 51.274,
+      "median_output_tokens_per_second": 79.307,
+      "median_time_to_first_token_seconds": 50.228,
+      "median_time_to_first_answer_token": 50.228,
       "id": "d93edfe8-bf35-49ad-b56e-b18116142a1c",
       "release_date": "2026-07-09"
     },
@@ -44153,9 +44153,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 110.171,
-      "median_time_to_first_token_seconds": 109.238,
-      "median_time_to_first_answer_token": 109.238,
+      "median_output_tokens_per_second": 110.498,
+      "median_time_to_first_token_seconds": 104.276,
+      "median_time_to_first_answer_token": 104.276,
       "id": "426d24c8-49ae-482a-b4a8-20f1c53f21c1",
       "release_date": "2026-07-09"
     },
@@ -44191,9 +44191,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 81.54,
-      "median_time_to_first_token_seconds": 0.893,
-      "median_time_to_first_answer_token": 0.893,
+      "median_output_tokens_per_second": 72.124,
+      "median_time_to_first_token_seconds": 0.927,
+      "median_time_to_first_answer_token": 0.927,
       "id": "7c4d1e30-6ecb-46cf-880c-41446d7b51f1",
       "release_date": "2026-07-09"
     },
@@ -44229,9 +44229,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 86.221,
-      "median_time_to_first_token_seconds": 0.846,
-      "median_time_to_first_answer_token": 0.846,
+      "median_output_tokens_per_second": 83.692,
+      "median_time_to_first_token_seconds": 0.889,
+      "median_time_to_first_answer_token": 0.889,
       "id": "9b97a35e-6ac7-44d9-91c6-422fa678963e",
       "release_date": "2026-07-09"
     },
@@ -44267,9 +44267,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 108.047,
-      "median_time_to_first_token_seconds": 0.802,
-      "median_time_to_first_answer_token": 0.802,
+      "median_output_tokens_per_second": 110.362,
+      "median_time_to_first_token_seconds": 0.817,
+      "median_time_to_first_answer_token": 0.817,
       "id": "dc64f856-3ded-497d-9527-d41d31267ed5",
       "release_date": "2026-07-09"
     },
@@ -44305,7 +44305,7 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 74.48,
+      "median_output_tokens_per_second": 75.205,
       "median_time_to_first_token_seconds": 4.469,
       "median_time_to_first_answer_token": 4.469,
       "id": "6f174934-5b7d-4333-86cb-f5ebf4a862e3",
@@ -44343,9 +44343,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 78.338,
-      "median_time_to_first_token_seconds": 21.252,
-      "median_time_to_first_answer_token": 21.252,
+      "median_output_tokens_per_second": 78.487,
+      "median_time_to_first_token_seconds": 18.362,
+      "median_time_to_first_answer_token": 18.362,
       "id": "d998db47-9b67-4727-a2bb-2e1261020ac0",
       "release_date": "2026-07-09"
     },
@@ -44381,9 +44381,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 87.401,
-      "median_time_to_first_token_seconds": 1.708,
-      "median_time_to_first_answer_token": 1.708,
+      "median_output_tokens_per_second": 86.952,
+      "median_time_to_first_token_seconds": 1.559,
+      "median_time_to_first_answer_token": 1.559,
       "id": "cc4a20cd-09fe-4962-a430-119c815e85fa",
       "release_date": "2026-07-09"
     },
@@ -44419,9 +44419,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 30
       },
-      "median_output_tokens_per_second": 144.738,
-      "median_time_to_first_token_seconds": 0.901,
-      "median_time_to_first_answer_token": 14.719,
+      "median_output_tokens_per_second": 138.144,
+      "median_time_to_first_token_seconds": 0.905,
+      "median_time_to_first_answer_token": 15.383,
       "id": "c4169d75-9d24-4794-a9c3-69e1fe364de5",
       "release_date": "2026-06-25"
     },
@@ -44457,9 +44457,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 104.047,
-      "median_time_to_first_token_seconds": 12.127,
-      "median_time_to_first_answer_token": 12.127,
+      "median_output_tokens_per_second": 103.961,
+      "median_time_to_first_token_seconds": 8.265,
+      "median_time_to_first_answer_token": 8.265,
       "id": "aa55297e-8fbf-4372-b4ab-9b068dc6396c",
       "release_date": "2026-07-09"
     },
@@ -44495,9 +44495,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 95.187,
-      "median_time_to_first_token_seconds": 9.12,
-      "median_time_to_first_answer_token": 9.12,
+      "median_output_tokens_per_second": 92.133,
+      "median_time_to_first_token_seconds": 9.548,
+      "median_time_to_first_answer_token": 9.548,
       "id": "9e30696f-16fa-4b4f-ba53-161895a85fed",
       "release_date": "2026-07-09"
     },
@@ -44533,7 +44533,7 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 75.588,
+      "median_output_tokens_per_second": 73.533,
       "median_time_to_first_token_seconds": 6.906,
       "median_time_to_first_answer_token": 6.906,
       "id": "8afc250d-b538-45a2-812a-4605f4ffd87e",
@@ -44571,9 +44571,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 113.9,
-      "median_time_to_first_token_seconds": 41.773,
-      "median_time_to_first_answer_token": 41.773,
+      "median_output_tokens_per_second": 109.554,
+      "median_time_to_first_token_seconds": 34.591,
+      "median_time_to_first_answer_token": 34.591,
       "id": "87110ff0-1f79-41b4-9976-eda250597317",
       "release_date": "2026-07-09"
     },
@@ -44609,9 +44609,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 87.116,
-      "median_time_to_first_token_seconds": 3.054,
-      "median_time_to_first_answer_token": 3.054,
+      "median_output_tokens_per_second": 86.946,
+      "median_time_to_first_token_seconds": 2.706,
+      "median_time_to_first_answer_token": 2.706,
       "id": "81972fba-1219-477e-bbfb-18c656a63ff7",
       "release_date": "2026-07-09"
     },
@@ -44647,9 +44647,9 @@
         "price_1m_input_tokens": 1.75,
         "price_1m_output_tokens": 14
       },
-      "median_output_tokens_per_second": 126.18,
-      "median_time_to_first_token_seconds": 41.779,
-      "median_time_to_first_answer_token": 41.779,
+      "median_output_tokens_per_second": 120.125,
+      "median_time_to_first_token_seconds": 31.505,
+      "median_time_to_first_answer_token": 31.505,
       "id": "59b5b14b-5365-4ee7-824a-18a8e6309644",
       "release_date": "2026-02-05"
     },
@@ -44685,9 +44685,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 110.496,
-      "median_time_to_first_token_seconds": 2.603,
-      "median_time_to_first_answer_token": 2.603,
+      "median_output_tokens_per_second": 102.38,
+      "median_time_to_first_token_seconds": 2.18,
+      "median_time_to_first_answer_token": 2.18,
       "id": "58b812bf-8498-46db-b834-f43ccc614b61",
       "release_date": "2026-07-09"
     },
@@ -44723,9 +44723,9 @@
         "price_1m_input_tokens": 0.655,
         "price_1m_output_tokens": 0.72
       },
-      "median_output_tokens_per_second": 86.862,
-      "median_time_to_first_token_seconds": 0.618,
-      "median_time_to_first_answer_token": 0.618,
+      "median_output_tokens_per_second": 90.363,
+      "median_time_to_first_token_seconds": 0.617,
+      "median_time_to_first_answer_token": 0.617,
       "id": "976cc8ad-7904-4056-83c5-960181f47d5f",
       "release_date": "2024-12-06"
     },
@@ -44837,9 +44837,9 @@
         "price_1m_input_tokens": 0.345,
         "price_1m_output_tokens": 0.345
       },
-      "median_output_tokens_per_second": 30.439,
-      "median_time_to_first_token_seconds": 0.574,
-      "median_time_to_first_answer_token": 0.574,
+      "median_output_tokens_per_second": 26.83,
+      "median_time_to_first_token_seconds": 0.583,
+      "median_time_to_first_answer_token": 0.583,
       "id": "5fb47ff6-a30e-4c2c-96f2-55e95a13390f",
       "release_date": "2024-09-25"
     },
@@ -44875,9 +44875,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 4.25
       },
-      "median_output_tokens_per_second": 225.782,
-      "median_time_to_first_token_seconds": 11.209,
-      "median_time_to_first_answer_token": 20.067,
+      "median_output_tokens_per_second": 223.575,
+      "median_time_to_first_token_seconds": 7.366,
+      "median_time_to_first_answer_token": 16.312,
       "id": "04ee6719-0327-463b-a1a1-70a6a78254f9",
       "release_date": "2026-08-05"
     },
@@ -44913,9 +44913,9 @@
         "price_1m_input_tokens": 0.19,
         "price_1m_output_tokens": 0.68
       },
-      "median_output_tokens_per_second": 86.595,
-      "median_time_to_first_token_seconds": 0.617,
-      "median_time_to_first_answer_token": 0.617,
+      "median_output_tokens_per_second": 85.219,
+      "median_time_to_first_token_seconds": 0.611,
+      "median_time_to_first_answer_token": 0.611,
       "id": "adf9a85e-abc3-4f28-937b-db6655cc5238",
       "release_date": "2025-04-05"
     },
@@ -44951,7 +44951,7 @@
         "price_1m_input_tokens": 0.26,
         "price_1m_output_tokens": 0.91
       },
-      "median_output_tokens_per_second": 85.17,
+      "median_output_tokens_per_second": 84.533,
       "median_time_to_first_token_seconds": 0.582,
       "median_time_to_first_answer_token": 0.582,
       "id": "922c69c7-9037-43c6-8bcf-a1c555e7f3eb",
@@ -44989,9 +44989,9 @@
         "price_1m_input_tokens": 0.35,
         "price_1m_output_tokens": 1.5
       },
-      "median_output_tokens_per_second": 97.445,
-      "median_time_to_first_token_seconds": 0.358,
-      "median_time_to_first_answer_token": 20.882,
+      "median_output_tokens_per_second": 95.494,
+      "median_time_to_first_token_seconds": 0.354,
+      "median_time_to_first_answer_token": 21.297,
       "id": "583f98fb-c4b8-4df3-8d40-60ac0ed69882",
       "release_date": "2026-08-10"
     },
@@ -45004,7 +45004,7 @@
         "slug": "meta"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 52.7,
+        "artificial_analysis_intelligence_index": 53,
         "artificial_analysis_coding_index": 76.3,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -45065,9 +45065,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 4.25
       },
-      "median_output_tokens_per_second": 110.754,
-      "median_time_to_first_token_seconds": 45.384,
-      "median_time_to_first_answer_token": 63.442,
+      "median_output_tokens_per_second": 107.866,
+      "median_time_to_first_token_seconds": 45.194,
+      "median_time_to_first_answer_token": 63.736,
       "id": "d5170215-69be-4129-849b-26d8d8825bfc",
       "release_date": "2026-09-02"
     },
@@ -45141,9 +45141,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.3
       },
-      "median_output_tokens_per_second": 132.281,
-      "median_time_to_first_token_seconds": 1.344,
-      "median_time_to_first_answer_token": 16.463,
+      "median_output_tokens_per_second": 129.767,
+      "median_time_to_first_token_seconds": 1.345,
+      "median_time_to_first_answer_token": 16.757,
       "id": "feb02d3b-ff8d-4ed4-b165-13f8d4a7192c",
       "release_date": "2026-06-03"
     },
@@ -45179,9 +45179,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 34.864,
-      "median_time_to_first_token_seconds": 0.986,
-      "median_time_to_first_answer_token": 50.78,
+      "median_output_tokens_per_second": 35.058,
+      "median_time_to_first_token_seconds": 0.969,
+      "median_time_to_first_answer_token": 50.487,
       "id": "cd26a386-4873-46ff-b853-d239050025a2",
       "release_date": "2026-04-02"
     },
@@ -45217,9 +45217,9 @@
         "price_1m_input_tokens": 1.5,
         "price_1m_output_tokens": 9
       },
-      "median_output_tokens_per_second": 250.568,
-      "median_time_to_first_token_seconds": 9.509,
-      "median_time_to_first_answer_token": 9.509,
+      "median_output_tokens_per_second": 236.241,
+      "median_time_to_first_token_seconds": 9.32,
+      "median_time_to_first_answer_token": 9.32,
       "id": "5016ea75-7b0e-4737-a7e6-1062c6d90fd4",
       "release_date": "2026-05-19"
     },
@@ -45255,9 +45255,9 @@
         "price_1m_input_tokens": 0.13,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 71.356,
-      "median_time_to_first_token_seconds": 0.707,
-      "median_time_to_first_answer_token": 0.707,
+      "median_output_tokens_per_second": 88.01,
+      "median_time_to_first_token_seconds": 0.683,
+      "median_time_to_first_answer_token": 0.683,
       "id": "70882ec6-914c-41f0-9754-5e8f75005f77",
       "release_date": "2026-04-02"
     },
@@ -45331,9 +45331,9 @@
         "price_1m_input_tokens": 0.14,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 69.611,
-      "median_time_to_first_token_seconds": 0.598,
-      "median_time_to_first_answer_token": 0.598,
+      "median_output_tokens_per_second": 66.794,
+      "median_time_to_first_token_seconds": 0.614,
+      "median_time_to_first_answer_token": 0.614,
       "id": "d0aa27aa-4705-4184-9a1d-483b78c9331c",
       "release_date": "2026-04-02"
     },
@@ -45369,9 +45369,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 206.851,
-      "median_time_to_first_token_seconds": 13.812,
-      "median_time_to_first_answer_token": 13.812,
+      "median_output_tokens_per_second": 185.655,
+      "median_time_to_first_token_seconds": 11.511,
+      "median_time_to_first_answer_token": 11.511,
       "id": "78332c88-fe60-42c8-af9d-3617e44cf1f5",
       "release_date": "2026-07-21"
     },
@@ -45407,9 +45407,9 @@
         "price_1m_input_tokens": 0.02,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 42.405,
-      "median_time_to_first_token_seconds": 0.276,
-      "median_time_to_first_answer_token": 0.276,
+      "median_output_tokens_per_second": 40.336,
+      "median_time_to_first_token_seconds": 0.281,
+      "median_time_to_first_answer_token": 0.281,
       "id": "5303601c-8133-4f52-bc4e-5241ee6b3c10",
       "release_date": "2026-04-03"
     },
@@ -45445,9 +45445,9 @@
         "price_1m_input_tokens": 0.02,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 35.944,
-      "median_time_to_first_token_seconds": 0.362,
-      "median_time_to_first_answer_token": 56.004,
+      "median_output_tokens_per_second": 37.229,
+      "median_time_to_first_token_seconds": 0.37,
+      "median_time_to_first_answer_token": 54.091,
       "id": "d80eb0f1-f62e-4d31-99d2-7a925eb126b0",
       "release_date": "2026-04-03"
     },
@@ -45483,9 +45483,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 352.127,
-      "median_time_to_first_token_seconds": 6.531,
-      "median_time_to_first_answer_token": 6.531,
+      "median_output_tokens_per_second": 315.484,
+      "median_time_to_first_token_seconds": 6.75,
+      "median_time_to_first_answer_token": 6.75,
       "id": "093b9df2-ebee-4309-943f-5a7e88360adf",
       "release_date": "2026-07-21"
     },
@@ -45559,9 +45559,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.3
       },
-      "median_output_tokens_per_second": 132.704,
-      "median_time_to_first_token_seconds": 1.353,
-      "median_time_to_first_answer_token": 1.353,
+      "median_output_tokens_per_second": 127.991,
+      "median_time_to_first_token_seconds": 1.389,
+      "median_time_to_first_answer_token": 1.389,
       "id": "025ec6b6-df4a-449f-9a03-24e4388d6863",
       "release_date": "2026-06-03"
     },
@@ -45635,9 +45635,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 294.823,
-      "median_time_to_first_token_seconds": 7.136,
-      "median_time_to_first_answer_token": 7.136,
+      "median_output_tokens_per_second": 284.382,
+      "median_time_to_first_token_seconds": 6.267,
+      "median_time_to_first_answer_token": 6.267,
       "id": "b2331108-72ed-415a-82d1-188633875bbc",
       "release_date": "2026-08-13"
     },
@@ -45650,14 +45650,14 @@
         "slug": "google"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 38.3,
-        "artificial_analysis_coding_index": 68.7,
+        "artificial_analysis_intelligence_index": 36.7,
+        "artificial_analysis_coding_index": 68.8,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
         "gpqa": 0.941,
         "hle": 0.47,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.587,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -45673,9 +45673,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 117.529,
-      "median_time_to_first_token_seconds": 24.692,
-      "median_time_to_first_answer_token": 24.692,
+      "median_output_tokens_per_second": 117.358,
+      "median_time_to_first_token_seconds": 20.28,
+      "median_time_to_first_answer_token": 20.28,
       "id": "bbd93ebe-80da-4594-bb19-61e69d0331df",
       "release_date": "2026-02-19"
     },
@@ -45711,9 +45711,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 288.48,
-      "median_time_to_first_token_seconds": 0.885,
-      "median_time_to_first_answer_token": 0.885,
+      "median_output_tokens_per_second": 286.335,
+      "median_time_to_first_token_seconds": 0.585,
+      "median_time_to_first_answer_token": 0.585,
       "id": "ddfdaf64-3f8e-40a6-a492-608ee83a1351",
       "release_date": "2026-08-13"
     },
@@ -45749,9 +45749,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 302.844,
-      "median_time_to_first_token_seconds": 4.605,
-      "median_time_to_first_answer_token": 4.605,
+      "median_output_tokens_per_second": 294.255,
+      "median_time_to_first_token_seconds": 4.37,
+      "median_time_to_first_answer_token": 4.37,
       "id": "eb0d4272-7204-42b9-b875-8866fed58548",
       "release_date": "2026-08-13"
     },
@@ -45825,9 +45825,9 @@
         "price_1m_input_tokens": 1.5,
         "price_1m_output_tokens": 9
       },
-      "median_output_tokens_per_second": 238.12,
-      "median_time_to_first_token_seconds": 0.73,
-      "median_time_to_first_answer_token": 0.73,
+      "median_output_tokens_per_second": 219.063,
+      "median_time_to_first_token_seconds": 0.699,
+      "median_time_to_first_answer_token": 0.699,
       "id": "033ade17-d9ec-44e0-b792-b5f1fcd5ab4c",
       "release_date": "2026-05-19"
     },
@@ -45863,9 +45863,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 80.803,
-      "median_time_to_first_token_seconds": 100.647,
-      "median_time_to_first_answer_token": 100.647,
+      "median_output_tokens_per_second": 78.606,
+      "median_time_to_first_token_seconds": 125.116,
+      "median_time_to_first_answer_token": 125.116,
       "id": "23c86e4a-c769-43c0-a056-79e3cd15834f",
       "release_date": "2026-06-30"
     },
@@ -45901,9 +45901,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 5
       },
-      "median_output_tokens_per_second": 100.723,
-      "median_time_to_first_token_seconds": 15.421,
-      "median_time_to_first_answer_token": 15.421,
+      "median_output_tokens_per_second": 94.003,
+      "median_time_to_first_token_seconds": 13.005,
+      "median_time_to_first_answer_token": 13.005,
       "id": "a6340098-d7ae-462d-b372-0a0a67fc44b4",
       "release_date": "2025-10-15"
     },
@@ -45939,9 +45939,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 51.886,
-      "median_time_to_first_token_seconds": 36.6,
-      "median_time_to_first_answer_token": 36.6,
+      "median_output_tokens_per_second": 49.339,
+      "median_time_to_first_token_seconds": 38.197,
+      "median_time_to_first_answer_token": 38.197,
       "id": "b8fc61f7-5e9a-49e6-8547-6ac56db24627",
       "release_date": "2026-07-24"
     },
@@ -45977,9 +45977,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 65.874,
-      "median_time_to_first_token_seconds": 63.816,
-      "median_time_to_first_answer_token": 63.816,
+      "median_output_tokens_per_second": 59.418,
+      "median_time_to_first_token_seconds": 53.361,
+      "median_time_to_first_answer_token": 53.361,
       "id": "cd55210d-358e-4df1-ba9c-9acb5f186cc9",
       "release_date": "2026-06-09"
     },
@@ -46015,9 +46015,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 52.716,
-      "median_time_to_first_token_seconds": 20.201,
-      "median_time_to_first_answer_token": 20.201,
+      "median_output_tokens_per_second": 48.3,
+      "median_time_to_first_token_seconds": 20.962,
+      "median_time_to_first_answer_token": 20.962,
       "id": "1305c921-7aaa-4d6d-99b5-99b3acf15e19",
       "release_date": "2026-07-24"
     },
@@ -46053,9 +46053,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 49.142,
-      "median_time_to_first_token_seconds": 2.981,
-      "median_time_to_first_answer_token": 2.981,
+      "median_output_tokens_per_second": 48.254,
+      "median_time_to_first_token_seconds": 2.37,
+      "median_time_to_first_answer_token": 2.37,
       "id": "20928ba9-3a3f-415f-9519-b84ff64ecf34",
       "release_date": "2026-07-24"
     },
@@ -46091,9 +46091,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 49.672,
-      "median_time_to_first_token_seconds": 10.348,
-      "median_time_to_first_answer_token": 10.348,
+      "median_output_tokens_per_second": 48.082,
+      "median_time_to_first_token_seconds": 10.119,
+      "median_time_to_first_answer_token": 10.119,
       "id": "712be54a-77ae-41b2-9a58-21181479d6ee",
       "release_date": "2026-07-24"
     },
@@ -46129,7 +46129,7 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 5
       },
-      "median_output_tokens_per_second": 88.455,
+      "median_output_tokens_per_second": 82.132,
       "median_time_to_first_token_seconds": 0.598,
       "median_time_to_first_answer_token": 0.598,
       "id": "c2b1e769-7aee-4669-8076-73918bdebf6c",
@@ -46167,9 +46167,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 63.652,
-      "median_time_to_first_token_seconds": 1.31,
-      "median_time_to_first_answer_token": 1.31,
+      "median_output_tokens_per_second": 57.829,
+      "median_time_to_first_token_seconds": 1.186,
+      "median_time_to_first_answer_token": 1.186,
       "id": "d58b9ada-fd9d-4fff-a086-242034657963",
       "release_date": "2026-06-30"
     },
@@ -46205,9 +46205,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 49.781,
-      "median_time_to_first_token_seconds": 7.251,
-      "median_time_to_first_answer_token": 7.251,
+      "median_output_tokens_per_second": 49.059,
+      "median_time_to_first_token_seconds": 9.066,
+      "median_time_to_first_answer_token": 9.066,
       "id": "ff51be8f-e362-4a7e-9043-687ba15de207",
       "release_date": "2026-07-24"
     },
@@ -46243,9 +46243,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 51.674,
-      "median_time_to_first_token_seconds": 9.432,
-      "median_time_to_first_answer_token": 9.432,
+      "median_output_tokens_per_second": 49.804,
+      "median_time_to_first_token_seconds": 11.92,
+      "median_time_to_first_answer_token": 11.92,
       "id": "9d7d72cd-d95d-45a0-b109-4ad292c9aabd",
       "release_date": "2026-09-01"
     },
@@ -46281,9 +46281,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 52.2,
-      "median_time_to_first_token_seconds": 6.189,
-      "median_time_to_first_answer_token": 6.189,
+      "median_output_tokens_per_second": 47.885,
+      "median_time_to_first_token_seconds": 4.318,
+      "median_time_to_first_answer_token": 4.318,
       "id": "05776db7-f5c0-40f7-b824-079160f8cfa8",
       "release_date": "2026-09-01"
     },
@@ -46319,9 +46319,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 71.383,
-      "median_time_to_first_token_seconds": 130.77,
-      "median_time_to_first_answer_token": 130.77,
+      "median_output_tokens_per_second": 69.766,
+      "median_time_to_first_token_seconds": 170.417,
+      "median_time_to_first_answer_token": 170.417,
       "id": "3e87c73e-a257-495e-9730-367a66229811",
       "release_date": "2026-09-01"
     },
@@ -46357,9 +46357,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 53.226,
-      "median_time_to_first_token_seconds": 7.635,
-      "median_time_to_first_answer_token": 7.635,
+      "median_output_tokens_per_second": 49.988,
+      "median_time_to_first_token_seconds": 8.321,
+      "median_time_to_first_answer_token": 8.321,
       "id": "3b7de71c-e034-4591-8ca6-6b6be2fa471f",
       "release_date": "2026-09-01"
     },
@@ -46395,9 +46395,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 62.761,
-      "median_time_to_first_token_seconds": 44.641,
-      "median_time_to_first_answer_token": 44.641,
+      "median_output_tokens_per_second": 51.736,
+      "median_time_to_first_token_seconds": 34.809,
+      "median_time_to_first_answer_token": 34.809,
       "id": "9b166bf3-42db-4f63-8338-1c4a1244ffe8",
       "release_date": "2026-09-01"
     },
@@ -46433,9 +46433,9 @@
         "price_1m_input_tokens": 3,
         "price_1m_output_tokens": 15
       },
-      "median_output_tokens_per_second": 47.442,
-      "median_time_to_first_token_seconds": 1.213,
-      "median_time_to_first_answer_token": 1.213,
+      "median_output_tokens_per_second": 46.699,
+      "median_time_to_first_token_seconds": 1.249,
+      "median_time_to_first_answer_token": 1.249,
       "id": "f2e21112-192e-4aed-ae82-68ca3b38e667",
       "release_date": "2026-02-17"
     },
@@ -46472,8 +46472,8 @@
         "price_1m_output_tokens": 0.2
       },
       "median_output_tokens_per_second": 93.246,
-      "median_time_to_first_token_seconds": 0.475,
-      "median_time_to_first_answer_token": 0.475,
+      "median_time_to_first_token_seconds": 0.441,
+      "median_time_to_first_answer_token": 0.441,
       "id": "713fae11-c75c-4f10-ae2c-8e4074cd58af",
       "release_date": "2025-12-02"
     },
@@ -46547,9 +46547,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 107.949,
-      "median_time_to_first_token_seconds": 0.513,
-      "median_time_to_first_answer_token": 0.513,
+      "median_output_tokens_per_second": 100.593,
+      "median_time_to_first_token_seconds": 0.51,
+      "median_time_to_first_answer_token": 0.51,
       "id": "9741f3c2-cbb1-4a3f-99ee-7bd7384d9038",
       "release_date": "2025-12-02"
     },
@@ -46585,9 +46585,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 223.64,
-      "median_time_to_first_token_seconds": 0.494,
-      "median_time_to_first_answer_token": 0.494,
+      "median_output_tokens_per_second": 211.743,
+      "median_time_to_first_token_seconds": 0.478,
+      "median_time_to_first_answer_token": 0.478,
       "id": "66f4ce73-9a9b-4b49-9c6e-bedb9bfdc720",
       "release_date": "2025-12-02"
     },
@@ -46600,14 +46600,14 @@
         "slug": "mistral"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 9.7,
-        "artificial_analysis_coding_index": 20.2,
+        "artificial_analysis_intelligence_index": 11.1,
+        "artificial_analysis_coding_index": 20.1,
         "artificial_analysis_math_index": 38,
         "mmlu_pro": 0.807,
         "gpqa": 0.68,
         "hle": 0.042,
         "livecodebench": 0.465,
-        "scicode": null,
+        "scicode": 0.366,
         "math_500": null,
         "aime": null,
         "aime_25": 0.38,
@@ -46623,9 +46623,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 1.5
       },
-      "median_output_tokens_per_second": 76.597,
-      "median_time_to_first_token_seconds": 1.291,
-      "median_time_to_first_answer_token": 1.291,
+      "median_output_tokens_per_second": 78.349,
+      "median_time_to_first_token_seconds": 0.758,
+      "median_time_to_first_answer_token": 0.758,
       "id": "4928e950-7f37-4475-b0dc-c5bad781a321",
       "release_date": "2025-12-02"
     },
@@ -46699,9 +46699,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 121.971,
-      "median_time_to_first_token_seconds": 0.691,
-      "median_time_to_first_answer_token": 0.691,
+      "median_output_tokens_per_second": 134.405,
+      "median_time_to_first_token_seconds": 0.71,
+      "median_time_to_first_answer_token": 0.71,
       "id": "ce819310-af7c-49d3-9a02-6845111e1788",
       "release_date": "2025-12-09"
     },
@@ -46737,9 +46737,9 @@
         "price_1m_input_tokens": 1.5,
         "price_1m_output_tokens": 7.5
       },
-      "median_output_tokens_per_second": 125.243,
-      "median_time_to_first_token_seconds": 0.668,
-      "median_time_to_first_answer_token": 16.637,
+      "median_output_tokens_per_second": 139.298,
+      "median_time_to_first_token_seconds": 0.71,
+      "median_time_to_first_answer_token": 15.068,
       "id": "dd059b25-d82a-4ead-82a4-4adceaaec48b",
       "release_date": "2026-04-29"
     },
@@ -46775,9 +46775,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 164.319,
-      "median_time_to_first_token_seconds": 0.598,
-      "median_time_to_first_answer_token": 12.77,
+      "median_output_tokens_per_second": 173.535,
+      "median_time_to_first_token_seconds": 0.632,
+      "median_time_to_first_answer_token": 12.157,
       "id": "3fd96175-4ef1-434c-8795-f873aec2abc1",
       "release_date": "2026-03-16"
     },
@@ -46813,9 +46813,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 123.978,
-      "median_time_to_first_token_seconds": 0.678,
-      "median_time_to_first_answer_token": 0.678,
+      "median_output_tokens_per_second": 134.894,
+      "median_time_to_first_token_seconds": 0.629,
+      "median_time_to_first_answer_token": 0.629,
       "id": "09f43999-b67b-4c1b-b050-44df41ed7e62",
       "release_date": "2025-12-09"
     },
@@ -46851,9 +46851,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 147.401,
-      "median_time_to_first_token_seconds": 0.562,
-      "median_time_to_first_answer_token": 0.562,
+      "median_output_tokens_per_second": 152.305,
+      "median_time_to_first_token_seconds": 0.554,
+      "median_time_to_first_answer_token": 0.554,
       "id": "12f6a061-0ab3-4c76-b225-49abee253651",
       "release_date": "2026-03-16"
     },
@@ -46889,9 +46889,9 @@
         "price_1m_input_tokens": 1.32,
         "price_1m_output_tokens": 3.96
       },
-      "median_output_tokens_per_second": 66.866,
-      "median_time_to_first_token_seconds": 1.075,
-      "median_time_to_first_answer_token": 30.986,
+      "median_output_tokens_per_second": 59.459,
+      "median_time_to_first_token_seconds": 1.108,
+      "median_time_to_first_answer_token": 34.744,
       "id": "83173329-c09a-41f1-a028-a282a5f908d7",
       "release_date": "2026-08-13"
     },
@@ -46927,9 +46927,9 @@
         "price_1m_input_tokens": 0.44,
         "price_1m_output_tokens": 1.32
       },
-      "median_output_tokens_per_second": 129.749,
-      "median_time_to_first_token_seconds": 0.778,
-      "median_time_to_first_answer_token": 16.193,
+      "median_output_tokens_per_second": 118.418,
+      "median_time_to_first_token_seconds": 0.619,
+      "median_time_to_first_answer_token": 17.508,
       "id": "fe4c0848-e284-4e52-a79d-cdc28392f1a9",
       "release_date": "2026-07-31"
     },
@@ -46949,7 +46949,7 @@
         "gpqa": 0.888,
         "hle": 0.375,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.508,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -46965,9 +46965,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 67.766,
-      "median_time_to_first_token_seconds": 1.201,
-      "median_time_to_first_answer_token": 65.761,
+      "median_output_tokens_per_second": 61.264,
+      "median_time_to_first_token_seconds": 1.182,
+      "median_time_to_first_answer_token": 72.595,
       "id": "bf220674-68bd-43cc-a1b8-ce5ed4d2f18d",
       "release_date": "2026-04-24"
     },
@@ -47041,7 +47041,7 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 67.381,
+      "median_output_tokens_per_second": 59.136,
       "median_time_to_first_token_seconds": 1.065,
       "median_time_to_first_answer_token": 1.065,
       "id": "6e2a2572-ed8d-4616-8d7d-68d125fc8ee7",
@@ -47079,9 +47079,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 66.534,
-      "median_time_to_first_token_seconds": 1.155,
-      "median_time_to_first_answer_token": 31.095,
+      "median_output_tokens_per_second": 62.907,
+      "median_time_to_first_token_seconds": 1.047,
+      "median_time_to_first_answer_token": 32.712,
       "id": "5da3c0e2-65d2-4bff-a410-cb2132ddafb6",
       "release_date": "2026-04-24"
     },
@@ -47155,9 +47155,9 @@
         "price_1m_input_tokens": 0.44,
         "price_1m_output_tokens": 1.32
       },
-      "median_output_tokens_per_second": 117.958,
-      "median_time_to_first_token_seconds": 0.746,
-      "median_time_to_first_answer_token": 17.701,
+      "median_output_tokens_per_second": 121.308,
+      "median_time_to_first_token_seconds": 0.652,
+      "median_time_to_first_answer_token": 17.139,
       "id": "7707a46f-895f-4247-b7a8-ddab87c9a11d",
       "release_date": "2026-08-21"
     },
@@ -47269,9 +47269,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 134.54,
-      "median_time_to_first_token_seconds": 15.848,
-      "median_time_to_first_answer_token": 15.848,
+      "median_output_tokens_per_second": 120.464,
+      "median_time_to_first_token_seconds": 14.384,
+      "median_time_to_first_answer_token": 14.384,
       "id": "5e8b0d98-a3b4-42b5-93d8-ecb748788754",
       "release_date": "2026-04-30"
     },
@@ -47307,9 +47307,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 112.087,
-      "median_time_to_first_token_seconds": 0.825,
-      "median_time_to_first_answer_token": 0.825,
+      "median_output_tokens_per_second": 108.333,
+      "median_time_to_first_token_seconds": 0.952,
+      "median_time_to_first_answer_token": 0.952,
       "id": "90c2a9cf-ad7e-4332-9be2-2fd1309833e2",
       "release_date": "2026-04-30"
     },
@@ -47345,9 +47345,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 127.924,
-      "median_time_to_first_token_seconds": 5.828,
-      "median_time_to_first_answer_token": 5.828,
+      "median_output_tokens_per_second": 122.413,
+      "median_time_to_first_token_seconds": 6.071,
+      "median_time_to_first_answer_token": 6.071,
       "id": "fe2c2289-d261-4433-8681-46448372c1f6",
       "release_date": "2026-04-30"
     },
@@ -47383,9 +47383,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 58.48,
-      "median_time_to_first_token_seconds": 37.721,
-      "median_time_to_first_answer_token": 37.721,
+      "median_output_tokens_per_second": 56.706,
+      "median_time_to_first_token_seconds": 28.947,
+      "median_time_to_first_answer_token": 28.947,
       "id": "d6f43d0a-e8c4-447c-9ff7-5cf0a9d59aa3",
       "release_date": "2026-08-12"
     },
@@ -47421,9 +47421,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 60.398,
-      "median_time_to_first_token_seconds": 39.849,
-      "median_time_to_first_answer_token": 39.849,
+      "median_output_tokens_per_second": 56.884,
+      "median_time_to_first_token_seconds": 35.311,
+      "median_time_to_first_answer_token": 35.311,
       "id": "c8adc5cf-fd5a-407b-af51-dc3bede3e49c",
       "release_date": "2026-08-12"
     },
@@ -47459,9 +47459,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 54.516,
-      "median_time_to_first_token_seconds": 4.895,
-      "median_time_to_first_answer_token": 4.895,
+      "median_output_tokens_per_second": 52.552,
+      "median_time_to_first_token_seconds": 4.936,
+      "median_time_to_first_answer_token": 4.936,
       "id": "c07e65e6-32fc-451e-938d-7477a1c3ffcc",
       "release_date": "2026-08-12"
     },
@@ -47497,9 +47497,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 50.201,
-      "median_time_to_first_token_seconds": 11.88,
-      "median_time_to_first_answer_token": 11.88,
+      "median_output_tokens_per_second": 48.376,
+      "median_time_to_first_token_seconds": 11.129,
+      "median_time_to_first_answer_token": 11.129,
       "id": "794f69b5-cede-482b-b1cc-d769478497cd",
       "release_date": "2026-07-08"
     },
@@ -47535,9 +47535,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 66.14,
-      "median_time_to_first_token_seconds": 36.149,
-      "median_time_to_first_answer_token": 36.149,
+      "median_output_tokens_per_second": 55.39,
+      "median_time_to_first_token_seconds": 35.794,
+      "median_time_to_first_answer_token": 35.794,
       "id": "26614164-6840-4e17-a65a-2deb2fe7e87b",
       "release_date": "2026-08-12"
     },
@@ -47573,9 +47573,9 @@
         "price_1m_input_tokens": 0.035,
         "price_1m_output_tokens": 0.14
       },
-      "median_output_tokens_per_second": 266.579,
-      "median_time_to_first_token_seconds": 0.566,
-      "median_time_to_first_answer_token": 0.566,
+      "median_output_tokens_per_second": 271.355,
+      "median_time_to_first_token_seconds": 0.599,
+      "median_time_to_first_answer_token": 0.599,
       "id": "344c6718-c573-41d4-9556-10287a3fa1fc",
       "release_date": "2024-12-03"
     },
@@ -47649,9 +47649,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 124.299,
-      "median_time_to_first_token_seconds": 17.399,
-      "median_time_to_first_answer_token": 33.489,
+      "median_output_tokens_per_second": 124.111,
+      "median_time_to_first_token_seconds": 15.561,
+      "median_time_to_first_answer_token": 31.676,
       "id": "0d94dc87-12c8-4d4a-8d99-804ce3f17bc2",
       "release_date": "2025-11-27"
     },
@@ -47763,9 +47763,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 190.503,
-      "median_time_to_first_token_seconds": 15.563,
-      "median_time_to_first_answer_token": 26.061,
+      "median_output_tokens_per_second": 196.464,
+      "median_time_to_first_token_seconds": 13.596,
+      "median_time_to_first_answer_token": 23.776,
       "id": "61bd9367-e520-4ec8-989e-5fbf50e61610",
       "release_date": "2025-10-29"
     },
@@ -47801,9 +47801,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 188.846,
-      "median_time_to_first_token_seconds": 4.53,
-      "median_time_to_first_answer_token": 15.121,
+      "median_output_tokens_per_second": 187.448,
+      "median_time_to_first_token_seconds": 4.627,
+      "median_time_to_first_answer_token": 15.297,
       "id": "6fd796d3-f346-4f66-97df-5da81714fc73",
       "release_date": "2025-10-29"
     },
@@ -47839,9 +47839,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 208.887,
-      "median_time_to_first_token_seconds": 0.776,
-      "median_time_to_first_answer_token": 0.776,
+      "median_output_tokens_per_second": 202.39,
+      "median_time_to_first_token_seconds": 0.836,
+      "median_time_to_first_answer_token": 0.836,
       "id": "76bce7fb-3a3f-4b66-a78d-35ccf3edf5d2",
       "release_date": "2025-10-29"
     },
@@ -47878,8 +47878,8 @@
         "price_1m_output_tokens": 10
       },
       "median_output_tokens_per_second": 124.518,
-      "median_time_to_first_token_seconds": 0.675,
-      "median_time_to_first_answer_token": 0.675,
+      "median_time_to_first_token_seconds": 0.683,
+      "median_time_to_first_answer_token": 0.683,
       "id": "a20ae33a-46e1-41e6-81a0-fe8b00d2e538",
       "release_date": "2025-11-27"
     },
@@ -47953,9 +47953,9 @@
         "price_1m_input_tokens": 2.5,
         "price_1m_output_tokens": 12.5
       },
-      "median_output_tokens_per_second": 58.626,
-      "median_time_to_first_token_seconds": 1.056,
-      "median_time_to_first_answer_token": 1.056,
+      "median_output_tokens_per_second": 62.209,
+      "median_time_to_first_token_seconds": 1.036,
+      "median_time_to_first_answer_token": 1.036,
       "id": "e58bbffd-fdc2-412a-b6d7-ca0e3f5d611a",
       "release_date": "2025-04-30"
     },
@@ -47991,9 +47991,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 122.239,
-      "median_time_to_first_token_seconds": 4.779,
-      "median_time_to_first_answer_token": 21.141,
+      "median_output_tokens_per_second": 121.811,
+      "median_time_to_first_token_seconds": 4.193,
+      "median_time_to_first_answer_token": 20.612,
       "id": "f4274721-ef28-4121-aa88-8e97267a5a82",
       "release_date": "2025-11-27"
     },
@@ -48029,9 +48029,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 196.596,
-      "median_time_to_first_token_seconds": 19.059,
-      "median_time_to_first_answer_token": 29.232,
+      "median_output_tokens_per_second": 188.996,
+      "median_time_to_first_token_seconds": 11.86,
+      "median_time_to_first_answer_token": 22.442,
       "id": "fbdf8da1-b341-448c-b3cb-8aff1d8f70b9",
       "release_date": "2025-10-29"
     },
@@ -48067,9 +48067,9 @@
         "price_1m_input_tokens": 0.125,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 40.768,
-      "median_time_to_first_token_seconds": 1.171,
-      "median_time_to_first_answer_token": 1.171,
+      "median_output_tokens_per_second": 43.264,
+      "median_time_to_first_token_seconds": 1.057,
+      "median_time_to_first_answer_token": 1.057,
       "id": "ee708f92-374e-4123-b900-e22d7b2afc19",
       "release_date": "2024-12-12"
     },
@@ -48105,9 +48105,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 24.609,
-      "median_time_to_first_token_seconds": 0.403,
-      "median_time_to_first_answer_token": 0.403,
+      "median_output_tokens_per_second": 17.476,
+      "median_time_to_first_token_seconds": 0.386,
+      "median_time_to_first_answer_token": 0.386,
       "id": "2cd04201-2b6e-47ef-853e-7601f705f2a8",
       "release_date": "2025-02-26"
     },
@@ -48143,9 +48143,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 46.603,
-      "median_time_to_first_token_seconds": 0.365,
-      "median_time_to_first_answer_token": 0.365,
+      "median_output_tokens_per_second": 46.765,
+      "median_time_to_first_token_seconds": 0.351,
+      "median_time_to_first_answer_token": 0.351,
       "id": "9f873c2f-2c2d-4ccb-9e1b-71bf61b052be",
       "release_date": "2024-02-26"
     },
@@ -48181,9 +48181,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 1564.52,
-      "median_time_to_first_token_seconds": 6.057,
-      "median_time_to_first_answer_token": 7.335,
+      "median_output_tokens_per_second": 206.793,
+      "median_time_to_first_token_seconds": 2.703,
+      "median_time_to_first_answer_token": 12.375,
       "id": "e1bfc488-5f48-4d42-abf6-7f3c53d79f9c",
       "release_date": "2026-08-04"
     },
@@ -48219,9 +48219,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 338.577,
-      "median_time_to_first_token_seconds": 0.97,
-      "median_time_to_first_answer_token": 6.877,
+      "median_output_tokens_per_second": 328.187,
+      "median_time_to_first_token_seconds": 0.735,
+      "median_time_to_first_answer_token": 6.829,
       "id": "e2b664ca-7992-4de6-8839-4867f035c892",
       "release_date": "2026-05-28"
     },
@@ -48371,9 +48371,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 433.953,
-      "median_time_to_first_token_seconds": 1.115,
-      "median_time_to_first_answer_token": 1.115,
+      "median_output_tokens_per_second": 440.878,
+      "median_time_to_first_token_seconds": 0.83,
+      "median_time_to_first_answer_token": 0.83,
       "id": "3c5289e5-1c62-434c-bc44-c51c39f640a1",
       "release_date": "2026-01-05"
     },
@@ -48485,9 +48485,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 55.167,
-      "median_time_to_first_token_seconds": 1.859,
-      "median_time_to_first_answer_token": 38.113,
+      "median_output_tokens_per_second": 59.084,
+      "median_time_to_first_token_seconds": 1.224,
+      "median_time_to_first_answer_token": 35.075,
       "id": "1b64aa81-c223-4b8f-909b-82185a234765",
       "release_date": "2026-08-06"
     },
@@ -48561,9 +48561,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 140.857,
-      "median_time_to_first_token_seconds": 1.141,
-      "median_time_to_first_answer_token": 15.34,
+      "median_output_tokens_per_second": 139.432,
+      "median_time_to_first_token_seconds": 1.165,
+      "median_time_to_first_answer_token": 15.509,
       "id": "b89c4faf-219e-4171-a1aa-e3bd2fd0a924",
       "release_date": "2026-04-06"
     },
@@ -48637,9 +48637,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 84.642,
-      "median_time_to_first_token_seconds": 1.166,
-      "median_time_to_first_answer_token": 24.795,
+      "median_output_tokens_per_second": 84.624,
+      "median_time_to_first_token_seconds": 1.121,
+      "median_time_to_first_answer_token": 24.756,
       "id": "277f939a-985b-4b37-859d-b3eabc7c0b26",
       "release_date": "2026-06-01"
     },
@@ -48675,9 +48675,9 @@
         "price_1m_input_tokens": 1.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 20.159,
-      "median_time_to_first_token_seconds": 19.583,
-      "median_time_to_first_answer_token": 19.583,
+      "median_output_tokens_per_second": 19.298,
+      "median_time_to_first_token_seconds": 17.253,
+      "median_time_to_first_answer_token": 17.253,
       "id": "7393c56a-ec31-48e9-b804-c04f2d2cb641",
       "release_date": "2024-10-15"
     },
@@ -48713,9 +48713,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.195
       },
-      "median_output_tokens_per_second": 145.156,
-      "median_time_to_first_token_seconds": 1.357,
-      "median_time_to_first_answer_token": 1.357,
+      "median_output_tokens_per_second": 136.939,
+      "median_time_to_first_token_seconds": 1.159,
+      "median_time_to_first_answer_token": 1.159,
       "id": "2e8694f9-7782-47a6-a6ba-fdce89d939c8",
       "release_date": "2025-08-18"
     },
@@ -48751,9 +48751,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 2.6
       },
-      "median_output_tokens_per_second": 163.385,
-      "median_time_to_first_token_seconds": 1.234,
-      "median_time_to_first_answer_token": 15.158,
+      "median_output_tokens_per_second": 156.367,
+      "median_time_to_first_token_seconds": 1.211,
+      "median_time_to_first_answer_token": 15.76,
       "id": "5b52def2-ac9b-4465-ad80-91ea8079e253",
       "release_date": "2026-06-04"
     },
@@ -48789,9 +48789,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 214.776,
-      "median_time_to_first_token_seconds": 0.668,
-      "median_time_to_first_answer_token": 9.98,
+      "median_output_tokens_per_second": 142.767,
+      "median_time_to_first_token_seconds": 0.825,
+      "median_time_to_first_answer_token": 14.833,
       "id": "76dcf6ef-39ea-4be0-b693-b88da25b4caf",
       "release_date": "2025-12-15"
     },
@@ -48827,9 +48827,9 @@
         "price_1m_input_tokens": 0.075,
         "price_1m_output_tokens": 0.3
       },
-      "median_output_tokens_per_second": 327.801,
-      "median_time_to_first_token_seconds": 0.565,
-      "median_time_to_first_answer_token": 6.666,
+      "median_output_tokens_per_second": 321.434,
+      "median_time_to_first_token_seconds": 0.56,
+      "median_time_to_first_answer_token": 6.782,
       "id": "8c748e53-61ae-48b8-af8d-eb8298b1e9db",
       "release_date": "2026-04-29"
     },
@@ -48865,9 +48865,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 129.074,
-      "median_time_to_first_token_seconds": 1.696,
-      "median_time_to_first_answer_token": 1.696,
+      "median_output_tokens_per_second": 72.097,
+      "median_time_to_first_token_seconds": 2.035,
+      "median_time_to_first_answer_token": 2.035,
       "id": "ab7f016c-a29b-4710-bdf6-6a5cd96aacca",
       "release_date": "2025-10-28"
     },
@@ -48903,9 +48903,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 1.8
       },
-      "median_output_tokens_per_second": 52.823,
+      "median_output_tokens_per_second": 52.821,
       "median_time_to_first_token_seconds": 0.685,
-      "median_time_to_first_answer_token": 38.547,
+      "median_time_to_first_answer_token": 38.549,
       "id": "cf095603-72b6-47f8-8ee1-09a42890f92a",
       "release_date": "2025-04-07"
     },
@@ -48941,9 +48941,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 294.364,
-      "median_time_to_first_token_seconds": 0.518,
-      "median_time_to_first_answer_token": 7.312,
+      "median_output_tokens_per_second": 295.608,
+      "median_time_to_first_token_seconds": 0.461,
+      "median_time_to_first_answer_token": 7.227,
       "id": "29976311-665a-4b2f-ac72-557c33e0758e",
       "release_date": "2026-08-11"
     },
@@ -48979,9 +48979,9 @@
         "price_1m_input_tokens": 0.04,
         "price_1m_output_tokens": 0.16
       },
-      "median_output_tokens_per_second": 95.378,
-      "median_time_to_first_token_seconds": 5.67,
-      "median_time_to_first_answer_token": 26.639,
+      "median_output_tokens_per_second": 94.506,
+      "median_time_to_first_token_seconds": 4.366,
+      "median_time_to_first_answer_token": 25.529,
       "id": "f1d52583-9d20-4099-99ac-b5df9430c3b6",
       "release_date": "2025-08-18"
     },
@@ -49017,9 +49017,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 20.487,
-      "median_time_to_first_token_seconds": 21.695,
-      "median_time_to_first_answer_token": 119.316,
+      "median_output_tokens_per_second": 25.47,
+      "median_time_to_first_token_seconds": 10.099,
+      "median_time_to_first_answer_token": 88.622,
       "id": "6e6e02fd-9cbd-417f-9bfc-673df89c313d",
       "release_date": "2025-10-28"
     },
@@ -49055,9 +49055,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 141.877,
-      "median_time_to_first_token_seconds": 1.133,
-      "median_time_to_first_answer_token": 15.23,
+      "median_output_tokens_per_second": 141.927,
+      "median_time_to_first_token_seconds": 1.117,
+      "median_time_to_first_answer_token": 15.209,
       "id": "63872e9c-3377-4a6b-b477-7bba244c38e9",
       "release_date": "2026-03-11"
     },
@@ -49093,9 +49093,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 22.897,
-      "median_time_to_first_token_seconds": 16.24,
-      "median_time_to_first_answer_token": 16.24,
+      "median_output_tokens_per_second": 23.094,
+      "median_time_to_first_token_seconds": 12.648,
+      "median_time_to_first_answer_token": 12.648,
       "id": "26c0b5df-efa7-470f-a65e-2d883329e493",
       "release_date": "2025-07-25"
     },
@@ -49131,9 +49131,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 19.801,
-      "median_time_to_first_token_seconds": 23.744,
-      "median_time_to_first_answer_token": 124.748,
+      "median_output_tokens_per_second": 18.646,
+      "median_time_to_first_token_seconds": 18.866,
+      "median_time_to_first_answer_token": 126.126,
       "id": "e1cfa926-9e2b-4a0d-8c31-48366a5041c5",
       "release_date": "2025-07-25"
     },
@@ -49170,8 +49170,8 @@
         "price_1m_output_tokens": 0.2
       },
       "median_output_tokens_per_second": 165.785,
-      "median_time_to_first_token_seconds": 0.425,
-      "median_time_to_first_answer_token": 0.425,
+      "median_time_to_first_token_seconds": 0.4,
+      "median_time_to_first_answer_token": 0.4,
       "id": "23b379f7-18df-492a-9fc1-a56c5a5b9cfc",
       "release_date": "2025-12-15"
     },
@@ -49267,7 +49267,7 @@
         "gpqa": 0.896,
         "hle": 0.35,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.478,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -49283,9 +49283,9 @@
         "price_1m_input_tokens": 0.95,
         "price_1m_output_tokens": 4
       },
-      "median_output_tokens_per_second": 41.531,
-      "median_time_to_first_token_seconds": 1.267,
-      "median_time_to_first_answer_token": 54.938,
+      "median_output_tokens_per_second": 46.905,
+      "median_time_to_first_token_seconds": 1.263,
+      "median_time_to_first_answer_token": 48.784,
       "id": "8d0cb231-7303-452c-9923-a9620b948475",
       "release_date": "2026-06-12"
     },
@@ -49321,9 +49321,9 @@
         "price_1m_input_tokens": 3,
         "price_1m_output_tokens": 15
       },
-      "median_output_tokens_per_second": 37.887,
-      "median_time_to_first_token_seconds": 3.133,
-      "median_time_to_first_answer_token": 55.922,
+      "median_output_tokens_per_second": 38.891,
+      "median_time_to_first_token_seconds": 2.986,
+      "median_time_to_first_answer_token": 54.412,
       "id": "f7d2fc3e-1f7b-405f-818c-07952a4af78f",
       "release_date": "2026-07-16"
     },
@@ -49397,9 +49397,9 @@
         "price_1m_input_tokens": 3,
         "price_1m_output_tokens": 15
       },
-      "median_output_tokens_per_second": 35.952,
-      "median_time_to_first_token_seconds": 2.903,
-      "median_time_to_first_answer_token": 58.532,
+      "median_output_tokens_per_second": 35.892,
+      "median_time_to_first_token_seconds": 2.651,
+      "median_time_to_first_answer_token": 58.375,
       "id": "512d17ef-13d2-4f65-bf9b-154b0dec7e8d",
       "release_date": "2026-07-16"
     },
@@ -49419,7 +49419,7 @@
         "gpqa": 0.809,
         "hle": 0.214,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.439,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -49435,9 +49435,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.15
       },
-      "median_output_tokens_per_second": 91.388,
-      "median_time_to_first_token_seconds": 2.326,
-      "median_time_to_first_answer_token": 24.211,
+      "median_output_tokens_per_second": 77.634,
+      "median_time_to_first_token_seconds": 2.229,
+      "median_time_to_first_answer_token": 27.991,
       "id": "6c7b322e-2f35-48ff-9171-fb621a726fc0",
       "release_date": "2026-05-29"
     },
@@ -49816,8 +49816,8 @@
         "price_1m_output_tokens": 0.12
       },
       "median_output_tokens_per_second": 222.909,
-      "median_time_to_first_token_seconds": 0.195,
-      "median_time_to_first_answer_token": 9.167,
+      "median_time_to_first_token_seconds": 0.192,
+      "median_time_to_first_answer_token": 9.164,
       "id": "0c64b008-20c3-408d-bd68-15136df8cd2c",
       "release_date": "2026-08-25"
     },
@@ -49853,9 +49853,9 @@
         "price_1m_input_tokens": 0.16,
         "price_1m_output_tokens": 0.65
       },
-      "median_output_tokens_per_second": 76.419,
-      "median_time_to_first_token_seconds": 0.231,
-      "median_time_to_first_answer_token": 26.402,
+      "median_output_tokens_per_second": 72.979,
+      "median_time_to_first_token_seconds": 0.272,
+      "median_time_to_first_answer_token": 27.677,
       "id": "1071dea1-43e7-4fe9-b936-3034bb622b2e",
       "release_date": "2026-08-25"
     },
@@ -49891,9 +49891,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 38.338,
-      "median_time_to_first_token_seconds": 11.503,
-      "median_time_to_first_answer_token": 11.503,
+      "median_output_tokens_per_second": 18.799,
+      "median_time_to_first_token_seconds": 27.662,
+      "median_time_to_first_answer_token": 27.662,
       "id": "5dba8d07-9992-483c-81db-dac97cb15ba8",
       "release_date": "2025-09-22"
     },
@@ -49929,9 +49929,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 117.919,
-      "median_time_to_first_token_seconds": 0.44,
-      "median_time_to_first_answer_token": 0.44,
+      "median_output_tokens_per_second": 120.235,
+      "median_time_to_first_token_seconds": 0.46,
+      "median_time_to_first_answer_token": 0.46,
       "id": "82ed9bd2-c97b-4c35-9312-94bb72001e36",
       "release_date": "2026-04-29"
     },
@@ -50043,9 +50043,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 143.586,
-      "median_time_to_first_token_seconds": 0.224,
-      "median_time_to_first_answer_token": 14.153,
+      "median_output_tokens_per_second": 139.518,
+      "median_time_to_first_token_seconds": 0.241,
+      "median_time_to_first_answer_token": 14.576,
       "id": "adfae555-f489-4f3e-9064-c6b7fcdd0783",
       "release_date": "2026-08-25"
     },
@@ -50195,9 +50195,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.75
       },
-      "median_output_tokens_per_second": 906.967,
-      "median_time_to_first_token_seconds": 4.153,
-      "median_time_to_first_answer_token": 4.153,
+      "median_output_tokens_per_second": 794.899,
+      "median_time_to_first_token_seconds": 3.93,
+      "median_time_to_first_answer_token": 3.93,
       "id": "016d330a-2141-4afa-b2fc-62b314423dc1",
       "release_date": "2026-02-20"
     },
@@ -50233,9 +50233,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 89.242,
-      "median_time_to_first_token_seconds": 0.925,
-      "median_time_to_first_answer_token": 23.336,
+      "median_output_tokens_per_second": 89.571,
+      "median_time_to_first_token_seconds": 0.933,
+      "median_time_to_first_answer_token": 23.262,
       "id": "dbbcf240-a69e-4078-8f16-7c94c7a8c514",
       "release_date": "2025-03-10"
     },
@@ -50271,9 +50271,9 @@
         "price_1m_input_tokens": 0.13,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 93.069,
-      "median_time_to_first_token_seconds": 0.579,
-      "median_time_to_first_answer_token": 0.579,
+      "median_output_tokens_per_second": 94.715,
+      "median_time_to_first_token_seconds": 0.572,
+      "median_time_to_first_answer_token": 0.572,
       "id": "235060f4-057d-4bd1-8b8e-4a92908c770e",
       "release_date": "2025-08-27"
     },
@@ -50385,9 +50385,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 42.388,
-      "median_time_to_first_token_seconds": 0.747,
-      "median_time_to_first_answer_token": 0.747,
+      "median_output_tokens_per_second": 42.726,
+      "median_time_to_first_token_seconds": 0.756,
+      "median_time_to_first_answer_token": 0.756,
       "id": "d3968fd3-97d8-4693-8d26-19cefc6f5d5f",
       "release_date": "2025-08-27"
     },
@@ -50423,9 +50423,9 @@
         "price_1m_input_tokens": 0.13,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 91.949,
+      "median_output_tokens_per_second": 84.623,
       "median_time_to_first_token_seconds": 0.632,
-      "median_time_to_first_answer_token": 22.383,
+      "median_time_to_first_answer_token": 24.266,
       "id": "6ba9e8eb-8124-436d-842f-dbe36df80c27",
       "release_date": "2025-08-27"
     },
@@ -50461,9 +50461,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 42.352,
-      "median_time_to_first_token_seconds": 0.759,
-      "median_time_to_first_answer_token": 47.983,
+      "median_output_tokens_per_second": 42.141,
+      "median_time_to_first_token_seconds": 0.754,
+      "median_time_to_first_answer_token": 48.214,
       "id": "82b207dd-d285-4a52-b2fc-2cbd27543899",
       "release_date": "2025-08-27"
     },
@@ -50803,9 +50803,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 29.726,
-      "median_time_to_first_token_seconds": 3.991,
-      "median_time_to_first_answer_token": 3.991,
+      "median_output_tokens_per_second": 31.335,
+      "median_time_to_first_token_seconds": 4.463,
+      "median_time_to_first_answer_token": 4.463,
       "id": "4764d31d-f4af-4297-8bd1-e993f26bcb64",
       "release_date": "2026-04-22"
     },
@@ -50863,7 +50863,7 @@
         "gpqa": 0.849,
         "hle": 0.272,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.439,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -50879,9 +50879,9 @@
         "price_1m_input_tokens": 0.14,
         "price_1m_output_tokens": 0.28
       },
-      "median_output_tokens_per_second": 60.277,
-      "median_time_to_first_token_seconds": 3.165,
-      "median_time_to_first_answer_token": 36.345,
+      "median_output_tokens_per_second": 53.59,
+      "median_time_to_first_token_seconds": 2.493,
+      "median_time_to_first_answer_token": 39.813,
       "id": "22d09131-343b-4adf-8760-533e20a2155f",
       "release_date": "2026-04-22"
     },
@@ -50917,9 +50917,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 35.835,
-      "median_time_to_first_token_seconds": 3.702,
-      "median_time_to_first_answer_token": 59.513,
+      "median_output_tokens_per_second": 34.263,
+      "median_time_to_first_token_seconds": 4.022,
+      "median_time_to_first_answer_token": 62.395,
       "id": "00f1248e-78e3-4230-8dc8-5e13ba8645e2",
       "release_date": "2026-04-22"
     },
@@ -51221,9 +51221,9 @@
         "price_1m_input_tokens": 0.04,
         "price_1m_output_tokens": 0.14
       },
-      "median_output_tokens_per_second": 345.026,
-      "median_time_to_first_token_seconds": 0.503,
-      "median_time_to_first_answer_token": 6.3,
+      "median_output_tokens_per_second": 342.285,
+      "median_time_to_first_token_seconds": 0.491,
+      "median_time_to_first_answer_token": 6.334,
       "id": "340fb211-4fad-41d3-87d5-ed0d0cd34088",
       "release_date": "2026-05-26"
     },
@@ -51243,7 +51243,7 @@
         "gpqa": 0.897,
         "hle": 0.335,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.486,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -51259,9 +51259,9 @@
         "price_1m_input_tokens": 0.136,
         "price_1m_output_tokens": 0.554
       },
-      "median_output_tokens_per_second": 96.028,
-      "median_time_to_first_token_seconds": 1.639,
-      "median_time_to_first_answer_token": 22.466,
+      "median_output_tokens_per_second": 98.087,
+      "median_time_to_first_token_seconds": 1.62,
+      "median_time_to_first_answer_token": 22.01,
       "id": "b23e6c69-96e5-44c9-8f58-4b42e0c399d5",
       "release_date": "2026-07-06"
     },
@@ -51699,7 +51699,7 @@
         "gpqa": 0.78,
         "hle": 0.337,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.363,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -51715,9 +51715,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 2.95
       },
-      "median_output_tokens_per_second": 46.402,
-      "median_time_to_first_token_seconds": 2.183,
-      "median_time_to_first_answer_token": 45.285,
+      "median_output_tokens_per_second": 46.387,
+      "median_time_to_first_token_seconds": 2.726,
+      "median_time_to_first_answer_token": 45.841,
       "id": "5c3bdc0d-abab-4526-8079-34de4089bb4a",
       "release_date": "2026-06-29"
     },
@@ -52057,9 +52057,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.9
       },
-      "median_output_tokens_per_second": 327.824,
-      "median_time_to_first_token_seconds": 1.166,
-      "median_time_to_first_answer_token": 7.266,
+      "median_output_tokens_per_second": 328.262,
+      "median_time_to_first_token_seconds": 1.158,
+      "median_time_to_first_answer_token": 7.251,
       "id": "b6d2e43d-3082-43f5-9318-0f4dbcb54163",
       "release_date": "2026-04-01"
     },
@@ -52231,7 +52231,7 @@
         "gpqa": 0.892,
         "hle": 0.337,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.433,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -52247,9 +52247,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 126.271,
-      "median_time_to_first_token_seconds": 0.908,
-      "median_time_to_first_answer_token": 16.747,
+      "median_output_tokens_per_second": 125.635,
+      "median_time_to_first_token_seconds": 0.931,
+      "median_time_to_first_answer_token": 16.85,
       "id": "3b5ba264-ad25-429b-a460-4d8698205f0d",
       "release_date": "2026-06-02"
     },
@@ -52285,9 +52285,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 4.05
       },
-      "median_output_tokens_per_second": 67.187,
-      "median_time_to_first_token_seconds": 2.495,
-      "median_time_to_first_answer_token": 32.262,
+      "median_output_tokens_per_second": 64.57,
+      "median_time_to_first_token_seconds": 2.511,
+      "median_time_to_first_answer_token": 33.485,
       "id": "0de09623-2b1a-4c8d-86ef-7f5245d4e24b",
       "release_date": "2026-07-15"
     },
@@ -52307,7 +52307,7 @@
         "gpqa": 0.895,
         "hle": 0.333,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.497,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -52323,9 +52323,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 97.843,
-      "median_time_to_first_token_seconds": 2.217,
-      "median_time_to_first_answer_token": 22.658,
+      "median_output_tokens_per_second": 117.21,
+      "median_time_to_first_token_seconds": 2.192,
+      "median_time_to_first_answer_token": 19.255,
       "id": "7261504e-503c-4a66-a9d3-a3272cdf9ad6",
       "release_date": "2026-07-30"
     },
@@ -52475,9 +52475,9 @@
         "price_1m_input_tokens": 1.4,
         "price_1m_output_tokens": 4.4
       },
-      "median_output_tokens_per_second": 71.915,
-      "median_time_to_first_token_seconds": 1.341,
-      "median_time_to_first_answer_token": 29.151,
+      "median_output_tokens_per_second": 70.351,
+      "median_time_to_first_token_seconds": 1.427,
+      "median_time_to_first_answer_token": 29.856,
       "id": "f7a4ea75-e548-4069-80d4-9be8bc7c009b",
       "release_date": "2026-06-16"
     },
@@ -52513,9 +52513,9 @@
         "price_1m_input_tokens": 1.4,
         "price_1m_output_tokens": 4.4
       },
-      "median_output_tokens_per_second": 99.399,
-      "median_time_to_first_token_seconds": 1.49,
-      "median_time_to_first_answer_token": 1.49,
+      "median_output_tokens_per_second": 102.495,
+      "median_time_to_first_token_seconds": 1.19,
+      "median_time_to_first_answer_token": 1.19,
       "id": "e8aa417f-18fe-46b0-ba62-ef99785a9585",
       "release_date": "2026-06-16"
     },
@@ -52551,9 +52551,9 @@
         "price_1m_input_tokens": 1.4,
         "price_1m_output_tokens": 4.4
       },
-      "median_output_tokens_per_second": 78.367,
-      "median_time_to_first_token_seconds": 1.432,
-      "median_time_to_first_answer_token": 26.953,
+      "median_output_tokens_per_second": 77.374,
+      "median_time_to_first_token_seconds": 1.248,
+      "median_time_to_first_answer_token": 27.097,
       "id": "cd684ea4-b475-4269-b001-d469d06d8a7a",
       "release_date": "2026-08-18"
     },
@@ -52589,9 +52589,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 69.395,
-      "median_time_to_first_token_seconds": 0.239,
-      "median_time_to_first_answer_token": 29.06,
+      "median_output_tokens_per_second": 55.565,
+      "median_time_to_first_token_seconds": 0.21,
+      "median_time_to_first_answer_token": 36.204,
       "id": "1e9907e0-ffac-4595-b006-962e4f1da7cf",
       "release_date": "2026-06-09"
     },
@@ -52627,9 +52627,9 @@
         "price_1m_input_tokens": 2.5,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 54.915,
-      "median_time_to_first_token_seconds": 0.353,
-      "median_time_to_first_answer_token": 0.353,
+      "median_output_tokens_per_second": 58.801,
+      "median_time_to_first_token_seconds": 0.323,
+      "median_time_to_first_answer_token": 0.323,
       "id": "3bc32f13-5afa-4e28-bce1-10e57376686b",
       "release_date": "2025-03-13"
     },
@@ -52665,9 +52665,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 247.911,
-      "median_time_to_first_token_seconds": 0.167,
-      "median_time_to_first_answer_token": 8.234,
+      "median_output_tokens_per_second": 231.654,
+      "median_time_to_first_token_seconds": 0.162,
+      "median_time_to_first_answer_token": 8.796,
       "id": "2e9ff877-fd2c-4ce7-b631-7ca1bdb6d13e",
       "release_date": "2026-05-20"
     },
@@ -52703,9 +52703,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 130.704,
-      "median_time_to_first_token_seconds": 0.25,
-      "median_time_to_first_answer_token": 0.25,
+      "median_output_tokens_per_second": 130.075,
+      "median_time_to_first_token_seconds": 0.269,
+      "median_time_to_first_answer_token": 0.269,
       "id": "81444bc8-72f9-4a2d-ad43-27e3f0d2f461",
       "release_date": "2026-02-17"
     },
@@ -52893,9 +52893,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 4.8
       },
-      "median_output_tokens_per_second": 121.459,
-      "median_time_to_first_token_seconds": 1.213,
-      "median_time_to_first_answer_token": 1.213,
+      "median_output_tokens_per_second": 116.563,
+      "median_time_to_first_token_seconds": 1.197,
+      "median_time_to_first_answer_token": 1.197,
       "id": "0179b427-93dc-415c-bb4c-f980ddf8d088",
       "release_date": "2026-03-30"
     },
@@ -52931,9 +52931,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 57.556,
-      "median_time_to_first_token_seconds": 1.402,
-      "median_time_to_first_answer_token": 1.402,
+      "median_output_tokens_per_second": 55.842,
+      "median_time_to_first_token_seconds": 1.38,
+      "median_time_to_first_answer_token": 1.38,
       "id": "3b156101-b0d7-4438-b350-2d1f1168f40a",
       "release_date": "2026-04-22"
     },
@@ -52969,9 +52969,9 @@
         "price_1m_input_tokens": 0.375,
         "price_1m_output_tokens": 2.25
       },
-      "median_output_tokens_per_second": 146.087,
-      "median_time_to_first_token_seconds": 1.171,
-      "median_time_to_first_answer_token": 1.171,
+      "median_output_tokens_per_second": 138.127,
+      "median_time_to_first_token_seconds": 1.091,
+      "median_time_to_first_answer_token": 1.091,
       "id": "66938aab-78fa-49d7-8461-b48b6833e837",
       "release_date": "2026-04-16"
     },
@@ -53007,9 +53007,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 47.104,
-      "median_time_to_first_token_seconds": 1.248,
-      "median_time_to_first_answer_token": 43.707,
+      "median_output_tokens_per_second": 46.683,
+      "median_time_to_first_token_seconds": 1.23,
+      "median_time_to_first_answer_token": 44.073,
       "id": "7e30585f-fad7-40df-a8cb-03c1d96df38a",
       "release_date": "2026-08-14"
     },
@@ -53045,9 +53045,9 @@
         "price_1m_input_tokens": 0.375,
         "price_1m_output_tokens": 2.25
       },
-      "median_output_tokens_per_second": 141.472,
-      "median_time_to_first_token_seconds": 1.087,
-      "median_time_to_first_answer_token": 39.222,
+      "median_output_tokens_per_second": 130.541,
+      "median_time_to_first_token_seconds": 1.055,
+      "median_time_to_first_answer_token": 42.383,
       "id": "8665ca00-c687-44c7-875c-22618cb31c4f",
       "release_date": "2026-04-16"
     },
@@ -53083,9 +53083,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 52.774,
-      "median_time_to_first_token_seconds": 1.451,
-      "median_time_to_first_answer_token": 109.004,
+      "median_output_tokens_per_second": 54.327,
+      "median_time_to_first_token_seconds": 1.371,
+      "median_time_to_first_answer_token": 105.85,
       "id": "8c29d66d-bf98-4ea3-8572-5409353ecc66",
       "release_date": "2026-04-22"
     },
@@ -53121,9 +53121,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 183.976,
-      "median_time_to_first_token_seconds": 1.059,
-      "median_time_to_first_answer_token": 1.059,
+      "median_output_tokens_per_second": 182.255,
+      "median_time_to_first_token_seconds": 1.028,
+      "median_time_to_first_answer_token": 1.028,
       "id": "2698f6c6-e436-47ce-a583-dbc25596c571",
       "release_date": "2025-09-11"
     },
@@ -53159,9 +53159,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 3.2
       },
-      "median_output_tokens_per_second": 136.671,
+      "median_output_tokens_per_second": 135.654,
       "median_time_to_first_token_seconds": 1.014,
-      "median_time_to_first_answer_token": 15.647,
+      "median_time_to_first_answer_token": 15.757,
       "id": "2236df45-0699-40d1-b5cc-69ee345d2257",
       "release_date": "2026-02-24"
     },
@@ -53197,9 +53197,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 90.914,
-      "median_time_to_first_token_seconds": 1.621,
-      "median_time_to_first_answer_token": 36.665,
+      "median_output_tokens_per_second": 89.184,
+      "median_time_to_first_token_seconds": 1.568,
+      "median_time_to_first_answer_token": 37.292,
       "id": "0e66bae9-41f1-42fc-9276-ce8cb6f72919",
       "release_date": "2026-02-16"
     },
@@ -53273,9 +53273,9 @@
         "price_1m_input_tokens": 0.35,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 112.347,
-      "median_time_to_first_token_seconds": 0.928,
-      "median_time_to_first_answer_token": 0.928,
+      "median_output_tokens_per_second": 115.622,
+      "median_time_to_first_token_seconds": 0.91,
+      "median_time_to_first_answer_token": 0.91,
       "id": "fc92f822-04b7-420d-9c07-a21af5e9aac7",
       "release_date": "2026-02-03"
     },
@@ -53311,9 +53311,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 190.202,
-      "median_time_to_first_token_seconds": 1.218,
-      "median_time_to_first_answer_token": 11.733,
+      "median_output_tokens_per_second": 182.6,
+      "median_time_to_first_token_seconds": 1.229,
+      "median_time_to_first_answer_token": 12.182,
       "id": "c8a79180-7d16-4474-8701-9a77c0baa56a",
       "release_date": "2025-09-11"
     },
@@ -53349,9 +53349,9 @@
         "price_1m_input_tokens": 0.135,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 84.498,
-      "median_time_to_first_token_seconds": 1.183,
-      "median_time_to_first_answer_token": 24.852,
+      "median_output_tokens_per_second": 84.734,
+      "median_time_to_first_token_seconds": 1.142,
+      "median_time_to_first_answer_token": 24.745,
       "id": "2d28a13a-096e-475a-beb8-26bbd1c7d51c",
       "release_date": "2026-03-02"
     },
@@ -53387,9 +53387,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 39.787,
-      "median_time_to_first_token_seconds": 1.747,
-      "median_time_to_first_answer_token": 52.015,
+      "median_output_tokens_per_second": 39.975,
+      "median_time_to_first_token_seconds": 1.748,
+      "median_time_to_first_answer_token": 51.78,
       "id": "8df710d3-9dae-4498-9b4e-9818238e6f31",
       "release_date": "2026-08-12"
     },
@@ -53425,9 +53425,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 89.715,
-      "median_time_to_first_token_seconds": 1.803,
-      "median_time_to_first_answer_token": 1.803,
+      "median_output_tokens_per_second": 87.4,
+      "median_time_to_first_token_seconds": 1.843,
+      "median_time_to_first_answer_token": 1.843,
       "id": "30ef2a79-e800-4165-9f13-2a338f120db7",
       "release_date": "2026-02-16"
     },
@@ -53447,7 +53447,7 @@
         "gpqa": 0.9,
         "hle": 0.356,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.461,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -53463,9 +53463,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 1.6
       },
-      "median_output_tokens_per_second": 55.808,
-      "median_time_to_first_token_seconds": 1.518,
-      "median_time_to_first_answer_token": 37.355,
+      "median_output_tokens_per_second": 55.55,
+      "median_time_to_first_token_seconds": 1.551,
+      "median_time_to_first_answer_token": 37.555,
       "id": "a87fce42-eea3-4e45-a96d-fe057814f371",
       "release_date": "2026-06-01"
     },
@@ -53478,7 +53478,7 @@
         "slug": "alibaba"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 41.6,
+        "artificial_analysis_intelligence_index": 41.4,
         "artificial_analysis_coding_index": 68.1,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -53501,9 +53501,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 42.416,
-      "median_time_to_first_token_seconds": 1.238,
-      "median_time_to_first_answer_token": 48.39,
+      "median_output_tokens_per_second": 43.624,
+      "median_time_to_first_token_seconds": 1.237,
+      "median_time_to_first_answer_token": 47.083,
       "id": "b01dee41-c62b-48ed-8d16-984adc405e5c",
       "release_date": "2026-08-14"
     },
@@ -53539,9 +53539,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.97
       },
-      "median_output_tokens_per_second": 108.61,
-      "median_time_to_first_token_seconds": 0.986,
-      "median_time_to_first_answer_token": 19.4,
+      "median_output_tokens_per_second": 109.377,
+      "median_time_to_first_token_seconds": 1.079,
+      "median_time_to_first_answer_token": 19.364,
       "id": "b97ef678-2d31-4375-9416-67ea97f87204",
       "release_date": "2025-09-22"
     },
@@ -53577,9 +53577,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 2
       },
-      "median_output_tokens_per_second": 163.015,
-      "median_time_to_first_token_seconds": 1.191,
-      "median_time_to_first_answer_token": 1.191,
+      "median_output_tokens_per_second": 157.34,
+      "median_time_to_first_token_seconds": 1.195,
+      "median_time_to_first_answer_token": 1.195,
       "id": "eebfef01-709e-4ffe-b72f-0db75ef2434b",
       "release_date": "2026-02-24"
     },
@@ -53615,9 +53615,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 3.2
       },
-      "median_output_tokens_per_second": 151.816,
-      "median_time_to_first_token_seconds": 1.004,
-      "median_time_to_first_answer_token": 1.004,
+      "median_output_tokens_per_second": 147.872,
+      "median_time_to_first_token_seconds": 1.01,
+      "median_time_to_first_answer_token": 1.01,
       "id": "021b1b31-d2fc-4653-ab74-c10bd2f41c8e",
       "release_date": "2026-02-24"
     },
@@ -53654,8 +53654,8 @@
         "price_1m_output_tokens": 0.97
       },
       "median_output_tokens_per_second": 105.658,
-      "median_time_to_first_token_seconds": 0.876,
-      "median_time_to_first_answer_token": 0.876,
+      "median_time_to_first_token_seconds": 0.878,
+      "median_time_to_first_answer_token": 0.878,
       "id": "0b226b82-1462-4860-bf1a-f8aed7024791",
       "release_date": "2025-09-22"
     },
@@ -53691,9 +53691,9 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 19.851,
-      "median_time_to_first_token_seconds": 0.446,
-      "median_time_to_first_answer_token": 101.195,
+      "median_output_tokens_per_second": 17.353,
+      "median_time_to_first_token_seconds": 0.476,
+      "median_time_to_first_answer_token": 115.731,
       "id": "651ef7ae-9a8f-477e-9c8e-460aa156ba02",
       "release_date": "2026-03-02"
     },
@@ -53729,9 +53729,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 49.245,
-      "median_time_to_first_token_seconds": 1.27,
-      "median_time_to_first_answer_token": 1.27,
+      "median_output_tokens_per_second": 49.653,
+      "median_time_to_first_token_seconds": 1.219,
+      "median_time_to_first_answer_token": 1.219,
       "id": "353c92f3-2148-4c2d-9231-aa7e1322a1fd",
       "release_date": "2026-08-14"
     },
@@ -53767,7 +53767,7 @@
         "price_1m_input_tokens": 0.17,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 92.19,
+      "median_output_tokens_per_second": 91.194,
       "median_time_to_first_token_seconds": 0.457,
       "median_time_to_first_answer_token": 0.457,
       "id": "20da3b31-fc0a-4359-abec-d59367bf1d9f",
@@ -53881,9 +53881,9 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 14.748,
-      "median_time_to_first_token_seconds": 0.538,
-      "median_time_to_first_answer_token": 0.538,
+      "median_output_tokens_per_second": 16.222,
+      "median_time_to_first_token_seconds": 0.5,
+      "median_time_to_first_answer_token": 0.5,
       "id": "30c9ba61-d0a1-4794-938e-35865f379d15",
       "release_date": "2026-03-02"
     },
@@ -53919,9 +53919,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 39.094,
-      "median_time_to_first_token_seconds": 1.731,
-      "median_time_to_first_answer_token": 52.89,
+      "median_output_tokens_per_second": 38.418,
+      "median_time_to_first_token_seconds": 1.732,
+      "median_time_to_first_answer_token": 53.792,
       "id": "5e5b4ce7-bc54-47b2-b911-21b9cad8394c",
       "release_date": "2026-08-03"
     },
@@ -53958,8 +53958,8 @@
         "price_1m_output_tokens": 3
       },
       "median_output_tokens_per_second": 45.95,
-      "median_time_to_first_token_seconds": 1.237,
-      "median_time_to_first_answer_token": 44.763,
+      "median_time_to_first_token_seconds": 1.244,
+      "median_time_to_first_answer_token": 44.77,
       "id": "6657d7de-a2a9-40bc-a32f-86e80ad63698",
       "release_date": "2026-08-14"
     },
@@ -54033,7 +54033,7 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 230.769,
+      "median_output_tokens_per_second": 224.279,
       "median_time_to_first_token_seconds": 0.961,
       "median_time_to_first_answer_token": 0.961,
       "id": "6f3534b1-1168-472e-b3e3-23ab521504f5",
@@ -54109,9 +54109,9 @@
         "price_1m_input_tokens": 0.075,
         "price_1m_output_tokens": 0.22
       },
-      "median_output_tokens_per_second": 336.019,
-      "median_time_to_first_token_seconds": 1.711,
-      "median_time_to_first_answer_token": 7.663,
+      "median_output_tokens_per_second": 347.195,
+      "median_time_to_first_token_seconds": 1.596,
+      "median_time_to_first_answer_token": 7.356,
       "id": "e33dc369-ae81-40e0-8c4e-28b002d02197",
       "release_date": "2026-08-04"
     },
@@ -54147,9 +54147,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 206.241,
-      "median_time_to_first_token_seconds": 1.902,
-      "median_time_to_first_answer_token": 11.599,
+      "median_output_tokens_per_second": 143.798,
+      "median_time_to_first_token_seconds": 1.811,
+      "median_time_to_first_answer_token": 15.72,
       "id": "7eaf926c-5f39-4e58-ae50-c38b5fc630fc",
       "release_date": "2026-08-06"
     },
@@ -54185,9 +54185,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 126.616,
+      "median_output_tokens_per_second": 121.769,
       "median_time_to_first_token_seconds": 2.055,
-      "median_time_to_first_answer_token": 17.851,
+      "median_time_to_first_answer_token": 18.479,
       "id": "eb4ba465-3fcd-4065-9fe2-e8225e7b2c6c",
       "release_date": "2026-05-08"
     },
@@ -54261,9 +54261,9 @@
         "price_1m_input_tokens": 0.45,
         "price_1m_output_tokens": 0.9
       },
-      "median_output_tokens_per_second": 201.859,
-      "median_time_to_first_token_seconds": 1.577,
-      "median_time_to_first_answer_token": 11.485,
+      "median_output_tokens_per_second": 179.61,
+      "median_time_to_first_token_seconds": 1.528,
+      "median_time_to_first_answer_token": 12.663,
       "id": "8decf027-5114-4721-9ee1-81c0552980a0",
       "release_date": "2026-07-24"
     },
@@ -54337,7 +54337,7 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.7
       },
-      "median_output_tokens_per_second": 2110.056,
+      "median_output_tokens_per_second": 2172.372,
       "median_time_to_first_token_seconds": 0.461,
       "median_time_to_first_answer_token": 0.461,
       "id": "8014c311-fa23-4a4b-8485-8a864db8a113",
@@ -54815,7 +54815,7 @@
         "gpqa": 0.926,
         "hle": 0.424,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.545,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -56753,7 +56753,7 @@
         "gpqa": 0.898,
         "hle": 0.462,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.588,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -57361,7 +57361,7 @@
         "gpqa": 0.822,
         "hle": 0.172,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.434,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -58190,14 +58190,14 @@
         "slug": "google"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 41.9,
+        "artificial_analysis_intelligence_index": 39.7,
         "artificial_analysis_coding_index": 70.1,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
         "gpqa": 0.922,
         "hle": 0.427,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.539,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -58919,7 +58919,7 @@
         "gpqa": 0.92,
         "hle": 0.487,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.544,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -60705,7 +60705,7 @@
         "gpqa": 0.894,
         "hle": 0.348,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.453,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -61769,7 +61769,7 @@
         "gpqa": 0.901,
         "hle": 0.372,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.483,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -65189,7 +65189,7 @@
         "gpqa": 0.923,
         "hle": 0.405,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.495,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -67150,7 +67150,7 @@
       "release_date": "2025-08-20"
     }
   },
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "source": "Artificial Analysis API",
   "attribution": "Rankings provided by Artificial Analysis (https://artificialanalysis.ai/). Please attribute per their terms.",
   "count": 630,
