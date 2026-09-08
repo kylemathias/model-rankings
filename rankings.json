@@ -517,103 +517,103 @@
       "code": 76
     },
     "google/gemini-3-8-flash-low": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3-8-flash-low": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini 3.8 flash (low)": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3.8-flash-low": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3.8-flash-low": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3-8-flash-low-preview": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3-8-flash-low-beta": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3-8-flash-low-exp": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3-8-flash-low-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3-8-flash-low-latest": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3-8-flash-low-preview": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3-8-flash-low-beta": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3-8-flash-low-exp": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3-8-flash-low-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3-8-flash-low-latest": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3.8-flash-low-preview": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3.8-flash-low-beta": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3.8-flash-low-exp": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3.8-flash-low-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3.8-flash-low-latest": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3.8-flash-low-preview": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3.8-flash-low-beta": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3.8-flash-low-exp": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3.8-flash-low-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "gemini-3.8-flash-low-latest": {
-      "int": 42,
+      "int": 41,
       "code": 74
     },
     "google/gemini-3-8-flash-medium": {
@@ -916,56 +916,152 @@
       "int": 34,
       "code": 61
     },
+    "openbmb/minicpm5-2b": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5-2b": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5.2b": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5.2b": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5-2b-preview": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5-2b-beta": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5-2b-exp": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5-2b-experimental": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5-2b-latest": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5-2b-preview": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5-2b-beta": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5-2b-exp": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5-2b-experimental": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5-2b-latest": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5.2b-preview": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5.2b-beta": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5.2b-exp": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5.2b-experimental": {
+      "int": 15,
+      "code": 15
+    },
+    "openbmb/minicpm5.2b-latest": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5.2b-preview": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5.2b-beta": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5.2b-exp": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5.2b-experimental": {
+      "int": 15,
+      "code": 15
+    },
+    "minicpm5.2b-latest": {
+      "int": 15,
+      "code": 15
+    },
     "openai/gpt-oss-20b": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "gpt-oss-20b": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "gpt-oss-20b (high)": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "openai/gpt-oss-20b-preview": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "openai/gpt-oss-20b-beta": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "openai/gpt-oss-20b-exp": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "openai/gpt-oss-20b-experimental": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "openai/gpt-oss-20b-latest": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "gpt-oss-20b-preview": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "gpt-oss-20b-beta": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "gpt-oss-20b-exp": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "gpt-oss-20b-experimental": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "gpt-oss-20b-latest": {
-      "int": 9,
+      "int": 11,
       "code": 21
     },
     "openai/gpt-oss-20b-low": {
@@ -3636,55 +3732,55 @@
       "code": 8
     },
     "meta/llama-4-maverick": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "llama-4-maverick": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "llama 4 maverick": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "meta/llama-4-maverick-preview": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "meta/llama-4-maverick-beta": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "meta/llama-4-maverick-exp": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "meta/llama-4-maverick-experimental": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "meta/llama-4-maverick-latest": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "llama-4-maverick-preview": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "llama-4-maverick-beta": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "llama-4-maverick-exp": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "llama-4-maverick-experimental": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "llama-4-maverick-latest": {
-      "int": 9,
+      "int": 10,
       "code": 16
     },
     "meta/muse-glimmer": {
@@ -6140,203 +6236,203 @@
       "code": 74
     },
     "anthropic/claude-fable-5-1-high": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5-1-high": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude fable 5.1 (adaptive reasoning, high effort, default fallback)": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5.1-high": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5.1-high": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5-1-high-preview": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5-1-high-beta": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5-1-high-exp": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5-1-high-experimental": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5-1-high-latest": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5-1-high-preview": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5-1-high-beta": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5-1-high-exp": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5-1-high-experimental": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5-1-high-latest": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5.1-high-preview": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5.1-high-beta": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5.1-high-exp": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5.1-high-experimental": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5.1-high-latest": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5.1-high-preview": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5.1-high-beta": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5.1-high-exp": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5.1-high-experimental": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "claude-fable-5.1-high-latest": {
-      "int": 52,
+      "int": 55,
       "code": 79
     },
     "anthropic/claude-fable-5-1-low": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5-1-low": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude fable 5.1 (adaptive reasoning, low effort, default fallback)": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5.1-low": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5.1-low": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5-1-low-preview": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5-1-low-beta": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5-1-low-exp": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5-1-low-experimental": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5-1-low-latest": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5-1-low-preview": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5-1-low-beta": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5-1-low-exp": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5-1-low-experimental": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5-1-low-latest": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5.1-low-preview": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5.1-low-beta": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5.1-low-exp": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5.1-low-experimental": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5.1-low-latest": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5.1-low-preview": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5.1-low-beta": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5.1-low-exp": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5.1-low-experimental": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "claude-fable-5.1-low-latest": {
-      "int": 48,
+      "int": 51,
       "code": 75
     },
     "anthropic/claude-fable-5-1": {
@@ -6440,203 +6536,203 @@
       "code": 82
     },
     "anthropic/claude-fable-5-1-medium": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5-1-medium": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude fable 5.1 (adaptive reasoning, medium effort, default fallback)": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5.1-medium": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5.1-medium": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5-1-medium-preview": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5-1-medium-beta": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5-1-medium-exp": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5-1-medium-experimental": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5-1-medium-latest": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5-1-medium-preview": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5-1-medium-beta": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5-1-medium-exp": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5-1-medium-experimental": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5-1-medium-latest": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5.1-medium-preview": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5.1-medium-beta": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5.1-medium-exp": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5.1-medium-experimental": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5.1-medium-latest": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5.1-medium-preview": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5.1-medium-beta": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5.1-medium-exp": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5.1-medium-experimental": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "claude-fable-5.1-medium-latest": {
-      "int": 50,
+      "int": 53,
       "code": 77
     },
     "anthropic/claude-fable-5-1-xhigh": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5-1-xhigh": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude fable 5.1 (adaptive reasoning, xhigh effort, default fallback)": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5.1-xhigh": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5.1-xhigh": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5-1-xhigh-preview": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5-1-xhigh-beta": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5-1-xhigh-exp": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5-1-xhigh-experimental": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5-1-xhigh-latest": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5-1-xhigh-preview": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5-1-xhigh-beta": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5-1-xhigh-exp": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5-1-xhigh-experimental": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5-1-xhigh-latest": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5.1-xhigh-preview": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5.1-xhigh-beta": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5.1-xhigh-exp": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5.1-xhigh-experimental": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-fable-5.1-xhigh-latest": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5.1-xhigh-preview": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5.1-xhigh-beta": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5.1-xhigh-exp": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5.1-xhigh-experimental": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "claude-fable-5.1-xhigh-latest": {
-      "int": 54,
+      "int": 56,
       "code": 81
     },
     "anthropic/claude-sonnet-4-6-non-reasoning-low-effort": {
@@ -7171,55 +7267,55 @@
       "code": 15
     },
     "mistral/devstral-small-2": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "devstral-small-2": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "devstral small 2": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "mistral/devstral-small-2-preview": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "mistral/devstral-small-2-beta": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "mistral/devstral-small-2-exp": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "mistral/devstral-small-2-experimental": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "mistral/devstral-small-2-latest": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "devstral-small-2-preview": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "devstral-small-2-beta": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "devstral-small-2-exp": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "devstral-small-2-experimental": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "devstral-small-2-latest": {
-      "int": 11,
+      "int": 12,
       "code": 29
     },
     "mistral/mistral-medium-3-5": {
@@ -7570,55 +7666,55 @@
       "code": 69
     },
     "deepseek/deepseek-v4-pro-0424": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek-v4-pro-0424": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek v4 pro (reasoning, max effort)": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek/deepseek-v4-pro-0424-preview": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek/deepseek-v4-pro-0424-beta": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek/deepseek-v4-pro-0424-exp": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek/deepseek-v4-pro-0424-experimental": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek/deepseek-v4-pro-0424-latest": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek-v4-pro-0424-preview": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek-v4-pro-0424-beta": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek-v4-pro-0424-exp": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek-v4-pro-0424-experimental": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek-v4-pro-0424-latest": {
-      "int": 36,
+      "int": 35,
       "code": 59
     },
     "deepseek/deepseek-v4-flash-non-reasoning": {
@@ -7791,55 +7887,55 @@
       "int": 1
     },
     "deepseek/deepseek-v4-flash-vision": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek-v4-flash-vision": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek v4 flash vision (reasoning, max effort)": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek/deepseek-v4-flash-vision-preview": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek/deepseek-v4-flash-vision-beta": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek/deepseek-v4-flash-vision-exp": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek/deepseek-v4-flash-vision-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek/deepseek-v4-flash-vision-latest": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek-v4-flash-vision-preview": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek-v4-flash-vision-beta": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek-v4-flash-vision-exp": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek-v4-flash-vision-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "deepseek-v4-flash-vision-latest": {
-      "int": 42,
+      "int": 41,
       "code": 65
     },
     "perplexity/r1-1776": {
@@ -8204,103 +8300,103 @@
       "int": 29
     },
     "xai/grok-4-6-xhigh": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4-6-xhigh": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok 4.6 (xhigh)": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4.6-xhigh": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4.6-xhigh": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4-6-xhigh-preview": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4-6-xhigh-beta": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4-6-xhigh-exp": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4-6-xhigh-experimental": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4-6-xhigh-latest": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4-6-xhigh-preview": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4-6-xhigh-beta": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4-6-xhigh-exp": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4-6-xhigh-experimental": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4-6-xhigh-latest": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4.6-xhigh-preview": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4.6-xhigh-beta": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4.6-xhigh-exp": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4.6-xhigh-experimental": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4.6-xhigh-latest": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4.6-xhigh-preview": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4.6-xhigh-beta": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4.6-xhigh-exp": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4.6-xhigh-experimental": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "grok-4.6-xhigh-latest": {
-      "int": 49,
+      "int": 50,
       "code": 76
     },
     "xai/grok-4-6": {
@@ -8604,103 +8700,103 @@
       "code": 72
     },
     "xai/grok-4-6-medium": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4-6-medium": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok 4.6 (medium)": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4.6-medium": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4.6-medium": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4-6-medium-preview": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4-6-medium-beta": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4-6-medium-exp": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4-6-medium-experimental": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4-6-medium-latest": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4-6-medium-preview": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4-6-medium-beta": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4-6-medium-exp": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4-6-medium-experimental": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4-6-medium-latest": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4.6-medium-preview": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4.6-medium-beta": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4.6-medium-exp": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4.6-medium-experimental": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "xai/grok-4.6-medium-latest": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4.6-medium-preview": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4.6-medium-beta": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4.6-medium-exp": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4.6-medium-experimental": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "grok-4.6-medium-latest": {
-      "int": 48,
+      "int": 49,
       "code": 74
     },
     "aws/nova-micro": {
@@ -10818,63 +10914,63 @@
       "int": 2
     },
     "nvidia/nvidia-nemotron-3-ultra-550b-a55b": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia-nemotron-3-ultra-550b-a55b": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nemotron 3 ultra 550b a55b (reasoning)": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia/nemotron-3-ultra-550b-a55b": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nemotron-3-ultra-550b-a55b": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia/nvidia-nemotron-3-ultra-550b-a55b-preview": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia/nvidia-nemotron-3-ultra-550b-a55b-beta": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia/nvidia-nemotron-3-ultra-550b-a55b-exp": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia/nvidia-nemotron-3-ultra-550b-a55b-experimental": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia/nvidia-nemotron-3-ultra-550b-a55b-latest": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia-nemotron-3-ultra-550b-a55b-preview": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia-nemotron-3-ultra-550b-a55b-beta": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia-nemotron-3-ultra-550b-a55b-exp": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia-nemotron-3-ultra-550b-a55b-experimental": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia-nemotron-3-ultra-550b-a55b-latest": {
-      "int": 30,
+      "int": 29,
       "code": 49
     },
     "nvidia/nvidia-nemotron-3-nano-30b-a3b-reasoning": {
@@ -11715,103 +11811,103 @@
       "code": 25
     },
     "kimi/kimi-k2-7-code": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2-7-code": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi k2.7 code": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2.7-code": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2.7-code": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2-7-code-preview": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2-7-code-beta": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2-7-code-exp": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2-7-code-experimental": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2-7-code-latest": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2-7-code-preview": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2-7-code-beta": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2-7-code-exp": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2-7-code-experimental": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2-7-code-latest": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2.7-code-preview": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2.7-code-beta": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2.7-code-exp": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2.7-code-experimental": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k2.7-code-latest": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2.7-code-preview": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2.7-code-beta": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2.7-code-exp": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2.7-code-experimental": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi-k2.7-code-latest": {
-      "int": 34,
+      "int": 33,
       "code": 61
     },
     "kimi/kimi-k3": {
@@ -11906,55 +12002,55 @@
       "int": 3
     },
     "kimi/kimi-k3-low": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi-k3-low": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi k3 (low)": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi/kimi-k3-low-preview": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi/kimi-k3-low-beta": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi/kimi-k3-low-exp": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi/kimi-k3-low-experimental": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi/kimi-k3-low-latest": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi-k3-low-preview": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi-k3-low-beta": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi-k3-low-exp": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi-k3-low-experimental": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "kimi-k3-low-latest": {
-      "int": 39,
+      "int": 37,
       "code": 72
     },
     "stepfun/step-3-7-flash": {
@@ -14804,103 +14900,103 @@
       "int": 26
     },
     "xiaomi/mimo-v2-5-0424": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2-5-0424": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2.5": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2.5-0424": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2.5-0424": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2-5-0424-preview": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2-5-0424-beta": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2-5-0424-exp": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2-5-0424-experimental": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2-5-0424-latest": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2-5-0424-preview": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2-5-0424-beta": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2-5-0424-exp": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2-5-0424-experimental": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2-5-0424-latest": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2.5-0424-preview": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2.5-0424-beta": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2.5-0424-exp": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2.5-0424-experimental": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2.5-0424-latest": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2.5-0424-preview": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2.5-0424-beta": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2.5-0424-exp": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2.5-0424-experimental": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "mimo-v2.5-0424-latest": {
-      "int": 30,
+      "int": 28,
       "code": 57
     },
     "xiaomi/mimo-v2-5-pro": {
@@ -15404,49 +15500,49 @@
       "code": 23
     },
     "tencent/hy3": {
-      "int": 33,
+      "int": 32,
       "code": 59
     },
     "hy3": {
-      "int": 33,
+      "int": 32,
       "code": 59
     },
     "tencent/hy3-preview": {
       "int": 27
     },
     "tencent/hy3-beta": {
-      "int": 33,
+      "int": 32,
       "code": 59
     },
     "tencent/hy3-exp": {
-      "int": 33,
+      "int": 32,
       "code": 59
     },
     "tencent/hy3-experimental": {
-      "int": 33,
+      "int": 32,
       "code": 59
     },
     "tencent/hy3-latest": {
-      "int": 33,
+      "int": 32,
       "code": 59
     },
     "hy3-preview": {
       "int": 27
     },
     "hy3-beta": {
-      "int": 33,
+      "int": 32,
       "code": 59
     },
     "hy3-exp": {
-      "int": 33,
+      "int": 32,
       "code": 59
     },
     "hy3-experimental": {
-      "int": 33,
+      "int": 32,
       "code": 59
     },
     "hy3-latest": {
-      "int": 33,
+      "int": 32,
       "code": 59
     },
     "kwaikat/kat-coder-pro-v2": {
@@ -16638,55 +16734,55 @@
       "int": 6
     },
     "arcee/trinity-large-thinking": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "trinity-large-thinking": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "trinity large thinking": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "arcee/trinity-large-thinking-preview": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "arcee/trinity-large-thinking-beta": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "arcee/trinity-large-thinking-exp": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "arcee/trinity-large-thinking-experimental": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "arcee/trinity-large-thinking-latest": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "trinity-large-thinking-preview": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "trinity-large-thinking-beta": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "trinity-large-thinking-exp": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "trinity-large-thinking-experimental": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "trinity-large-thinking-latest": {
-      "int": 12,
+      "int": 13,
       "code": 26
     },
     "china-mobile/jt-35b-flash": {
@@ -17358,111 +17454,111 @@
       "code": 61
     },
     "zai/glm-5-2": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5-2": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5.2 (max)": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "z-ai/glm-5-2": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "z-ai/glm-5.2": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5.2": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5.2": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5-2-preview": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5-2-beta": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5-2-exp": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5-2-experimental": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5-2-latest": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5-2-preview": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5-2-beta": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5-2-exp": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5-2-experimental": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5-2-latest": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5.2-preview": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5.2-beta": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5.2-exp": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5.2-experimental": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5.2-latest": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5.2-preview": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5.2-beta": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5.2-exp": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5.2-experimental": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "glm-5.2-latest": {
-      "int": 43,
+      "int": 42,
       "code": 69
     },
     "zai/glm-5-2-non-reasoning": {
@@ -19418,103 +19514,103 @@
       "int": 25
     },
     "alibaba/qwen3-7-plus": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3-7-plus": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3.7 plus": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3.7-plus": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3.7-plus": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3-7-plus-preview": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3-7-plus-beta": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3-7-plus-exp": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3-7-plus-experimental": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3-7-plus-latest": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3-7-plus-preview": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3-7-plus-beta": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3-7-plus-exp": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3-7-plus-experimental": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3-7-plus-latest": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3.7-plus-preview": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3.7-plus-beta": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3.7-plus-exp": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3.7-plus-experimental": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3.7-plus-latest": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3.7-plus-preview": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3.7-plus-beta": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3.7-plus-exp": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3.7-plus-experimental": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "qwen3.7-plus-latest": {
-      "int": 31,
+      "int": 32,
       "code": 56
     },
     "alibaba/qwen3-8-27b": {
@@ -21478,51 +21574,51 @@
       "code": 62
     },
     "celeris/celeris-1": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris-1": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris/celeris-1-preview": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris/celeris-1-beta": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris/celeris-1-exp": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris/celeris-1-experimental": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris/celeris-1-latest": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris-1-preview": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris-1-beta": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris-1-exp": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris-1-experimental": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "celeris-1-latest": {
-      "int": 6,
+      "int": 8,
       "code": 14
     },
     "openai/o1": {
@@ -22295,103 +22391,103 @@
       "int": 20
     },
     "openai/gpt-5-5-medium": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5-5-medium": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5.5 (medium)": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5.5-medium": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5.5-medium": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5-5-medium-preview": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5-5-medium-beta": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5-5-medium-exp": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5-5-medium-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5-5-medium-latest": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5-5-medium-preview": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5-5-medium-beta": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5-5-medium-exp": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5-5-medium-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5-5-medium-latest": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5.5-medium-preview": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5.5-medium-beta": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5.5-medium-exp": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5.5-medium-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-5.5-medium-latest": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5.5-medium-preview": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5.5-medium-beta": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5.5-medium-exp": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5.5-medium-experimental": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "gpt-5.5-medium-latest": {
-      "int": 42,
+      "int": 41,
       "code": 72
     },
     "openai/gpt-4": {
@@ -25614,103 +25710,103 @@
       "int": 1
     },
     "meta/muse-spark-1-1": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1-1": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse spark 1.1 (xhigh)": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1.1": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1.1": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1-1-preview": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1-1-beta": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1-1-exp": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1-1-experimental": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1-1-latest": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1-1-preview": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1-1-beta": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1-1-exp": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1-1-experimental": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1-1-latest": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1.1-preview": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1.1-beta": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1.1-exp": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1.1-experimental": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/muse-spark-1.1-latest": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1.1-preview": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1.1-beta": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1.1-exp": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1.1-experimental": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "muse-spark-1.1-latest": {
-      "int": 43,
+      "int": 41,
       "code": 71
     },
     "meta/llama-2-chat-13b": {
@@ -29620,103 +29716,103 @@
       "code": 14
     },
     "anthropic/claude-opus-4-8": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4-8": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude opus 4.8 (adaptive reasoning, max effort)": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4.8": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4.8": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4-8-preview": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4-8-beta": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4-8-exp": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4-8-experimental": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4-8-latest": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4-8-preview": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4-8-beta": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4-8-exp": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4-8-experimental": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4-8-latest": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4.8-preview": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4.8-beta": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4.8-exp": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4.8-experimental": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-opus-4.8-latest": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4.8-preview": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4.8-beta": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4.8-exp": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4.8-experimental": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "claude-opus-4.8-latest": {
-      "int": 46,
+      "int": 48,
       "code": 74
     },
     "anthropic/claude-4-5-sonnet": {
@@ -29795,103 +29891,103 @@
       "int": 23
     },
     "anthropic/claude-4-5-sonnet-thinking": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4-5-sonnet-thinking": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude 4.5 sonnet (reasoning)": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4.5-sonnet-thinking": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4.5-sonnet-thinking": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4-5-sonnet-thinking-preview": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4-5-sonnet-thinking-beta": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4-5-sonnet-thinking-exp": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4-5-sonnet-thinking-experimental": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4-5-sonnet-thinking-latest": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4-5-sonnet-thinking-preview": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4-5-sonnet-thinking-beta": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4-5-sonnet-thinking-exp": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4-5-sonnet-thinking-experimental": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4-5-sonnet-thinking-latest": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4.5-sonnet-thinking-preview": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4.5-sonnet-thinking-beta": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4.5-sonnet-thinking-exp": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4.5-sonnet-thinking-experimental": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4.5-sonnet-thinking-latest": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4.5-sonnet-thinking-preview": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4.5-sonnet-thinking-beta": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4.5-sonnet-thinking-exp": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4.5-sonnet-thinking-experimental": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "claude-4.5-sonnet-thinking-latest": {
-      "int": 29,
+      "int": 27,
       "code": 52
     },
     "anthropic/claude-4-opus-thinking": {
@@ -31518,103 +31614,103 @@
       "code": 13
     },
     "mistral/mistral-small-3-1": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3-1": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral small 3.1": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3.1": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3.1": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3-1-preview": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3-1-beta": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3-1-exp": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3-1-experimental": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3-1-latest": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3-1-preview": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3-1-beta": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3-1-exp": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3-1-experimental": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3-1-latest": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3.1-preview": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3.1-beta": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3.1-exp": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3.1-experimental": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/mistral-small-3.1-latest": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3.1-preview": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3.1-beta": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3.1-exp": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3.1-experimental": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral-small-3.1-latest": {
-      "int": 9,
+      "int": 10,
       "code": 26
     },
     "mistral/devstral-small-2505": {
@@ -31930,55 +32026,55 @@
       "int": 5
     },
     "deepseek/deepseek-v3": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek-v3": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek v3 (dec '24)": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek/deepseek-v3-preview": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek/deepseek-v3-beta": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek/deepseek-v3-exp": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek/deepseek-v3-experimental": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek/deepseek-v3-latest": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek-v3-preview": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek-v3-beta": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek-v3-exp": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek-v3-experimental": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek-v3-latest": {
-      "int": 8,
+      "int": 10,
       "code": 23
     },
     "deepseek/deepseek-r1-distill-qwen-14b": {
@@ -32337,55 +32433,55 @@
       "code": 52
     },
     "deepseek/deepseek-v4-flash-0420": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek-v4-flash-0420": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek v4 flash (reasoning, max effort)": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek/deepseek-v4-flash-0420-preview": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek/deepseek-v4-flash-0420-beta": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek/deepseek-v4-flash-0420-exp": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek/deepseek-v4-flash-0420-experimental": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek/deepseek-v4-flash-0420-latest": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek-v4-flash-0420-preview": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek-v4-flash-0420-beta": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek-v4-flash-0420-exp": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek-v4-flash-0420-experimental": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek-v4-flash-0420-latest": {
-      "int": 33,
+      "int": 31,
       "code": 56
     },
     "deepseek/deepseek-v3-2-reasoning": {
@@ -34112,103 +34208,103 @@
       "int": 16
     },
     "xai/grok-4-3": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4-3": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok 4.3 (high)": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4.3": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4.3": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4-3-preview": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4-3-beta": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4-3-exp": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4-3-experimental": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4-3-latest": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4-3-preview": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4-3-beta": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4-3-exp": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4-3-experimental": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4-3-latest": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4.3-preview": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4.3-beta": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4.3-exp": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4.3-experimental": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-4.3-latest": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4.3-preview": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4.3-beta": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4.3-exp": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4.3-experimental": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "grok-4.3-latest": {
-      "int": 29,
+      "int": 30,
       "code": 42
     },
     "xai/grok-build-0-1-06-16": {
@@ -40414,203 +40510,203 @@
       "int": 3
     },
     "alibaba/qwen3-32b-instruct-reasoning": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3-32b-instruct-reasoning": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3 32b (reasoning)": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3.32b-instruct-reasoning": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3.32b-instruct-reasoning": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3-32b-instruct-reasoning-preview": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3-32b-instruct-reasoning-beta": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3-32b-instruct-reasoning-exp": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3-32b-instruct-reasoning-experimental": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3-32b-instruct-reasoning-latest": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3-32b-instruct-reasoning-preview": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3-32b-instruct-reasoning-beta": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3-32b-instruct-reasoning-exp": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3-32b-instruct-reasoning-experimental": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3-32b-instruct-reasoning-latest": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3.32b-instruct-reasoning-preview": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3.32b-instruct-reasoning-beta": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3.32b-instruct-reasoning-exp": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3.32b-instruct-reasoning-experimental": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3.32b-instruct-reasoning-latest": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3.32b-instruct-reasoning-preview": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3.32b-instruct-reasoning-beta": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3.32b-instruct-reasoning-exp": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3.32b-instruct-reasoning-experimental": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "qwen3.32b-instruct-reasoning-latest": {
-      "int": 6,
+      "int": 8,
       "code": 15
     },
     "alibaba/qwen3-14b-instruct-reasoning": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3-14b-instruct-reasoning": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3 14b (reasoning)": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3.14b-instruct-reasoning": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3.14b-instruct-reasoning": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3-14b-instruct-reasoning-preview": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3-14b-instruct-reasoning-beta": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3-14b-instruct-reasoning-exp": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3-14b-instruct-reasoning-experimental": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3-14b-instruct-reasoning-latest": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3-14b-instruct-reasoning-preview": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3-14b-instruct-reasoning-beta": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3-14b-instruct-reasoning-exp": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3-14b-instruct-reasoning-experimental": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3-14b-instruct-reasoning-latest": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3.14b-instruct-reasoning-preview": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3.14b-instruct-reasoning-beta": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3.14b-instruct-reasoning-exp": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3.14b-instruct-reasoning-experimental": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3.14b-instruct-reasoning-latest": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3.14b-instruct-reasoning-preview": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3.14b-instruct-reasoning-beta": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3.14b-instruct-reasoning-exp": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3.14b-instruct-reasoning-experimental": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "qwen3.14b-instruct-reasoning-latest": {
-      "int": 5,
+      "int": 7,
       "code": 14
     },
     "alibaba/qwen3-vl-8b-reasoning": {
@@ -43279,9 +43375,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 57.255,
-      "median_time_to_first_token_seconds": 21.249,
-      "median_time_to_first_answer_token": 21.249,
+      "median_output_tokens_per_second": 57.336,
+      "median_time_to_first_token_seconds": 24.553,
+      "median_time_to_first_answer_token": 24.553,
       "id": "e05a4828-0536-4876-870d-a235023f992b",
       "release_date": "2026-09-03"
     },
@@ -43317,9 +43413,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 56.636,
-      "median_time_to_first_token_seconds": 1.203,
-      "median_time_to_first_answer_token": 1.203,
+      "median_output_tokens_per_second": 58.606,
+      "median_time_to_first_token_seconds": 1.796,
+      "median_time_to_first_answer_token": 1.796,
       "id": "a3f8100d-e38f-408b-b0fa-0085dae18dc1",
       "release_date": "2026-09-03"
     },
@@ -43355,9 +43451,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 61.33,
-      "median_time_to_first_token_seconds": 184.627,
-      "median_time_to_first_answer_token": 184.627,
+      "median_output_tokens_per_second": 63.444,
+      "median_time_to_first_token_seconds": 198.54,
+      "median_time_to_first_answer_token": 198.54,
       "id": "2f339a97-9a0d-499a-9cb5-e0db665bfa25",
       "release_date": "2026-09-03"
     },
@@ -43393,9 +43489,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 58.36,
-      "median_time_to_first_token_seconds": 3.06,
-      "median_time_to_first_answer_token": 3.06,
+      "median_output_tokens_per_second": 57.911,
+      "median_time_to_first_token_seconds": 4.178,
+      "median_time_to_first_answer_token": 4.178,
       "id": "e97a4ef5-e817-480e-9595-12f81dc4974f",
       "release_date": "2026-09-03"
     },
@@ -43431,9 +43527,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 57.452,
-      "median_time_to_first_token_seconds": 61.929,
-      "median_time_to_first_answer_token": 61.929,
+      "median_output_tokens_per_second": 57.461,
+      "median_time_to_first_token_seconds": 68.458,
+      "median_time_to_first_answer_token": 68.458,
       "id": "1f541ef3-913f-4eb2-9d07-0e93c7a9a5e3",
       "release_date": "2026-09-03"
     },
@@ -43469,9 +43565,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 43.823,
-      "median_time_to_first_token_seconds": 1.209,
-      "median_time_to_first_answer_token": 46.847,
+      "median_output_tokens_per_second": 58.715,
+      "median_time_to_first_token_seconds": 1.217,
+      "median_time_to_first_answer_token": 35.28,
       "id": "19496b81-9f41-4214-a77a-1df803b3c5ae",
       "release_date": "2026-08-26"
     },
@@ -43507,9 +43603,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 339.975,
-      "median_time_to_first_token_seconds": 8.147,
-      "median_time_to_first_answer_token": 8.147,
+      "median_output_tokens_per_second": 355.803,
+      "median_time_to_first_token_seconds": 9.297,
+      "median_time_to_first_answer_token": 9.297,
       "id": "8a999846-4c1d-4ce7-a8b7-1310a7166fd7",
       "release_date": "2026-09-02"
     },
@@ -43522,7 +43618,7 @@
         "slug": "google"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 42.4,
+        "artificial_analysis_intelligence_index": 41,
         "artificial_analysis_coding_index": 73.5,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -43621,9 +43717,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.47
       },
-      "median_output_tokens_per_second": 73.944,
-      "median_time_to_first_token_seconds": 1.302,
-      "median_time_to_first_answer_token": 28.35,
+      "median_output_tokens_per_second": 76.399,
+      "median_time_to_first_token_seconds": 1.326,
+      "median_time_to_first_answer_token": 27.504,
       "id": "9ac3908c-9eb2-44db-8c01-3ec7da6fc2ae",
       "release_date": "2026-08-26"
     },
@@ -43674,7 +43770,7 @@
         "slug": "multiversecomputing"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 33.9,
+        "artificial_analysis_intelligence_index": 34.2,
         "artificial_analysis_coding_index": 61.2,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -43697,11 +43793,49 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 1.8
       },
-      "median_output_tokens_per_second": 188.12,
-      "median_time_to_first_token_seconds": 0.357,
-      "median_time_to_first_answer_token": 10.989,
+      "median_output_tokens_per_second": 156.079,
+      "median_time_to_first_token_seconds": 0.393,
+      "median_time_to_first_answer_token": 13.207,
       "id": "f9739750-6d42-450f-ba1e-2f76c869b4fe",
       "release_date": "2026-08-10"
+    },
+    "openbmb/minicpm5-2b": {
+      "name": "MiniCPM5-2B",
+      "slug": "minicpm5-2b",
+      "model_creator": {
+        "id": "7399e4ac-f64d-4be6-b649-2fc20756839f",
+        "name": "OpenBMB",
+        "slug": "openbmb"
+      },
+      "evaluations": {
+        "artificial_analysis_intelligence_index": 15,
+        "artificial_analysis_coding_index": 14.5,
+        "artificial_analysis_math_index": null,
+        "mmlu_pro": null,
+        "gpqa": 0.702,
+        "hle": 0.089,
+        "livecodebench": null,
+        "scicode": 0.263,
+        "math_500": null,
+        "aime": null,
+        "aime_25": null,
+        "ifbench": null,
+        "lcr": 0.593333333333333,
+        "terminalbench_hard": null,
+        "terminalbench_v2_1": 0.0861423220973783,
+        "tau2": null,
+        "tau_banking": 0.208247422680412
+      },
+      "pricing": {
+        "price_1m_blended_3_to_1": 0,
+        "price_1m_input_tokens": 0,
+        "price_1m_output_tokens": 0
+      },
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
+      "id": "641a073a-41c9-4773-9b02-d965c16607c5",
+      "release_date": "2026-09-07"
     },
     "openai/gpt-oss-20b": {
       "name": "gpt-oss-20b (high)",
@@ -43712,14 +43846,14 @@
         "slug": "openai"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 9.1,
+        "artificial_analysis_intelligence_index": 10.8,
         "artificial_analysis_coding_index": 20.7,
         "artificial_analysis_math_index": 89.3,
         "mmlu_pro": 0.748,
         "gpqa": 0.688,
         "hle": 0.11,
         "livecodebench": 0.777,
-        "scicode": null,
+        "scicode": 0.389,
         "math_500": null,
         "aime": null,
         "aime_25": 0.893333333333333,
@@ -43735,9 +43869,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.19
       },
-      "median_output_tokens_per_second": 184.302,
-      "median_time_to_first_token_seconds": 0.418,
-      "median_time_to_first_answer_token": 11.27,
+      "median_output_tokens_per_second": 236.288,
+      "median_time_to_first_token_seconds": 0.451,
+      "median_time_to_first_answer_token": 8.915,
       "id": "36f73aaf-d38a-4b56-a2b3-d04d17186910",
       "release_date": "2025-08-05"
     },
@@ -43773,9 +43907,9 @@
         "price_1m_input_tokens": 0.07,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 232.436,
-      "median_time_to_first_token_seconds": 0.553,
-      "median_time_to_first_answer_token": 9.157,
+      "median_output_tokens_per_second": 254.865,
+      "median_time_to_first_token_seconds": 0.443,
+      "median_time_to_first_answer_token": 8.29,
       "id": "16149b9c-a1e9-4669-a5cb-ff3c00d78f89",
       "release_date": "2025-08-05"
     },
@@ -43811,9 +43945,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 90.644,
-      "median_time_to_first_token_seconds": 1.837,
-      "median_time_to_first_answer_token": 1.837,
+      "median_output_tokens_per_second": 103.379,
+      "median_time_to_first_token_seconds": 1.765,
+      "median_time_to_first_answer_token": 1.765,
       "id": "26e0f83a-ca98-4f34-94ac-7c5e251ee410",
       "release_date": "2026-07-09"
     },
@@ -43849,9 +43983,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.595
       },
-      "median_output_tokens_per_second": 180.858,
-      "median_time_to_first_token_seconds": 0.463,
-      "median_time_to_first_answer_token": 11.521,
+      "median_output_tokens_per_second": 216.658,
+      "median_time_to_first_token_seconds": 0.452,
+      "median_time_to_first_answer_token": 9.683,
       "id": "f0083258-8646-45b8-8082-7aaf6c2ea82a",
       "release_date": "2025-08-05"
     },
@@ -43887,9 +44021,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 8
       },
-      "median_output_tokens_per_second": 122.51,
-      "median_time_to_first_token_seconds": 4.411,
-      "median_time_to_first_answer_token": 4.411,
+      "median_output_tokens_per_second": 150.686,
+      "median_time_to_first_token_seconds": 4.29,
+      "median_time_to_first_answer_token": 4.29,
       "id": "16c5b637-8bce-4252-81f2-1b87a36a4e4c",
       "release_date": "2025-04-16"
     },
@@ -43925,9 +44059,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 75.824,
-      "median_time_to_first_token_seconds": 2.098,
-      "median_time_to_first_answer_token": 2.098,
+      "median_output_tokens_per_second": 73.65,
+      "median_time_to_first_token_seconds": 2.478,
+      "median_time_to_first_answer_token": 2.478,
       "id": "0904b596-8932-43bd-9b21-324f128e1723",
       "release_date": "2026-07-09"
     },
@@ -43963,9 +44097,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 103.837,
-      "median_time_to_first_token_seconds": 1.514,
-      "median_time_to_first_answer_token": 1.514,
+      "median_output_tokens_per_second": 103.978,
+      "median_time_to_first_token_seconds": 1.392,
+      "median_time_to_first_answer_token": 1.392,
       "id": "050c61cd-cddc-463a-a30a-a82aaa37be59",
       "release_date": "2026-07-09"
     },
@@ -44001,9 +44135,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.545
       },
-      "median_output_tokens_per_second": 211.773,
-      "median_time_to_first_token_seconds": 0.456,
-      "median_time_to_first_answer_token": 9.9,
+      "median_output_tokens_per_second": 239.518,
+      "median_time_to_first_token_seconds": 0.448,
+      "median_time_to_first_answer_token": 8.798,
       "id": "c99f3bde-7c08-4de8-bd5c-8ee9123ebffa",
       "release_date": "2025-08-05"
     },
@@ -44039,9 +44173,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 104.085,
-      "median_time_to_first_token_seconds": 104.021,
-      "median_time_to_first_answer_token": 104.021,
+      "median_output_tokens_per_second": 121.215,
+      "median_time_to_first_token_seconds": 150.885,
+      "median_time_to_first_answer_token": 150.885,
       "id": "bcf8db0a-3bb6-4d82-9516-0f57370c85a6",
       "release_date": "2026-07-09"
     },
@@ -44115,9 +44249,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 79.307,
-      "median_time_to_first_token_seconds": 50.228,
-      "median_time_to_first_answer_token": 50.228,
+      "median_output_tokens_per_second": 73.438,
+      "median_time_to_first_token_seconds": 46.074,
+      "median_time_to_first_answer_token": 46.074,
       "id": "d93edfe8-bf35-49ad-b56e-b18116142a1c",
       "release_date": "2026-07-09"
     },
@@ -44153,9 +44287,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 110.498,
-      "median_time_to_first_token_seconds": 104.276,
-      "median_time_to_first_answer_token": 104.276,
+      "median_output_tokens_per_second": 116.734,
+      "median_time_to_first_token_seconds": 98.837,
+      "median_time_to_first_answer_token": 98.837,
       "id": "426d24c8-49ae-482a-b4a8-20f1c53f21c1",
       "release_date": "2026-07-09"
     },
@@ -44191,9 +44325,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 72.124,
-      "median_time_to_first_token_seconds": 0.927,
-      "median_time_to_first_answer_token": 0.927,
+      "median_output_tokens_per_second": 68.553,
+      "median_time_to_first_token_seconds": 0.891,
+      "median_time_to_first_answer_token": 0.891,
       "id": "7c4d1e30-6ecb-46cf-880c-41446d7b51f1",
       "release_date": "2026-07-09"
     },
@@ -44229,9 +44363,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 83.692,
-      "median_time_to_first_token_seconds": 0.889,
-      "median_time_to_first_answer_token": 0.889,
+      "median_output_tokens_per_second": 92.043,
+      "median_time_to_first_token_seconds": 0.762,
+      "median_time_to_first_answer_token": 0.762,
       "id": "9b97a35e-6ac7-44d9-91c6-422fa678963e",
       "release_date": "2026-07-09"
     },
@@ -44267,9 +44401,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 110.362,
-      "median_time_to_first_token_seconds": 0.817,
-      "median_time_to_first_answer_token": 0.817,
+      "median_output_tokens_per_second": 114.97,
+      "median_time_to_first_token_seconds": 0.709,
+      "median_time_to_first_answer_token": 0.709,
       "id": "dc64f856-3ded-497d-9527-d41d31267ed5",
       "release_date": "2026-07-09"
     },
@@ -44305,9 +44439,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 75.205,
-      "median_time_to_first_token_seconds": 4.469,
-      "median_time_to_first_answer_token": 4.469,
+      "median_output_tokens_per_second": 76.983,
+      "median_time_to_first_token_seconds": 3.778,
+      "median_time_to_first_answer_token": 3.778,
       "id": "6f174934-5b7d-4333-86cb-f5ebf4a862e3",
       "release_date": "2026-07-09"
     },
@@ -44343,9 +44477,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 78.487,
-      "median_time_to_first_token_seconds": 18.362,
-      "median_time_to_first_answer_token": 18.362,
+      "median_output_tokens_per_second": 79.882,
+      "median_time_to_first_token_seconds": 22.57,
+      "median_time_to_first_answer_token": 22.57,
       "id": "d998db47-9b67-4727-a2bb-2e1261020ac0",
       "release_date": "2026-07-09"
     },
@@ -44381,9 +44515,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 86.952,
-      "median_time_to_first_token_seconds": 1.559,
-      "median_time_to_first_answer_token": 1.559,
+      "median_output_tokens_per_second": 94.222,
+      "median_time_to_first_token_seconds": 1.473,
+      "median_time_to_first_answer_token": 1.473,
       "id": "cc4a20cd-09fe-4962-a430-119c815e85fa",
       "release_date": "2026-07-09"
     },
@@ -44419,9 +44553,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 30
       },
-      "median_output_tokens_per_second": 138.144,
-      "median_time_to_first_token_seconds": 0.905,
-      "median_time_to_first_answer_token": 15.383,
+      "median_output_tokens_per_second": 128.31,
+      "median_time_to_first_token_seconds": 0.894,
+      "median_time_to_first_answer_token": 16.481,
       "id": "c4169d75-9d24-4794-a9c3-69e1fe364de5",
       "release_date": "2026-06-25"
     },
@@ -44457,9 +44591,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 103.961,
-      "median_time_to_first_token_seconds": 8.265,
-      "median_time_to_first_answer_token": 8.265,
+      "median_output_tokens_per_second": 104.354,
+      "median_time_to_first_token_seconds": 16.92,
+      "median_time_to_first_answer_token": 16.92,
       "id": "aa55297e-8fbf-4372-b4ab-9b068dc6396c",
       "release_date": "2026-07-09"
     },
@@ -44495,9 +44629,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 92.133,
-      "median_time_to_first_token_seconds": 9.548,
-      "median_time_to_first_answer_token": 9.548,
+      "median_output_tokens_per_second": 106.398,
+      "median_time_to_first_token_seconds": 11.537,
+      "median_time_to_first_answer_token": 11.537,
       "id": "9e30696f-16fa-4b4f-ba53-161895a85fed",
       "release_date": "2026-07-09"
     },
@@ -44533,9 +44667,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 73.533,
-      "median_time_to_first_token_seconds": 6.906,
-      "median_time_to_first_answer_token": 6.906,
+      "median_output_tokens_per_second": 76.226,
+      "median_time_to_first_token_seconds": 11.58,
+      "median_time_to_first_answer_token": 11.58,
       "id": "8afc250d-b538-45a2-812a-4605f4ffd87e",
       "release_date": "2026-07-09"
     },
@@ -44571,9 +44705,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 109.554,
-      "median_time_to_first_token_seconds": 34.591,
-      "median_time_to_first_answer_token": 34.591,
+      "median_output_tokens_per_second": 121.75,
+      "median_time_to_first_token_seconds": 34.069,
+      "median_time_to_first_answer_token": 34.069,
       "id": "87110ff0-1f79-41b4-9976-eda250597317",
       "release_date": "2026-07-09"
     },
@@ -44609,9 +44743,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 86.946,
-      "median_time_to_first_token_seconds": 2.706,
-      "median_time_to_first_answer_token": 2.706,
+      "median_output_tokens_per_second": 100.115,
+      "median_time_to_first_token_seconds": 2.641,
+      "median_time_to_first_answer_token": 2.641,
       "id": "81972fba-1219-477e-bbfb-18c656a63ff7",
       "release_date": "2026-07-09"
     },
@@ -44647,9 +44781,9 @@
         "price_1m_input_tokens": 1.75,
         "price_1m_output_tokens": 14
       },
-      "median_output_tokens_per_second": 120.125,
-      "median_time_to_first_token_seconds": 31.505,
-      "median_time_to_first_answer_token": 31.505,
+      "median_output_tokens_per_second": 143.103,
+      "median_time_to_first_token_seconds": 31.124,
+      "median_time_to_first_answer_token": 31.124,
       "id": "59b5b14b-5365-4ee7-824a-18a8e6309644",
       "release_date": "2026-02-05"
     },
@@ -44669,7 +44803,7 @@
         "gpqa": 0.859,
         "hle": 0.258,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.468,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -44685,9 +44819,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 102.38,
-      "median_time_to_first_token_seconds": 2.18,
-      "median_time_to_first_answer_token": 2.18,
+      "median_output_tokens_per_second": 103.789,
+      "median_time_to_first_token_seconds": 2.221,
+      "median_time_to_first_answer_token": 2.221,
       "id": "58b812bf-8498-46db-b834-f43ccc614b61",
       "release_date": "2026-07-09"
     },
@@ -44723,9 +44857,9 @@
         "price_1m_input_tokens": 0.655,
         "price_1m_output_tokens": 0.72
       },
-      "median_output_tokens_per_second": 90.363,
-      "median_time_to_first_token_seconds": 0.617,
-      "median_time_to_first_answer_token": 0.617,
+      "median_output_tokens_per_second": 96.045,
+      "median_time_to_first_token_seconds": 0.621,
+      "median_time_to_first_answer_token": 0.621,
       "id": "976cc8ad-7904-4056-83c5-960181f47d5f",
       "release_date": "2024-12-06"
     },
@@ -44837,9 +44971,9 @@
         "price_1m_input_tokens": 0.345,
         "price_1m_output_tokens": 0.345
       },
-      "median_output_tokens_per_second": 26.83,
-      "median_time_to_first_token_seconds": 0.583,
-      "median_time_to_first_answer_token": 0.583,
+      "median_output_tokens_per_second": 16.815,
+      "median_time_to_first_token_seconds": 0.795,
+      "median_time_to_first_answer_token": 0.795,
       "id": "5fb47ff6-a30e-4c2c-96f2-55e95a13390f",
       "release_date": "2024-09-25"
     },
@@ -44875,9 +45009,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 4.25
       },
-      "median_output_tokens_per_second": 223.575,
-      "median_time_to_first_token_seconds": 7.366,
-      "median_time_to_first_answer_token": 16.312,
+      "median_output_tokens_per_second": 261.994,
+      "median_time_to_first_token_seconds": 7.863,
+      "median_time_to_first_answer_token": 15.497,
       "id": "04ee6719-0327-463b-a1a1-70a6a78254f9",
       "release_date": "2026-08-05"
     },
@@ -44913,9 +45047,9 @@
         "price_1m_input_tokens": 0.19,
         "price_1m_output_tokens": 0.68
       },
-      "median_output_tokens_per_second": 85.219,
-      "median_time_to_first_token_seconds": 0.611,
-      "median_time_to_first_answer_token": 0.611,
+      "median_output_tokens_per_second": 79.768,
+      "median_time_to_first_token_seconds": 0.594,
+      "median_time_to_first_answer_token": 0.594,
       "id": "adf9a85e-abc3-4f28-937b-db6655cc5238",
       "release_date": "2025-04-05"
     },
@@ -44928,14 +45062,14 @@
         "slug": "meta"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 8.5,
+        "artificial_analysis_intelligence_index": 10.3,
         "artificial_analysis_coding_index": 16.3,
         "artificial_analysis_math_index": 19.3,
         "mmlu_pro": 0.809,
         "gpqa": 0.671,
         "hle": 0.049,
         "livecodebench": 0.397,
-        "scicode": null,
+        "scicode": 0.317,
         "math_500": 0.888666666666667,
         "aime": 0.39,
         "aime_25": 0.193333333333333,
@@ -44951,9 +45085,9 @@
         "price_1m_input_tokens": 0.26,
         "price_1m_output_tokens": 0.91
       },
-      "median_output_tokens_per_second": 84.533,
-      "median_time_to_first_token_seconds": 0.582,
-      "median_time_to_first_answer_token": 0.582,
+      "median_output_tokens_per_second": 95.012,
+      "median_time_to_first_token_seconds": 0.577,
+      "median_time_to_first_answer_token": 0.577,
       "id": "922c69c7-9037-43c6-8bcf-a1c555e7f3eb",
       "release_date": "2025-04-05"
     },
@@ -44989,9 +45123,9 @@
         "price_1m_input_tokens": 0.35,
         "price_1m_output_tokens": 1.5
       },
-      "median_output_tokens_per_second": 95.494,
-      "median_time_to_first_token_seconds": 0.354,
-      "median_time_to_first_answer_token": 21.297,
+      "median_output_tokens_per_second": 103.417,
+      "median_time_to_first_token_seconds": 0.397,
+      "median_time_to_first_answer_token": 19.736,
       "id": "583f98fb-c4b8-4df3-8d40-60ac0ed69882",
       "release_date": "2026-08-10"
     },
@@ -45027,9 +45161,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 4.25
       },
-      "median_output_tokens_per_second": 176.544,
-      "median_time_to_first_token_seconds": 18.403,
-      "median_time_to_first_answer_token": 29.732,
+      "median_output_tokens_per_second": 221.023,
+      "median_time_to_first_token_seconds": 21.27,
+      "median_time_to_first_answer_token": 30.319,
       "id": "58a40aba-a44f-457f-9cca-75b43d4e6934",
       "release_date": "2026-09-02"
     },
@@ -45065,9 +45199,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 4.25
       },
-      "median_output_tokens_per_second": 107.866,
-      "median_time_to_first_token_seconds": 45.194,
-      "median_time_to_first_answer_token": 63.736,
+      "median_output_tokens_per_second": 187.392,
+      "median_time_to_first_token_seconds": 25.777,
+      "median_time_to_first_answer_token": 36.45,
       "id": "d5170215-69be-4129-849b-26d8d8825bfc",
       "release_date": "2026-09-02"
     },
@@ -45141,9 +45275,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.3
       },
-      "median_output_tokens_per_second": 129.767,
-      "median_time_to_first_token_seconds": 1.345,
-      "median_time_to_first_answer_token": 16.757,
+      "median_output_tokens_per_second": 128.612,
+      "median_time_to_first_token_seconds": 1.325,
+      "median_time_to_first_answer_token": 16.875,
       "id": "feb02d3b-ff8d-4ed4-b165-13f8d4a7192c",
       "release_date": "2026-06-03"
     },
@@ -45179,9 +45313,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 35.058,
-      "median_time_to_first_token_seconds": 0.969,
-      "median_time_to_first_answer_token": 50.487,
+      "median_output_tokens_per_second": 35.05,
+      "median_time_to_first_token_seconds": 0.949,
+      "median_time_to_first_answer_token": 50.479,
       "id": "cd26a386-4873-46ff-b853-d239050025a2",
       "release_date": "2026-04-02"
     },
@@ -45217,9 +45351,9 @@
         "price_1m_input_tokens": 1.5,
         "price_1m_output_tokens": 9
       },
-      "median_output_tokens_per_second": 236.241,
-      "median_time_to_first_token_seconds": 9.32,
-      "median_time_to_first_answer_token": 9.32,
+      "median_output_tokens_per_second": 230.723,
+      "median_time_to_first_token_seconds": 8.909,
+      "median_time_to_first_answer_token": 8.909,
       "id": "5016ea75-7b0e-4737-a7e6-1062c6d90fd4",
       "release_date": "2026-05-19"
     },
@@ -45255,9 +45389,9 @@
         "price_1m_input_tokens": 0.13,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 88.01,
-      "median_time_to_first_token_seconds": 0.683,
-      "median_time_to_first_answer_token": 0.683,
+      "median_output_tokens_per_second": 85.361,
+      "median_time_to_first_token_seconds": 0.636,
+      "median_time_to_first_answer_token": 0.636,
       "id": "70882ec6-914c-41f0-9754-5e8f75005f77",
       "release_date": "2026-04-02"
     },
@@ -45331,9 +45465,9 @@
         "price_1m_input_tokens": 0.14,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 66.794,
-      "median_time_to_first_token_seconds": 0.614,
-      "median_time_to_first_answer_token": 0.614,
+      "median_output_tokens_per_second": 65.645,
+      "median_time_to_first_token_seconds": 0.59,
+      "median_time_to_first_answer_token": 0.59,
       "id": "d0aa27aa-4705-4184-9a1d-483b78c9331c",
       "release_date": "2026-04-02"
     },
@@ -45369,9 +45503,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 185.655,
-      "median_time_to_first_token_seconds": 11.511,
-      "median_time_to_first_answer_token": 11.511,
+      "median_output_tokens_per_second": 188.462,
+      "median_time_to_first_token_seconds": 10.72,
+      "median_time_to_first_answer_token": 10.72,
       "id": "78332c88-fe60-42c8-af9d-3617e44cf1f5",
       "release_date": "2026-07-21"
     },
@@ -45407,9 +45541,9 @@
         "price_1m_input_tokens": 0.02,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 40.336,
-      "median_time_to_first_token_seconds": 0.281,
-      "median_time_to_first_answer_token": 0.281,
+      "median_output_tokens_per_second": 38.85,
+      "median_time_to_first_token_seconds": 0.299,
+      "median_time_to_first_answer_token": 0.299,
       "id": "5303601c-8133-4f52-bc4e-5241ee6b3c10",
       "release_date": "2026-04-03"
     },
@@ -45445,9 +45579,9 @@
         "price_1m_input_tokens": 0.02,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 37.229,
-      "median_time_to_first_token_seconds": 0.37,
-      "median_time_to_first_answer_token": 54.091,
+      "median_output_tokens_per_second": 37.882,
+      "median_time_to_first_token_seconds": 0.379,
+      "median_time_to_first_answer_token": 53.174,
       "id": "d80eb0f1-f62e-4d31-99d2-7a925eb126b0",
       "release_date": "2026-04-03"
     },
@@ -45483,9 +45617,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 315.484,
-      "median_time_to_first_token_seconds": 6.75,
-      "median_time_to_first_answer_token": 6.75,
+      "median_output_tokens_per_second": 338.576,
+      "median_time_to_first_token_seconds": 6.713,
+      "median_time_to_first_answer_token": 6.713,
       "id": "093b9df2-ebee-4309-943f-5a7e88360adf",
       "release_date": "2026-07-21"
     },
@@ -45559,9 +45693,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.3
       },
-      "median_output_tokens_per_second": 127.991,
-      "median_time_to_first_token_seconds": 1.389,
-      "median_time_to_first_answer_token": 1.389,
+      "median_output_tokens_per_second": 124.137,
+      "median_time_to_first_token_seconds": 1.437,
+      "median_time_to_first_answer_token": 1.437,
       "id": "025ec6b6-df4a-449f-9a03-24e4388d6863",
       "release_date": "2026-06-03"
     },
@@ -45635,9 +45769,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 284.382,
-      "median_time_to_first_token_seconds": 6.267,
-      "median_time_to_first_answer_token": 6.267,
+      "median_output_tokens_per_second": 324.611,
+      "median_time_to_first_token_seconds": 6.419,
+      "median_time_to_first_answer_token": 6.419,
       "id": "b2331108-72ed-415a-82d1-188633875bbc",
       "release_date": "2026-08-13"
     },
@@ -45673,9 +45807,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 117.358,
-      "median_time_to_first_token_seconds": 20.28,
-      "median_time_to_first_answer_token": 20.28,
+      "median_output_tokens_per_second": 123.217,
+      "median_time_to_first_token_seconds": 21.656,
+      "median_time_to_first_answer_token": 21.656,
       "id": "bbd93ebe-80da-4594-bb19-61e69d0331df",
       "release_date": "2026-02-19"
     },
@@ -45711,9 +45845,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 286.335,
-      "median_time_to_first_token_seconds": 0.585,
-      "median_time_to_first_answer_token": 0.585,
+      "median_output_tokens_per_second": 324.765,
+      "median_time_to_first_token_seconds": 0.628,
+      "median_time_to_first_answer_token": 0.628,
       "id": "ddfdaf64-3f8e-40a6-a492-608ee83a1351",
       "release_date": "2026-08-13"
     },
@@ -45749,9 +45883,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 294.255,
-      "median_time_to_first_token_seconds": 4.37,
-      "median_time_to_first_answer_token": 4.37,
+      "median_output_tokens_per_second": 315.125,
+      "median_time_to_first_token_seconds": 4.54,
+      "median_time_to_first_answer_token": 4.54,
       "id": "eb0d4272-7204-42b9-b875-8866fed58548",
       "release_date": "2026-08-13"
     },
@@ -45825,9 +45959,9 @@
         "price_1m_input_tokens": 1.5,
         "price_1m_output_tokens": 9
       },
-      "median_output_tokens_per_second": 219.063,
-      "median_time_to_first_token_seconds": 0.699,
-      "median_time_to_first_answer_token": 0.699,
+      "median_output_tokens_per_second": 216.086,
+      "median_time_to_first_token_seconds": 0.747,
+      "median_time_to_first_answer_token": 0.747,
       "id": "033ade17-d9ec-44e0-b792-b5f1fcd5ab4c",
       "release_date": "2026-05-19"
     },
@@ -45863,9 +45997,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 78.606,
-      "median_time_to_first_token_seconds": 125.116,
-      "median_time_to_first_answer_token": 125.116,
+      "median_output_tokens_per_second": 80.023,
+      "median_time_to_first_token_seconds": 124.472,
+      "median_time_to_first_answer_token": 124.472,
       "id": "23c86e4a-c769-43c0-a056-79e3cd15834f",
       "release_date": "2026-06-30"
     },
@@ -45901,9 +46035,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 5
       },
-      "median_output_tokens_per_second": 94.003,
-      "median_time_to_first_token_seconds": 13.005,
-      "median_time_to_first_answer_token": 13.005,
+      "median_output_tokens_per_second": 93.372,
+      "median_time_to_first_token_seconds": 11.715,
+      "median_time_to_first_answer_token": 11.715,
       "id": "a6340098-d7ae-462d-b372-0a0a67fc44b4",
       "release_date": "2025-10-15"
     },
@@ -45939,9 +46073,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 49.339,
-      "median_time_to_first_token_seconds": 38.197,
-      "median_time_to_first_answer_token": 38.197,
+      "median_output_tokens_per_second": 51.594,
+      "median_time_to_first_token_seconds": 38.164,
+      "median_time_to_first_answer_token": 38.164,
       "id": "b8fc61f7-5e9a-49e6-8547-6ac56db24627",
       "release_date": "2026-07-24"
     },
@@ -45977,9 +46111,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 59.418,
-      "median_time_to_first_token_seconds": 53.361,
-      "median_time_to_first_answer_token": 53.361,
+      "median_output_tokens_per_second": 62.166,
+      "median_time_to_first_token_seconds": 50.977,
+      "median_time_to_first_answer_token": 50.977,
       "id": "cd55210d-358e-4df1-ba9c-9acb5f186cc9",
       "release_date": "2026-06-09"
     },
@@ -46015,9 +46149,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 48.3,
-      "median_time_to_first_token_seconds": 20.962,
-      "median_time_to_first_answer_token": 20.962,
+      "median_output_tokens_per_second": 53.23,
+      "median_time_to_first_token_seconds": 20.694,
+      "median_time_to_first_answer_token": 20.694,
       "id": "1305c921-7aaa-4d6d-99b5-99b3acf15e19",
       "release_date": "2026-07-24"
     },
@@ -46053,9 +46187,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 48.254,
-      "median_time_to_first_token_seconds": 2.37,
-      "median_time_to_first_answer_token": 2.37,
+      "median_output_tokens_per_second": 51.813,
+      "median_time_to_first_token_seconds": 2.165,
+      "median_time_to_first_answer_token": 2.165,
       "id": "20928ba9-3a3f-415f-9519-b84ff64ecf34",
       "release_date": "2026-07-24"
     },
@@ -46091,9 +46225,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 48.082,
-      "median_time_to_first_token_seconds": 10.119,
-      "median_time_to_first_answer_token": 10.119,
+      "median_output_tokens_per_second": 50.068,
+      "median_time_to_first_token_seconds": 12.218,
+      "median_time_to_first_answer_token": 12.218,
       "id": "712be54a-77ae-41b2-9a58-21181479d6ee",
       "release_date": "2026-07-24"
     },
@@ -46129,9 +46263,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 5
       },
-      "median_output_tokens_per_second": 82.132,
-      "median_time_to_first_token_seconds": 0.598,
-      "median_time_to_first_answer_token": 0.598,
+      "median_output_tokens_per_second": 91.342,
+      "median_time_to_first_token_seconds": 0.61,
+      "median_time_to_first_answer_token": 0.61,
       "id": "c2b1e769-7aee-4669-8076-73918bdebf6c",
       "release_date": "2025-10-15"
     },
@@ -46167,9 +46301,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 57.829,
-      "median_time_to_first_token_seconds": 1.186,
-      "median_time_to_first_answer_token": 1.186,
+      "median_output_tokens_per_second": 62.233,
+      "median_time_to_first_token_seconds": 0.755,
+      "median_time_to_first_answer_token": 0.755,
       "id": "d58b9ada-fd9d-4fff-a086-242034657963",
       "release_date": "2026-06-30"
     },
@@ -46205,9 +46339,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 49.059,
-      "median_time_to_first_token_seconds": 9.066,
-      "median_time_to_first_answer_token": 9.066,
+      "median_output_tokens_per_second": 51.081,
+      "median_time_to_first_token_seconds": 8.026,
+      "median_time_to_first_answer_token": 8.026,
       "id": "ff51be8f-e362-4a7e-9043-687ba15de207",
       "release_date": "2026-07-24"
     },
@@ -46220,7 +46354,7 @@
         "slug": "anthropic"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 51.7,
+        "artificial_analysis_intelligence_index": 54.5,
         "artificial_analysis_coding_index": 79.1,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -46243,9 +46377,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 49.804,
-      "median_time_to_first_token_seconds": 11.92,
-      "median_time_to_first_answer_token": 11.92,
+      "median_output_tokens_per_second": 53.541,
+      "median_time_to_first_token_seconds": 10.37,
+      "median_time_to_first_answer_token": 10.37,
       "id": "9d7d72cd-d95d-45a0-b109-4ad292c9aabd",
       "release_date": "2026-09-01"
     },
@@ -46258,7 +46392,7 @@
         "slug": "anthropic"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 47.8,
+        "artificial_analysis_intelligence_index": 50.9,
         "artificial_analysis_coding_index": 75.2,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -46281,7 +46415,7 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 47.885,
+      "median_output_tokens_per_second": 50.987,
       "median_time_to_first_token_seconds": 4.318,
       "median_time_to_first_answer_token": 4.318,
       "id": "05776db7-f5c0-40f7-b824-079160f8cfa8",
@@ -46319,9 +46453,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 69.766,
-      "median_time_to_first_token_seconds": 170.417,
-      "median_time_to_first_answer_token": 170.417,
+      "median_output_tokens_per_second": 67.626,
+      "median_time_to_first_token_seconds": 161.02,
+      "median_time_to_first_answer_token": 161.02,
       "id": "3e87c73e-a257-495e-9730-367a66229811",
       "release_date": "2026-09-01"
     },
@@ -46334,7 +46468,7 @@
         "slug": "anthropic"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 49.9,
+        "artificial_analysis_intelligence_index": 52.8,
         "artificial_analysis_coding_index": 77.1,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -46357,9 +46491,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 49.988,
-      "median_time_to_first_token_seconds": 8.321,
-      "median_time_to_first_answer_token": 8.321,
+      "median_output_tokens_per_second": 53.239,
+      "median_time_to_first_token_seconds": 7.917,
+      "median_time_to_first_answer_token": 7.917,
       "id": "3b7de71c-e034-4591-8ca6-6b6be2fa471f",
       "release_date": "2026-09-01"
     },
@@ -46372,7 +46506,7 @@
         "slug": "anthropic"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 53.8,
+        "artificial_analysis_intelligence_index": 56.2,
         "artificial_analysis_coding_index": 80.7,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -46395,9 +46529,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 51.736,
-      "median_time_to_first_token_seconds": 34.809,
-      "median_time_to_first_answer_token": 34.809,
+      "median_output_tokens_per_second": 56.682,
+      "median_time_to_first_token_seconds": 32.596,
+      "median_time_to_first_answer_token": 32.596,
       "id": "9b166bf3-42db-4f63-8338-1c4a1244ffe8",
       "release_date": "2026-09-01"
     },
@@ -46433,9 +46567,9 @@
         "price_1m_input_tokens": 3,
         "price_1m_output_tokens": 15
       },
-      "median_output_tokens_per_second": 46.699,
-      "median_time_to_first_token_seconds": 1.249,
-      "median_time_to_first_answer_token": 1.249,
+      "median_output_tokens_per_second": 49.096,
+      "median_time_to_first_token_seconds": 1.106,
+      "median_time_to_first_answer_token": 1.106,
       "id": "f2e21112-192e-4aed-ae82-68ca3b38e667",
       "release_date": "2026-02-17"
     },
@@ -46471,9 +46605,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 93.246,
-      "median_time_to_first_token_seconds": 0.441,
-      "median_time_to_first_answer_token": 0.441,
+      "median_output_tokens_per_second": 87.118,
+      "median_time_to_first_token_seconds": 0.437,
+      "median_time_to_first_answer_token": 0.437,
       "id": "713fae11-c75c-4f10-ae2c-8e4074cd58af",
       "release_date": "2025-12-02"
     },
@@ -46547,9 +46681,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 100.593,
-      "median_time_to_first_token_seconds": 0.51,
-      "median_time_to_first_answer_token": 0.51,
+      "median_output_tokens_per_second": 73.539,
+      "median_time_to_first_token_seconds": 0.474,
+      "median_time_to_first_answer_token": 0.474,
       "id": "9741f3c2-cbb1-4a3f-99ee-7bd7384d9038",
       "release_date": "2025-12-02"
     },
@@ -46585,7 +46719,7 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 211.743,
+      "median_output_tokens_per_second": 215.085,
       "median_time_to_first_token_seconds": 0.478,
       "median_time_to_first_answer_token": 0.478,
       "id": "66f4ce73-9a9b-4b49-9c6e-bedb9bfdc720",
@@ -46623,9 +46757,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 1.5
       },
-      "median_output_tokens_per_second": 78.349,
-      "median_time_to_first_token_seconds": 0.758,
-      "median_time_to_first_answer_token": 0.758,
+      "median_output_tokens_per_second": 84.325,
+      "median_time_to_first_token_seconds": 0.756,
+      "median_time_to_first_answer_token": 0.756,
       "id": "4928e950-7f37-4475-b0dc-c5bad781a321",
       "release_date": "2025-12-02"
     },
@@ -46676,14 +46810,14 @@
         "slug": "mistral"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 11.2,
+        "artificial_analysis_intelligence_index": 11.7,
         "artificial_analysis_coding_index": 29.3,
         "artificial_analysis_math_index": 34.3,
         "mmlu_pro": 0.678,
         "gpqa": 0.532,
         "hle": 0.035,
         "livecodebench": 0.348,
-        "scicode": null,
+        "scicode": 0.324,
         "math_500": null,
         "aime": null,
         "aime_25": 0.343333333333333,
@@ -46699,9 +46833,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 134.405,
-      "median_time_to_first_token_seconds": 0.71,
-      "median_time_to_first_answer_token": 0.71,
+      "median_output_tokens_per_second": 143.768,
+      "median_time_to_first_token_seconds": 0.639,
+      "median_time_to_first_answer_token": 0.639,
       "id": "ce819310-af7c-49d3-9a02-6845111e1788",
       "release_date": "2025-12-09"
     },
@@ -46737,9 +46871,9 @@
         "price_1m_input_tokens": 1.5,
         "price_1m_output_tokens": 7.5
       },
-      "median_output_tokens_per_second": 139.298,
-      "median_time_to_first_token_seconds": 0.71,
-      "median_time_to_first_answer_token": 15.068,
+      "median_output_tokens_per_second": 159.708,
+      "median_time_to_first_token_seconds": 0.704,
+      "median_time_to_first_answer_token": 13.227,
       "id": "dd059b25-d82a-4ead-82a4-4adceaaec48b",
       "release_date": "2026-04-29"
     },
@@ -46775,9 +46909,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 173.535,
-      "median_time_to_first_token_seconds": 0.632,
-      "median_time_to_first_answer_token": 12.157,
+      "median_output_tokens_per_second": 177.941,
+      "median_time_to_first_token_seconds": 0.573,
+      "median_time_to_first_answer_token": 11.813,
       "id": "3fd96175-4ef1-434c-8795-f873aec2abc1",
       "release_date": "2026-03-16"
     },
@@ -46813,9 +46947,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 134.894,
-      "median_time_to_first_token_seconds": 0.629,
-      "median_time_to_first_answer_token": 0.629,
+      "median_output_tokens_per_second": 152.288,
+      "median_time_to_first_token_seconds": 0.63,
+      "median_time_to_first_answer_token": 0.63,
       "id": "09f43999-b67b-4c1b-b050-44df41ed7e62",
       "release_date": "2025-12-09"
     },
@@ -46851,9 +46985,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 152.305,
-      "median_time_to_first_token_seconds": 0.554,
-      "median_time_to_first_answer_token": 0.554,
+      "median_output_tokens_per_second": 164.81,
+      "median_time_to_first_token_seconds": 0.51,
+      "median_time_to_first_answer_token": 0.51,
       "id": "12f6a061-0ab3-4c76-b225-49abee253651",
       "release_date": "2026-03-16"
     },
@@ -46889,9 +47023,9 @@
         "price_1m_input_tokens": 1.32,
         "price_1m_output_tokens": 3.96
       },
-      "median_output_tokens_per_second": 59.459,
-      "median_time_to_first_token_seconds": 1.108,
-      "median_time_to_first_answer_token": 34.744,
+      "median_output_tokens_per_second": 62.077,
+      "median_time_to_first_token_seconds": 1.062,
+      "median_time_to_first_answer_token": 33.28,
       "id": "83173329-c09a-41f1-a028-a282a5f908d7",
       "release_date": "2026-08-13"
     },
@@ -46927,9 +47061,9 @@
         "price_1m_input_tokens": 0.44,
         "price_1m_output_tokens": 1.32
       },
-      "median_output_tokens_per_second": 118.418,
-      "median_time_to_first_token_seconds": 0.619,
-      "median_time_to_first_answer_token": 17.508,
+      "median_output_tokens_per_second": 117.668,
+      "median_time_to_first_token_seconds": 0.695,
+      "median_time_to_first_answer_token": 17.692,
       "id": "fe4c0848-e284-4e52-a79d-cdc28392f1a9",
       "release_date": "2026-07-31"
     },
@@ -46942,7 +47076,7 @@
         "slug": "deepseek"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 35.8,
+        "artificial_analysis_intelligence_index": 34.5,
         "artificial_analysis_coding_index": 59.4,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -46965,9 +47099,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 61.264,
-      "median_time_to_first_token_seconds": 1.182,
-      "median_time_to_first_answer_token": 72.595,
+      "median_output_tokens_per_second": 64.59,
+      "median_time_to_first_token_seconds": 1.125,
+      "median_time_to_first_answer_token": 68.86,
       "id": "bf220674-68bd-43cc-a1b8-ce5ed4d2f18d",
       "release_date": "2026-04-24"
     },
@@ -47041,9 +47175,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 59.136,
-      "median_time_to_first_token_seconds": 1.065,
-      "median_time_to_first_answer_token": 1.065,
+      "median_output_tokens_per_second": 62.493,
+      "median_time_to_first_token_seconds": 1.053,
+      "median_time_to_first_answer_token": 1.053,
       "id": "6e2a2572-ed8d-4616-8d7d-68d125fc8ee7",
       "release_date": "2026-04-24"
     },
@@ -47079,9 +47213,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 62.907,
-      "median_time_to_first_token_seconds": 1.047,
-      "median_time_to_first_answer_token": 32.712,
+      "median_output_tokens_per_second": 64.01,
+      "median_time_to_first_token_seconds": 1.018,
+      "median_time_to_first_answer_token": 32.138,
       "id": "5da3c0e2-65d2-4bff-a410-cb2132ddafb6",
       "release_date": "2026-04-24"
     },
@@ -47132,7 +47266,7 @@
         "slug": "deepseek"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 41.5,
+        "artificial_analysis_intelligence_index": 40.7,
         "artificial_analysis_coding_index": 65,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -47155,9 +47289,9 @@
         "price_1m_input_tokens": 0.44,
         "price_1m_output_tokens": 1.32
       },
-      "median_output_tokens_per_second": 121.308,
-      "median_time_to_first_token_seconds": 0.652,
-      "median_time_to_first_answer_token": 17.139,
+      "median_output_tokens_per_second": 119.529,
+      "median_time_to_first_token_seconds": 0.625,
+      "median_time_to_first_answer_token": 17.357,
       "id": "7707a46f-895f-4247-b7a8-ddab87c9a11d",
       "release_date": "2026-08-21"
     },
@@ -47270,8 +47404,8 @@
         "price_1m_output_tokens": 2.5
       },
       "median_output_tokens_per_second": 120.464,
-      "median_time_to_first_token_seconds": 14.384,
-      "median_time_to_first_answer_token": 14.384,
+      "median_time_to_first_token_seconds": 14.921,
+      "median_time_to_first_answer_token": 14.921,
       "id": "5e8b0d98-a3b4-42b5-93d8-ecb748788754",
       "release_date": "2026-04-30"
     },
@@ -47307,9 +47441,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 108.333,
-      "median_time_to_first_token_seconds": 0.952,
-      "median_time_to_first_answer_token": 0.952,
+      "median_output_tokens_per_second": 115.343,
+      "median_time_to_first_token_seconds": 0.884,
+      "median_time_to_first_answer_token": 0.884,
       "id": "90c2a9cf-ad7e-4332-9be2-2fd1309833e2",
       "release_date": "2026-04-30"
     },
@@ -47345,9 +47479,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 122.413,
-      "median_time_to_first_token_seconds": 6.071,
-      "median_time_to_first_answer_token": 6.071,
+      "median_output_tokens_per_second": 111.917,
+      "median_time_to_first_token_seconds": 6.497,
+      "median_time_to_first_answer_token": 6.497,
       "id": "fe2c2289-d261-4433-8681-46448372c1f6",
       "release_date": "2026-04-30"
     },
@@ -47360,7 +47494,7 @@
         "slug": "xai"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 49.3,
+        "artificial_analysis_intelligence_index": 49.9,
         "artificial_analysis_coding_index": 75.9,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -47383,9 +47517,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 56.706,
-      "median_time_to_first_token_seconds": 28.947,
-      "median_time_to_first_answer_token": 28.947,
+      "median_output_tokens_per_second": 60.489,
+      "median_time_to_first_token_seconds": 30.711,
+      "median_time_to_first_answer_token": 30.711,
       "id": "d6f43d0a-e8c4-447c-9ff7-5cf0a9d59aa3",
       "release_date": "2026-08-12"
     },
@@ -47421,9 +47555,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 56.884,
-      "median_time_to_first_token_seconds": 35.311,
-      "median_time_to_first_answer_token": 35.311,
+      "median_output_tokens_per_second": 57.174,
+      "median_time_to_first_token_seconds": 36.422,
+      "median_time_to_first_answer_token": 36.422,
       "id": "c8adc5cf-fd5a-407b-af51-dc3bede3e49c",
       "release_date": "2026-08-12"
     },
@@ -47436,7 +47570,7 @@
         "slug": "xai"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 41.8,
+        "artificial_analysis_intelligence_index": 41.6,
         "artificial_analysis_coding_index": 66.3,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -47459,9 +47593,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 52.552,
-      "median_time_to_first_token_seconds": 4.936,
-      "median_time_to_first_answer_token": 4.936,
+      "median_output_tokens_per_second": 53.207,
+      "median_time_to_first_token_seconds": 4.805,
+      "median_time_to_first_answer_token": 4.805,
       "id": "c07e65e6-32fc-451e-938d-7477a1c3ffcc",
       "release_date": "2026-08-12"
     },
@@ -47497,9 +47631,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 48.376,
-      "median_time_to_first_token_seconds": 11.129,
-      "median_time_to_first_answer_token": 11.129,
+      "median_output_tokens_per_second": 52.607,
+      "median_time_to_first_token_seconds": 14.501,
+      "median_time_to_first_answer_token": 14.501,
       "id": "794f69b5-cede-482b-b1cc-d769478497cd",
       "release_date": "2026-07-08"
     },
@@ -47512,7 +47646,7 @@
         "slug": "xai"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 48.4,
+        "artificial_analysis_intelligence_index": 48.8,
         "artificial_analysis_coding_index": 74.4,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -47535,9 +47669,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 55.39,
-      "median_time_to_first_token_seconds": 35.794,
-      "median_time_to_first_answer_token": 35.794,
+      "median_output_tokens_per_second": 53.466,
+      "median_time_to_first_token_seconds": 28.186,
+      "median_time_to_first_answer_token": 28.186,
       "id": "26614164-6840-4e17-a65a-2deb2fe7e87b",
       "release_date": "2026-08-12"
     },
@@ -47573,9 +47707,9 @@
         "price_1m_input_tokens": 0.035,
         "price_1m_output_tokens": 0.14
       },
-      "median_output_tokens_per_second": 271.355,
-      "median_time_to_first_token_seconds": 0.599,
-      "median_time_to_first_answer_token": 0.599,
+      "median_output_tokens_per_second": 295.868,
+      "median_time_to_first_token_seconds": 0.596,
+      "median_time_to_first_answer_token": 0.596,
       "id": "344c6718-c573-41d4-9556-10287a3fa1fc",
       "release_date": "2024-12-03"
     },
@@ -47649,9 +47783,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 124.111,
-      "median_time_to_first_token_seconds": 15.561,
-      "median_time_to_first_answer_token": 31.676,
+      "median_output_tokens_per_second": 130.977,
+      "median_time_to_first_token_seconds": 17.523,
+      "median_time_to_first_answer_token": 32.793,
       "id": "0d94dc87-12c8-4d4a-8d99-804ce3f17bc2",
       "release_date": "2025-11-27"
     },
@@ -47763,9 +47897,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 196.464,
-      "median_time_to_first_token_seconds": 13.596,
-      "median_time_to_first_answer_token": 23.776,
+      "median_output_tokens_per_second": 203.968,
+      "median_time_to_first_token_seconds": 13.081,
+      "median_time_to_first_answer_token": 22.886,
       "id": "61bd9367-e520-4ec8-989e-5fbf50e61610",
       "release_date": "2025-10-29"
     },
@@ -47802,8 +47936,8 @@
         "price_1m_output_tokens": 2.5
       },
       "median_output_tokens_per_second": 187.448,
-      "median_time_to_first_token_seconds": 4.627,
-      "median_time_to_first_answer_token": 15.297,
+      "median_time_to_first_token_seconds": 4.427,
+      "median_time_to_first_answer_token": 15.096,
       "id": "6fd796d3-f346-4f66-97df-5da81714fc73",
       "release_date": "2025-10-29"
     },
@@ -47839,9 +47973,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 202.39,
-      "median_time_to_first_token_seconds": 0.836,
-      "median_time_to_first_answer_token": 0.836,
+      "median_output_tokens_per_second": 209.804,
+      "median_time_to_first_token_seconds": 0.897,
+      "median_time_to_first_answer_token": 0.897,
       "id": "76bce7fb-3a3f-4b66-a78d-35ccf3edf5d2",
       "release_date": "2025-10-29"
     },
@@ -47877,9 +48011,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 124.518,
-      "median_time_to_first_token_seconds": 0.683,
-      "median_time_to_first_answer_token": 0.683,
+      "median_output_tokens_per_second": 130.109,
+      "median_time_to_first_token_seconds": 0.669,
+      "median_time_to_first_answer_token": 0.669,
       "id": "a20ae33a-46e1-41e6-81a0-fe8b00d2e538",
       "release_date": "2025-11-27"
     },
@@ -47953,9 +48087,9 @@
         "price_1m_input_tokens": 2.5,
         "price_1m_output_tokens": 12.5
       },
-      "median_output_tokens_per_second": 62.209,
-      "median_time_to_first_token_seconds": 1.036,
-      "median_time_to_first_answer_token": 1.036,
+      "median_output_tokens_per_second": 68.12,
+      "median_time_to_first_token_seconds": 1.033,
+      "median_time_to_first_answer_token": 1.033,
       "id": "e58bbffd-fdc2-412a-b6d7-ca0e3f5d611a",
       "release_date": "2025-04-30"
     },
@@ -47991,9 +48125,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 121.811,
-      "median_time_to_first_token_seconds": 4.193,
-      "median_time_to_first_answer_token": 20.612,
+      "median_output_tokens_per_second": 132.766,
+      "median_time_to_first_token_seconds": 3.227,
+      "median_time_to_first_answer_token": 18.291,
       "id": "f4274721-ef28-4121-aa88-8e97267a5a82",
       "release_date": "2025-11-27"
     },
@@ -48029,9 +48163,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 188.996,
-      "median_time_to_first_token_seconds": 11.86,
-      "median_time_to_first_answer_token": 22.442,
+      "median_output_tokens_per_second": 209.982,
+      "median_time_to_first_token_seconds": 12.427,
+      "median_time_to_first_answer_token": 21.951,
       "id": "fbdf8da1-b341-448c-b3cb-8aff1d8f70b9",
       "release_date": "2025-10-29"
     },
@@ -48067,9 +48201,9 @@
         "price_1m_input_tokens": 0.125,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 43.264,
-      "median_time_to_first_token_seconds": 1.057,
-      "median_time_to_first_answer_token": 1.057,
+      "median_output_tokens_per_second": 43.765,
+      "median_time_to_first_token_seconds": 1.044,
+      "median_time_to_first_answer_token": 1.044,
       "id": "ee708f92-374e-4123-b900-e22d7b2afc19",
       "release_date": "2024-12-12"
     },
@@ -48105,9 +48239,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 17.476,
-      "median_time_to_first_token_seconds": 0.386,
-      "median_time_to_first_answer_token": 0.386,
+      "median_output_tokens_per_second": 17.441,
+      "median_time_to_first_token_seconds": 0.375,
+      "median_time_to_first_answer_token": 0.375,
       "id": "2cd04201-2b6e-47ef-853e-7601f705f2a8",
       "release_date": "2025-02-26"
     },
@@ -48143,7 +48277,7 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 46.765,
+      "median_output_tokens_per_second": 46.85,
       "median_time_to_first_token_seconds": 0.351,
       "median_time_to_first_answer_token": 0.351,
       "id": "9f873c2f-2c2d-4ccb-9e1b-71bf61b052be",
@@ -48181,9 +48315,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 206.793,
-      "median_time_to_first_token_seconds": 2.703,
-      "median_time_to_first_answer_token": 12.375,
+      "median_output_tokens_per_second": 204.335,
+      "median_time_to_first_token_seconds": 1.784,
+      "median_time_to_first_answer_token": 11.572,
       "id": "e1bfc488-5f48-4d42-abf6-7f3c53d79f9c",
       "release_date": "2026-08-04"
     },
@@ -48219,9 +48353,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 328.187,
-      "median_time_to_first_token_seconds": 0.735,
-      "median_time_to_first_answer_token": 6.829,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "e2b664ca-7992-4de6-8839-4867f035c892",
       "release_date": "2026-05-28"
     },
@@ -48371,9 +48505,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 440.878,
-      "median_time_to_first_token_seconds": 0.83,
-      "median_time_to_first_answer_token": 0.83,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "3c5289e5-1c62-434c-bc44-c51c39f640a1",
       "release_date": "2026-01-05"
     },
@@ -48485,9 +48619,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 59.084,
-      "median_time_to_first_token_seconds": 1.224,
-      "median_time_to_first_answer_token": 35.075,
+      "median_output_tokens_per_second": 61.142,
+      "median_time_to_first_token_seconds": 1.114,
+      "median_time_to_first_answer_token": 33.824,
       "id": "1b64aa81-c223-4b8f-909b-82185a234765",
       "release_date": "2026-08-06"
     },
@@ -48538,14 +48672,14 @@
         "slug": "upstage"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 8.5,
+        "artificial_analysis_intelligence_index": 9.4,
         "artificial_analysis_coding_index": 16.2,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
         "gpqa": 0.724,
         "hle": 0.103,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.255,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -48561,9 +48695,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 139.432,
-      "median_time_to_first_token_seconds": 1.165,
-      "median_time_to_first_answer_token": 15.509,
+      "median_output_tokens_per_second": 138.384,
+      "median_time_to_first_token_seconds": 1.355,
+      "median_time_to_first_answer_token": 15.807,
       "id": "b89c4faf-219e-4171-a1aa-e3bd2fd0a924",
       "release_date": "2026-04-06"
     },
@@ -48637,9 +48771,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 84.624,
-      "median_time_to_first_token_seconds": 1.121,
-      "median_time_to_first_answer_token": 24.756,
+      "median_output_tokens_per_second": 95.745,
+      "median_time_to_first_token_seconds": 1.002,
+      "median_time_to_first_answer_token": 21.891,
       "id": "277f939a-985b-4b37-859d-b3eabc7c0b26",
       "release_date": "2026-06-01"
     },
@@ -48675,9 +48809,9 @@
         "price_1m_input_tokens": 1.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 19.298,
-      "median_time_to_first_token_seconds": 17.253,
-      "median_time_to_first_answer_token": 17.253,
+      "median_output_tokens_per_second": 26.279,
+      "median_time_to_first_token_seconds": 11.687,
+      "median_time_to_first_answer_token": 11.687,
       "id": "7393c56a-ec31-48e9-b804-c04f2d2cb641",
       "release_date": "2024-10-15"
     },
@@ -48713,9 +48847,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.195
       },
-      "median_output_tokens_per_second": 136.939,
-      "median_time_to_first_token_seconds": 1.159,
-      "median_time_to_first_answer_token": 1.159,
+      "median_output_tokens_per_second": 140.449,
+      "median_time_to_first_token_seconds": 1.088,
+      "median_time_to_first_answer_token": 1.088,
       "id": "2e8694f9-7782-47a6-a6ba-fdce89d939c8",
       "release_date": "2025-08-18"
     },
@@ -48728,7 +48862,7 @@
         "slug": "nvidia"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 29.6,
+        "artificial_analysis_intelligence_index": 29.3,
         "artificial_analysis_coding_index": 49.3,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -48751,9 +48885,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 2.6
       },
-      "median_output_tokens_per_second": 156.367,
-      "median_time_to_first_token_seconds": 1.211,
-      "median_time_to_first_answer_token": 15.76,
+      "median_output_tokens_per_second": 157.943,
+      "median_time_to_first_token_seconds": 1.228,
+      "median_time_to_first_answer_token": 15.632,
       "id": "5b52def2-ac9b-4465-ad80-91ea8079e253",
       "release_date": "2026-06-04"
     },
@@ -48789,9 +48923,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 142.767,
-      "median_time_to_first_token_seconds": 0.825,
-      "median_time_to_first_answer_token": 14.833,
+      "median_output_tokens_per_second": 235.507,
+      "median_time_to_first_token_seconds": 0.7,
+      "median_time_to_first_answer_token": 9.192,
       "id": "76dcf6ef-39ea-4be0-b693-b88da25b4caf",
       "release_date": "2025-12-15"
     },
@@ -48827,9 +48961,9 @@
         "price_1m_input_tokens": 0.075,
         "price_1m_output_tokens": 0.3
       },
-      "median_output_tokens_per_second": 321.434,
-      "median_time_to_first_token_seconds": 0.56,
-      "median_time_to_first_answer_token": 6.782,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "8c748e53-61ae-48b8-af8d-eb8298b1e9db",
       "release_date": "2026-04-29"
     },
@@ -48865,9 +48999,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 72.097,
-      "median_time_to_first_token_seconds": 2.035,
-      "median_time_to_first_answer_token": 2.035,
+      "median_output_tokens_per_second": 70.361,
+      "median_time_to_first_token_seconds": 1.654,
+      "median_time_to_first_answer_token": 1.654,
       "id": "ab7f016c-a29b-4710-bdf6-6a5cd96aacca",
       "release_date": "2025-10-28"
     },
@@ -48903,9 +49037,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 1.8
       },
-      "median_output_tokens_per_second": 52.821,
-      "median_time_to_first_token_seconds": 0.685,
-      "median_time_to_first_answer_token": 38.549,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "cf095603-72b6-47f8-8ee1-09a42890f92a",
       "release_date": "2025-04-07"
     },
@@ -48941,9 +49075,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 295.608,
-      "median_time_to_first_token_seconds": 0.461,
-      "median_time_to_first_answer_token": 7.227,
+      "median_output_tokens_per_second": 299.689,
+      "median_time_to_first_token_seconds": 0.446,
+      "median_time_to_first_answer_token": 7.119,
       "id": "29976311-665a-4b2f-ac72-557c33e0758e",
       "release_date": "2026-08-11"
     },
@@ -48979,9 +49113,9 @@
         "price_1m_input_tokens": 0.04,
         "price_1m_output_tokens": 0.16
       },
-      "median_output_tokens_per_second": 94.506,
-      "median_time_to_first_token_seconds": 4.366,
-      "median_time_to_first_answer_token": 25.529,
+      "median_output_tokens_per_second": 107.642,
+      "median_time_to_first_token_seconds": 5.037,
+      "median_time_to_first_answer_token": 23.617,
       "id": "f1d52583-9d20-4099-99ac-b5df9430c3b6",
       "release_date": "2025-08-18"
     },
@@ -49017,9 +49151,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 25.47,
-      "median_time_to_first_token_seconds": 10.099,
-      "median_time_to_first_answer_token": 88.622,
+      "median_output_tokens_per_second": 28.887,
+      "median_time_to_first_token_seconds": 9.518,
+      "median_time_to_first_answer_token": 78.752,
       "id": "6e6e02fd-9cbd-417f-9bfc-673df89c313d",
       "release_date": "2025-10-28"
     },
@@ -49055,9 +49189,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 141.927,
-      "median_time_to_first_token_seconds": 1.117,
-      "median_time_to_first_answer_token": 15.209,
+      "median_output_tokens_per_second": 141.826,
+      "median_time_to_first_token_seconds": 1.306,
+      "median_time_to_first_answer_token": 15.408,
       "id": "63872e9c-3377-4a6b-b477-7bba244c38e9",
       "release_date": "2026-03-11"
     },
@@ -49093,9 +49227,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 23.094,
-      "median_time_to_first_token_seconds": 12.648,
-      "median_time_to_first_answer_token": 12.648,
+      "median_output_tokens_per_second": 21.88,
+      "median_time_to_first_token_seconds": 18.655,
+      "median_time_to_first_answer_token": 18.655,
       "id": "26c0b5df-efa7-470f-a65e-2d883329e493",
       "release_date": "2025-07-25"
     },
@@ -49131,9 +49265,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 18.646,
-      "median_time_to_first_token_seconds": 18.866,
-      "median_time_to_first_answer_token": 126.126,
+      "median_output_tokens_per_second": 32.961,
+      "median_time_to_first_token_seconds": 13.081,
+      "median_time_to_first_answer_token": 73.76,
       "id": "e1cfa926-9e2b-4a0d-8c31-48366a5041c5",
       "release_date": "2025-07-25"
     },
@@ -49169,9 +49303,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 165.785,
-      "median_time_to_first_token_seconds": 0.4,
-      "median_time_to_first_answer_token": 0.4,
+      "median_output_tokens_per_second": 171.55,
+      "median_time_to_first_token_seconds": 0.438,
+      "median_time_to_first_answer_token": 0.438,
       "id": "23b379f7-18df-492a-9fc1-a56c5a5b9cfc",
       "release_date": "2025-12-15"
     },
@@ -49260,7 +49394,7 @@
         "slug": "kimi"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 33.9,
+        "artificial_analysis_intelligence_index": 32.7,
         "artificial_analysis_coding_index": 60.8,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -49283,9 +49417,9 @@
         "price_1m_input_tokens": 0.95,
         "price_1m_output_tokens": 4
       },
-      "median_output_tokens_per_second": 46.905,
-      "median_time_to_first_token_seconds": 1.263,
-      "median_time_to_first_answer_token": 48.784,
+      "median_output_tokens_per_second": 65.697,
+      "median_time_to_first_token_seconds": 1.123,
+      "median_time_to_first_answer_token": 35.052,
       "id": "8d0cb231-7303-452c-9923-a9620b948475",
       "release_date": "2026-06-12"
     },
@@ -49321,9 +49455,9 @@
         "price_1m_input_tokens": 3,
         "price_1m_output_tokens": 15
       },
-      "median_output_tokens_per_second": 38.891,
-      "median_time_to_first_token_seconds": 2.986,
-      "median_time_to_first_answer_token": 54.412,
+      "median_output_tokens_per_second": 42.238,
+      "median_time_to_first_token_seconds": 2.781,
+      "median_time_to_first_answer_token": 50.132,
       "id": "f7d2fc3e-1f7b-405f-818c-07952a4af78f",
       "release_date": "2026-07-16"
     },
@@ -49374,7 +49508,7 @@
         "slug": "kimi"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 38.8,
+        "artificial_analysis_intelligence_index": 37.1,
         "artificial_analysis_coding_index": 72,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -49397,9 +49531,9 @@
         "price_1m_input_tokens": 3,
         "price_1m_output_tokens": 15
       },
-      "median_output_tokens_per_second": 35.892,
-      "median_time_to_first_token_seconds": 2.651,
-      "median_time_to_first_answer_token": 58.375,
+      "median_output_tokens_per_second": 43.331,
+      "median_time_to_first_token_seconds": 2.667,
+      "median_time_to_first_answer_token": 48.823,
       "id": "512d17ef-13d2-4f65-bf9b-154b0dec7e8d",
       "release_date": "2026-07-16"
     },
@@ -49435,9 +49569,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.15
       },
-      "median_output_tokens_per_second": 77.634,
-      "median_time_to_first_token_seconds": 2.229,
-      "median_time_to_first_answer_token": 27.991,
+      "median_output_tokens_per_second": 86.879,
+      "median_time_to_first_token_seconds": 1.717,
+      "median_time_to_first_answer_token": 24.737,
       "id": "6c7b322e-2f35-48ff-9171-fb621a726fc0",
       "release_date": "2026-05-29"
     },
@@ -49815,9 +49949,9 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.12
       },
-      "median_output_tokens_per_second": 222.909,
-      "median_time_to_first_token_seconds": 0.192,
-      "median_time_to_first_answer_token": 9.164,
+      "median_output_tokens_per_second": 214.149,
+      "median_time_to_first_token_seconds": 0.22,
+      "median_time_to_first_answer_token": 9.559,
       "id": "0c64b008-20c3-408d-bd68-15136df8cd2c",
       "release_date": "2026-08-25"
     },
@@ -49853,9 +49987,9 @@
         "price_1m_input_tokens": 0.16,
         "price_1m_output_tokens": 0.65
       },
-      "median_output_tokens_per_second": 72.979,
-      "median_time_to_first_token_seconds": 0.272,
-      "median_time_to_first_answer_token": 27.677,
+      "median_output_tokens_per_second": 47.997,
+      "median_time_to_first_token_seconds": 0.288,
+      "median_time_to_first_answer_token": 41.957,
       "id": "1071dea1-43e7-4fe9-b936-3034bb622b2e",
       "release_date": "2026-08-25"
     },
@@ -49891,9 +50025,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 18.799,
-      "median_time_to_first_token_seconds": 27.662,
-      "median_time_to_first_answer_token": 27.662,
+      "median_output_tokens_per_second": 16.59,
+      "median_time_to_first_token_seconds": 31.284,
+      "median_time_to_first_answer_token": 31.284,
       "id": "5dba8d07-9992-483c-81db-dac97cb15ba8",
       "release_date": "2025-09-22"
     },
@@ -49929,9 +50063,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 120.235,
-      "median_time_to_first_token_seconds": 0.46,
-      "median_time_to_first_answer_token": 0.46,
+      "median_output_tokens_per_second": 94.68,
+      "median_time_to_first_token_seconds": 0.481,
+      "median_time_to_first_answer_token": 0.481,
       "id": "82ed9bd2-c97b-4c35-9312-94bb72001e36",
       "release_date": "2026-04-29"
     },
@@ -50043,9 +50177,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 139.518,
-      "median_time_to_first_token_seconds": 0.241,
-      "median_time_to_first_answer_token": 14.576,
+      "median_output_tokens_per_second": 125.893,
+      "median_time_to_first_token_seconds": 0.229,
+      "median_time_to_first_answer_token": 16.116,
       "id": "adfae555-f489-4f3e-9064-c6b7fcdd0783",
       "release_date": "2026-08-25"
     },
@@ -50195,9 +50329,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.75
       },
-      "median_output_tokens_per_second": 794.899,
-      "median_time_to_first_token_seconds": 3.93,
-      "median_time_to_first_answer_token": 3.93,
+      "median_output_tokens_per_second": 1000.575,
+      "median_time_to_first_token_seconds": 3.728,
+      "median_time_to_first_answer_token": 3.728,
       "id": "016d330a-2141-4afa-b2fc-62b314423dc1",
       "release_date": "2026-02-20"
     },
@@ -50233,9 +50367,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 89.571,
-      "median_time_to_first_token_seconds": 0.933,
-      "median_time_to_first_answer_token": 23.262,
+      "median_output_tokens_per_second": 89.521,
+      "median_time_to_first_token_seconds": 0.923,
+      "median_time_to_first_answer_token": 23.264,
       "id": "dbbcf240-a69e-4078-8f16-7c94c7a8c514",
       "release_date": "2025-03-10"
     },
@@ -50271,9 +50405,9 @@
         "price_1m_input_tokens": 0.13,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 94.715,
-      "median_time_to_first_token_seconds": 0.572,
-      "median_time_to_first_answer_token": 0.572,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "235060f4-057d-4bd1-8b8e-4a92908c770e",
       "release_date": "2025-08-27"
     },
@@ -50385,9 +50519,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 42.726,
-      "median_time_to_first_token_seconds": 0.756,
-      "median_time_to_first_answer_token": 0.756,
+      "median_output_tokens_per_second": 42,
+      "median_time_to_first_token_seconds": 0.762,
+      "median_time_to_first_answer_token": 0.762,
       "id": "d3968fd3-97d8-4693-8d26-19cefc6f5d5f",
       "release_date": "2025-08-27"
     },
@@ -50423,9 +50557,9 @@
         "price_1m_input_tokens": 0.13,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 84.623,
-      "median_time_to_first_token_seconds": 0.632,
-      "median_time_to_first_answer_token": 24.266,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "6ba9e8eb-8124-436d-842f-dbe36df80c27",
       "release_date": "2025-08-27"
     },
@@ -50461,9 +50595,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 42.141,
-      "median_time_to_first_token_seconds": 0.754,
-      "median_time_to_first_answer_token": 48.214,
+      "median_output_tokens_per_second": 42.211,
+      "median_time_to_first_token_seconds": 0.762,
+      "median_time_to_first_answer_token": 48.143,
       "id": "82b207dd-d285-4a52-b2fc-2cbd27543899",
       "release_date": "2025-08-27"
     },
@@ -50803,9 +50937,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 31.335,
-      "median_time_to_first_token_seconds": 4.463,
-      "median_time_to_first_answer_token": 4.463,
+      "median_output_tokens_per_second": 37.006,
+      "median_time_to_first_token_seconds": 3.088,
+      "median_time_to_first_answer_token": 3.088,
       "id": "4764d31d-f4af-4297-8bd1-e993f26bcb64",
       "release_date": "2026-04-22"
     },
@@ -50856,7 +50990,7 @@
         "slug": "xiaomi"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 29.5,
+        "artificial_analysis_intelligence_index": 28.2,
         "artificial_analysis_coding_index": 56.8,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -50879,9 +51013,9 @@
         "price_1m_input_tokens": 0.14,
         "price_1m_output_tokens": 0.28
       },
-      "median_output_tokens_per_second": 53.59,
-      "median_time_to_first_token_seconds": 2.493,
-      "median_time_to_first_answer_token": 39.813,
+      "median_output_tokens_per_second": 61.447,
+      "median_time_to_first_token_seconds": 2.201,
+      "median_time_to_first_answer_token": 34.75,
       "id": "22d09131-343b-4adf-8760-533e20a2155f",
       "release_date": "2026-04-22"
     },
@@ -50917,9 +51051,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 34.263,
-      "median_time_to_first_token_seconds": 4.022,
-      "median_time_to_first_answer_token": 62.395,
+      "median_output_tokens_per_second": 40.743,
+      "median_time_to_first_token_seconds": 3.436,
+      "median_time_to_first_answer_token": 52.524,
       "id": "00f1248e-78e3-4230-8dc8-5e13ba8645e2",
       "release_date": "2026-04-22"
     },
@@ -51221,9 +51355,9 @@
         "price_1m_input_tokens": 0.04,
         "price_1m_output_tokens": 0.14
       },
-      "median_output_tokens_per_second": 342.285,
-      "median_time_to_first_token_seconds": 0.491,
-      "median_time_to_first_answer_token": 6.334,
+      "median_output_tokens_per_second": 359.03,
+      "median_time_to_first_token_seconds": 0.579,
+      "median_time_to_first_answer_token": 6.15,
       "id": "340fb211-4fad-41d3-87d5-ed0d0cd34088",
       "release_date": "2026-05-26"
     },
@@ -51236,7 +51370,7 @@
         "slug": "tencent"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 33.2,
+        "artificial_analysis_intelligence_index": 32.4,
         "artificial_analysis_coding_index": 58.8,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -51259,9 +51393,9 @@
         "price_1m_input_tokens": 0.136,
         "price_1m_output_tokens": 0.554
       },
-      "median_output_tokens_per_second": 98.087,
-      "median_time_to_first_token_seconds": 1.62,
-      "median_time_to_first_answer_token": 22.01,
+      "median_output_tokens_per_second": 99.235,
+      "median_time_to_first_token_seconds": 1.624,
+      "median_time_to_first_answer_token": 21.778,
       "id": "b23e6c69-96e5-44c9-8f58-4b42e0c399d5",
       "release_date": "2026-07-06"
     },
@@ -51715,9 +51849,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 2.95
       },
-      "median_output_tokens_per_second": 46.387,
-      "median_time_to_first_token_seconds": 2.726,
-      "median_time_to_first_answer_token": 45.841,
+      "median_output_tokens_per_second": 49.221,
+      "median_time_to_first_token_seconds": 2.467,
+      "median_time_to_first_answer_token": 43.101,
       "id": "5c3bdc0d-abab-4526-8079-34de4089bb4a",
       "release_date": "2026-06-29"
     },
@@ -52034,14 +52168,14 @@
         "slug": "arcee"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 12,
+        "artificial_analysis_intelligence_index": 13.1,
         "artificial_analysis_coding_index": 25.8,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
         "gpqa": 0.752,
         "hle": 0.158,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.406,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -52057,9 +52191,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.9
       },
-      "median_output_tokens_per_second": 328.262,
-      "median_time_to_first_token_seconds": 1.158,
-      "median_time_to_first_answer_token": 7.251,
+      "median_output_tokens_per_second": 332.759,
+      "median_time_to_first_token_seconds": 1.091,
+      "median_time_to_first_answer_token": 7.101,
       "id": "b6d2e43d-3082-43f5-9318-0f4dbcb54163",
       "release_date": "2026-04-01"
     },
@@ -52247,9 +52381,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 125.635,
-      "median_time_to_first_token_seconds": 0.931,
-      "median_time_to_first_answer_token": 16.85,
+      "median_output_tokens_per_second": 114.886,
+      "median_time_to_first_token_seconds": 1.009,
+      "median_time_to_first_answer_token": 18.417,
       "id": "3b5ba264-ad25-429b-a460-4d8698205f0d",
       "release_date": "2026-06-02"
     },
@@ -52285,9 +52419,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 4.05
       },
-      "median_output_tokens_per_second": 64.57,
-      "median_time_to_first_token_seconds": 2.511,
-      "median_time_to_first_answer_token": 33.485,
+      "median_output_tokens_per_second": 65.078,
+      "median_time_to_first_token_seconds": 2.316,
+      "median_time_to_first_answer_token": 33.049,
       "id": "0de09623-2b1a-4c8d-86ef-7f5245d4e24b",
       "release_date": "2026-07-15"
     },
@@ -52300,7 +52434,7 @@
         "slug": "thinking-machines"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 32.3,
+        "artificial_analysis_intelligence_index": 32.2,
         "artificial_analysis_coding_index": 52.9,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -52323,9 +52457,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 117.21,
-      "median_time_to_first_token_seconds": 2.192,
-      "median_time_to_first_answer_token": 19.255,
+      "median_output_tokens_per_second": 132.807,
+      "median_time_to_first_token_seconds": 1.69,
+      "median_time_to_first_answer_token": 16.749,
       "id": "7261504e-503c-4a66-a9d3-a3272cdf9ad6",
       "release_date": "2026-07-30"
     },
@@ -52452,7 +52586,7 @@
         "slug": "zai"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 42.5,
+        "artificial_analysis_intelligence_index": 42.1,
         "artificial_analysis_coding_index": 68.8,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -52475,9 +52609,9 @@
         "price_1m_input_tokens": 1.4,
         "price_1m_output_tokens": 4.4
       },
-      "median_output_tokens_per_second": 70.351,
-      "median_time_to_first_token_seconds": 1.427,
-      "median_time_to_first_answer_token": 29.856,
+      "median_output_tokens_per_second": 68.303,
+      "median_time_to_first_token_seconds": 1.236,
+      "median_time_to_first_answer_token": 30.517,
       "id": "f7a4ea75-e548-4069-80d4-9be8bc7c009b",
       "release_date": "2026-06-16"
     },
@@ -52513,9 +52647,9 @@
         "price_1m_input_tokens": 1.4,
         "price_1m_output_tokens": 4.4
       },
-      "median_output_tokens_per_second": 102.495,
-      "median_time_to_first_token_seconds": 1.19,
-      "median_time_to_first_answer_token": 1.19,
+      "median_output_tokens_per_second": 109.256,
+      "median_time_to_first_token_seconds": 1.097,
+      "median_time_to_first_answer_token": 1.097,
       "id": "e8aa417f-18fe-46b0-ba62-ef99785a9585",
       "release_date": "2026-06-16"
     },
@@ -52551,9 +52685,9 @@
         "price_1m_input_tokens": 1.4,
         "price_1m_output_tokens": 4.4
       },
-      "median_output_tokens_per_second": 77.374,
-      "median_time_to_first_token_seconds": 1.248,
-      "median_time_to_first_answer_token": 27.097,
+      "median_output_tokens_per_second": 74.538,
+      "median_time_to_first_token_seconds": 1.415,
+      "median_time_to_first_answer_token": 28.247,
       "id": "cd684ea4-b475-4269-b001-d469d06d8a7a",
       "release_date": "2026-08-18"
     },
@@ -52589,9 +52723,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 55.565,
-      "median_time_to_first_token_seconds": 0.21,
-      "median_time_to_first_answer_token": 36.204,
+      "median_output_tokens_per_second": 84.736,
+      "median_time_to_first_token_seconds": 0.215,
+      "median_time_to_first_answer_token": 23.818,
       "id": "1e9907e0-ffac-4595-b006-962e4f1da7cf",
       "release_date": "2026-06-09"
     },
@@ -52627,9 +52761,9 @@
         "price_1m_input_tokens": 2.5,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 58.801,
-      "median_time_to_first_token_seconds": 0.323,
-      "median_time_to_first_answer_token": 0.323,
+      "median_output_tokens_per_second": 64.013,
+      "median_time_to_first_token_seconds": 0.302,
+      "median_time_to_first_answer_token": 0.302,
       "id": "3bc32f13-5afa-4e28-bce1-10e57376686b",
       "release_date": "2025-03-13"
     },
@@ -52665,9 +52799,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 231.654,
-      "median_time_to_first_token_seconds": 0.162,
-      "median_time_to_first_answer_token": 8.796,
+      "median_output_tokens_per_second": 239.357,
+      "median_time_to_first_token_seconds": 0.15,
+      "median_time_to_first_answer_token": 8.506,
       "id": "2e9ff877-fd2c-4ce7-b631-7ca1bdb6d13e",
       "release_date": "2026-05-20"
     },
@@ -52703,9 +52837,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 130.075,
-      "median_time_to_first_token_seconds": 0.269,
-      "median_time_to_first_answer_token": 0.269,
+      "median_output_tokens_per_second": 129.473,
+      "median_time_to_first_token_seconds": 0.263,
+      "median_time_to_first_answer_token": 0.263,
       "id": "81444bc8-72f9-4a2d-ad43-27e3f0d2f461",
       "release_date": "2026-02-17"
     },
@@ -52893,9 +53027,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 4.8
       },
-      "median_output_tokens_per_second": 116.563,
-      "median_time_to_first_token_seconds": 1.197,
-      "median_time_to_first_answer_token": 1.197,
+      "median_output_tokens_per_second": 117.158,
+      "median_time_to_first_token_seconds": 1.166,
+      "median_time_to_first_answer_token": 1.166,
       "id": "0179b427-93dc-415c-bb4c-f980ddf8d088",
       "release_date": "2026-03-30"
     },
@@ -52931,9 +53065,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 55.842,
-      "median_time_to_first_token_seconds": 1.38,
-      "median_time_to_first_answer_token": 1.38,
+      "median_output_tokens_per_second": 56.811,
+      "median_time_to_first_token_seconds": 1.347,
+      "median_time_to_first_answer_token": 1.347,
       "id": "3b156101-b0d7-4438-b350-2d1f1168f40a",
       "release_date": "2026-04-22"
     },
@@ -52969,9 +53103,9 @@
         "price_1m_input_tokens": 0.375,
         "price_1m_output_tokens": 2.25
       },
-      "median_output_tokens_per_second": 138.127,
-      "median_time_to_first_token_seconds": 1.091,
-      "median_time_to_first_answer_token": 1.091,
+      "median_output_tokens_per_second": 137.675,
+      "median_time_to_first_token_seconds": 1.045,
+      "median_time_to_first_answer_token": 1.045,
       "id": "66938aab-78fa-49d7-8461-b48b6833e837",
       "release_date": "2026-04-16"
     },
@@ -53007,9 +53141,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 46.683,
-      "median_time_to_first_token_seconds": 1.23,
-      "median_time_to_first_answer_token": 44.073,
+      "median_output_tokens_per_second": 51.671,
+      "median_time_to_first_token_seconds": 1.176,
+      "median_time_to_first_answer_token": 39.882,
       "id": "7e30585f-fad7-40df-a8cb-03c1d96df38a",
       "release_date": "2026-08-14"
     },
@@ -53045,9 +53179,9 @@
         "price_1m_input_tokens": 0.375,
         "price_1m_output_tokens": 2.25
       },
-      "median_output_tokens_per_second": 130.541,
-      "median_time_to_first_token_seconds": 1.055,
-      "median_time_to_first_answer_token": 42.383,
+      "median_output_tokens_per_second": 137.005,
+      "median_time_to_first_token_seconds": 1.027,
+      "median_time_to_first_answer_token": 40.405,
       "id": "8665ca00-c687-44c7-875c-22618cb31c4f",
       "release_date": "2026-04-16"
     },
@@ -53083,9 +53217,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 54.327,
-      "median_time_to_first_token_seconds": 1.371,
-      "median_time_to_first_answer_token": 105.85,
+      "median_output_tokens_per_second": 57.041,
+      "median_time_to_first_token_seconds": 1.331,
+      "median_time_to_first_answer_token": 100.839,
       "id": "8c29d66d-bf98-4ea3-8572-5409353ecc66",
       "release_date": "2026-04-22"
     },
@@ -53121,9 +53255,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 182.255,
-      "median_time_to_first_token_seconds": 1.028,
-      "median_time_to_first_answer_token": 1.028,
+      "median_output_tokens_per_second": 183.363,
+      "median_time_to_first_token_seconds": 1.006,
+      "median_time_to_first_answer_token": 1.006,
       "id": "2698f6c6-e436-47ce-a583-dbc25596c571",
       "release_date": "2025-09-11"
     },
@@ -53159,9 +53293,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 3.2
       },
-      "median_output_tokens_per_second": 135.654,
-      "median_time_to_first_token_seconds": 1.014,
-      "median_time_to_first_answer_token": 15.757,
+      "median_output_tokens_per_second": 135.854,
+      "median_time_to_first_token_seconds": 0.995,
+      "median_time_to_first_answer_token": 15.717,
       "id": "2236df45-0699-40d1-b5cc-69ee345d2257",
       "release_date": "2026-02-24"
     },
@@ -53197,9 +53331,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 89.184,
-      "median_time_to_first_token_seconds": 1.568,
-      "median_time_to_first_answer_token": 37.292,
+      "median_output_tokens_per_second": 87.23,
+      "median_time_to_first_token_seconds": 1.578,
+      "median_time_to_first_answer_token": 38.102,
       "id": "0e66bae9-41f1-42fc-9276-ce8cb6f72919",
       "release_date": "2026-02-16"
     },
@@ -53250,14 +53384,14 @@
         "slug": "alibaba"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 14.3,
+        "artificial_analysis_intelligence_index": 14.1,
         "artificial_analysis_coding_index": 36.2,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
         "gpqa": 0.737,
         "hle": 0.101,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.362,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -53273,9 +53407,9 @@
         "price_1m_input_tokens": 0.35,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 115.622,
-      "median_time_to_first_token_seconds": 0.91,
-      "median_time_to_first_answer_token": 0.91,
+      "median_output_tokens_per_second": 138.443,
+      "median_time_to_first_token_seconds": 0.756,
+      "median_time_to_first_answer_token": 0.756,
       "id": "fc92f822-04b7-420d-9c07-a21af5e9aac7",
       "release_date": "2026-02-03"
     },
@@ -53311,9 +53445,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 182.6,
-      "median_time_to_first_token_seconds": 1.229,
-      "median_time_to_first_answer_token": 12.182,
+      "median_output_tokens_per_second": 189.61,
+      "median_time_to_first_token_seconds": 1.118,
+      "median_time_to_first_answer_token": 11.666,
       "id": "c8a79180-7d16-4474-8701-9a77c0baa56a",
       "release_date": "2025-09-11"
     },
@@ -53349,9 +53483,9 @@
         "price_1m_input_tokens": 0.135,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 84.734,
-      "median_time_to_first_token_seconds": 1.142,
-      "median_time_to_first_answer_token": 24.745,
+      "median_output_tokens_per_second": 82.049,
+      "median_time_to_first_token_seconds": 1.019,
+      "median_time_to_first_answer_token": 25.395,
       "id": "2d28a13a-096e-475a-beb8-26bbd1c7d51c",
       "release_date": "2026-03-02"
     },
@@ -53387,9 +53521,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 39.975,
-      "median_time_to_first_token_seconds": 1.748,
-      "median_time_to_first_answer_token": 51.78,
+      "median_output_tokens_per_second": 39.304,
+      "median_time_to_first_token_seconds": 1.757,
+      "median_time_to_first_answer_token": 52.642,
       "id": "8df710d3-9dae-4498-9b4e-9818238e6f31",
       "release_date": "2026-08-12"
     },
@@ -53425,9 +53559,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 87.4,
-      "median_time_to_first_token_seconds": 1.843,
-      "median_time_to_first_answer_token": 1.843,
+      "median_output_tokens_per_second": 86.605,
+      "median_time_to_first_token_seconds": 1.708,
+      "median_time_to_first_answer_token": 1.708,
       "id": "30ef2a79-e800-4165-9f13-2a338f120db7",
       "release_date": "2026-02-16"
     },
@@ -53440,7 +53574,7 @@
         "slug": "alibaba"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 30.8,
+        "artificial_analysis_intelligence_index": 31.9,
         "artificial_analysis_coding_index": 55.9,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -53463,9 +53597,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 1.6
       },
-      "median_output_tokens_per_second": 55.55,
-      "median_time_to_first_token_seconds": 1.551,
-      "median_time_to_first_answer_token": 37.555,
+      "median_output_tokens_per_second": 55.217,
+      "median_time_to_first_token_seconds": 1.282,
+      "median_time_to_first_answer_token": 37.503,
       "id": "a87fce42-eea3-4e45-a96d-fe057814f371",
       "release_date": "2026-06-01"
     },
@@ -53501,9 +53635,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 43.624,
-      "median_time_to_first_token_seconds": 1.237,
-      "median_time_to_first_answer_token": 47.083,
+      "median_output_tokens_per_second": 46.123,
+      "median_time_to_first_token_seconds": 1.235,
+      "median_time_to_first_answer_token": 44.598,
       "id": "b01dee41-c62b-48ed-8d16-984adc405e5c",
       "release_date": "2026-08-14"
     },
@@ -53539,9 +53673,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.97
       },
-      "median_output_tokens_per_second": 109.377,
-      "median_time_to_first_token_seconds": 1.079,
-      "median_time_to_first_answer_token": 19.364,
+      "median_output_tokens_per_second": 109.736,
+      "median_time_to_first_token_seconds": 0.944,
+      "median_time_to_first_answer_token": 19.169,
       "id": "b97ef678-2d31-4375-9416-67ea97f87204",
       "release_date": "2025-09-22"
     },
@@ -53577,9 +53711,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 2
       },
-      "median_output_tokens_per_second": 157.34,
-      "median_time_to_first_token_seconds": 1.195,
-      "median_time_to_first_answer_token": 1.195,
+      "median_output_tokens_per_second": 158.703,
+      "median_time_to_first_token_seconds": 1.121,
+      "median_time_to_first_answer_token": 1.121,
       "id": "eebfef01-709e-4ffe-b72f-0db75ef2434b",
       "release_date": "2026-02-24"
     },
@@ -53615,9 +53749,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 3.2
       },
-      "median_output_tokens_per_second": 147.872,
-      "median_time_to_first_token_seconds": 1.01,
-      "median_time_to_first_answer_token": 1.01,
+      "median_output_tokens_per_second": 147.481,
+      "median_time_to_first_token_seconds": 1.022,
+      "median_time_to_first_answer_token": 1.022,
       "id": "021b1b31-d2fc-4653-ab74-c10bd2f41c8e",
       "release_date": "2026-02-24"
     },
@@ -53653,7 +53787,7 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.97
       },
-      "median_output_tokens_per_second": 105.658,
+      "median_output_tokens_per_second": 106.972,
       "median_time_to_first_token_seconds": 0.878,
       "median_time_to_first_answer_token": 0.878,
       "id": "0b226b82-1462-4860-bf1a-f8aed7024791",
@@ -53691,9 +53825,9 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 17.353,
-      "median_time_to_first_token_seconds": 0.476,
-      "median_time_to_first_answer_token": 115.731,
+      "median_output_tokens_per_second": 20.322,
+      "median_time_to_first_token_seconds": 0.435,
+      "median_time_to_first_answer_token": 98.852,
       "id": "651ef7ae-9a8f-477e-9c8e-460aa156ba02",
       "release_date": "2026-03-02"
     },
@@ -53729,9 +53863,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 49.653,
-      "median_time_to_first_token_seconds": 1.219,
-      "median_time_to_first_answer_token": 1.219,
+      "median_output_tokens_per_second": 52.155,
+      "median_time_to_first_token_seconds": 1.115,
+      "median_time_to_first_answer_token": 1.115,
       "id": "353c92f3-2148-4c2d-9231-aa7e1322a1fd",
       "release_date": "2026-08-14"
     },
@@ -53767,9 +53901,9 @@
         "price_1m_input_tokens": 0.17,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 91.194,
-      "median_time_to_first_token_seconds": 0.457,
-      "median_time_to_first_answer_token": 0.457,
+      "median_output_tokens_per_second": 87.882,
+      "median_time_to_first_token_seconds": 0.393,
+      "median_time_to_first_answer_token": 0.393,
       "id": "20da3b31-fc0a-4359-abec-d59367bf1d9f",
       "release_date": "2026-03-02"
     },
@@ -53881,9 +54015,9 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 16.222,
-      "median_time_to_first_token_seconds": 0.5,
-      "median_time_to_first_answer_token": 0.5,
+      "median_output_tokens_per_second": 17.25,
+      "median_time_to_first_token_seconds": 0.551,
+      "median_time_to_first_answer_token": 0.551,
       "id": "30c9ba61-d0a1-4794-938e-35865f379d15",
       "release_date": "2026-03-02"
     },
@@ -53919,9 +54053,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 38.418,
-      "median_time_to_first_token_seconds": 1.732,
-      "median_time_to_first_answer_token": 53.792,
+      "median_output_tokens_per_second": 38.121,
+      "median_time_to_first_token_seconds": 1.701,
+      "median_time_to_first_answer_token": 54.165,
       "id": "5e5b4ce7-bc54-47b2-b911-21b9cad8394c",
       "release_date": "2026-08-03"
     },
@@ -53957,9 +54091,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 45.95,
-      "median_time_to_first_token_seconds": 1.244,
-      "median_time_to_first_answer_token": 44.77,
+      "median_output_tokens_per_second": 51.962,
+      "median_time_to_first_token_seconds": 1.192,
+      "median_time_to_first_answer_token": 39.681,
       "id": "6657d7de-a2a9-40bc-a32f-86e80ad63698",
       "release_date": "2026-08-14"
     },
@@ -54033,9 +54167,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 224.279,
-      "median_time_to_first_token_seconds": 0.961,
-      "median_time_to_first_answer_token": 0.961,
+      "median_output_tokens_per_second": 234.181,
+      "median_time_to_first_token_seconds": 0.911,
+      "median_time_to_first_answer_token": 0.911,
       "id": "6f3534b1-1168-472e-b3e3-23ab521504f5",
       "release_date": "2026-03-30"
     },
@@ -54109,9 +54243,9 @@
         "price_1m_input_tokens": 0.075,
         "price_1m_output_tokens": 0.22
       },
-      "median_output_tokens_per_second": 347.195,
-      "median_time_to_first_token_seconds": 1.596,
-      "median_time_to_first_answer_token": 7.356,
+      "median_output_tokens_per_second": 359.68,
+      "median_time_to_first_token_seconds": 1.713,
+      "median_time_to_first_answer_token": 7.274,
       "id": "e33dc369-ae81-40e0-8c4e-28b002d02197",
       "release_date": "2026-08-04"
     },
@@ -54147,9 +54281,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 143.798,
-      "median_time_to_first_token_seconds": 1.811,
-      "median_time_to_first_answer_token": 15.72,
+      "median_output_tokens_per_second": 116.251,
+      "median_time_to_first_token_seconds": 1.676,
+      "median_time_to_first_answer_token": 18.88,
       "id": "7eaf926c-5f39-4e58-ae50-c38b5fc630fc",
       "release_date": "2026-08-06"
     },
@@ -54185,9 +54319,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 121.769,
-      "median_time_to_first_token_seconds": 2.055,
-      "median_time_to_first_answer_token": 18.479,
+      "median_output_tokens_per_second": 121.977,
+      "median_time_to_first_token_seconds": 1.842,
+      "median_time_to_first_answer_token": 18.238,
       "id": "eb4ba465-3fcd-4065-9fe2-e8225e7b2c6c",
       "release_date": "2026-05-08"
     },
@@ -54261,9 +54395,9 @@
         "price_1m_input_tokens": 0.45,
         "price_1m_output_tokens": 0.9
       },
-      "median_output_tokens_per_second": 179.61,
-      "median_time_to_first_token_seconds": 1.528,
-      "median_time_to_first_answer_token": 12.663,
+      "median_output_tokens_per_second": 172.936,
+      "median_time_to_first_token_seconds": 1.523,
+      "median_time_to_first_answer_token": 13.088,
       "id": "8decf027-5114-4721-9ee1-81c0552980a0",
       "release_date": "2026-07-24"
     },
@@ -54314,7 +54448,7 @@
         "slug": "celeris"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 6.3,
+        "artificial_analysis_intelligence_index": 7.6,
         "artificial_analysis_coding_index": 14.4,
         "artificial_analysis_math_index": null,
         "mmlu_pro": 0.78,
@@ -54337,9 +54471,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.7
       },
-      "median_output_tokens_per_second": 2172.372,
-      "median_time_to_first_token_seconds": 0.461,
-      "median_time_to_first_answer_token": 0.461,
+      "median_output_tokens_per_second": 2235.745,
+      "median_time_to_first_token_seconds": 0.483,
+      "median_time_to_first_answer_token": 0.483,
       "id": "8014c311-fa23-4a4b-8485-8a864db8a113",
       "release_date": "2026-07-24"
     },
@@ -54808,7 +54942,7 @@
         "slug": "openai"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 41.6,
+        "artificial_analysis_intelligence_index": 41.2,
         "artificial_analysis_coding_index": 71.5,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -56746,7 +56880,7 @@
         "slug": "meta"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 43.3,
+        "artificial_analysis_intelligence_index": 41.2,
         "artificial_analysis_coding_index": 71.3,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -57354,7 +57488,7 @@
         "slug": "google"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 18.7,
+        "artificial_analysis_intelligence_index": 19.3,
         "artificial_analysis_coding_index": 34.7,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -58912,7 +59046,7 @@
         "slug": "anthropic"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 46.4,
+        "artificial_analysis_intelligence_index": 47.8,
         "artificial_analysis_coding_index": 74.3,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -58988,14 +59122,14 @@
         "slug": "anthropic"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 29,
+        "artificial_analysis_intelligence_index": 27.3,
         "artificial_analysis_coding_index": 52.1,
         "artificial_analysis_math_index": 88,
         "mmlu_pro": 0.875,
         "gpqa": 0.834,
         "hle": 0.178,
         "livecodebench": 0.714,
-        "scicode": null,
+        "scicode": 0.457,
         "math_500": null,
         "aime": null,
         "aime_25": 0.88,
@@ -59945,7 +60079,7 @@
         "gpqa": 0.588,
         "hle": 0.047,
         "livecodebench": 0.406,
-        "scicode": null,
+        "scicode": 0.324,
         "math_500": null,
         "aime": null,
         "aime_25": 0.383333333333333,
@@ -60052,14 +60186,14 @@
         "slug": "mistral"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 8.6,
+        "artificial_analysis_intelligence_index": 10.3,
         "artificial_analysis_coding_index": 26.3,
         "artificial_analysis_math_index": 3.7,
         "mmlu_pro": 0.659,
         "gpqa": 0.454,
         "hle": 0.043,
         "livecodebench": 0.212,
-        "scicode": null,
+        "scicode": 0.278,
         "math_500": 0.706666666666667,
         "aime": 0.0933333333333333,
         "aime_25": 0.0366666666666667,
@@ -60394,14 +60528,14 @@
         "slug": "deepseek"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 8.3,
+        "artificial_analysis_intelligence_index": 10.4,
         "artificial_analysis_coding_index": 23,
         "artificial_analysis_math_index": 26,
         "mmlu_pro": 0.752,
         "gpqa": 0.557,
         "hle": 0.029,
         "livecodebench": 0.359,
-        "scicode": null,
+        "scicode": 0.358,
         "math_500": 0.886666666666667,
         "aime": 0.253333333333333,
         "aime_25": 0.26,
@@ -60660,14 +60794,14 @@
         "slug": "deepseek"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 30.4,
+        "artificial_analysis_intelligence_index": 30.2,
         "artificial_analysis_coding_index": 52,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
         "gpqa": 0.867,
         "hle": 0.303,
         "livecodebench": null,
-        "scicode": null,
+        "scicode": 0.402,
         "math_500": null,
         "aime": null,
         "aime_25": null,
@@ -60698,7 +60832,7 @@
         "slug": "deepseek"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 33.1,
+        "artificial_analysis_intelligence_index": 30.7,
         "artificial_analysis_coding_index": 56.2,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -61762,7 +61896,7 @@
         "slug": "xai"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 29.3,
+        "artificial_analysis_intelligence_index": 29.9,
         "artificial_analysis_coding_index": 42.2,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -65182,7 +65316,7 @@
         "slug": "alibaba"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 37,
+        "artificial_analysis_intelligence_index": 36.6,
         "artificial_analysis_coding_index": 66,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -65524,14 +65658,14 @@
         "slug": "alibaba"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 5.7,
+        "artificial_analysis_intelligence_index": 8,
         "artificial_analysis_coding_index": 15.3,
         "artificial_analysis_math_index": 73,
         "mmlu_pro": 0.798,
         "gpqa": 0.668,
         "hle": 0.074,
         "livecodebench": 0.546,
-        "scicode": null,
+        "scicode": 0.361,
         "math_500": 0.960666666666667,
         "aime": 0.806666666666667,
         "aime_25": 0.73,
@@ -65562,14 +65696,14 @@
         "slug": "alibaba"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 4.8,
+        "artificial_analysis_intelligence_index": 7.1,
         "artificial_analysis_coding_index": 13.8,
         "artificial_analysis_math_index": 55.7,
         "mmlu_pro": 0.774,
         "gpqa": 0.604,
         "hle": 0.045,
         "livecodebench": 0.523,
-        "scicode": null,
+        "scicode": 0.307,
         "math_500": 0.961333333333333,
         "aime": 0.763333333333333,
         "aime_25": 0.556666666666667,
@@ -67150,14 +67284,14 @@
       "release_date": "2025-08-20"
     }
   },
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "source": "Artificial Analysis API",
   "attribution": "Rankings provided by Artificial Analysis (https://artificialanalysis.ai/). Please attribute per their terms.",
-  "count": 630,
+  "count": 631,
   "metadata": {
-    "total_models": 643,
-    "compact_entries": 12629,
-    "full_data_entries": 630,
+    "total_models": 644,
+    "compact_entries": 12653,
+    "full_data_entries": 631,
     "prompt_options": {
       "parallel_queries": 1,
       "prompt_length": 1000
