@@ -4,14 +4,19 @@ Automated daily rankings for LLM models, fetched from [Artificial Analysis](http
 
 ## Overview
 
-This repository provides a `rankings.json` file that contains intelligence and coding scores for various LLM models. It's updated daily via GitHub Actions.
+This repository provides a `rankings.json` file with intelligence, coding, and agentic scores for LLM models. It's updated daily via GitHub Actions.
+
+Compact scores come from two Artificial Analysis endpoints:
+
+- Legacy catalog `GET /api/v2/data/llms/models` — per-benchmark evaluations used in `fullData`
+- Free language models `GET /api/v2/language/models/free` — headline Intelligence, Coding, and **Agentic** indices, plus `intelligence_index_version`
 
 ## Data Format
 
 ```json
 {
   "models": {
-    "openai/gpt-4o": { "int": 71, "code": 68 },
+    "openai/gpt-4o": { "int": 71, "code": 68, "agent": 64 },
     "anthropic/claude-3.5-sonnet": { "int": 70, "code": 65 }
   },
   "fullData": {
@@ -22,6 +27,7 @@ This repository provides a `rankings.json` file that contains intelligence and c
       "evaluations": {
         "artificial_analysis_intelligence_index": 71.2,
         "artificial_analysis_coding_index": 68.5,
+        "artificial_analysis_agentic_index": 64.1,
         "mmlu_pro": 0.82,
         "gpqa": 0.65,
         "...": "..."
@@ -44,6 +50,12 @@ This repository provides a `rankings.json` file that contains intelligence and c
     "total_models": 150,
     "compact_entries": 400,
     "full_data_entries": 150,
+    "intelligence_index_version": 4.1,
+    "endpoints": [
+      "/api/v2/data/llms/models",
+      "/api/v2/language/models/free"
+    ],
+    "compact_field_coverage": { "int": 150, "code": 90, "agent": 80 },
     "prompt_options": {}
   }
 }
@@ -51,20 +63,25 @@ This repository provides a `rankings.json` file that contains intelligence and c
 
 ### Data Structure
 
-- **`models`**: Compact lookup map for quick matching (int/code scores only)
+- **`models`**: Compact lookup map for quick matching
   - Keys: Multiple formats for flexible matching (slug, creator/slug, name)
-  - Values: `{ int: number, code: number }`
+  - Values: `{ int?: number, code?: number, agent?: number }` — each field is omitted when AA has no measurement
   
 - **`fullData`**: Complete Artificial Analysis data for each model
   - Keys: Primary identifier (creator/slug or slug)
-  - Values: Full AA response including:
-    - All evaluation benchmarks (MMLU, GPQA, HumanEval, etc.)
+  - Values: Merged AA response including:
+    - Headline indices (intelligence, coding, agentic when available)
+    - Other evaluation benchmarks from the legacy catalog (MMLU, GPQA, etc.)
     - Pricing (input/output tokens, blended)
     - Performance metrics (tokens/sec, TTFT)
     - Model metadata (name, creator, parameters, etc.)
 
-- `int`: Intelligence score (0-100)
-- `code`: Coding score (0-100)
+- `int`: Intelligence Index (0–100), overall quality
+- `code`: Coding Index (0–100), optional
+- `agent`: Agentic Index (0–100), optional — tool use, planning, and multi-step tasks. New; lookups should treat it as optional
+- `metadata.intelligence_index_version`: Artificial Analysis Intelligence Index methodology version (major.minor) for the scores in this file
+
+Math, openness, and individual benchmarks are not promoted to the compact map. They remain in `fullData.evaluations` when the catalog provides them.
 
 ## Setup
 
@@ -86,6 +103,8 @@ git push -u origin main
 4. Value: Your Artificial Analysis API key
 5. Click "Add secret"
 
+A free-tier key is enough. The builder uses the free language-models endpoint plus the public catalog.
+
 ### 3. Enable GitHub Actions
 
 1. Go to Actions tab
@@ -100,7 +119,8 @@ Fetch the latest rankings in your application:
 ```javascript
 const res = await fetch("https://raw.githubusercontent.com/kylemathias/model-rankings/main/rankings.json");
 const data = await res.json();
-console.log(data.models);
+console.log(data.models["openai/gpt-4o"]);
+// { int: 71, code: 68, agent: 64 }  — `code` and `agent` may be absent
 ```
 
 ## Attribution
