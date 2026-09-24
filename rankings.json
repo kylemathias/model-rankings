@@ -5146,181 +5146,6 @@
       "int": 36,
       "code": 69
     },
-    "agnes-ai/agnes-3-0-flash": {
-      "int": 36
-    },
-    "agnes-3-0-flash": {
-      "int": 36
-    },
-    "agnes 3.0 flash": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3.0-flash": {
-      "int": 36
-    },
-    "agnes-3.0-flash": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3-0-flash-preview": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3-0-flash-beta": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3-0-flash-exp": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3-0-flash-experimental": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3-0-flash-latest": {
-      "int": 36
-    },
-    "agnes-3-0-flash-preview": {
-      "int": 36
-    },
-    "agnes-3-0-flash-beta": {
-      "int": 36
-    },
-    "agnes-3-0-flash-exp": {
-      "int": 36
-    },
-    "agnes-3-0-flash-experimental": {
-      "int": 36
-    },
-    "agnes-3-0-flash-latest": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3.0-flash-preview": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3.0-flash-beta": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3.0-flash-exp": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3.0-flash-experimental": {
-      "int": 36
-    },
-    "agnes-ai/agnes-3.0-flash-latest": {
-      "int": 36
-    },
-    "agnes-3.0-flash-preview": {
-      "int": 36
-    },
-    "agnes-3.0-flash-beta": {
-      "int": 36
-    },
-    "agnes-3.0-flash-exp": {
-      "int": 36
-    },
-    "agnes-3.0-flash-experimental": {
-      "int": 36
-    },
-    "agnes-3.0-flash-latest": {
-      "int": 36
-    },
-    "agnes-ai/agnes-2-5-pro-beta": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2-5-pro-beta": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes 2.5 pro beta": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2.5-pro-beta": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2.5-pro-beta": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2-5-pro-beta-preview": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2-5-pro-beta-beta": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2-5-pro-beta-exp": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2-5-pro-beta-experimental": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2-5-pro-beta-latest": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2-5-pro-beta-preview": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2-5-pro-beta-beta": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2-5-pro-beta-exp": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2-5-pro-beta-experimental": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2-5-pro-beta-latest": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2.5-pro-beta-preview": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2.5-pro-beta-beta": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2.5-pro-beta-exp": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2.5-pro-beta-experimental": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-ai/agnes-2.5-pro-beta-latest": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2.5-pro-beta-preview": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2.5-pro-beta-beta": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2.5-pro-beta-exp": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2.5-pro-beta-experimental": {
-      "int": 35,
-      "code": 62
-    },
-    "agnes-2.5-pro-beta-latest": {
-      "int": 35,
-      "code": 62
-    },
     "xai/grok-4-6-low": {
       "int": 35,
       "code": 66
@@ -9604,106 +9429,6 @@
     "kimi-k2.6-latest": {
       "int": 27,
       "code": 62
-    },
-    "agnes-ai/agnes-2-5-pro-alpha": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2-5-pro-alpha": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes 2.5 pro alpha (based on qwen3.5 397b a17b)": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2.5-pro-alpha": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2.5-pro-alpha": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2-5-pro-alpha-preview": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2-5-pro-alpha-beta": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2-5-pro-alpha-exp": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2-5-pro-alpha-experimental": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2-5-pro-alpha-latest": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2-5-pro-alpha-preview": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2-5-pro-alpha-beta": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2-5-pro-alpha-exp": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2-5-pro-alpha-experimental": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2-5-pro-alpha-latest": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2.5-pro-alpha-preview": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2.5-pro-alpha-beta": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2.5-pro-alpha-exp": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2.5-pro-alpha-experimental": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-ai/agnes-2.5-pro-alpha-latest": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2.5-pro-alpha-preview": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2.5-pro-alpha-beta": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2.5-pro-alpha-exp": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2.5-pro-alpha-experimental": {
-      "int": 27,
-      "code": 59
-    },
-    "agnes-2.5-pro-alpha-latest": {
-      "int": 27,
-      "code": 59
     },
     "multiversecomputing/quasar-438b": {
       "int": 27,
@@ -24100,6 +23825,81 @@
     "gemini-2.5-flash-preview-09.2025-latest": {
       "int": 12
     },
+    "inception/mercury-2-5": {
+      "int": 12
+    },
+    "mercury-2-5": {
+      "int": 12
+    },
+    "mercury 2.5": {
+      "int": 12
+    },
+    "inception/mercury-2.5": {
+      "int": 12
+    },
+    "mercury-2.5": {
+      "int": 12
+    },
+    "inception/mercury-2-5-preview": {
+      "int": 12
+    },
+    "inception/mercury-2-5-beta": {
+      "int": 12
+    },
+    "inception/mercury-2-5-exp": {
+      "int": 12
+    },
+    "inception/mercury-2-5-experimental": {
+      "int": 12
+    },
+    "inception/mercury-2-5-latest": {
+      "int": 12
+    },
+    "mercury-2-5-preview": {
+      "int": 12
+    },
+    "mercury-2-5-beta": {
+      "int": 12
+    },
+    "mercury-2-5-exp": {
+      "int": 12
+    },
+    "mercury-2-5-experimental": {
+      "int": 12
+    },
+    "mercury-2-5-latest": {
+      "int": 12
+    },
+    "inception/mercury-2.5-preview": {
+      "int": 12
+    },
+    "inception/mercury-2.5-beta": {
+      "int": 12
+    },
+    "inception/mercury-2.5-exp": {
+      "int": 12
+    },
+    "inception/mercury-2.5-experimental": {
+      "int": 12
+    },
+    "inception/mercury-2.5-latest": {
+      "int": 12
+    },
+    "mercury-2.5-preview": {
+      "int": 12
+    },
+    "mercury-2.5-beta": {
+      "int": 12
+    },
+    "mercury-2.5-exp": {
+      "int": 12
+    },
+    "mercury-2.5-experimental": {
+      "int": 12
+    },
+    "mercury-2.5-latest": {
+      "int": 12
+    },
     "china-mobile/jt-mini": {
       "int": 12
     },
@@ -26349,6 +26149,9 @@
       "int": 11
     },
     "intellect-3": {
+      "int": 11
+    },
+    "intellect-3 (based on glm-4.5-air)": {
       "int": 11
     },
     "prime-intellect/intellect-3-preview": {
@@ -41906,7 +41709,7 @@
     "sarvam-m-reasoning": {
       "int": 5
     },
-    "sarvam m (reasoning)": {
+    "sarvam m (reasoning, based on mistral small 3.1)": {
       "int": 5
     },
     "sarvam/sarvam-m-reasoning-preview": {
@@ -45324,11 +45127,11 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 82.952,
-      "median_time_to_first_token_seconds": 63.684,
-      "median_time_to_first_answer_token": 63.684,
+      "median_output_tokens_per_second": 85.34,
+      "median_time_to_first_token_seconds": 66.024,
+      "median_time_to_first_answer_token": 66.024,
       "id": "df5bf99d-d228-4715-b41b-19ca86118777",
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-22"
     },
     "anthropic/claude-opus-5-5-high": {
       "name": "Claude Opus 5.5 (Adaptive Reasoning, High Effort, Default Fallback)",
@@ -45362,11 +45165,11 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 71.738,
+      "median_output_tokens_per_second": 72.701,
       "median_time_to_first_token_seconds": 19.079,
       "median_time_to_first_answer_token": 19.079,
       "id": "f314eade-2232-44bf-a3ab-9b326bc67de6",
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-22"
     },
     "anthropic/claude-fable-5-1": {
       "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
@@ -45400,9 +45203,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 63.599,
-      "median_time_to_first_token_seconds": 122.468,
-      "median_time_to_first_answer_token": 122.468,
+      "median_output_tokens_per_second": 66.788,
+      "median_time_to_first_token_seconds": 104.673,
+      "median_time_to_first_answer_token": 104.673,
       "id": "3e87c73e-a257-495e-9730-367a66229811",
       "release_date": "2026-09-01"
     },
@@ -45438,7 +45241,7 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 58.814,
+      "median_output_tokens_per_second": 60.031,
       "median_time_to_first_token_seconds": 37.516,
       "median_time_to_first_answer_token": 37.516,
       "id": "9b166bf3-42db-4f63-8338-1c4a1244ffe8",
@@ -45476,9 +45279,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 54.334,
-      "median_time_to_first_token_seconds": 203.021,
-      "median_time_to_first_answer_token": 203.021,
+      "median_output_tokens_per_second": 56.68,
+      "median_time_to_first_token_seconds": 200.105,
+      "median_time_to_first_answer_token": 200.105,
       "id": "2f339a97-9a0d-499a-9cb5-e0db665bfa25",
       "release_date": "2026-09-03"
     },
@@ -45514,9 +45317,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 49.416,
-      "median_time_to_first_token_seconds": 80.91,
-      "median_time_to_first_answer_token": 80.91,
+      "median_output_tokens_per_second": 52.527,
+      "median_time_to_first_token_seconds": 86.117,
+      "median_time_to_first_answer_token": 86.117,
       "id": "1f541ef3-913f-4eb2-9d07-0e93c7a9a5e3",
       "release_date": "2026-09-03"
     },
@@ -45552,11 +45355,11 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 75.714,
-      "median_time_to_first_token_seconds": 8.868,
-      "median_time_to_first_answer_token": 8.868,
+      "median_output_tokens_per_second": 75.849,
+      "median_time_to_first_token_seconds": 9.945,
+      "median_time_to_first_answer_token": 9.945,
       "id": "ea9e0da6-169f-43c6-92f5-730a10d6ff8d",
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-22"
     },
     "anthropic/claude-fable-5-1-high": {
       "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
@@ -45591,8 +45394,8 @@
         "price_1m_output_tokens": 50
       },
       "median_output_tokens_per_second": 48.387,
-      "median_time_to_first_token_seconds": 6.55,
-      "median_time_to_first_answer_token": 6.55,
+      "median_time_to_first_token_seconds": 7.102,
+      "median_time_to_first_answer_token": 7.102,
       "id": "9d7d72cd-d95d-45a0-b109-4ad292c9aabd",
       "release_date": "2026-09-01"
     },
@@ -45628,9 +45431,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 48.586,
-      "median_time_to_first_token_seconds": 24.036,
-      "median_time_to_first_answer_token": 24.036,
+      "median_output_tokens_per_second": 47.236,
+      "median_time_to_first_token_seconds": 27.012,
+      "median_time_to_first_answer_token": 27.012,
       "id": "e05a4828-0536-4876-870d-a235023f992b",
       "release_date": "2026-09-03"
     },
@@ -45666,9 +45469,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 51.772,
-      "median_time_to_first_token_seconds": 33.616,
-      "median_time_to_first_answer_token": 33.616,
+      "median_output_tokens_per_second": 56.991,
+      "median_time_to_first_token_seconds": 34.128,
+      "median_time_to_first_answer_token": 34.128,
       "id": "b8fc61f7-5e9a-49e6-8547-6ac56db24627",
       "release_date": "2026-07-24"
     },
@@ -45705,8 +45508,8 @@
         "price_1m_output_tokens": 25
       },
       "median_output_tokens_per_second": 55.198,
-      "median_time_to_first_token_seconds": 24.221,
-      "median_time_to_first_answer_token": 24.221,
+      "median_time_to_first_token_seconds": 26.445,
+      "median_time_to_first_answer_token": 26.445,
       "id": "1305c921-7aaa-4d6d-99b5-99b3acf15e19",
       "release_date": "2026-07-24"
     },
@@ -45780,9 +45583,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 46.578,
-      "median_time_to_first_token_seconds": 4.219,
-      "median_time_to_first_answer_token": 4.219,
+      "median_output_tokens_per_second": 47.19,
+      "median_time_to_first_token_seconds": 4.512,
+      "median_time_to_first_answer_token": 4.512,
       "id": "e97a4ef5-e817-480e-9595-12f81dc4974f",
       "release_date": "2026-09-03"
     },
@@ -45819,8 +45622,8 @@
         "price_1m_output_tokens": 50
       },
       "median_output_tokens_per_second": 48.916,
-      "median_time_to_first_token_seconds": 5.458,
-      "median_time_to_first_answer_token": 5.458,
+      "median_time_to_first_token_seconds": 5.749,
+      "median_time_to_first_answer_token": 5.749,
       "id": "3b7de71c-e034-4591-8ca6-6b6be2fa471f",
       "release_date": "2026-09-01"
     },
@@ -45857,8 +45660,8 @@
         "price_1m_output_tokens": 25
       },
       "median_output_tokens_per_second": 54.278,
-      "median_time_to_first_token_seconds": 9.674,
-      "median_time_to_first_answer_token": 9.674,
+      "median_time_to_first_token_seconds": 14.957,
+      "median_time_to_first_answer_token": 14.957,
       "id": "712be54a-77ae-41b2-9a58-21181479d6ee",
       "release_date": "2026-07-24"
     },
@@ -45894,9 +45697,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 4.25
       },
-      "median_output_tokens_per_second": 220.34,
-      "median_time_to_first_token_seconds": 25.292,
-      "median_time_to_first_answer_token": 34.369,
+      "median_output_tokens_per_second": 238.565,
+      "median_time_to_first_token_seconds": 22.723,
+      "median_time_to_first_answer_token": 31.106,
       "id": "9999672c-b687-4026-9c15-5cef02ff53bb",
       "release_date": "2026-09-02"
     },
@@ -45933,8 +45736,8 @@
         "price_1m_output_tokens": 10
       },
       "median_output_tokens_per_second": 116.344,
-      "median_time_to_first_token_seconds": 97.42,
-      "median_time_to_first_answer_token": 97.42,
+      "median_time_to_first_token_seconds": 97.185,
+      "median_time_to_first_answer_token": 97.185,
       "id": "c50ea08c-88c0-4eb7-85b8-27f2bbf6d527",
       "release_date": "2026-09-22"
     },
@@ -45970,9 +45773,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 62.141,
-      "median_time_to_first_token_seconds": 64.246,
-      "median_time_to_first_answer_token": 64.246,
+      "median_output_tokens_per_second": 57.62,
+      "median_time_to_first_token_seconds": 79.856,
+      "median_time_to_first_answer_token": 79.856,
       "id": "d93edfe8-bf35-49ad-b56e-b18116142a1c",
       "release_date": "2026-07-09"
     },
@@ -46008,9 +45811,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 48.676,
-      "median_time_to_first_token_seconds": 4.443,
-      "median_time_to_first_answer_token": 4.443,
+      "median_output_tokens_per_second": 47.884,
+      "median_time_to_first_token_seconds": 3.898,
+      "median_time_to_first_answer_token": 3.898,
       "id": "05776db7-f5c0-40f7-b824-079160f8cfa8",
       "release_date": "2026-09-01"
     },
@@ -46046,9 +45849,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 50.378,
-      "median_time_to_first_token_seconds": 0.701,
-      "median_time_to_first_answer_token": 0.701,
+      "median_output_tokens_per_second": 44.37,
+      "median_time_to_first_token_seconds": 0.692,
+      "median_time_to_first_answer_token": 0.692,
       "id": "59627802-1546-422c-9a65-65b61c022d36",
       "release_date": "2026-09-21"
     },
@@ -46122,9 +45925,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 54.19,
-      "median_time_to_first_token_seconds": 1.415,
-      "median_time_to_first_answer_token": 38.322,
+      "median_output_tokens_per_second": 47.567,
+      "median_time_to_first_token_seconds": 1.956,
+      "median_time_to_first_answer_token": 44.002,
       "id": "24d8fdfe-6241-424e-b7b7-1b6efb06e4fb",
       "release_date": "2026-09-21"
     },
@@ -46160,9 +45963,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 46.417,
-      "median_time_to_first_token_seconds": 1.758,
-      "median_time_to_first_answer_token": 1.758,
+      "median_output_tokens_per_second": 45.82,
+      "median_time_to_first_token_seconds": 1.805,
+      "median_time_to_first_answer_token": 1.805,
       "id": "a3f8100d-e38f-408b-b0fa-0085dae18dc1",
       "release_date": "2026-09-03"
     },
@@ -46198,9 +46001,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 41.554,
-      "median_time_to_first_token_seconds": 1.999,
-      "median_time_to_first_answer_token": 50.129,
+      "median_output_tokens_per_second": 38.937,
+      "median_time_to_first_token_seconds": 1.951,
+      "median_time_to_first_answer_token": 53.316,
       "id": "b112af07-3bd5-4647-b09f-b23204361bb2",
       "release_date": "2026-09-02"
     },
@@ -46236,9 +46039,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 4.25
       },
-      "median_output_tokens_per_second": 246.987,
-      "median_time_to_first_token_seconds": 22.077,
-      "median_time_to_first_answer_token": 30.175,
+      "median_output_tokens_per_second": 241.326,
+      "median_time_to_first_token_seconds": 24.063,
+      "median_time_to_first_answer_token": 32.351,
       "id": "d5170215-69be-4129-849b-26d8d8825bfc",
       "release_date": "2026-09-02"
     },
@@ -46312,9 +46115,9 @@
         "price_1m_input_tokens": 1.4,
         "price_1m_output_tokens": 4.4
       },
-      "median_output_tokens_per_second": 63.189,
-      "median_time_to_first_token_seconds": 3.568,
-      "median_time_to_first_answer_token": 35.219,
+      "median_output_tokens_per_second": 63.714,
+      "median_time_to_first_token_seconds": 3.521,
+      "median_time_to_first_answer_token": 34.911,
       "id": "cd684ea4-b475-4269-b001-d469d06d8a7a",
       "release_date": "2026-08-18"
     },
@@ -46350,9 +46153,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 70.33,
-      "median_time_to_first_token_seconds": 38.525,
-      "median_time_to_first_answer_token": 38.525,
+      "median_output_tokens_per_second": 68.196,
+      "median_time_to_first_token_seconds": 36.993,
+      "median_time_to_first_answer_token": 36.993,
       "id": "c8adc5cf-fd5a-407b-af51-dc3bede3e49c",
       "release_date": "2026-08-12"
     },
@@ -46388,9 +46191,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 59.779,
-      "median_time_to_first_token_seconds": 33.838,
-      "median_time_to_first_answer_token": 33.838,
+      "median_output_tokens_per_second": 62.026,
+      "median_time_to_first_token_seconds": 36.914,
+      "median_time_to_first_answer_token": 36.914,
       "id": "d6f43d0a-e8c4-447c-9ff7-5cf0a9d59aa3",
       "release_date": "2026-08-12"
     },
@@ -46426,9 +46229,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 115.7,
-      "median_time_to_first_token_seconds": 26.107,
-      "median_time_to_first_answer_token": 26.107,
+      "median_output_tokens_per_second": 98.221,
+      "median_time_to_first_token_seconds": 27.683,
+      "median_time_to_first_answer_token": 27.683,
       "id": "da2642fe-9f73-4788-b5af-24edcd55b37e",
       "release_date": "2026-09-22"
     },
@@ -46464,9 +46267,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 61.99,
-      "median_time_to_first_token_seconds": 26.885,
-      "median_time_to_first_answer_token": 26.885,
+      "median_output_tokens_per_second": 61.353,
+      "median_time_to_first_token_seconds": 36.825,
+      "median_time_to_first_answer_token": 36.825,
       "id": "d998db47-9b67-4727-a2bb-2e1261020ac0",
       "release_date": "2026-07-09"
     },
@@ -46502,9 +46305,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 2.7
       },
-      "median_output_tokens_per_second": 75.037,
-      "median_time_to_first_token_seconds": 2.939,
-      "median_time_to_first_answer_token": 29.593,
+      "median_output_tokens_per_second": 78.724,
+      "median_time_to_first_token_seconds": 2.443,
+      "median_time_to_first_answer_token": 27.848,
       "id": "094ea3e3-ce41-419e-8bd1-723389663158",
       "release_date": "2026-09-18"
     },
@@ -46578,9 +46381,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 65.075,
-      "median_time_to_first_token_seconds": 20.472,
-      "median_time_to_first_answer_token": 20.472,
+      "median_output_tokens_per_second": 67.359,
+      "median_time_to_first_token_seconds": 28.579,
+      "median_time_to_first_answer_token": 28.579,
       "id": "26614164-6840-4e17-a65a-2deb2fe7e87b",
       "release_date": "2026-08-12"
     },
@@ -46616,9 +46419,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 103.538,
-      "median_time_to_first_token_seconds": 10.602,
-      "median_time_to_first_answer_token": 10.602,
+      "median_output_tokens_per_second": 99.699,
+      "median_time_to_first_token_seconds": 8.408,
+      "median_time_to_first_answer_token": 8.408,
       "id": "52eebe3e-6ede-4e46-92db-c5dea49fc410",
       "release_date": "2026-09-22"
     },
@@ -46654,9 +46457,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 63.432,
-      "median_time_to_first_token_seconds": 9.049,
-      "median_time_to_first_answer_token": 9.049,
+      "median_output_tokens_per_second": 60.696,
+      "median_time_to_first_token_seconds": 11.777,
+      "median_time_to_first_answer_token": 11.777,
       "id": "8afc250d-b538-45a2-812a-4605f4ffd87e",
       "release_date": "2026-07-09"
     },
@@ -46692,11 +46495,11 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 70.483,
-      "median_time_to_first_token_seconds": 2.822,
-      "median_time_to_first_answer_token": 2.822,
+      "median_output_tokens_per_second": 72.446,
+      "median_time_to_first_token_seconds": 2.965,
+      "median_time_to_first_answer_token": 2.965,
       "id": "4416ca93-fde6-4b7b-abbc-3a6be109cc3d",
-      "release_date": "2026-09-17"
+      "release_date": "2026-09-22"
     },
     "openai/gpt-5-6-terra": {
       "name": "GPT-5.6 Terra (max)",
@@ -46730,9 +46533,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 88.832,
-      "median_time_to_first_token_seconds": 173.375,
-      "median_time_to_first_answer_token": 173.375,
+      "median_output_tokens_per_second": 85.717,
+      "median_time_to_first_token_seconds": 217.469,
+      "median_time_to_first_answer_token": 217.469,
       "id": "bcf8db0a-3bb6-4d82-9516-0f57370c85a6",
       "release_date": "2026-07-09"
     },
@@ -46768,9 +46571,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 51.561,
-      "median_time_to_first_token_seconds": 3.232,
-      "median_time_to_first_answer_token": 42.022,
+      "median_output_tokens_per_second": 44.274,
+      "median_time_to_first_token_seconds": 3.587,
+      "median_time_to_first_answer_token": 48.76,
       "id": "19496b81-9f41-4214-a77a-1df803b3c5ae",
       "release_date": "2026-08-26"
     },
@@ -46844,9 +46647,9 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 300.808,
-      "median_time_to_first_token_seconds": 10.743,
-      "median_time_to_first_answer_token": 10.743,
+      "median_output_tokens_per_second": 307.962,
+      "median_time_to_first_token_seconds": 12.432,
+      "median_time_to_first_answer_token": 12.432,
       "id": "8a999846-4c1d-4ce7-a8b7-1310a7166fd7",
       "release_date": "2026-09-02"
     },
@@ -46958,9 +46761,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 40.745,
-      "median_time_to_first_token_seconds": 2.052,
-      "median_time_to_first_answer_token": 51.137,
+      "median_output_tokens_per_second": 38.077,
+      "median_time_to_first_token_seconds": 1.976,
+      "median_time_to_first_answer_token": 54.501,
       "id": "8df710d3-9dae-4498-9b4e-9818238e6f31",
       "release_date": "2026-08-12"
     },
@@ -46996,9 +46799,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.47
       },
-      "median_output_tokens_per_second": 53.214,
-      "median_time_to_first_token_seconds": 1.382,
-      "median_time_to_first_answer_token": 38.966,
+      "median_output_tokens_per_second": 52.913,
+      "median_time_to_first_token_seconds": 1.423,
+      "median_time_to_first_answer_token": 39.221,
       "id": "9ac3908c-9eb2-44db-8c01-3ec7da6fc2ae",
       "release_date": "2026-08-26"
     },
@@ -47186,9 +46989,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 230.931,
-      "median_time_to_first_token_seconds": 0.79,
-      "median_time_to_first_answer_token": 9.451,
+      "median_output_tokens_per_second": 233.356,
+      "median_time_to_first_token_seconds": 0.805,
+      "median_time_to_first_answer_token": 9.376,
       "id": "dbe7c625-3100-4463-b479-a228c41f75dd",
       "release_date": "2026-09-10"
     },
@@ -47224,9 +47027,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 25
       },
-      "median_output_tokens_per_second": 55.566,
-      "median_time_to_first_token_seconds": 2.665,
-      "median_time_to_first_answer_token": 2.665,
+      "median_output_tokens_per_second": 58.179,
+      "median_time_to_first_token_seconds": 2.993,
+      "median_time_to_first_answer_token": 2.993,
       "id": "20928ba9-3a3f-415f-9519-b84ff64ecf34",
       "release_date": "2026-07-24"
     },
@@ -47262,9 +47065,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 60.835,
-      "median_time_to_first_token_seconds": 4.586,
-      "median_time_to_first_answer_token": 4.586,
+      "median_output_tokens_per_second": 62.245,
+      "median_time_to_first_token_seconds": 7.084,
+      "median_time_to_first_answer_token": 7.084,
       "id": "6f174934-5b7d-4333-86cb-f5ebf4a862e3",
       "release_date": "2026-07-09"
     },
@@ -47452,9 +47255,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 81.868,
-      "median_time_to_first_token_seconds": 86.666,
-      "median_time_to_first_answer_token": 86.666,
+      "median_output_tokens_per_second": 82.788,
+      "median_time_to_first_token_seconds": 120.684,
+      "median_time_to_first_answer_token": 120.684,
       "id": "23c86e4a-c769-43c0-a056-79e3cd15834f",
       "release_date": "2026-06-30"
     },
@@ -47490,9 +47293,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 80.117,
-      "median_time_to_first_token_seconds": 8.524,
-      "median_time_to_first_answer_token": 8.524,
+      "median_output_tokens_per_second": 76.916,
+      "median_time_to_first_token_seconds": 10.766,
+      "median_time_to_first_answer_token": 10.766,
       "id": "9e30696f-16fa-4b4f-ba53-161895a85fed",
       "release_date": "2026-07-09"
     },
@@ -47528,9 +47331,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 143.385,
-      "median_time_to_first_token_seconds": 87.772,
-      "median_time_to_first_answer_token": 87.772,
+      "median_output_tokens_per_second": 122.151,
+      "median_time_to_first_token_seconds": 91.956,
+      "median_time_to_first_answer_token": 91.956,
       "id": "426d24c8-49ae-482a-b4a8-20f1c53f21c1",
       "release_date": "2026-07-09"
     },
@@ -47566,9 +47369,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 154.542,
-      "median_time_to_first_token_seconds": 72.247,
-      "median_time_to_first_answer_token": 72.247,
+      "median_output_tokens_per_second": 136.068,
+      "median_time_to_first_token_seconds": 126.505,
+      "median_time_to_first_answer_token": 126.505,
       "id": "6fb13851-40ce-4bda-ad3f-6b38e0c5daa7",
       "release_date": "2026-09-22"
     },
@@ -47680,87 +47483,11 @@
         "price_1m_input_tokens": 1.32,
         "price_1m_output_tokens": 3.96
       },
-      "median_output_tokens_per_second": 78.618,
-      "median_time_to_first_token_seconds": 1.156,
-      "median_time_to_first_answer_token": 26.595,
+      "median_output_tokens_per_second": 77.605,
+      "median_time_to_first_token_seconds": 1.134,
+      "median_time_to_first_answer_token": 26.906,
       "id": "83173329-c09a-41f1-a028-a282a5f908d7",
       "release_date": "2026-08-13"
-    },
-    "agnes-ai/agnes-3-0-flash": {
-      "name": "Agnes 3.0 Flash",
-      "slug": "agnes-3-0-flash",
-      "model_creator": {
-        "id": "5db3af1a-e372-4c62-98bd-f6027eeaf990",
-        "name": "Sapiens AI",
-        "slug": "agnes-ai"
-      },
-      "evaluations": {
-        "artificial_analysis_intelligence_index": 35.5,
-        "artificial_analysis_coding_index": null,
-        "artificial_analysis_math_index": null,
-        "mmlu_pro": null,
-        "gpqa": 0.924,
-        "hle": 0.385,
-        "livecodebench": null,
-        "scicode": 0.516,
-        "math_500": null,
-        "aime": null,
-        "aime_25": null,
-        "ifbench": null,
-        "lcr": 0.81,
-        "terminalbench_hard": null,
-        "terminalbench_v2_1": 0.820224719101124,
-        "tau2": null,
-        "tau_banking": 0.476288659793814
-      },
-      "pricing": {
-        "price_1m_blended_3_to_1": 0.075,
-        "price_1m_input_tokens": 0.05,
-        "price_1m_output_tokens": 0.15
-      },
-      "median_output_tokens_per_second": 0,
-      "median_time_to_first_token_seconds": 0,
-      "median_time_to_first_answer_token": 0,
-      "id": "6ace0ead-584f-4ce6-a9b7-6c3f9cc91c3c",
-      "release_date": "2026-09-11"
-    },
-    "agnes-ai/agnes-2-5-pro-beta": {
-      "name": "Agnes 2.5 Pro Beta",
-      "slug": "agnes-2-5-pro-beta",
-      "model_creator": {
-        "id": "5db3af1a-e372-4c62-98bd-f6027eeaf990",
-        "name": "Sapiens AI",
-        "slug": "agnes-ai"
-      },
-      "evaluations": {
-        "artificial_analysis_intelligence_index": 35.2,
-        "artificial_analysis_coding_index": 62.3,
-        "artificial_analysis_math_index": null,
-        "mmlu_pro": null,
-        "gpqa": 0.905,
-        "hle": 0.375,
-        "livecodebench": null,
-        "scicode": 0.488,
-        "math_500": null,
-        "aime": null,
-        "aime_25": null,
-        "ifbench": null,
-        "lcr": 0.83,
-        "terminalbench_hard": null,
-        "terminalbench_v2_1": 0.696629213483146,
-        "tau2": null,
-        "tau_banking": 0.356701030927835
-      },
-      "pricing": {
-        "price_1m_blended_3_to_1": 0.15,
-        "price_1m_input_tokens": 0.1,
-        "price_1m_output_tokens": 0.3
-      },
-      "median_output_tokens_per_second": 0,
-      "median_time_to_first_token_seconds": 0,
-      "median_time_to_first_answer_token": 0,
-      "id": "f3a0e101-086f-44b3-a1b2-d23498f9716b",
-      "release_date": "2026-08-26"
     },
     "xai/grok-4-6-low": {
       "name": "Grok 4.6 (low)",
@@ -47794,9 +47521,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 50.844,
-      "median_time_to_first_token_seconds": 3.586,
-      "median_time_to_first_answer_token": 3.586,
+      "median_output_tokens_per_second": 49.825,
+      "median_time_to_first_token_seconds": 3.847,
+      "median_time_to_first_answer_token": 3.847,
       "id": "c07e65e6-32fc-451e-938d-7477a1c3ffcc",
       "release_date": "2026-08-12"
     },
@@ -47832,9 +47559,9 @@
         "price_1m_input_tokens": 0.44,
         "price_1m_output_tokens": 1.32
       },
-      "median_output_tokens_per_second": 237.236,
-      "median_time_to_first_token_seconds": 0.88,
-      "median_time_to_first_answer_token": 9.31,
+      "median_output_tokens_per_second": 218.572,
+      "median_time_to_first_token_seconds": 0.795,
+      "median_time_to_first_answer_token": 9.946,
       "id": "7707a46f-895f-4247-b7a8-ddab87c9a11d",
       "release_date": "2026-08-21"
     },
@@ -47870,9 +47597,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 136.454,
-      "median_time_to_first_token_seconds": 26.924,
-      "median_time_to_first_answer_token": 26.924,
+      "median_output_tokens_per_second": 129.418,
+      "median_time_to_first_token_seconds": 29.396,
+      "median_time_to_first_answer_token": 29.396,
       "id": "87110ff0-1f79-41b4-9976-eda250597317",
       "release_date": "2026-07-09"
     },
@@ -47908,9 +47635,9 @@
         "price_1m_input_tokens": 3,
         "price_1m_output_tokens": 15
       },
-      "median_output_tokens_per_second": 36.429,
-      "median_time_to_first_token_seconds": 2.989,
-      "median_time_to_first_answer_token": 57.891,
+      "median_output_tokens_per_second": 35.843,
+      "median_time_to_first_token_seconds": 3.233,
+      "median_time_to_first_answer_token": 59.032,
       "id": "512d17ef-13d2-4f65-bf9b-154b0dec7e8d",
       "release_date": "2026-07-16"
     },
@@ -47946,7 +47673,7 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 71.378,
+      "median_output_tokens_per_second": 72.408,
       "median_time_to_first_token_seconds": 12.015,
       "median_time_to_first_answer_token": 12.015,
       "id": "99f376bf-cbcb-4124-bf3e-6b0a4e6e9bea",
@@ -48022,9 +47749,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 78.547,
-      "median_time_to_first_token_seconds": 2.727,
-      "median_time_to_first_answer_token": 2.727,
+      "median_output_tokens_per_second": 67.8,
+      "median_time_to_first_token_seconds": 3.476,
+      "median_time_to_first_answer_token": 3.476,
       "id": "81972fba-1219-477e-bbfb-18c656a63ff7",
       "release_date": "2026-07-09"
     },
@@ -48098,9 +47825,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 105.885,
-      "median_time_to_first_token_seconds": 1.641,
-      "median_time_to_first_answer_token": 1.641,
+      "median_output_tokens_per_second": 92.291,
+      "median_time_to_first_token_seconds": 1.989,
+      "median_time_to_first_answer_token": 1.989,
       "id": "01459872-433a-4ab2-8e99-7083162172eb",
       "release_date": "2026-09-22"
     },
@@ -48136,9 +47863,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 137.254,
-      "median_time_to_first_token_seconds": 14.423,
-      "median_time_to_first_answer_token": 14.423,
+      "median_output_tokens_per_second": 130.592,
+      "median_time_to_first_token_seconds": 23.16,
+      "median_time_to_first_answer_token": 23.16,
       "id": "19813eb2-460a-475c-af65-810bb8660fec",
       "release_date": "2026-09-22"
     },
@@ -48288,9 +48015,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 44.523,
-      "median_time_to_first_token_seconds": 1.27,
-      "median_time_to_first_answer_token": 46.19,
+      "median_output_tokens_per_second": 44.828,
+      "median_time_to_first_token_seconds": 1.255,
+      "median_time_to_first_answer_token": 45.87,
       "id": "b01dee41-c62b-48ed-8d16-984adc405e5c",
       "release_date": "2026-08-14"
     },
@@ -48402,9 +48129,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 61.547,
-      "median_time_to_first_token_seconds": 2.62,
-      "median_time_to_first_answer_token": 2.62,
+      "median_output_tokens_per_second": 64.558,
+      "median_time_to_first_token_seconds": 3.266,
+      "median_time_to_first_answer_token": 3.266,
       "id": "0904b596-8932-43bd-9b21-324f128e1723",
       "release_date": "2026-07-09"
     },
@@ -48516,9 +48243,9 @@
         "price_1m_input_tokens": 1.75,
         "price_1m_output_tokens": 14
       },
-      "median_output_tokens_per_second": 147.166,
-      "median_time_to_first_token_seconds": 36.241,
-      "median_time_to_first_answer_token": 36.241,
+      "median_output_tokens_per_second": 135.495,
+      "median_time_to_first_token_seconds": 38.281,
+      "median_time_to_first_answer_token": 38.281,
       "id": "59b5b14b-5365-4ee7-824a-18a8e6309644",
       "release_date": "2026-02-05"
     },
@@ -48592,9 +48319,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 153.942,
-      "median_time_to_first_token_seconds": 10.661,
-      "median_time_to_first_answer_token": 10.661,
+      "median_output_tokens_per_second": 126.155,
+      "median_time_to_first_token_seconds": 11.077,
+      "median_time_to_first_answer_token": 11.077,
       "id": "7d1229bc-deea-4717-ba5b-f59a35d991e3",
       "release_date": "2026-09-22"
     },
@@ -48630,9 +48357,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 133.037,
-      "median_time_to_first_token_seconds": 9.977,
-      "median_time_to_first_answer_token": 9.977,
+      "median_output_tokens_per_second": 101.506,
+      "median_time_to_first_token_seconds": 11.422,
+      "median_time_to_first_answer_token": 11.422,
       "id": "aa55297e-8fbf-4372-b4ab-9b068dc6396c",
       "release_date": "2026-07-09"
     },
@@ -48706,9 +48433,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 62.949,
-      "median_time_to_first_token_seconds": 1.907,
-      "median_time_to_first_answer_token": 1.907,
+      "median_output_tokens_per_second": 64.449,
+      "median_time_to_first_token_seconds": 2.001,
+      "median_time_to_first_answer_token": 2.001,
       "id": "ba0224cf-0351-4f56-8508-b3f1a740ae4a",
       "release_date": "2026-06-30"
     },
@@ -49048,9 +48775,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 76.219,
-      "median_time_to_first_token_seconds": 1.785,
-      "median_time_to_first_answer_token": 1.785,
+      "median_output_tokens_per_second": 63.462,
+      "median_time_to_first_token_seconds": 1.935,
+      "median_time_to_first_answer_token": 1.935,
       "id": "26e0f83a-ca98-4f34-94ac-7c5e251ee410",
       "release_date": "2026-07-09"
     },
@@ -49124,9 +48851,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 140.476,
-      "median_time_to_first_token_seconds": 21.055,
-      "median_time_to_first_answer_token": 21.055,
+      "median_output_tokens_per_second": 137.147,
+      "median_time_to_first_token_seconds": 20.943,
+      "median_time_to_first_answer_token": 20.943,
       "id": "bbd93ebe-80da-4594-bb19-61e69d0331df",
       "release_date": "2026-02-19"
     },
@@ -49238,9 +48965,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 159.265,
-      "median_time_to_first_token_seconds": 0.767,
-      "median_time_to_first_answer_token": 13.324,
+      "median_output_tokens_per_second": 146.979,
+      "median_time_to_first_token_seconds": 0.808,
+      "median_time_to_first_answer_token": 14.416,
       "id": "277f939a-985b-4b37-859d-b3eabc7c0b26",
       "release_date": "2026-06-01"
     },
@@ -49428,9 +49155,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 62.243,
-      "median_time_to_first_token_seconds": 1.15,
-      "median_time_to_first_answer_token": 1.15,
+      "median_output_tokens_per_second": 65.533,
+      "median_time_to_first_token_seconds": 1.179,
+      "median_time_to_first_answer_token": 1.179,
       "id": "7c4d1e30-6ecb-46cf-880c-41446d7b51f1",
       "release_date": "2026-07-09"
     },
@@ -49504,9 +49231,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 52.541,
-      "median_time_to_first_token_seconds": 1.189,
-      "median_time_to_first_answer_token": 39.254,
+      "median_output_tokens_per_second": 45.922,
+      "median_time_to_first_token_seconds": 1.239,
+      "median_time_to_first_answer_token": 44.791,
       "id": "1b64aa81-c223-4b8f-909b-82185a234765",
       "release_date": "2026-08-06"
     },
@@ -49542,9 +49269,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 100.336,
-      "median_time_to_first_token_seconds": 0.74,
-      "median_time_to_first_answer_token": 0.74,
+      "median_output_tokens_per_second": 97.139,
+      "median_time_to_first_token_seconds": 0.856,
+      "median_time_to_first_answer_token": 0.856,
       "id": "d3e20e76-9e1a-45b6-b809-ad6aa37430cf",
       "release_date": "2026-09-22"
     },
@@ -49580,9 +49307,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 65.529,
-      "median_time_to_first_token_seconds": 1.133,
-      "median_time_to_first_answer_token": 1.133,
+      "median_output_tokens_per_second": 63.298,
+      "median_time_to_first_token_seconds": 1.459,
+      "median_time_to_first_answer_token": 1.459,
       "id": "effcd151-7c31-4437-af3d-e88daeae9385",
       "release_date": "2026-06-30"
     },
@@ -49694,9 +49421,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 219.362,
-      "median_time_to_first_token_seconds": 1.754,
-      "median_time_to_first_answer_token": 10.871,
+      "median_output_tokens_per_second": 222.913,
+      "median_time_to_first_token_seconds": 1.74,
+      "median_time_to_first_answer_token": 10.712,
       "id": "7261504e-503c-4a66-a9d3-a3272cdf9ad6",
       "release_date": "2026-07-30"
     },
@@ -49770,9 +49497,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 48.28,
-      "median_time_to_first_token_seconds": 1.204,
-      "median_time_to_first_answer_token": 42.628,
+      "median_output_tokens_per_second": 48.669,
+      "median_time_to_first_token_seconds": 1.216,
+      "median_time_to_first_answer_token": 42.31,
       "id": "6657d7de-a2a9-40bc-a32f-86e80ad63698",
       "release_date": "2026-08-14"
     },
@@ -49808,9 +49535,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 73.55,
-      "median_time_to_first_token_seconds": 1.751,
-      "median_time_to_first_answer_token": 1.751,
+      "median_output_tokens_per_second": 66.648,
+      "median_time_to_first_token_seconds": 1.885,
+      "median_time_to_first_answer_token": 1.885,
       "id": "cc4a20cd-09fe-4962-a430-119c815e85fa",
       "release_date": "2026-07-09"
     },
@@ -49966,44 +49693,6 @@
       "id": "0de67206-4d36-4d10-b8f6-cf37fa747a03",
       "release_date": "2026-04-20"
     },
-    "agnes-ai/agnes-2-5-pro-alpha": {
-      "name": "Agnes 2.5 Pro Alpha (based on Qwen3.5 397B A17B)",
-      "slug": "agnes-2-5-pro-alpha",
-      "model_creator": {
-        "id": "5db3af1a-e372-4c62-98bd-f6027eeaf990",
-        "name": "Sapiens AI",
-        "slug": "agnes-ai"
-      },
-      "evaluations": {
-        "artificial_analysis_intelligence_index": 26.8,
-        "artificial_analysis_coding_index": 58.8,
-        "artificial_analysis_math_index": null,
-        "mmlu_pro": null,
-        "gpqa": 0.876,
-        "hle": 0.336,
-        "livecodebench": null,
-        "scicode": 0.429,
-        "math_500": null,
-        "aime": null,
-        "aime_25": null,
-        "ifbench": null,
-        "lcr": 0.756666666666667,
-        "terminalbench_hard": null,
-        "terminalbench_v2_1": 0.670411985018727,
-        "tau2": null,
-        "tau_banking": 0.123711340206186
-      },
-      "pricing": {
-        "price_1m_blended_3_to_1": 0.563,
-        "price_1m_input_tokens": 0.45,
-        "price_1m_output_tokens": 0.9
-      },
-      "median_output_tokens_per_second": 201.856,
-      "median_time_to_first_token_seconds": 2.966,
-      "median_time_to_first_answer_token": 12.874,
-      "id": "8decf027-5114-4721-9ee1-81c0552980a0",
-      "release_date": "2026-07-24"
-    },
     "multiversecomputing/quasar-438b": {
       "name": "Quasar 438B (max, based on GLM-5.2)",
       "slug": "quasar-438b",
@@ -50036,9 +49725,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 1.8
       },
-      "median_output_tokens_per_second": 152.207,
-      "median_time_to_first_token_seconds": 0.572,
-      "median_time_to_first_answer_token": 13.712,
+      "median_output_tokens_per_second": 156.415,
+      "median_time_to_first_token_seconds": 0.585,
+      "median_time_to_first_answer_token": 13.371,
       "id": "f9739750-6d42-450f-ba1e-2f76c869b4fe",
       "release_date": "2026-08-10"
     },
@@ -50226,9 +49915,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 51.326,
-      "median_time_to_first_token_seconds": 1.3,
-      "median_time_to_first_answer_token": 40.266,
+      "median_output_tokens_per_second": 50.978,
+      "median_time_to_first_token_seconds": 1.276,
+      "median_time_to_first_answer_token": 40.509,
       "id": "7e30585f-fad7-40df-a8cb-03c1d96df38a",
       "release_date": "2026-08-14"
     },
@@ -50302,9 +49991,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 30
       },
-      "median_output_tokens_per_second": 124.224,
-      "median_time_to_first_token_seconds": 0.89,
-      "median_time_to_first_answer_token": 16.99,
+      "median_output_tokens_per_second": 119.737,
+      "median_time_to_first_token_seconds": 0.952,
+      "median_time_to_first_answer_token": 17.656,
       "id": "c4169d75-9d24-4794-a9c3-69e1fe364de5",
       "release_date": "2026-06-25"
     },
@@ -50378,9 +50067,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 49.688,
-      "median_time_to_first_token_seconds": 2.973,
-      "median_time_to_first_answer_token": 43.224,
+      "median_output_tokens_per_second": 50.721,
+      "median_time_to_first_token_seconds": 5.855,
+      "median_time_to_first_answer_token": 45.286,
       "id": "00f1248e-78e3-4230-8dc8-5e13ba8645e2",
       "release_date": "2026-04-22"
     },
@@ -50416,9 +50105,9 @@
         "price_1m_input_tokens": 0.95,
         "price_1m_output_tokens": 4
       },
-      "median_output_tokens_per_second": 50.725,
-      "median_time_to_first_token_seconds": 1.268,
-      "median_time_to_first_answer_token": 45.211,
+      "median_output_tokens_per_second": 46.098,
+      "median_time_to_first_token_seconds": 1.199,
+      "median_time_to_first_answer_token": 49.552,
       "id": "8d0cb231-7303-452c-9923-a9620b948475",
       "release_date": "2026-06-12"
     },
@@ -50530,9 +50219,9 @@
         "price_1m_input_tokens": 0.14,
         "price_1m_output_tokens": 0.58
       },
-      "median_output_tokens_per_second": 92.755,
-      "median_time_to_first_token_seconds": 1.69,
-      "median_time_to_first_answer_token": 23.252,
+      "median_output_tokens_per_second": 89.771,
+      "median_time_to_first_token_seconds": 1.747,
+      "median_time_to_first_answer_token": 24.026,
       "id": "b23e6c69-96e5-44c9-8f58-4b42e0c399d5",
       "release_date": "2026-07-06"
     },
@@ -50606,9 +50295,9 @@
         "price_1m_input_tokens": 0.14,
         "price_1m_output_tokens": 0.28
       },
-      "median_output_tokens_per_second": 36.5,
-      "median_time_to_first_token_seconds": 1.881,
-      "median_time_to_first_answer_token": 56.676,
+      "median_output_tokens_per_second": 44.777,
+      "median_time_to_first_token_seconds": 1.757,
+      "median_time_to_first_answer_token": 46.422,
       "id": "22d09131-343b-4adf-8760-533e20a2155f",
       "release_date": "2026-04-22"
     },
@@ -50644,9 +50333,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 1.6
       },
-      "median_output_tokens_per_second": 58.233,
-      "median_time_to_first_token_seconds": 1.654,
-      "median_time_to_first_answer_token": 35.999,
+      "median_output_tokens_per_second": 60.646,
+      "median_time_to_first_token_seconds": 1.658,
+      "median_time_to_first_answer_token": 34.636,
       "id": "a87fce42-eea3-4e45-a96d-fe057814f371",
       "release_date": "2026-06-01"
     },
@@ -50720,9 +50409,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 133.568,
-      "median_time_to_first_token_seconds": 1.918,
-      "median_time_to_first_answer_token": 1.918,
+      "median_output_tokens_per_second": 122.538,
+      "median_time_to_first_token_seconds": 2.297,
+      "median_time_to_first_answer_token": 2.297,
       "id": "58b812bf-8498-46db-b834-f43ccc614b61",
       "release_date": "2026-07-09"
     },
@@ -50758,9 +50447,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 4.05
       },
-      "median_output_tokens_per_second": 103.707,
-      "median_time_to_first_token_seconds": 2.801,
-      "median_time_to_first_answer_token": 22.086,
+      "median_output_tokens_per_second": 167.147,
+      "median_time_to_first_token_seconds": 2.44,
+      "median_time_to_first_answer_token": 14.406,
       "id": "0de09623-2b1a-4c8d-86ef-7f5245d4e24b",
       "release_date": "2026-07-15"
     },
@@ -50796,9 +50485,9 @@
         "price_1m_input_tokens": 0.075,
         "price_1m_output_tokens": 0.22
       },
-      "median_output_tokens_per_second": 362.349,
-      "median_time_to_first_token_seconds": 1.73,
-      "median_time_to_first_answer_token": 7.249,
+      "median_output_tokens_per_second": 359.769,
+      "median_time_to_first_token_seconds": 1.813,
+      "median_time_to_first_answer_token": 7.372,
       "id": "e33dc369-ae81-40e0-8c4e-28b002d02197",
       "release_date": "2026-08-04"
     },
@@ -51062,9 +50751,9 @@
         "price_1m_input_tokens": 0.075,
         "price_1m_output_tokens": 0.22
       },
-      "median_output_tokens_per_second": 148.634,
-      "median_time_to_first_token_seconds": 1.244,
-      "median_time_to_first_answer_token": 14.7,
+      "median_output_tokens_per_second": 147.533,
+      "median_time_to_first_token_seconds": 1.359,
+      "median_time_to_first_answer_token": 14.915,
       "id": "433d5c5d-3092-4026-9727-1587ca07915d",
       "release_date": "2026-09-10"
     },
@@ -51138,9 +50827,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 61.239,
-      "median_time_to_first_token_seconds": 1.168,
-      "median_time_to_first_answer_token": 1.168,
+      "median_output_tokens_per_second": 61.678,
+      "median_time_to_first_token_seconds": 1.195,
+      "median_time_to_first_answer_token": 1.195,
       "id": "142b93bf-09c4-42dc-9c3a-50b1a222cbd4",
       "release_date": "2026-06-30"
     },
@@ -51594,9 +51283,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 59.227,
-      "median_time_to_first_token_seconds": 1.095,
-      "median_time_to_first_answer_token": 1.095,
+      "median_output_tokens_per_second": 61.152,
+      "median_time_to_first_token_seconds": 1.167,
+      "median_time_to_first_answer_token": 1.167,
       "id": "d58b9ada-fd9d-4fff-a086-242034657963",
       "release_date": "2026-06-30"
     },
@@ -51708,9 +51397,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 162.053,
-      "median_time_to_first_token_seconds": 1.455,
-      "median_time_to_first_answer_token": 15.494,
+      "median_output_tokens_per_second": 117.403,
+      "median_time_to_first_token_seconds": 1.662,
+      "median_time_to_first_answer_token": 21.04,
       "id": "5b52def2-ac9b-4465-ad80-91ea8079e253",
       "release_date": "2026-06-04"
     },
@@ -52050,9 +51739,9 @@
         "price_1m_input_tokens": 0.075,
         "price_1m_output_tokens": 0.22
       },
-      "median_output_tokens_per_second": 163.84,
-      "median_time_to_first_token_seconds": 1.456,
-      "median_time_to_first_answer_token": 13.663,
+      "median_output_tokens_per_second": 160.381,
+      "median_time_to_first_token_seconds": 1.231,
+      "median_time_to_first_answer_token": 13.701,
       "id": "6d6fa1c9-b833-40b2-8a58-fa810e24a84e",
       "release_date": "2026-09-11"
     },
@@ -52278,7 +51967,7 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 350.36,
+      "median_output_tokens_per_second": 338.016,
       "median_time_to_first_token_seconds": 6.841,
       "median_time_to_first_answer_token": 6.841,
       "id": "093b9df2-ebee-4309-943f-5a7e88360adf",
@@ -52544,9 +52233,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 83.105,
-      "median_time_to_first_token_seconds": 1.603,
-      "median_time_to_first_answer_token": 1.603,
+      "median_output_tokens_per_second": 82.678,
+      "median_time_to_first_token_seconds": 1.591,
+      "median_time_to_first_answer_token": 1.591,
       "id": "30ef2a79-e800-4165-9f13-2a338f120db7",
       "release_date": "2026-02-16"
     },
@@ -52658,9 +52347,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 135.243,
-      "median_time_to_first_token_seconds": 1.319,
-      "median_time_to_first_answer_token": 1.319,
+      "median_output_tokens_per_second": 128.064,
+      "median_time_to_first_token_seconds": 1.386,
+      "median_time_to_first_answer_token": 1.386,
       "id": "050c61cd-cddc-463a-a30a-a82aaa37be59",
       "release_date": "2026-07-09"
     },
@@ -52734,9 +52423,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 144.575,
-      "median_time_to_first_token_seconds": 1.646,
-      "median_time_to_first_answer_token": 1.646,
+      "median_output_tokens_per_second": 132.222,
+      "median_time_to_first_token_seconds": 2.028,
+      "median_time_to_first_answer_token": 2.028,
       "id": "bf9708d8-933d-44f6-affa-b696a7a650c9",
       "release_date": "2026-09-22"
     },
@@ -52886,9 +52575,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 72.731,
-      "median_time_to_first_token_seconds": 0.922,
-      "median_time_to_first_answer_token": 0.922,
+      "median_output_tokens_per_second": 68.392,
+      "median_time_to_first_token_seconds": 0.982,
+      "median_time_to_first_answer_token": 0.982,
       "id": "9b97a35e-6ac7-44d9-91c6-422fa678963e",
       "release_date": "2026-07-09"
     },
@@ -53114,9 +52803,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 4.8
       },
-      "median_output_tokens_per_second": 76.566,
-      "median_time_to_first_token_seconds": 1.184,
-      "median_time_to_first_answer_token": 1.184,
+      "median_output_tokens_per_second": 79.3,
+      "median_time_to_first_token_seconds": 1.158,
+      "median_time_to_first_answer_token": 1.158,
       "id": "0179b427-93dc-415c-bb4c-f980ddf8d088",
       "release_date": "2026-03-30"
     },
@@ -53228,9 +52917,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 8
       },
-      "median_output_tokens_per_second": 147.607,
-      "median_time_to_first_token_seconds": 5.764,
-      "median_time_to_first_answer_token": 5.764,
+      "median_output_tokens_per_second": 121.431,
+      "median_time_to_first_token_seconds": 7.518,
+      "median_time_to_first_answer_token": 7.518,
       "id": "16c5b637-8bce-4252-81f2-1b87a36a4e4c",
       "release_date": "2025-04-16"
     },
@@ -53266,9 +52955,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 49.364,
-      "median_time_to_first_token_seconds": 1.29,
-      "median_time_to_first_answer_token": 1.29,
+      "median_output_tokens_per_second": 50.246,
+      "median_time_to_first_token_seconds": 1.325,
+      "median_time_to_first_answer_token": 1.325,
       "id": "353c92f3-2148-4c2d-9231-aa7e1322a1fd",
       "release_date": "2026-08-14"
     },
@@ -53456,9 +53145,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.15
       },
-      "median_output_tokens_per_second": 201.426,
-      "median_time_to_first_token_seconds": 1.426,
-      "median_time_to_first_answer_token": 11.355,
+      "median_output_tokens_per_second": 186.883,
+      "median_time_to_first_token_seconds": 1.501,
+      "median_time_to_first_answer_token": 12.203,
       "id": "6c7b322e-2f35-48ff-9171-fb621a726fc0",
       "release_date": "2026-05-29"
     },
@@ -53684,9 +53373,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 35.412,
-      "median_time_to_first_token_seconds": 0.965,
-      "median_time_to_first_answer_token": 49.988,
+      "median_output_tokens_per_second": 35.567,
+      "median_time_to_first_token_seconds": 0.972,
+      "median_time_to_first_answer_token": 49.782,
       "id": "cd26a386-4873-46ff-b853-d239050025a2",
       "release_date": "2026-04-02"
     },
@@ -53988,9 +53677,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 85.429,
-      "median_time_to_first_token_seconds": 1.643,
-      "median_time_to_first_answer_token": 38.937,
+      "median_output_tokens_per_second": 85.721,
+      "median_time_to_first_token_seconds": 1.621,
+      "median_time_to_first_answer_token": 38.788,
       "id": "0e66bae9-41f1-42fc-9276-ce8cb6f72919",
       "release_date": "2026-02-16"
     },
@@ -54026,9 +53715,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 46.109,
-      "median_time_to_first_token_seconds": 3.584,
-      "median_time_to_first_answer_token": 3.584,
+      "median_output_tokens_per_second": 50.586,
+      "median_time_to_first_token_seconds": 4.85,
+      "median_time_to_first_answer_token": 4.85,
       "id": "4764d31d-f4af-4297-8bd1-e993f26bcb64",
       "release_date": "2026-04-22"
     },
@@ -54064,9 +53753,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 143.579,
-      "median_time_to_first_token_seconds": 0.685,
-      "median_time_to_first_answer_token": 0.685,
+      "median_output_tokens_per_second": 133.058,
+      "median_time_to_first_token_seconds": 0.737,
+      "median_time_to_first_answer_token": 0.737,
       "id": "63cb48ea-0b0c-4e07-8ded-6d28dec4fa28",
       "release_date": "2026-09-22"
     },
@@ -54102,9 +53791,9 @@
         "price_1m_input_tokens": 0.375,
         "price_1m_output_tokens": 2.25
       },
-      "median_output_tokens_per_second": 126.248,
-      "median_time_to_first_token_seconds": 1.132,
-      "median_time_to_first_answer_token": 43.866,
+      "median_output_tokens_per_second": 132.321,
+      "median_time_to_first_token_seconds": 1.105,
+      "median_time_to_first_answer_token": 41.877,
       "id": "8665ca00-c687-44c7-875c-22618cb31c4f",
       "release_date": "2026-04-16"
     },
@@ -54254,9 +53943,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 3.2
       },
-      "median_output_tokens_per_second": 144.274,
-      "median_time_to_first_token_seconds": 1.014,
-      "median_time_to_first_answer_token": 1.014,
+      "median_output_tokens_per_second": 147.454,
+      "median_time_to_first_token_seconds": 1.136,
+      "median_time_to_first_answer_token": 1.136,
       "id": "021b1b31-d2fc-4653-ab74-c10bd2f41c8e",
       "release_date": "2026-02-24"
     },
@@ -54330,9 +54019,9 @@
         "price_1m_input_tokens": 0.35,
         "price_1m_output_tokens": 1.5
       },
-      "median_output_tokens_per_second": 93.62,
-      "median_time_to_first_token_seconds": 0.365,
-      "median_time_to_first_answer_token": 21.728,
+      "median_output_tokens_per_second": 93.264,
+      "median_time_to_first_token_seconds": 0.366,
+      "median_time_to_first_answer_token": 21.811,
       "id": "583f98fb-c4b8-4df3-8d40-60ac0ed69882",
       "release_date": "2026-08-10"
     },
@@ -54596,9 +54285,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 5
       },
-      "median_output_tokens_per_second": 154.581,
-      "median_time_to_first_token_seconds": 13.923,
-      "median_time_to_first_answer_token": 13.923,
+      "median_output_tokens_per_second": 145.871,
+      "median_time_to_first_token_seconds": 14.94,
+      "median_time_to_first_answer_token": 14.94,
       "id": "a6340098-d7ae-462d-b372-0a0a67fc44b4",
       "release_date": "2025-10-15"
     },
@@ -54668,9 +54357,9 @@
         "tau_banking": 0.119587628865979
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.179,
-        "price_1m_input_tokens": 0.115,
-        "price_1m_output_tokens": 0.37
+        "price_1m_blended_3_to_1": 0.16,
+        "price_1m_input_tokens": 0.1,
+        "price_1m_output_tokens": 0.34
       },
       "median_output_tokens_per_second": 0,
       "median_time_to_first_token_seconds": 0,
@@ -54748,9 +54437,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 122.491,
-      "median_time_to_first_token_seconds": 2.062,
-      "median_time_to_first_answer_token": 18.389,
+      "median_output_tokens_per_second": 109.048,
+      "median_time_to_first_token_seconds": 2.006,
+      "median_time_to_first_answer_token": 20.347,
       "id": "eb4ba465-3fcd-4065-9fe2-e8225e7b2c6c",
       "release_date": "2026-05-08"
     },
@@ -55166,9 +54855,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 3.2
       },
-      "median_output_tokens_per_second": 132.587,
+      "median_output_tokens_per_second": 134.522,
       "median_time_to_first_token_seconds": 1.02,
-      "median_time_to_first_answer_token": 16.104,
+      "median_time_to_first_answer_token": 15.887,
       "id": "2236df45-0699-40d1-b5cc-69ee345d2257",
       "release_date": "2026-02-24"
     },
@@ -55318,9 +55007,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 5
       },
-      "median_output_tokens_per_second": 94.865,
-      "median_time_to_first_token_seconds": 0.526,
-      "median_time_to_first_answer_token": 0.526,
+      "median_output_tokens_per_second": 93.456,
+      "median_time_to_first_token_seconds": 0.51,
+      "median_time_to_first_answer_token": 0.51,
       "id": "c2b1e769-7aee-4669-8076-73918bdebf6c",
       "release_date": "2025-10-15"
     },
@@ -55394,9 +55083,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 40.109,
-      "median_time_to_first_token_seconds": 3.647,
-      "median_time_to_first_answer_token": 53.512,
+      "median_output_tokens_per_second": 27.027,
+      "median_time_to_first_token_seconds": 2.829,
+      "median_time_to_first_answer_token": 76.829,
       "id": "7eaf926c-5f39-4e58-ae50-c38b5fc630fc",
       "release_date": "2026-08-06"
     },
@@ -55470,9 +55159,9 @@
         "price_1m_input_tokens": 0.375,
         "price_1m_output_tokens": 2.25
       },
-      "median_output_tokens_per_second": 132.824,
-      "median_time_to_first_token_seconds": 1.175,
-      "median_time_to_first_answer_token": 1.175,
+      "median_output_tokens_per_second": 134.985,
+      "median_time_to_first_token_seconds": 1.152,
+      "median_time_to_first_answer_token": 1.152,
       "id": "66938aab-78fa-49d7-8461-b48b6833e837",
       "release_date": "2026-04-16"
     },
@@ -55698,9 +55387,9 @@
         "price_1m_input_tokens": 0.16,
         "price_1m_output_tokens": 0.65
       },
-      "median_output_tokens_per_second": 66.95,
-      "median_time_to_first_token_seconds": 0.264,
-      "median_time_to_first_answer_token": 30.137,
+      "median_output_tokens_per_second": 28.34,
+      "median_time_to_first_token_seconds": 0.571,
+      "median_time_to_first_answer_token": 71.143,
       "id": "1071dea1-43e7-4fe9-b936-3034bb622b2e",
       "release_date": "2026-08-25"
     },
@@ -56040,9 +55729,9 @@
         "price_1m_input_tokens": 1.5,
         "price_1m_output_tokens": 7.5
       },
-      "median_output_tokens_per_second": 162.198,
+      "median_output_tokens_per_second": 154.536,
       "median_time_to_first_token_seconds": 0.597,
-      "median_time_to_first_answer_token": 12.928,
+      "median_time_to_first_answer_token": 13.539,
       "id": "dd059b25-d82a-4ead-82a4-4adceaaec48b",
       "release_date": "2026-04-29"
     },
@@ -56078,9 +55767,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.3
       },
-      "median_output_tokens_per_second": 138.348,
-      "median_time_to_first_token_seconds": 1.309,
-      "median_time_to_first_answer_token": 15.766,
+      "median_output_tokens_per_second": 139.892,
+      "median_time_to_first_token_seconds": 1.326,
+      "median_time_to_first_answer_token": 15.623,
       "id": "feb02d3b-ff8d-4ed4-b165-13f8d4a7192c",
       "release_date": "2026-06-03"
     },
@@ -56116,9 +55805,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 118.565,
-      "median_time_to_first_token_seconds": 15.757,
-      "median_time_to_first_answer_token": 32.625,
+      "median_output_tokens_per_second": 116.049,
+      "median_time_to_first_token_seconds": 19.829,
+      "median_time_to_first_answer_token": 37.063,
       "id": "0d94dc87-12c8-4d4a-8d99-804ce3f17bc2",
       "release_date": "2025-11-27"
     },
@@ -56268,9 +55957,9 @@
         "price_1m_input_tokens": 0.14,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 39.087,
-      "median_time_to_first_token_seconds": 0.968,
-      "median_time_to_first_answer_token": 0.968,
+      "median_output_tokens_per_second": 50.756,
+      "median_time_to_first_token_seconds": 0.901,
+      "median_time_to_first_answer_token": 0.901,
       "id": "d0aa27aa-4705-4184-9a1d-483b78c9331c",
       "release_date": "2026-04-02"
     },
@@ -56382,9 +56071,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.75
       },
-      "median_output_tokens_per_second": 716.95,
-      "median_time_to_first_token_seconds": 3.995,
-      "median_time_to_first_answer_token": 3.995,
+      "median_output_tokens_per_second": 735.792,
+      "median_time_to_first_token_seconds": 5.299,
+      "median_time_to_first_answer_token": 5.299,
       "id": "016d330a-2141-4afa-b2fc-62b314423dc1",
       "release_date": "2026-02-20"
     },
@@ -56458,9 +56147,9 @@
         "price_1m_input_tokens": 0.135,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 71.199,
-      "median_time_to_first_token_seconds": 0.767,
-      "median_time_to_first_answer_token": 28.858,
+      "median_output_tokens_per_second": 66.342,
+      "median_time_to_first_token_seconds": 0.783,
+      "median_time_to_first_answer_token": 30.93,
       "id": "2d28a13a-096e-475a-beb8-26bbd1c7d51c",
       "release_date": "2026-03-02"
     },
@@ -56648,9 +56337,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 191.307,
-      "median_time_to_first_token_seconds": 10.077,
-      "median_time_to_first_answer_token": 20.532,
+      "median_output_tokens_per_second": 191.943,
+      "median_time_to_first_token_seconds": 11.285,
+      "median_time_to_first_answer_token": 21.704,
       "id": "61bd9367-e520-4ec8-989e-5fbf50e61610",
       "release_date": "2025-10-29"
     },
@@ -56724,9 +56413,9 @@
         "price_1m_input_tokens": 0.17,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 94.713,
-      "median_time_to_first_token_seconds": 0.449,
-      "median_time_to_first_answer_token": 0.449,
+      "median_output_tokens_per_second": 90.732,
+      "median_time_to_first_token_seconds": 0.462,
+      "median_time_to_first_answer_token": 0.462,
       "id": "20da3b31-fc0a-4359-abec-d59367bf1d9f",
       "release_date": "2026-03-02"
     },
@@ -56800,9 +56489,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 243.784,
-      "median_time_to_first_token_seconds": 0.175,
-      "median_time_to_first_answer_token": 8.379,
+      "median_output_tokens_per_second": 221.831,
+      "median_time_to_first_token_seconds": 0.18,
+      "median_time_to_first_answer_token": 9.196,
       "id": "2e9ff877-fd2c-4ce7-b631-7ca1bdb6d13e",
       "release_date": "2026-05-20"
     },
@@ -56838,9 +56527,9 @@
         "price_1m_input_tokens": 0.13,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 70.206,
-      "median_time_to_first_token_seconds": 0.797,
-      "median_time_to_first_answer_token": 0.797,
+      "median_output_tokens_per_second": 62.754,
+      "median_time_to_first_token_seconds": 0.799,
+      "median_time_to_first_answer_token": 0.799,
       "id": "70882ec6-914c-41f0-9754-5e8f75005f77",
       "release_date": "2026-04-02"
     },
@@ -56876,9 +56565,9 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 20.16,
-      "median_time_to_first_token_seconds": 0.508,
-      "median_time_to_first_answer_token": 99.715,
+      "median_output_tokens_per_second": 23.553,
+      "median_time_to_first_token_seconds": 0.467,
+      "median_time_to_first_answer_token": 85.381,
       "id": "651ef7ae-9a8f-477e-9c8e-460aa156ba02",
       "release_date": "2026-03-02"
     },
@@ -57028,9 +56717,9 @@
         "price_1m_input_tokens": 0.07,
         "price_1m_output_tokens": 0.22
       },
-      "median_output_tokens_per_second": 267.799,
-      "median_time_to_first_token_seconds": 0.464,
-      "median_time_to_first_answer_token": 7.933,
+      "median_output_tokens_per_second": 266.182,
+      "median_time_to_first_token_seconds": 0.499,
+      "median_time_to_first_answer_token": 8.013,
       "id": "29976311-665a-4b2f-ac72-557c33e0758e",
       "release_date": "2026-08-11"
     },
@@ -57066,9 +56755,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 0.9
       },
-      "median_output_tokens_per_second": 163.4,
-      "median_time_to_first_token_seconds": 1.042,
-      "median_time_to_first_answer_token": 13.282,
+      "median_output_tokens_per_second": 163.606,
+      "median_time_to_first_token_seconds": 1.022,
+      "median_time_to_first_answer_token": 13.247,
       "id": "63872e9c-3377-4a6b-b477-7bba244c38e9",
       "release_date": "2026-03-11"
     },
@@ -57105,8 +56794,8 @@
         "price_1m_output_tokens": 10
       },
       "median_output_tokens_per_second": 127.134,
-      "median_time_to_first_token_seconds": 5.211,
-      "median_time_to_first_answer_token": 20.943,
+      "median_time_to_first_token_seconds": 6.57,
+      "median_time_to_first_answer_token": 22.302,
       "id": "f4274721-ef28-4121-aa88-8e97267a5a82",
       "release_date": "2025-11-27"
     },
@@ -57332,9 +57021,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 180.109,
-      "median_time_to_first_token_seconds": 11.219,
-      "median_time_to_first_answer_token": 22.324,
+      "median_output_tokens_per_second": 178.378,
+      "median_time_to_first_token_seconds": 12.953,
+      "median_time_to_first_answer_token": 24.165,
       "id": "fbdf8da1-b341-448c-b3cb-8aff1d8f70b9",
       "release_date": "2025-10-29"
     },
@@ -57408,9 +57097,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 240.234,
-      "median_time_to_first_token_seconds": 1.076,
-      "median_time_to_first_answer_token": 1.076,
+      "median_output_tokens_per_second": 252.271,
+      "median_time_to_first_token_seconds": 1.066,
+      "median_time_to_first_answer_token": 1.066,
       "id": "6f3534b1-1168-472e-b3e3-23ab521504f5",
       "release_date": "2026-03-30"
     },
@@ -57565,6 +57254,44 @@
       "median_time_to_first_answer_token": 0,
       "id": "877fdfc9-2026-477a-af96-e4fd602c0131",
       "release_date": "2025-09-25"
+    },
+    "inception/mercury-2-5": {
+      "name": "Mercury 2.5",
+      "slug": "mercury-2-5",
+      "model_creator": {
+        "id": "e8fe48d4-d420-48a5-87db-fcd5f5b14d5c",
+        "name": "Inception",
+        "slug": "inception"
+      },
+      "evaluations": {
+        "artificial_analysis_intelligence_index": 12.3,
+        "artificial_analysis_coding_index": null,
+        "artificial_analysis_math_index": null,
+        "mmlu_pro": null,
+        "gpqa": null,
+        "hle": 0.118,
+        "livecodebench": null,
+        "scicode": 0.385,
+        "math_500": null,
+        "aime": null,
+        "aime_25": null,
+        "ifbench": null,
+        "lcr": 0.716666666666667,
+        "terminalbench_hard": null,
+        "terminalbench_v2_1": null,
+        "tau2": null,
+        "tau_banking": null
+      },
+      "pricing": {
+        "price_1m_blended_3_to_1": 0.375,
+        "price_1m_input_tokens": 0.25,
+        "price_1m_output_tokens": 0.75
+      },
+      "median_output_tokens_per_second": 833.063,
+      "median_time_to_first_token_seconds": 3.464,
+      "median_time_to_first_answer_token": 3.464,
+      "id": "765c9f31-95ec-4f14-900a-80614c3b0777",
+      "release_date": "2026-09-08"
     },
     "china-mobile/jt-mini": {
       "name": "JT-MINI",
@@ -57902,9 +57629,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 198.399,
-      "median_time_to_first_token_seconds": 4.517,
-      "median_time_to_first_answer_token": 14.598,
+      "median_output_tokens_per_second": 194.673,
+      "median_time_to_first_token_seconds": 4.424,
+      "median_time_to_first_answer_token": 14.698,
       "id": "6fd796d3-f346-4f66-97df-5da81714fc73",
       "release_date": "2025-10-29"
     },
@@ -58130,9 +57857,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.595
       },
-      "median_output_tokens_per_second": 202.041,
-      "median_time_to_first_token_seconds": 0.515,
-      "median_time_to_first_answer_token": 10.414,
+      "median_output_tokens_per_second": 175.365,
+      "median_time_to_first_token_seconds": 0.527,
+      "median_time_to_first_answer_token": 11.932,
       "id": "f0083258-8646-45b8-8082-7aaf6c2ea82a",
       "release_date": "2025-08-05"
     },
@@ -58434,9 +58161,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 168.009,
-      "median_time_to_first_token_seconds": 0.513,
-      "median_time_to_first_answer_token": 12.417,
+      "median_output_tokens_per_second": 162.014,
+      "median_time_to_first_token_seconds": 0.552,
+      "median_time_to_first_answer_token": 12.896,
       "id": "3fd96175-4ef1-434c-8795-f873aec2abc1",
       "release_date": "2026-03-16"
     },
@@ -58548,9 +58275,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 165.615,
-      "median_time_to_first_token_seconds": 1.197,
-      "median_time_to_first_answer_token": 13.273,
+      "median_output_tokens_per_second": 165.802,
+      "median_time_to_first_token_seconds": 1.216,
+      "median_time_to_first_answer_token": 13.278,
       "id": "c8a79180-7d16-4474-8701-9a77c0baa56a",
       "release_date": "2025-09-11"
     },
@@ -58700,9 +58427,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 114.335,
-      "median_time_to_first_token_seconds": 0.331,
-      "median_time_to_first_answer_token": 17.824,
+      "median_output_tokens_per_second": 91.415,
+      "median_time_to_first_token_seconds": 0.309,
+      "median_time_to_first_answer_token": 22.188,
       "id": "adfae555-f489-4f3e-9064-c6b7fcdd0783",
       "release_date": "2026-08-25"
     },
@@ -58924,13 +58651,13 @@
         "tau_banking": 0.0577319587628866
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.412,
+        "price_1m_blended_3_to_1": 0.388,
         "price_1m_input_tokens": 0.25,
-        "price_1m_output_tokens": 0.9
+        "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 367.984,
-      "median_time_to_first_token_seconds": 1.142,
-      "median_time_to_first_answer_token": 6.577,
+      "median_output_tokens_per_second": 356.128,
+      "median_time_to_first_token_seconds": 1.15,
+      "median_time_to_first_answer_token": 6.766,
       "id": "b6d2e43d-3082-43f5-9318-0f4dbcb54163",
       "release_date": "2026-04-01"
     },
@@ -58966,14 +58693,14 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 16.595,
-      "median_time_to_first_token_seconds": 0.539,
-      "median_time_to_first_answer_token": 0.539,
+      "median_output_tokens_per_second": 21.634,
+      "median_time_to_first_token_seconds": 0.466,
+      "median_time_to_first_answer_token": 0.466,
       "id": "30c9ba61-d0a1-4794-938e-35865f379d15",
       "release_date": "2026-03-02"
     },
     "prime-intellect/intellect-3": {
-      "name": "INTELLECT-3",
+      "name": "INTELLECT-3 (based on GLM-4.5-Air)",
       "slug": "intellect-3",
       "model_creator": {
         "id": "386c82f9-9669-4467-b13e-fed5bede9002",
@@ -59232,9 +58959,9 @@
         "price_1m_input_tokens": 0.195,
         "price_1m_output_tokens": 1.095
       },
-      "median_output_tokens_per_second": 274.242,
-      "median_time_to_first_token_seconds": 0.275,
-      "median_time_to_first_answer_token": 7.568,
+      "median_output_tokens_per_second": 274.368,
+      "median_time_to_first_token_seconds": 0.295,
+      "median_time_to_first_answer_token": 7.584,
       "id": "8c748e53-61ae-48b8-af8d-eb8298b1e9db",
       "release_date": "2026-04-29"
     },
@@ -59270,9 +58997,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.545
       },
-      "median_output_tokens_per_second": 190.566,
-      "median_time_to_first_token_seconds": 0.492,
-      "median_time_to_first_answer_token": 10.988,
+      "median_output_tokens_per_second": 160.444,
+      "median_time_to_first_token_seconds": 0.551,
+      "median_time_to_first_answer_token": 13.016,
       "id": "c99f3bde-7c08-4de8-bd5c-8ee9123ebffa",
       "release_date": "2025-08-05"
     },
@@ -59346,9 +59073,9 @@
         "price_1m_input_tokens": 0.26,
         "price_1m_output_tokens": 0.91
       },
-      "median_output_tokens_per_second": 108.323,
-      "median_time_to_first_token_seconds": 0.58,
-      "median_time_to_first_answer_token": 0.58,
+      "median_output_tokens_per_second": 111.663,
+      "median_time_to_first_token_seconds": 0.568,
+      "median_time_to_first_answer_token": 0.568,
       "id": "922c69c7-9037-43c6-8bcf-a1c555e7f3eb",
       "release_date": "2025-04-05"
     },
@@ -59422,9 +59149,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 129.198,
-      "median_time_to_first_token_seconds": 0.677,
-      "median_time_to_first_answer_token": 0.677,
+      "median_output_tokens_per_second": 126.735,
+      "median_time_to_first_token_seconds": 0.686,
+      "median_time_to_first_answer_token": 0.686,
       "id": "a20ae33a-46e1-41e6-81a0-fe8b00d2e538",
       "release_date": "2025-11-27"
     },
@@ -59460,9 +59187,9 @@
         "price_1m_input_tokens": 0.07,
         "price_1m_output_tokens": 0.215
       },
-      "median_output_tokens_per_second": 239.828,
-      "median_time_to_first_token_seconds": 0.515,
-      "median_time_to_first_answer_token": 8.854,
+      "median_output_tokens_per_second": 202.543,
+      "median_time_to_first_token_seconds": 0.488,
+      "median_time_to_first_answer_token": 10.362,
       "id": "16149b9c-a1e9-4669-a5cb-ff3c00d78f89",
       "release_date": "2025-08-05"
     },
@@ -59537,8 +59264,8 @@
         "price_1m_output_tokens": 0
       },
       "median_output_tokens_per_second": 83.531,
-      "median_time_to_first_token_seconds": 0.222,
-      "median_time_to_first_answer_token": 24.165,
+      "median_time_to_first_token_seconds": 0.231,
+      "median_time_to_first_answer_token": 24.174,
       "id": "1e9907e0-ffac-4595-b006-962e4f1da7cf",
       "release_date": "2026-06-09"
     },
@@ -59840,9 +59567,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 166.844,
-      "median_time_to_first_token_seconds": 1.064,
-      "median_time_to_first_answer_token": 1.064,
+      "median_output_tokens_per_second": 163.993,
+      "median_time_to_first_token_seconds": 1.105,
+      "median_time_to_first_answer_token": 1.105,
       "id": "2698f6c6-e436-47ce-a583-dbc25596c571",
       "release_date": "2025-09-11"
     },
@@ -60182,9 +59909,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.3
       },
-      "median_output_tokens_per_second": 141.841,
-      "median_time_to_first_token_seconds": 1.399,
-      "median_time_to_first_answer_token": 1.399,
+      "median_output_tokens_per_second": 155.353,
+      "median_time_to_first_token_seconds": 1.425,
+      "median_time_to_first_answer_token": 1.425,
       "id": "025ec6b6-df4a-449f-9a03-24e4388d6863",
       "release_date": "2026-06-03"
     },
@@ -60258,9 +59985,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 1.5
       },
-      "median_output_tokens_per_second": 78.07,
-      "median_time_to_first_token_seconds": 0.759,
-      "median_time_to_first_answer_token": 0.759,
+      "median_output_tokens_per_second": 73.227,
+      "median_time_to_first_token_seconds": 0.769,
+      "median_time_to_first_answer_token": 0.769,
       "id": "4928e950-7f37-4475-b0dc-c5bad781a321",
       "release_date": "2025-12-02"
     },
@@ -60296,9 +60023,9 @@
         "price_1m_input_tokens": 0.35,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 105.46,
-      "median_time_to_first_token_seconds": 0.867,
-      "median_time_to_first_answer_token": 0.867,
+      "median_output_tokens_per_second": 98.059,
+      "median_time_to_first_token_seconds": 0.886,
+      "median_time_to_first_answer_token": 0.886,
       "id": "fc92f822-04b7-420d-9c07-a21af5e9aac7",
       "release_date": "2026-02-03"
     },
@@ -60368,9 +60095,9 @@
         "tau_banking": 0.0824742268041237
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.8,
-        "price_1m_input_tokens": 0.4,
-        "price_1m_output_tokens": 2
+        "price_1m_blended_3_to_1": 0,
+        "price_1m_input_tokens": 0,
+        "price_1m_output_tokens": 0
       },
       "median_output_tokens_per_second": 0,
       "median_time_to_first_token_seconds": 0,
@@ -60524,9 +60251,9 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.12
       },
-      "median_output_tokens_per_second": 232.845,
-      "median_time_to_first_token_seconds": 0.272,
-      "median_time_to_first_answer_token": 8.861,
+      "median_output_tokens_per_second": 231.085,
+      "median_time_to_first_token_seconds": 0.253,
+      "median_time_to_first_answer_token": 8.908,
       "id": "0c64b008-20c3-408d-bd68-15136df8cd2c",
       "release_date": "2026-08-25"
     },
@@ -60672,13 +60399,13 @@
         "tau_banking": null
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.4,
-        "price_1m_input_tokens": 0.4,
-        "price_1m_output_tokens": 0.4
+        "price_1m_blended_3_to_1": 0,
+        "price_1m_input_tokens": 0,
+        "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 38.834,
-      "median_time_to_first_token_seconds": 5.381,
-      "median_time_to_first_answer_token": 56.882,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "e1cfa926-9e2b-4a0d-8c31-48366a5041c5",
       "release_date": "2025-07-25"
     },
@@ -60752,9 +60479,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 156.967,
-      "median_time_to_first_token_seconds": 0.515,
-      "median_time_to_first_answer_token": 0.515,
+      "median_output_tokens_per_second": 153.884,
+      "median_time_to_first_token_seconds": 0.579,
+      "median_time_to_first_answer_token": 0.579,
       "id": "12f6a061-0ab3-4c76-b225-49abee253651",
       "release_date": "2026-03-16"
     },
@@ -60828,9 +60555,9 @@
         "price_1m_input_tokens": 0.07,
         "price_1m_output_tokens": 0.18
       },
-      "median_output_tokens_per_second": 178.904,
-      "median_time_to_first_token_seconds": 0.447,
-      "median_time_to_first_answer_token": 11.626,
+      "median_output_tokens_per_second": 179.232,
+      "median_time_to_first_token_seconds": 0.429,
+      "median_time_to_first_answer_token": 11.587,
       "id": "36f73aaf-d38a-4b56-a2b3-d04d17186910",
       "release_date": "2025-08-05"
     },
@@ -61018,9 +60745,9 @@
         "price_1m_input_tokens": 0.02,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 52.003,
-      "median_time_to_first_token_seconds": 0.353,
-      "median_time_to_first_answer_token": 38.813,
+      "median_output_tokens_per_second": 57.828,
+      "median_time_to_first_token_seconds": 0.343,
+      "median_time_to_first_answer_token": 34.928,
       "id": "d80eb0f1-f62e-4d31-99d2-7a925eb126b0",
       "release_date": "2026-04-03"
     },
@@ -61056,9 +60783,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 147.553,
-      "median_time_to_first_token_seconds": 0.744,
-      "median_time_to_first_answer_token": 14.298,
+      "median_output_tokens_per_second": 181.216,
+      "median_time_to_first_token_seconds": 0.602,
+      "median_time_to_first_answer_token": 11.638,
       "id": "76dcf6ef-39ea-4be0-b693-b88da25b4caf",
       "release_date": "2025-12-15"
     },
@@ -61246,9 +60973,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 221.068,
-      "median_time_to_first_token_seconds": 0.737,
-      "median_time_to_first_answer_token": 0.737,
+      "median_output_tokens_per_second": 211.805,
+      "median_time_to_first_token_seconds": 0.736,
+      "median_time_to_first_answer_token": 0.736,
       "id": "76bce7fb-3a3f-4b66-a78d-35ccf3edf5d2",
       "release_date": "2025-10-29"
     },
@@ -61474,9 +61201,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 145.13,
-      "median_time_to_first_token_seconds": 0.73,
-      "median_time_to_first_answer_token": 0.73,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "09f43999-b67b-4c1b-b050-44df41ed7e62",
       "release_date": "2025-12-09"
     },
@@ -61926,9 +61653,9 @@
         "tau_banking": 0.0618556701030928
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.15,
-        "price_1m_input_tokens": 0.1,
-        "price_1m_output_tokens": 0.3
+        "price_1m_blended_3_to_1": 0.106,
+        "price_1m_input_tokens": 0.075,
+        "price_1m_output_tokens": 0.2
       },
       "median_output_tokens_per_second": 0,
       "median_time_to_first_token_seconds": 0,
@@ -62234,9 +61961,9 @@
         "price_1m_input_tokens": 0.19,
         "price_1m_output_tokens": 0.68
       },
-      "median_output_tokens_per_second": 103.9,
-      "median_time_to_first_token_seconds": 0.612,
-      "median_time_to_first_answer_token": 0.612,
+      "median_output_tokens_per_second": 108.509,
+      "median_time_to_first_token_seconds": 0.625,
+      "median_time_to_first_answer_token": 0.625,
       "id": "adf9a85e-abc3-4f28-937b-db6655cc5238",
       "release_date": "2025-04-05"
     },
@@ -62766,9 +62493,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.97
       },
-      "median_output_tokens_per_second": 111.138,
-      "median_time_to_first_token_seconds": 0.957,
-      "median_time_to_first_answer_token": 18.953,
+      "median_output_tokens_per_second": 110.411,
+      "median_time_to_first_token_seconds": 0.955,
+      "median_time_to_first_answer_token": 19.069,
       "id": "b97ef678-2d31-4375-9416-67ea97f87204",
       "release_date": "2025-09-22"
     },
@@ -62956,9 +62683,9 @@
         "price_1m_input_tokens": 0.71,
         "price_1m_output_tokens": 0.72
       },
-      "median_output_tokens_per_second": 90.861,
-      "median_time_to_first_token_seconds": 0.599,
-      "median_time_to_first_answer_token": 0.599,
+      "median_output_tokens_per_second": 88.249,
+      "median_time_to_first_token_seconds": 0.603,
+      "median_time_to_first_answer_token": 0.603,
       "id": "976cc8ad-7904-4056-83c5-960181f47d5f",
       "release_date": "2024-12-06"
     },
@@ -63222,9 +62949,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 145.907,
-      "median_time_to_first_token_seconds": 0.674,
-      "median_time_to_first_answer_token": 0.674,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "ce819310-af7c-49d3-9a02-6845111e1788",
       "release_date": "2025-12-09"
     },
@@ -63374,9 +63101,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 39.719,
-      "median_time_to_first_token_seconds": 0.851,
-      "median_time_to_first_answer_token": 51.205,
+      "median_output_tokens_per_second": 39.87,
+      "median_time_to_first_token_seconds": 0.825,
+      "median_time_to_first_answer_token": 50.987,
       "id": "82b207dd-d285-4a52-b2fc-2cbd27543899",
       "release_date": "2025-08-27"
     },
@@ -63446,13 +63173,13 @@
         "tau_banking": null
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.3,
-        "price_1m_input_tokens": 0.2,
-        "price_1m_output_tokens": 0.6
+        "price_1m_blended_3_to_1": 0,
+        "price_1m_input_tokens": 0,
+        "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 41.914,
-      "median_time_to_first_token_seconds": 13.265,
-      "median_time_to_first_answer_token": 60.982,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "6e6e02fd-9cbd-417f-9bfc-673df89c313d",
       "release_date": "2025-10-28"
     },
@@ -63488,9 +63215,9 @@
         "price_1m_input_tokens": 0.02,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 53.288,
-      "median_time_to_first_token_seconds": 0.318,
-      "median_time_to_first_answer_token": 0.318,
+      "median_output_tokens_per_second": 56.646,
+      "median_time_to_first_token_seconds": 0.293,
+      "median_time_to_first_answer_token": 0.293,
       "id": "5303601c-8133-4f52-bc4e-5241ee6b3c10",
       "release_date": "2026-04-03"
     },
@@ -63564,9 +63291,9 @@
         "price_1m_input_tokens": 0.04,
         "price_1m_output_tokens": 0.16
       },
-      "median_output_tokens_per_second": 97.355,
-      "median_time_to_first_token_seconds": 2.25,
-      "median_time_to_first_answer_token": 22.794,
+      "median_output_tokens_per_second": 115.032,
+      "median_time_to_first_token_seconds": 3.783,
+      "median_time_to_first_answer_token": 21.169,
       "id": "f1d52583-9d20-4099-99ac-b5df9430c3b6",
       "release_date": "2025-08-18"
     },
@@ -63602,9 +63329,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 39.824,
-      "median_time_to_first_token_seconds": 0.903,
-      "median_time_to_first_answer_token": 0.903,
+      "median_output_tokens_per_second": 38.534,
+      "median_time_to_first_token_seconds": 0.853,
+      "median_time_to_first_answer_token": 0.853,
       "id": "d3968fd3-97d8-4693-8d26-19cefc6f5d5f",
       "release_date": "2025-08-27"
     },
@@ -63712,13 +63439,13 @@
         "tau_banking": null
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.4,
-        "price_1m_input_tokens": 0.4,
-        "price_1m_output_tokens": 0.4
+        "price_1m_blended_3_to_1": 0,
+        "price_1m_input_tokens": 0,
+        "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 45.691,
-      "median_time_to_first_token_seconds": 5.61,
-      "median_time_to_first_answer_token": 5.61,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "26c0b5df-efa7-470f-a65e-2d883329e493",
       "release_date": "2025-07-25"
     },
@@ -64434,9 +64161,9 @@
         "tau_banking": 0.0742268041237113
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.15,
-        "price_1m_input_tokens": 0.1,
-        "price_1m_output_tokens": 0.3
+        "price_1m_blended_3_to_1": 0.125,
+        "price_1m_input_tokens": 0.11,
+        "price_1m_output_tokens": 0.17
       },
       "median_output_tokens_per_second": 0,
       "median_time_to_first_token_seconds": 0,
@@ -64742,9 +64469,9 @@
         "price_1m_input_tokens": 2.5,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 60.025,
-      "median_time_to_first_token_seconds": 0.347,
-      "median_time_to_first_answer_token": 0.347,
+      "median_output_tokens_per_second": 51.284,
+      "median_time_to_first_token_seconds": 0.39,
+      "median_time_to_first_answer_token": 0.39,
       "id": "3bc32f13-5afa-4e28-bce1-10e57376686b",
       "release_date": "2025-03-13"
     },
@@ -64814,13 +64541,13 @@
         "tau_banking": null
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 1.2,
-        "price_1m_input_tokens": 1.2,
-        "price_1m_output_tokens": 1.2
+        "price_1m_blended_3_to_1": 0,
+        "price_1m_input_tokens": 0,
+        "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 44.528,
-      "median_time_to_first_token_seconds": 5.966,
-      "median_time_to_first_answer_token": 5.966,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "7393c56a-ec31-48e9-b804-c04f2d2cb641",
       "release_date": "2024-10-15"
     },
@@ -64970,9 +64697,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 173.665,
-      "median_time_to_first_token_seconds": 0.426,
-      "median_time_to_first_answer_token": 0.426,
+      "median_output_tokens_per_second": 248.747,
+      "median_time_to_first_token_seconds": 0.387,
+      "median_time_to_first_answer_token": 0.387,
       "id": "23b379f7-18df-492a-9fc1-a56c5a5b9cfc",
       "release_date": "2025-12-15"
     },
@@ -65008,9 +64735,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.195
       },
-      "median_output_tokens_per_second": 162.263,
-      "median_time_to_first_token_seconds": 1.138,
-      "median_time_to_first_answer_token": 1.138,
+      "median_output_tokens_per_second": 160.377,
+      "median_time_to_first_token_seconds": 1.863,
+      "median_time_to_first_answer_token": 1.863,
       "id": "2e8694f9-7782-47a6-a6ba-fdce89d939c8",
       "release_date": "2025-08-18"
     },
@@ -65270,9 +64997,9 @@
         "tau_banking": null
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.15,
-        "price_1m_input_tokens": 0.1,
-        "price_1m_output_tokens": 0.3
+        "price_1m_blended_3_to_1": 0.058,
+        "price_1m_input_tokens": 0.05,
+        "price_1m_output_tokens": 0.08
       },
       "median_output_tokens_per_second": 0,
       "median_time_to_first_token_seconds": 0,
@@ -66186,9 +65913,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.7
       },
-      "median_output_tokens_per_second": 1955.957,
-      "median_time_to_first_token_seconds": 0.484,
-      "median_time_to_first_answer_token": 0.484,
+      "median_output_tokens_per_second": 1942.654,
+      "median_time_to_first_token_seconds": 0.49,
+      "median_time_to_first_answer_token": 0.49,
       "id": "8014c311-fa23-4a4b-8485-8a864db8a113",
       "release_date": "2026-07-24"
     },
@@ -66300,9 +66027,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 45.206,
-      "median_time_to_first_token_seconds": 0.35,
-      "median_time_to_first_answer_token": 0.35,
+      "median_output_tokens_per_second": 45.554,
+      "median_time_to_first_token_seconds": 0.373,
+      "median_time_to_first_answer_token": 0.373,
       "id": "9f873c2f-2c2d-4ccb-9e1b-71bf61b052be",
       "release_date": "2024-02-26"
     },
@@ -66566,9 +66293,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 12.513,
-      "median_time_to_first_token_seconds": 35.483,
-      "median_time_to_first_answer_token": 35.483,
+      "median_output_tokens_per_second": 18.811,
+      "median_time_to_first_token_seconds": 27.219,
+      "median_time_to_first_answer_token": 27.219,
       "id": "5dba8d07-9992-483c-81db-dac97cb15ba8",
       "release_date": "2025-09-22"
     },
@@ -66604,9 +66331,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 91.239,
-      "median_time_to_first_token_seconds": 0.597,
-      "median_time_to_first_answer_token": 0.597,
+      "median_output_tokens_per_second": 90.73,
+      "median_time_to_first_token_seconds": 0.674,
+      "median_time_to_first_answer_token": 0.674,
       "id": "713fae11-c75c-4f10-ae2c-8e4074cd58af",
       "release_date": "2025-12-02"
     },
@@ -66680,9 +66407,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.97
       },
-      "median_output_tokens_per_second": 106.839,
-      "median_time_to_first_token_seconds": 0.916,
-      "median_time_to_first_answer_token": 0.916,
+      "median_output_tokens_per_second": 105.864,
+      "median_time_to_first_token_seconds": 0.949,
+      "median_time_to_first_answer_token": 0.949,
       "id": "0b226b82-1462-4860-bf1a-f8aed7024791",
       "release_date": "2025-09-22"
     },
@@ -66984,9 +66711,9 @@
         "price_1m_input_tokens": 0.125,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 39.328,
-      "median_time_to_first_token_seconds": 1.009,
-      "median_time_to_first_answer_token": 1.009,
+      "median_output_tokens_per_second": 41.342,
+      "median_time_to_first_token_seconds": 1.026,
+      "median_time_to_first_answer_token": 1.026,
       "id": "ee708f92-374e-4123-b900-e22d7b2afc19",
       "release_date": "2024-12-12"
     },
@@ -67060,9 +66787,9 @@
         "price_1m_input_tokens": 0.035,
         "price_1m_output_tokens": 0.14
       },
-      "median_output_tokens_per_second": 257.064,
-      "median_time_to_first_token_seconds": 0.577,
-      "median_time_to_first_answer_token": 0.577,
+      "median_output_tokens_per_second": 285.075,
+      "median_time_to_first_token_seconds": 0.65,
+      "median_time_to_first_answer_token": 0.65,
       "id": "344c6718-c573-41d4-9556-10287a3fa1fc",
       "release_date": "2024-12-03"
     },
@@ -67132,9 +66859,9 @@
         "tau_banking": null
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.3,
-        "price_1m_input_tokens": 0.2,
-        "price_1m_output_tokens": 0.6
+        "price_1m_blended_3_to_1": 0,
+        "price_1m_input_tokens": 0,
+        "price_1m_output_tokens": 0
       },
       "median_output_tokens_per_second": 0,
       "median_time_to_first_token_seconds": 0,
@@ -67250,9 +66977,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 187.847,
-      "median_time_to_first_token_seconds": 1.856,
-      "median_time_to_first_answer_token": 1.856,
+      "median_output_tokens_per_second": 205.824,
+      "median_time_to_first_token_seconds": 0.828,
+      "median_time_to_first_answer_token": 0.828,
       "id": "ab7f016c-a29b-4710-bdf6-6a5cd96aacca",
       "release_date": "2025-10-28"
     },
@@ -67326,9 +67053,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 16.904,
-      "median_time_to_first_token_seconds": 0.361,
-      "median_time_to_first_answer_token": 0.361,
+      "median_output_tokens_per_second": 16.898,
+      "median_time_to_first_token_seconds": 0.389,
+      "median_time_to_first_answer_token": 0.389,
       "id": "2cd04201-2b6e-47ef-853e-7601f705f2a8",
       "release_date": "2025-02-26"
     },
@@ -67706,9 +67433,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 96.784,
-      "median_time_to_first_token_seconds": 0.99,
-      "median_time_to_first_answer_token": 21.654,
+      "median_output_tokens_per_second": 96.945,
+      "median_time_to_first_token_seconds": 0.982,
+      "median_time_to_first_answer_token": 21.613,
       "id": "dbbcf240-a69e-4078-8f16-7c94c7a8c514",
       "release_date": "2025-03-10"
     },
@@ -68082,9 +67809,9 @@
         "tau_banking": null
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.262,
-        "price_1m_input_tokens": 0.15,
-        "price_1m_output_tokens": 0.6
+        "price_1m_blended_3_to_1": 0,
+        "price_1m_input_tokens": 0,
+        "price_1m_output_tokens": 0
       },
       "median_output_tokens_per_second": 0,
       "median_time_to_first_token_seconds": 0,
@@ -68120,9 +67847,9 @@
         "tau_banking": null
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 3,
-        "price_1m_input_tokens": 1.5,
-        "price_1m_output_tokens": 7.5
+        "price_1m_blended_3_to_1": 0,
+        "price_1m_input_tokens": 0,
+        "price_1m_output_tokens": 0
       },
       "median_output_tokens_per_second": 0,
       "median_time_to_first_token_seconds": 0,
@@ -68200,9 +67927,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 94.593,
-      "median_time_to_first_token_seconds": 0.517,
-      "median_time_to_first_answer_token": 0.517,
+      "median_output_tokens_per_second": 91.836,
+      "median_time_to_first_token_seconds": 0.655,
+      "median_time_to_first_answer_token": 0.655,
       "id": "9741f3c2-cbb1-4a3f-99ee-7bd7384d9038",
       "release_date": "2025-12-02"
     },
@@ -68390,9 +68117,9 @@
         "price_1m_input_tokens": 0.345,
         "price_1m_output_tokens": 0.345
       },
-      "median_output_tokens_per_second": 14.522,
-      "median_time_to_first_token_seconds": 0.625,
-      "median_time_to_first_answer_token": 0.625,
+      "median_output_tokens_per_second": 16.444,
+      "median_time_to_first_token_seconds": 0.844,
+      "median_time_to_first_answer_token": 0.844,
       "id": "5fb47ff6-a30e-4c2c-96f2-55e95a13390f",
       "release_date": "2024-09-25"
     },
@@ -68549,7 +68276,7 @@
       "release_date": "2024-06-17"
     },
     "sarvam/sarvam-m-reasoning": {
-      "name": "Sarvam M (Reasoning)",
+      "name": "Sarvam M (Reasoning, based on Mistral Small 3.1)",
       "slug": "sarvam-m-reasoning",
       "model_creator": {
         "id": "20273002-dc38-4ebc-8377-8f432aec9e7e",
@@ -69564,9 +69291,9 @@
         "tau_banking": null
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 0.25,
-        "price_1m_input_tokens": 0.25,
-        "price_1m_output_tokens": 0.25
+        "price_1m_blended_3_to_1": 0.162,
+        "price_1m_input_tokens": 0.15,
+        "price_1m_output_tokens": 0.2
       },
       "median_output_tokens_per_second": 0,
       "median_time_to_first_token_seconds": 0,
@@ -69872,9 +69599,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 243.825,
-      "median_time_to_first_token_seconds": 0.476,
-      "median_time_to_first_answer_token": 0.476,
+      "median_output_tokens_per_second": 238.95,
+      "median_time_to_first_token_seconds": 0.467,
+      "median_time_to_first_answer_token": 0.467,
       "id": "66f4ce73-9a9b-4b49-9c6e-bedb9bfdc720",
       "release_date": "2025-12-02"
     },
@@ -70404,9 +70131,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 130.79,
-      "median_time_to_first_token_seconds": 0.216,
-      "median_time_to_first_answer_token": 0.216,
+      "median_output_tokens_per_second": 131.242,
+      "median_time_to_first_token_seconds": 0.222,
+      "median_time_to_first_answer_token": 0.222,
       "id": "81444bc8-72f9-4a2d-ad43-27e3f0d2f461",
       "release_date": "2026-02-17"
     },
@@ -70487,14 +70214,14 @@
       "release_date": "2026-09-03"
     }
   },
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "source": "Artificial Analysis API",
   "attribution": "Rankings provided by Artificial Analysis (https://artificialanalysis.ai/). Please attribute per their terms.",
-  "count": 664,
+  "count": 662,
   "metadata": {
-    "total_models": 673,
-    "compact_entries": 13261,
-    "full_data_entries": 664,
+    "total_models": 671,
+    "compact_entries": 13212,
+    "full_data_entries": 662,
     "prompt_options": {
       "parallel_queries": 1,
       "prompt_length": 1000
