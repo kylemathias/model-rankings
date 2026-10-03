@@ -6,7 +6,7 @@
     "claude-opus-5-5": {
       "int": 58
     },
-    "claude opus 5.5 (adaptive reasoning, max effort, default fallback)": {
+    "claude opus 5.5 (max, default fallback)": {
       "int": 58
     },
     "anthropic/claude-opus-5.5": {
@@ -75,88 +75,13 @@
     "claude-opus-5.5-latest": {
       "int": 58
     },
-    "anthropic/claude-opus-5-5-xhigh": {
-      "int": 56
-    },
-    "claude-opus-5-5-xhigh": {
-      "int": 56
-    },
-    "claude opus 5.5 (adaptive reasoning, xhigh effort, default fallback)": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5.5-xhigh": {
-      "int": 56
-    },
-    "claude-opus-5.5-xhigh": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5-5-xhigh-preview": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5-5-xhigh-beta": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5-5-xhigh-exp": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5-5-xhigh-experimental": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5-5-xhigh-latest": {
-      "int": 56
-    },
-    "claude-opus-5-5-xhigh-preview": {
-      "int": 56
-    },
-    "claude-opus-5-5-xhigh-beta": {
-      "int": 56
-    },
-    "claude-opus-5-5-xhigh-exp": {
-      "int": 56
-    },
-    "claude-opus-5-5-xhigh-experimental": {
-      "int": 56
-    },
-    "claude-opus-5-5-xhigh-latest": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5.5-xhigh-preview": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5.5-xhigh-beta": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5.5-xhigh-exp": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5.5-xhigh-experimental": {
-      "int": 56
-    },
-    "anthropic/claude-opus-5.5-xhigh-latest": {
-      "int": 56
-    },
-    "claude-opus-5.5-xhigh-preview": {
-      "int": 56
-    },
-    "claude-opus-5.5-xhigh-beta": {
-      "int": 56
-    },
-    "claude-opus-5.5-xhigh-exp": {
-      "int": 56
-    },
-    "claude-opus-5.5-xhigh-experimental": {
-      "int": 56
-    },
-    "claude-opus-5.5-xhigh-latest": {
-      "int": 56
-    },
     "anthropic/claude-sonnet-5-5": {
       "int": 56
     },
     "claude-sonnet-5-5": {
       "int": 56
     },
-    "claude sonnet 5.5 (adaptive reasoning, max effort, default fallback)": {
+    "claude sonnet 5.5 (max, default fallback)": {
       "int": 56
     },
     "anthropic/claude-sonnet-5.5": {
@@ -225,13 +150,88 @@
     "claude-sonnet-5.5-latest": {
       "int": 56
     },
+    "anthropic/claude-opus-5-5-xhigh": {
+      "int": 56
+    },
+    "claude-opus-5-5-xhigh": {
+      "int": 56
+    },
+    "claude opus 5.5 (xhigh, default fallback)": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5.5-xhigh": {
+      "int": 56
+    },
+    "claude-opus-5.5-xhigh": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5-5-xhigh-preview": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5-5-xhigh-beta": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5-5-xhigh-exp": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5-5-xhigh-experimental": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5-5-xhigh-latest": {
+      "int": 56
+    },
+    "claude-opus-5-5-xhigh-preview": {
+      "int": 56
+    },
+    "claude-opus-5-5-xhigh-beta": {
+      "int": 56
+    },
+    "claude-opus-5-5-xhigh-exp": {
+      "int": 56
+    },
+    "claude-opus-5-5-xhigh-experimental": {
+      "int": 56
+    },
+    "claude-opus-5-5-xhigh-latest": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5.5-xhigh-preview": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5.5-xhigh-beta": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5.5-xhigh-exp": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5.5-xhigh-experimental": {
+      "int": 56
+    },
+    "anthropic/claude-opus-5.5-xhigh-latest": {
+      "int": 56
+    },
+    "claude-opus-5.5-xhigh-preview": {
+      "int": 56
+    },
+    "claude-opus-5.5-xhigh-beta": {
+      "int": 56
+    },
+    "claude-opus-5.5-xhigh-exp": {
+      "int": 56
+    },
+    "claude-opus-5.5-xhigh-experimental": {
+      "int": 56
+    },
+    "claude-opus-5.5-xhigh-latest": {
+      "int": 56
+    },
     "anthropic/claude-opus-5-5-high": {
       "int": 54
     },
     "claude-opus-5-5-high": {
       "int": 54
     },
-    "claude opus 5.5 (adaptive reasoning, high effort, default fallback)": {
+    "claude opus 5.5 (high, default fallback)": {
       "int": 54
     },
     "anthropic/claude-opus-5.5-high": {
@@ -308,7 +308,7 @@
       "int": 53,
       "code": 82
     },
-    "claude fable 5.1 (adaptive reasoning, max effort, default fallback)": {
+    "claude fable 5.1 (max, default fallback)": {
       "int": 53,
       "code": 82
     },
@@ -408,7 +408,7 @@
       "int": 53,
       "code": 81
     },
-    "claude fable 5.1 (adaptive reasoning, xhigh effort, default fallback)": {
+    "claude fable 5.1 (xhigh, default fallback)": {
       "int": 53,
       "code": 81
     },
@@ -649,7 +649,7 @@
     "claude-sonnet-5-5-xhigh": {
       "int": 52
     },
-    "claude sonnet 5.5 (adaptive reasoning, xhigh effort, default fallback)": {
+    "claude sonnet 5.5 (xhigh, default fallback)": {
       "int": 52
     },
     "anthropic/claude-sonnet-5.5-xhigh": {
@@ -799,7 +799,7 @@
     "claude-opus-5-5-medium": {
       "int": 51
     },
-    "claude opus 5.5 (adaptive reasoning, medium effort, default fallback)": {
+    "claude opus 5.5 (medium, default fallback)": {
       "int": 51
     },
     "anthropic/claude-opus-5.5-medium": {
@@ -876,7 +876,7 @@
       "int": 51,
       "code": 79
     },
-    "claude fable 5.1 (adaptive reasoning, high effort, default fallback)": {
+    "claude fable 5.1 (high, default fallback)": {
       "int": 51,
       "code": 79
     },
@@ -1103,7 +1103,7 @@
       "int": 51,
       "code": 78
     },
-    "claude opus 5 (adaptive reasoning, max effort)": {
+    "claude opus 5 (max)": {
       "int": 51,
       "code": 78
     },
@@ -1230,7 +1230,7 @@
       "int": 50,
       "code": 77
     },
-    "claude opus 5 (adaptive reasoning, xhigh effort)": {
+    "claude opus 5 (xhigh)": {
       "int": 50,
       "code": 77
     },
@@ -1282,7 +1282,7 @@
       "int": 50,
       "code": 77
     },
-    "claude fable 5 (adaptive reasoning, max effort, opus 4.8 fallback)": {
+    "claude fable 5 (max, opus 4.8 fallback)": {
       "int": 50,
       "code": 77
     },
@@ -1386,7 +1386,7 @@
       "int": 49,
       "code": 77
     },
-    "claude fable 5.1 (adaptive reasoning, medium effort, default fallback)": {
+    "claude fable 5.1 (medium, default fallback)": {
       "int": 49,
       "code": 77
     },
@@ -1486,7 +1486,7 @@
       "int": 48,
       "code": 77
     },
-    "claude opus 5 (adaptive reasoning, high effort)": {
+    "claude opus 5 (high)": {
       "int": 48,
       "code": 77
     },
@@ -1852,7 +1852,7 @@
       "int": 47,
       "code": 75
     },
-    "claude fable 5.1 (adaptive reasoning, low effort, default fallback)": {
+    "claude fable 5.1 (low, default fallback)": {
       "int": 47,
       "code": 75
     },
@@ -1950,7 +1950,7 @@
     "claude-sonnet-5-5-high": {
       "int": 47
     },
-    "claude sonnet 5.5 (adaptive reasoning, high effort, default fallback)": {
+    "claude sonnet 5.5 (high, default fallback)": {
       "int": 47
     },
     "anthropic/claude-sonnet-5.5-high": {
@@ -2501,7 +2501,7 @@
       "int": 45,
       "code": 74
     },
-    "claude opus 5 (adaptive reasoning, medium effort)": {
+    "claude opus 5 (medium)": {
       "int": 45,
       "code": 74
     },
@@ -3328,7 +3328,7 @@
     "claude-opus-5-5-low": {
       "int": 42
     },
-    "claude opus 5.5 (adaptive reasoning, low effort, default fallback)": {
+    "claude opus 5.5 (low, default fallback)": {
       "int": 42
     },
     "anthropic/claude-opus-5.5-low": {
@@ -3763,7 +3763,7 @@
       "int": 42,
       "code": 74
     },
-    "claude opus 4.8 (adaptive reasoning, max effort)": {
+    "claude opus 4.8 (max)": {
       "int": 42,
       "code": 74
     },
@@ -3961,7 +3961,7 @@
     "claude-sonnet-5-5-medium": {
       "int": 41
     },
-    "claude sonnet 5.5 (adaptive reasoning, medium effort, default fallback)": {
+    "claude sonnet 5.5 (medium, default fallback)": {
       "int": 41
     },
     "anthropic/claude-sonnet-5.5-medium": {
@@ -4038,7 +4038,7 @@
       "int": 41,
       "code": 74
     },
-    "claude opus 4.7 (adaptive reasoning, max effort)": {
+    "claude opus 4.7 (max)": {
       "int": 41,
       "code": 74
     },
@@ -4848,7 +4848,7 @@
       "int": 39,
       "code": 67
     },
-    "claude opus 5 (adaptive reasoning, low effort)": {
+    "claude opus 5 (low)": {
       "int": 39,
       "code": 67
     },
@@ -5400,7 +5400,7 @@
       "int": 38,
       "code": 72
     },
-    "claude sonnet 5 (adaptive reasoning, max effort)": {
+    "claude sonnet 5 (max)": {
       "int": 38,
       "code": 72
     },
@@ -6007,6 +6007,81 @@
       "int": 36,
       "code": 69
     },
+    "anthropic/claude-sonnet-5-5-low": {
+      "int": 36
+    },
+    "claude-sonnet-5-5-low": {
+      "int": 36
+    },
+    "claude sonnet 5.5 (low, default fallback)": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5.5-low": {
+      "int": 36
+    },
+    "claude-sonnet-5.5-low": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5-5-low-preview": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5-5-low-beta": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5-5-low-exp": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5-5-low-experimental": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5-5-low-latest": {
+      "int": 36
+    },
+    "claude-sonnet-5-5-low-preview": {
+      "int": 36
+    },
+    "claude-sonnet-5-5-low-beta": {
+      "int": 36
+    },
+    "claude-sonnet-5-5-low-exp": {
+      "int": 36
+    },
+    "claude-sonnet-5-5-low-experimental": {
+      "int": 36
+    },
+    "claude-sonnet-5-5-low-latest": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5.5-low-preview": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5.5-low-beta": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5.5-low-exp": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5.5-low-experimental": {
+      "int": 36
+    },
+    "anthropic/claude-sonnet-5.5-low-latest": {
+      "int": 36
+    },
+    "claude-sonnet-5.5-low-preview": {
+      "int": 36
+    },
+    "claude-sonnet-5.5-low-beta": {
+      "int": 36
+    },
+    "claude-sonnet-5.5-low-exp": {
+      "int": 36
+    },
+    "claude-sonnet-5.5-low-experimental": {
+      "int": 36
+    },
+    "claude-sonnet-5.5-low-latest": {
+      "int": 36
+    },
     "xai/grok-4-6-low": {
       "int": 35,
       "code": 66
@@ -6304,7 +6379,7 @@
     "claude-sonnet-5-xhigh": {
       "int": 34
     },
-    "claude sonnet 5 (adaptive reasoning, xhigh effort)": {
+    "claude sonnet 5 (xhigh)": {
       "int": 34
     },
     "anthropic/claude-sonnet-5-xhigh-preview": {
@@ -6709,43 +6784,79 @@
       "int": 34,
       "code": 69
     },
-    "china-mobile/jt236b": {
+    "china-mobile/jt-4-1-flash-236b-a21b": {
       "int": 34
     },
-    "jt236b": {
+    "jt-4-1-flash-236b-a21b": {
       "int": 34
     },
     "jt-4.1 flash 236b a21b (reasoning)": {
       "int": 34
     },
-    "china-mobile/jt236b-preview": {
+    "china-mobile/jt-4.1-flash-236b-a21b": {
       "int": 34
     },
-    "china-mobile/jt236b-beta": {
+    "jt-4.1-flash-236b-a21b": {
       "int": 34
     },
-    "china-mobile/jt236b-exp": {
+    "china-mobile/jt-4-1-flash-236b-a21b-preview": {
       "int": 34
     },
-    "china-mobile/jt236b-experimental": {
+    "china-mobile/jt-4-1-flash-236b-a21b-beta": {
       "int": 34
     },
-    "china-mobile/jt236b-latest": {
+    "china-mobile/jt-4-1-flash-236b-a21b-exp": {
       "int": 34
     },
-    "jt236b-preview": {
+    "china-mobile/jt-4-1-flash-236b-a21b-experimental": {
       "int": 34
     },
-    "jt236b-beta": {
+    "china-mobile/jt-4-1-flash-236b-a21b-latest": {
       "int": 34
     },
-    "jt236b-exp": {
+    "jt-4-1-flash-236b-a21b-preview": {
       "int": 34
     },
-    "jt236b-experimental": {
+    "jt-4-1-flash-236b-a21b-beta": {
       "int": 34
     },
-    "jt236b-latest": {
+    "jt-4-1-flash-236b-a21b-exp": {
+      "int": 34
+    },
+    "jt-4-1-flash-236b-a21b-experimental": {
+      "int": 34
+    },
+    "jt-4-1-flash-236b-a21b-latest": {
+      "int": 34
+    },
+    "china-mobile/jt-4.1-flash-236b-a21b-preview": {
+      "int": 34
+    },
+    "china-mobile/jt-4.1-flash-236b-a21b-beta": {
+      "int": 34
+    },
+    "china-mobile/jt-4.1-flash-236b-a21b-exp": {
+      "int": 34
+    },
+    "china-mobile/jt-4.1-flash-236b-a21b-experimental": {
+      "int": 34
+    },
+    "china-mobile/jt-4.1-flash-236b-a21b-latest": {
+      "int": 34
+    },
+    "jt-4.1-flash-236b-a21b-preview": {
+      "int": 34
+    },
+    "jt-4.1-flash-236b-a21b-beta": {
+      "int": 34
+    },
+    "jt-4.1-flash-236b-a21b-exp": {
+      "int": 34
+    },
+    "jt-4.1-flash-236b-a21b-experimental": {
+      "int": 34
+    },
+    "jt-4.1-flash-236b-a21b-latest": {
       "int": 34
     },
     "openai/gpt-5-5-medium": {
@@ -7855,7 +7966,7 @@
     "claude-opus-4-6-adaptive": {
       "int": 32
     },
-    "claude opus 4.6 (adaptive reasoning, max effort)": {
+    "claude opus 4.6 (max)": {
       "int": 32
     },
     "anthropic/claude-opus-4.6-adaptive": {
@@ -7930,7 +8041,7 @@
     "claude-sonnet-5-high": {
       "int": 32
     },
-    "claude sonnet 5 (adaptive reasoning, high effort)": {
+    "claude sonnet 5 (high)": {
       "int": 32
     },
     "anthropic/claude-sonnet-5-high-preview": {
@@ -8021,7 +8132,7 @@
     "claude-opus-4-7-non-reasoning": {
       "int": 31
     },
-    "claude opus 4.7 (non-reasoning, high effort)": {
+    "claude opus 4.7 (non-reasoning, high)": {
       "int": 31
     },
     "anthropic/claude-opus-4.7-non-reasoning": {
@@ -8581,7 +8692,7 @@
       "int": 30,
       "code": 63
     },
-    "claude sonnet 4.6 (adaptive reasoning, max effort)": {
+    "claude sonnet 4.6 (max)": {
       "int": 30,
       "code": 63
     },
@@ -9470,7 +9581,7 @@
     "claude-sonnet-5-medium": {
       "int": 28
     },
-    "claude sonnet 5 (adaptive reasoning, medium effort)": {
+    "claude sonnet 5 (medium)": {
       "int": 28
     },
     "anthropic/claude-sonnet-5-medium-preview": {
@@ -9859,11 +9970,11 @@
       "int": 28,
       "code": 58
     },
-    "china-mobile/jt-4-1-flash-236b-a21b": {
+    "china-mobile/jt-4-1-flash-236b-a21b-non-reasoning": {
       "int": 27,
       "code": 52
     },
-    "jt-4-1-flash-236b-a21b": {
+    "jt-4-1-flash-236b-a21b-non-reasoning": {
       "int": 27,
       "code": 52
     },
@@ -9871,91 +9982,91 @@
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4.1-flash-236b-a21b": {
+    "china-mobile/jt-4.1-flash-236b-a21b-non-reasoning": {
       "int": 27,
       "code": 52
     },
-    "jt-4.1-flash-236b-a21b": {
+    "jt-4.1-flash-236b-a21b-non-reasoning": {
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4-1-flash-236b-a21b-preview": {
+    "china-mobile/jt-4-1-flash-236b-a21b-non-reasoning-preview": {
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4-1-flash-236b-a21b-beta": {
+    "china-mobile/jt-4-1-flash-236b-a21b-non-reasoning-beta": {
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4-1-flash-236b-a21b-exp": {
+    "china-mobile/jt-4-1-flash-236b-a21b-non-reasoning-exp": {
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4-1-flash-236b-a21b-experimental": {
+    "china-mobile/jt-4-1-flash-236b-a21b-non-reasoning-experimental": {
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4-1-flash-236b-a21b-latest": {
+    "china-mobile/jt-4-1-flash-236b-a21b-non-reasoning-latest": {
       "int": 27,
       "code": 52
     },
-    "jt-4-1-flash-236b-a21b-preview": {
+    "jt-4-1-flash-236b-a21b-non-reasoning-preview": {
       "int": 27,
       "code": 52
     },
-    "jt-4-1-flash-236b-a21b-beta": {
+    "jt-4-1-flash-236b-a21b-non-reasoning-beta": {
       "int": 27,
       "code": 52
     },
-    "jt-4-1-flash-236b-a21b-exp": {
+    "jt-4-1-flash-236b-a21b-non-reasoning-exp": {
       "int": 27,
       "code": 52
     },
-    "jt-4-1-flash-236b-a21b-experimental": {
+    "jt-4-1-flash-236b-a21b-non-reasoning-experimental": {
       "int": 27,
       "code": 52
     },
-    "jt-4-1-flash-236b-a21b-latest": {
+    "jt-4-1-flash-236b-a21b-non-reasoning-latest": {
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4.1-flash-236b-a21b-preview": {
+    "china-mobile/jt-4.1-flash-236b-a21b-non-reasoning-preview": {
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4.1-flash-236b-a21b-beta": {
+    "china-mobile/jt-4.1-flash-236b-a21b-non-reasoning-beta": {
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4.1-flash-236b-a21b-exp": {
+    "china-mobile/jt-4.1-flash-236b-a21b-non-reasoning-exp": {
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4.1-flash-236b-a21b-experimental": {
+    "china-mobile/jt-4.1-flash-236b-a21b-non-reasoning-experimental": {
       "int": 27,
       "code": 52
     },
-    "china-mobile/jt-4.1-flash-236b-a21b-latest": {
+    "china-mobile/jt-4.1-flash-236b-a21b-non-reasoning-latest": {
       "int": 27,
       "code": 52
     },
-    "jt-4.1-flash-236b-a21b-preview": {
+    "jt-4.1-flash-236b-a21b-non-reasoning-preview": {
       "int": 27,
       "code": 52
     },
-    "jt-4.1-flash-236b-a21b-beta": {
+    "jt-4.1-flash-236b-a21b-non-reasoning-beta": {
       "int": 27,
       "code": 52
     },
-    "jt-4.1-flash-236b-a21b-exp": {
+    "jt-4.1-flash-236b-a21b-non-reasoning-exp": {
       "int": 27,
       "code": 52
     },
-    "jt-4.1-flash-236b-a21b-experimental": {
+    "jt-4.1-flash-236b-a21b-non-reasoning-experimental": {
       "int": 27,
       "code": 52
     },
-    "jt-4.1-flash-236b-a21b-latest": {
+    "jt-4.1-flash-236b-a21b-non-reasoning-latest": {
       "int": 27,
       "code": 52
     },
@@ -10531,7 +10642,7 @@
     "claude-opus-4-6": {
       "int": 26
     },
-    "claude opus 4.6 (non-reasoning, high effort)": {
+    "claude opus 4.6 (non-reasoning, high)": {
       "int": 26
     },
     "anthropic/claude-opus-4.6": {
@@ -12242,7 +12353,7 @@
     "claude-sonnet-4-6": {
       "int": 25
     },
-    "claude sonnet 4.6 (non-reasoning, high effort)": {
+    "claude sonnet 4.6 (non-reasoning, high)": {
       "int": 25
     },
     "anthropic/claude-sonnet-4.6": {
@@ -12615,7 +12726,7 @@
     "claude-sonnet-5-low": {
       "int": 24
     },
-    "claude sonnet 5 (adaptive reasoning, low effort)": {
+    "claude sonnet 5 (low)": {
       "int": 24
     },
     "anthropic/claude-sonnet-5-low-preview": {
@@ -13404,7 +13515,7 @@
     "claude-sonnet-4-6-non-reasoning-low-effort": {
       "int": 23
     },
-    "claude sonnet 4.6 (non-reasoning, low effort)": {
+    "claude sonnet 4.6 (non-reasoning, low)": {
       "int": 23
     },
     "anthropic/claude-sonnet-4.6-non-reasoning-low-effort": {
@@ -13481,7 +13592,7 @@
       "int": 23,
       "code": 66
     },
-    "claude sonnet 5 (non-reasoning, high effort)": {
+    "claude sonnet 5 (non-reasoning, high)": {
       "int": 23,
       "code": 66
     },
@@ -34874,66 +34985,6 @@
     "gemini-2.0-flash-lite-001-latest": {
       "int": 7
     },
-    "nvidia/nvidia-nemotron-3-nano-4b": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia-nemotron-3-nano-4b": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia nemotron 3 nano 4b": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia/nemotron-3-nano-4b": {
-      "int": 7,
-      "code": 8
-    },
-    "nemotron-3-nano-4b": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia/nvidia-nemotron-3-nano-4b-preview": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia/nvidia-nemotron-3-nano-4b-beta": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia/nvidia-nemotron-3-nano-4b-exp": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia/nvidia-nemotron-3-nano-4b-experimental": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia/nvidia-nemotron-3-nano-4b-latest": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia-nemotron-3-nano-4b-preview": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia-nemotron-3-nano-4b-beta": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia-nemotron-3-nano-4b-exp": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia-nemotron-3-nano-4b-experimental": {
-      "int": 7,
-      "code": 8
-    },
-    "nvidia-nemotron-3-nano-4b-latest": {
-      "int": 7,
-      "code": 8
-    },
     "nvidia/llama-nemotron-super-49b-v1-5": {
       "int": 7
     },
@@ -45980,6 +46031,66 @@
     "tiny-aya-global-latest": {
       "int": 5
     },
+    "nvidia/nvidia-nemotron-3-nano-4b": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia-nemotron-3-nano-4b": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia nemotron 3 nano 4b": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia/nemotron-3-nano-4b": {
+      "int": 5,
+      "code": 8
+    },
+    "nemotron-3-nano-4b": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia/nvidia-nemotron-3-nano-4b-preview": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia/nvidia-nemotron-3-nano-4b-beta": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia/nvidia-nemotron-3-nano-4b-exp": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia/nvidia-nemotron-3-nano-4b-experimental": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia/nvidia-nemotron-3-nano-4b-latest": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia-nemotron-3-nano-4b-preview": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia-nemotron-3-nano-4b-beta": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia-nemotron-3-nano-4b-exp": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia-nemotron-3-nano-4b-experimental": {
+      "int": 5,
+      "code": 8
+    },
+    "nvidia-nemotron-3-nano-4b-latest": {
+      "int": 5,
+      "code": 8
+    },
     "google/gemma-3-12b": {
       "int": 4,
       "code": 6
@@ -46183,7 +46294,7 @@
   },
   "fullData": {
     "anthropic/claude-opus-5-5": {
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
+      "name": "Claude Opus 5.5 (Max, Default Fallback)",
       "slug": "claude-opus-5-5",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46215,53 +46326,14 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 97.011,
-      "median_time_to_first_token_seconds": 477.23,
-      "median_time_to_first_answer_token": 477.23,
+      "median_output_tokens_per_second": 97.574,
+      "median_time_to_first_token_seconds": 588.957,
+      "median_time_to_first_answer_token": 588.957,
       "id": "2f3c4dc9-a450-4303-8697-0237257cf08f",
       "release_date": "2026-09-22"
     },
-    "anthropic/claude-opus-5-5-xhigh": {
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
-      "slug": "claude-opus-5-5-xhigh",
-      "model_creator": {
-        "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
-        "name": "Anthropic",
-        "slug": "anthropic"
-      },
-      "evaluations": {
-        "artificial_analysis_intelligence_index": 56,
-        "artificial_analysis_coding_index": null,
-        "artificial_analysis_math_index": null,
-        "mmlu_pro": null,
-        "gpqa": null,
-        "hle": 0.575,
-        "livecodebench": null,
-        "scicode": 0.65,
-        "math_500": null,
-        "aime": null,
-        "aime_25": null,
-        "ifbench": null,
-        "lcr": 0.846666666666667,
-        "terminalbench_hard": null,
-        "terminalbench_v2_1": null,
-        "terminalbench_v4_0": 0.595959595959596,
-        "tau2": null,
-        "tau_banking": null
-      },
-      "pricing": {
-        "price_1m_blended_3_to_1": 8,
-        "price_1m_input_tokens": 4,
-        "price_1m_output_tokens": 20
-      },
-      "median_output_tokens_per_second": 81.109,
-      "median_time_to_first_token_seconds": 50.457,
-      "median_time_to_first_answer_token": 50.457,
-      "id": "df5bf99d-d228-4715-b41b-19ca86118777",
-      "release_date": "2026-09-22"
-    },
     "anthropic/claude-sonnet-5-5": {
-      "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
+      "name": "Claude Sonnet 5.5 (Max, Default Fallback)",
       "slug": "claude-sonnet-5-5",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46293,14 +46365,53 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 145.398,
-      "median_time_to_first_token_seconds": 265.2,
-      "median_time_to_first_answer_token": 265.2,
+      "median_output_tokens_per_second": 137.548,
+      "median_time_to_first_token_seconds": 263.184,
+      "median_time_to_first_answer_token": 263.184,
       "id": "b171d979-5ec1-45de-b8b9-db1ee65e77ec",
       "release_date": "2026-09-28"
     },
+    "anthropic/claude-opus-5-5-xhigh": {
+      "name": "Claude Opus 5.5 (Xhigh, Default Fallback)",
+      "slug": "claude-opus-5-5-xhigh",
+      "model_creator": {
+        "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
+        "name": "Anthropic",
+        "slug": "anthropic"
+      },
+      "evaluations": {
+        "artificial_analysis_intelligence_index": 56,
+        "artificial_analysis_coding_index": null,
+        "artificial_analysis_math_index": null,
+        "mmlu_pro": null,
+        "gpqa": null,
+        "hle": 0.575,
+        "livecodebench": null,
+        "scicode": 0.65,
+        "math_500": null,
+        "aime": null,
+        "aime_25": null,
+        "ifbench": null,
+        "lcr": 0.846666666666667,
+        "terminalbench_hard": null,
+        "terminalbench_v2_1": null,
+        "terminalbench_v4_0": 0.595959595959596,
+        "tau2": null,
+        "tau_banking": null
+      },
+      "pricing": {
+        "price_1m_blended_3_to_1": 8,
+        "price_1m_input_tokens": 4,
+        "price_1m_output_tokens": 20
+      },
+      "median_output_tokens_per_second": 78.732,
+      "median_time_to_first_token_seconds": 51.722,
+      "median_time_to_first_answer_token": 51.722,
+      "id": "df5bf99d-d228-4715-b41b-19ca86118777",
+      "release_date": "2026-09-22"
+    },
     "anthropic/claude-opus-5-5-high": {
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, High Effort, Default Fallback)",
+      "name": "Claude Opus 5.5 (High, Default Fallback)",
       "slug": "claude-opus-5-5-high",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46332,14 +46443,14 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 81.263,
-      "median_time_to_first_token_seconds": 17.342,
-      "median_time_to_first_answer_token": 17.342,
+      "median_output_tokens_per_second": 78.288,
+      "median_time_to_first_token_seconds": 19.518,
+      "median_time_to_first_answer_token": 19.518,
       "id": "f314eade-2232-44bf-a3ab-9b326bc67de6",
       "release_date": "2026-09-22"
     },
     "anthropic/claude-fable-5-1": {
-      "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
+      "name": "Claude Fable 5.1 (Max, Default Fallback)",
       "slug": "claude-fable-5-1",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46371,14 +46482,14 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 70.155,
-      "median_time_to_first_token_seconds": 134.538,
-      "median_time_to_first_answer_token": 134.538,
+      "median_output_tokens_per_second": 70.69,
+      "median_time_to_first_token_seconds": 142.756,
+      "median_time_to_first_answer_token": 142.756,
       "id": "3e87c73e-a257-495e-9730-367a66229811",
       "release_date": "2026-09-01"
     },
     "anthropic/claude-fable-5-1-xhigh": {
-      "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+      "name": "Claude Fable 5.1 (Xhigh, Default Fallback)",
       "slug": "claude-fable-5-1-xhigh",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46410,9 +46521,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 62.866,
-      "median_time_to_first_token_seconds": 34.758,
-      "median_time_to_first_answer_token": 34.758,
+      "median_output_tokens_per_second": 60.789,
+      "median_time_to_first_token_seconds": 37.157,
+      "median_time_to_first_answer_token": 37.157,
       "id": "9b166bf3-42db-4f63-8338-1c4a1244ffe8",
       "release_date": "2026-09-01"
     },
@@ -46449,9 +46560,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 55.811,
-      "median_time_to_first_token_seconds": 192.954,
-      "median_time_to_first_answer_token": 192.954,
+      "median_output_tokens_per_second": 56.131,
+      "median_time_to_first_token_seconds": 202.532,
+      "median_time_to_first_answer_token": 202.532,
       "id": "2f339a97-9a0d-499a-9cb5-e0db665bfa25",
       "release_date": "2026-09-03"
     },
@@ -46527,14 +46638,14 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 51.839,
-      "median_time_to_first_token_seconds": 74.33,
-      "median_time_to_first_answer_token": 74.33,
+      "median_output_tokens_per_second": 52.27,
+      "median_time_to_first_token_seconds": 73.391,
+      "median_time_to_first_answer_token": 73.391,
       "id": "1f541ef3-913f-4eb2-9d07-0e93c7a9a5e3",
       "release_date": "2026-09-03"
     },
     "anthropic/claude-sonnet-5-5-xhigh": {
-      "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+      "name": "Claude Sonnet 5.5 (Xhigh, Default Fallback)",
       "slug": "claude-sonnet-5-5-xhigh",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46566,9 +46677,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 112.626,
-      "median_time_to_first_token_seconds": 15.676,
-      "median_time_to_first_answer_token": 15.676,
+      "median_output_tokens_per_second": 110.532,
+      "median_time_to_first_token_seconds": 16.397,
+      "median_time_to_first_answer_token": 16.397,
       "id": "975aeaef-50bd-4a65-9c73-f1015adcd4d4",
       "release_date": "2026-09-28"
     },
@@ -46605,14 +46716,14 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 62.79,
-      "median_time_to_first_token_seconds": 139.976,
-      "median_time_to_first_answer_token": 139.976,
+      "median_output_tokens_per_second": 58.555,
+      "median_time_to_first_token_seconds": 185.59,
+      "median_time_to_first_answer_token": 185.59,
       "id": "b25ac058-1e33-4c31-bbc9-a20c3ad0717a",
       "release_date": "2026-09-29"
     },
     "anthropic/claude-opus-5-5-medium": {
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, Medium Effort, Default Fallback)",
+      "name": "Claude Opus 5.5 (Medium, Default Fallback)",
       "slug": "claude-opus-5-5-medium",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46645,13 +46756,13 @@
         "price_1m_output_tokens": 20
       },
       "median_output_tokens_per_second": 77.944,
-      "median_time_to_first_token_seconds": 13.763,
-      "median_time_to_first_answer_token": 13.763,
+      "median_time_to_first_token_seconds": 13.099,
+      "median_time_to_first_answer_token": 13.099,
       "id": "ea9e0da6-169f-43c6-92f5-730a10d6ff8d",
       "release_date": "2026-09-22"
     },
     "anthropic/claude-fable-5-1-high": {
-      "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
+      "name": "Claude Fable 5.1 (High, Default Fallback)",
       "slug": "claude-fable-5-1-high",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46683,9 +46794,9 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 56.008,
-      "median_time_to_first_token_seconds": 6.8,
-      "median_time_to_first_answer_token": 6.8,
+      "median_output_tokens_per_second": 56.047,
+      "median_time_to_first_token_seconds": 8.941,
+      "median_time_to_first_answer_token": 8.941,
       "id": "9d7d72cd-d95d-45a0-b109-4ad292c9aabd",
       "release_date": "2026-09-01"
     },
@@ -46722,9 +46833,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 61.475,
-      "median_time_to_first_token_seconds": 57.999,
-      "median_time_to_first_answer_token": 57.999,
+      "median_output_tokens_per_second": 52.329,
+      "median_time_to_first_token_seconds": 76.145,
+      "median_time_to_first_answer_token": 76.145,
       "id": "092a3b0e-c5c8-45dc-bf1b-53673c8ff352",
       "release_date": "2026-09-29"
     },
@@ -46761,14 +46872,14 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 52.151,
-      "median_time_to_first_token_seconds": 29.184,
-      "median_time_to_first_answer_token": 29.184,
+      "median_output_tokens_per_second": 52.779,
+      "median_time_to_first_token_seconds": 31.407,
+      "median_time_to_first_answer_token": 31.407,
       "id": "e05a4828-0536-4876-870d-a235023f992b",
       "release_date": "2026-09-03"
     },
     "anthropic/claude-opus-5": {
-      "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
+      "name": "Claude Opus 5 (Max)",
       "slug": "claude-opus-5",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46839,14 +46950,14 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 59.138,
-      "median_time_to_first_token_seconds": 20.787,
-      "median_time_to_first_answer_token": 20.787,
+      "median_output_tokens_per_second": 52.438,
+      "median_time_to_first_token_seconds": 28.905,
+      "median_time_to_first_answer_token": 28.905,
       "id": "3b84fee3-b70a-41bc-819e-5fbdef9a0042",
       "release_date": "2026-09-29"
     },
     "anthropic/claude-opus-5-xhigh": {
-      "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
+      "name": "Claude Opus 5 (Xhigh)",
       "slug": "claude-opus-5-xhigh",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46885,7 +46996,7 @@
       "release_date": "2026-07-24"
     },
     "anthropic/claude-fable-5": {
-      "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
+      "name": "Claude Fable 5 (Max, Opus 4.8 Fallback)",
       "slug": "claude-fable-5",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46956,14 +47067,14 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 51.763,
+      "median_output_tokens_per_second": 51.26,
       "median_time_to_first_token_seconds": 4.544,
       "median_time_to_first_answer_token": 4.544,
       "id": "e97a4ef5-e817-480e-9595-12f81dc4974f",
       "release_date": "2026-09-03"
     },
     "anthropic/claude-fable-5-1-medium": {
-      "name": "Claude Fable 5.1 (Adaptive Reasoning, Medium Effort, Default Fallback)",
+      "name": "Claude Fable 5.1 (Medium, Default Fallback)",
       "slug": "claude-fable-5-1-medium",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -46995,14 +47106,14 @@
         "price_1m_input_tokens": 10,
         "price_1m_output_tokens": 50
       },
-      "median_output_tokens_per_second": 53.279,
-      "median_time_to_first_token_seconds": 5.9,
-      "median_time_to_first_answer_token": 5.9,
+      "median_output_tokens_per_second": 56.022,
+      "median_time_to_first_token_seconds": 7.37,
+      "median_time_to_first_answer_token": 7.37,
       "id": "3b7de71c-e034-4591-8ca6-6b6be2fa471f",
       "release_date": "2026-09-01"
     },
     "anthropic/claude-opus-5-high": {
-      "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
+      "name": "Claude Opus 5 (High)",
       "slug": "claude-opus-5-high",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -47073,9 +47184,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 4.25
       },
-      "median_output_tokens_per_second": 168.397,
-      "median_time_to_first_token_seconds": 43.349,
-      "median_time_to_first_answer_token": 55.226,
+      "median_output_tokens_per_second": 157.499,
+      "median_time_to_first_token_seconds": 42.148,
+      "median_time_to_first_answer_token": 54.847,
       "id": "9999672c-b687-4026-9c15-5cef02ff53bb",
       "release_date": "2026-09-02"
     },
@@ -47112,9 +47223,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 61.861,
-      "median_time_to_first_token_seconds": 3.69,
-      "median_time_to_first_answer_token": 3.69,
+      "median_output_tokens_per_second": 54.751,
+      "median_time_to_first_token_seconds": 3.741,
+      "median_time_to_first_answer_token": 3.741,
       "id": "a2e51d62-ea4e-4f15-8be0-be9dc1fb489d",
       "release_date": "2026-09-29"
     },
@@ -47151,9 +47262,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 92.122,
-      "median_time_to_first_token_seconds": 107.514,
-      "median_time_to_first_answer_token": 107.514,
+      "median_output_tokens_per_second": 111.184,
+      "median_time_to_first_token_seconds": 104.258,
+      "median_time_to_first_answer_token": 104.258,
       "id": "c50ea08c-88c0-4eb7-85b8-27f2bbf6d527",
       "release_date": "2026-09-22"
     },
@@ -47197,7 +47308,7 @@
       "release_date": "2026-07-09"
     },
     "anthropic/claude-fable-5-1-low": {
-      "name": "Claude Fable 5.1 (Adaptive Reasoning, Low Effort, Default Fallback)",
+      "name": "Claude Fable 5.1 (Low, Default Fallback)",
       "slug": "claude-fable-5-1-low",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -47230,13 +47341,13 @@
         "price_1m_output_tokens": 50
       },
       "median_output_tokens_per_second": 54.648,
-      "median_time_to_first_token_seconds": 3.339,
-      "median_time_to_first_answer_token": 3.339,
+      "median_time_to_first_token_seconds": 3.641,
+      "median_time_to_first_answer_token": 3.641,
       "id": "05776db7-f5c0-40f7-b824-079160f8cfa8",
       "release_date": "2026-09-01"
     },
     "anthropic/claude-sonnet-5-5-high": {
-      "name": "Claude Sonnet 5.5 (Adaptive Reasoning, High Effort, Default Fallback)",
+      "name": "Claude Sonnet 5.5 (High, Default Fallback)",
       "slug": "claude-sonnet-5-5-high",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -47244,7 +47355,7 @@
         "slug": "anthropic"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 46.7,
+        "artificial_analysis_intelligence_index": 46.8,
         "artificial_analysis_coding_index": null,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -47268,9 +47379,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 110.532,
-      "median_time_to_first_token_seconds": 7.581,
-      "median_time_to_first_answer_token": 7.581,
+      "median_output_tokens_per_second": 108.854,
+      "median_time_to_first_token_seconds": 9.123,
+      "median_time_to_first_answer_token": 9.123,
       "id": "268525e2-f873-4178-bc07-e6a0ee1f002d",
       "release_date": "2026-09-28"
     },
@@ -47307,9 +47418,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 82.71,
-      "median_time_to_first_token_seconds": 19.289,
-      "median_time_to_first_answer_token": 19.289,
+      "median_output_tokens_per_second": 80.156,
+      "median_time_to_first_token_seconds": 22.446,
+      "median_time_to_first_answer_token": 22.446,
       "id": "59627802-1546-422c-9a65-65b61c022d36",
       "release_date": "2026-09-21"
     },
@@ -47346,9 +47457,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 83.388,
-      "median_time_to_first_token_seconds": 18.893,
-      "median_time_to_first_answer_token": 18.893,
+      "median_output_tokens_per_second": 76.142,
+      "median_time_to_first_token_seconds": 17.538,
+      "median_time_to_first_answer_token": 17.538,
       "id": "272f5f03-aea9-4675-a244-2b753b618cdf",
       "release_date": "2026-09-21"
     },
@@ -47385,9 +47496,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 46.231,
-      "median_time_to_first_token_seconds": 3.118,
-      "median_time_to_first_answer_token": 46.379,
+      "median_output_tokens_per_second": 44.34,
+      "median_time_to_first_token_seconds": 3.643,
+      "median_time_to_first_answer_token": 48.749,
       "id": "24d8fdfe-6241-424e-b7b7-1b6efb06e4fb",
       "release_date": "2026-09-21"
     },
@@ -47425,8 +47536,8 @@
         "price_1m_output_tokens": 50
       },
       "median_output_tokens_per_second": 46.656,
-      "median_time_to_first_token_seconds": 1.664,
-      "median_time_to_first_answer_token": 1.664,
+      "median_time_to_first_token_seconds": 1.666,
+      "median_time_to_first_answer_token": 1.666,
       "id": "a3f8100d-e38f-408b-b0fa-0085dae18dc1",
       "release_date": "2026-09-03"
     },
@@ -47463,9 +47574,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 39.338,
+      "median_output_tokens_per_second": 37.37,
       "median_time_to_first_token_seconds": 1.766,
-      "median_time_to_first_answer_token": 52.608,
+      "median_time_to_first_answer_token": 55.286,
       "id": "b112af07-3bd5-4647-b09f-b23204361bb2",
       "release_date": "2026-09-02"
     },
@@ -47502,14 +47613,14 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 4.25
       },
-      "median_output_tokens_per_second": 194.525,
+      "median_output_tokens_per_second": 167.351,
       "median_time_to_first_token_seconds": 31.646,
-      "median_time_to_first_answer_token": 41.927,
+      "median_time_to_first_answer_token": 43.597,
       "id": "d5170215-69be-4129-849b-26d8d8825bfc",
       "release_date": "2026-09-02"
     },
     "anthropic/claude-opus-5-medium": {
-      "name": "Claude Opus 5 (Adaptive Reasoning, Medium Effort)",
+      "name": "Claude Opus 5 (Medium)",
       "slug": "claude-opus-5-medium",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -47580,9 +47691,9 @@
         "price_1m_input_tokens": 1.4,
         "price_1m_output_tokens": 4.4
       },
-      "median_output_tokens_per_second": 71.131,
+      "median_output_tokens_per_second": 75.206,
       "median_time_to_first_token_seconds": 2.691,
-      "median_time_to_first_answer_token": 30.808,
+      "median_time_to_first_answer_token": 29.285,
       "id": "cd684ea4-b475-4269-b001-d469d06d8a7a",
       "release_date": "2026-08-18"
     },
@@ -47658,9 +47769,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 92.639,
-      "median_time_to_first_token_seconds": 28.14,
-      "median_time_to_first_answer_token": 28.14,
+      "median_output_tokens_per_second": 104.352,
+      "median_time_to_first_token_seconds": 25.669,
+      "median_time_to_first_answer_token": 25.669,
       "id": "da2642fe-9f73-4788-b5af-24edcd55b37e",
       "release_date": "2026-09-22"
     },
@@ -47775,9 +47886,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 2.7
       },
-      "median_output_tokens_per_second": 84.74,
-      "median_time_to_first_token_seconds": 2.08,
-      "median_time_to_first_answer_token": 25.681,
+      "median_output_tokens_per_second": 84.069,
+      "median_time_to_first_token_seconds": 1.959,
+      "median_time_to_first_answer_token": 25.749,
       "id": "094ea3e3-ce41-419e-8bd1-723389663158",
       "release_date": "2026-09-18"
     },
@@ -47814,9 +47925,9 @@
         "price_1m_input_tokens": 3,
         "price_1m_output_tokens": 15
       },
-      "median_output_tokens_per_second": 37.355,
-      "median_time_to_first_token_seconds": 3.121,
-      "median_time_to_first_answer_token": 56.661,
+      "median_output_tokens_per_second": 36.875,
+      "median_time_to_first_token_seconds": 2.618,
+      "median_time_to_first_answer_token": 56.856,
       "id": "f7d2fc3e-1f7b-405f-818c-07952a4af78f",
       "release_date": "2026-07-16"
     },
@@ -47853,9 +47964,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 98.679,
-      "median_time_to_first_token_seconds": 18.384,
-      "median_time_to_first_answer_token": 18.384,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "26614164-6840-4e17-a65a-2deb2fe7e87b",
       "release_date": "2026-08-12"
     },
@@ -47892,9 +48003,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 80.679,
-      "median_time_to_first_token_seconds": 16.162,
-      "median_time_to_first_answer_token": 16.162,
+      "median_output_tokens_per_second": 90.685,
+      "median_time_to_first_token_seconds": 14.413,
+      "median_time_to_first_answer_token": 14.413,
       "id": "52eebe3e-6ede-4e46-92db-c5dea49fc410",
       "release_date": "2026-09-22"
     },
@@ -47938,7 +48049,7 @@
       "release_date": "2026-07-09"
     },
     "anthropic/claude-opus-5-5-low": {
-      "name": "Claude Opus 5.5 (Adaptive Reasoning, Low Effort, Default Fallback)",
+      "name": "Claude Opus 5.5 (Low, Default Fallback)",
       "slug": "claude-opus-5-5-low",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -47970,9 +48081,9 @@
         "price_1m_input_tokens": 4,
         "price_1m_output_tokens": 20
       },
-      "median_output_tokens_per_second": 76.983,
-      "median_time_to_first_token_seconds": 6.565,
-      "median_time_to_first_answer_token": 6.565,
+      "median_output_tokens_per_second": 73.672,
+      "median_time_to_first_token_seconds": 6.521,
+      "median_time_to_first_answer_token": 6.521,
       "id": "4416ca93-fde6-4b7b-abbc-3a6be109cc3d",
       "release_date": "2026-09-22"
     },
@@ -48009,9 +48120,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 67.099,
-      "median_time_to_first_token_seconds": 3.689,
-      "median_time_to_first_answer_token": 3.689,
+      "median_output_tokens_per_second": 67.584,
+      "median_time_to_first_token_seconds": 6.278,
+      "median_time_to_first_answer_token": 6.278,
       "id": "208c16f0-8c5b-4524-ac8a-ac74c02e80a9",
       "release_date": "2026-09-21"
     },
@@ -48048,9 +48159,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 53.62,
-      "median_time_to_first_token_seconds": 1.996,
-      "median_time_to_first_answer_token": 1.996,
+      "median_output_tokens_per_second": 49.537,
+      "median_time_to_first_token_seconds": 2.43,
+      "median_time_to_first_answer_token": 2.43,
       "id": "e76e0fe5-93ca-4272-9359-2eb1740467d1",
       "release_date": "2026-09-29"
     },
@@ -48087,9 +48198,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 110.849,
-      "median_time_to_first_token_seconds": 115.347,
-      "median_time_to_first_answer_token": 115.347,
+      "median_output_tokens_per_second": 110.063,
+      "median_time_to_first_token_seconds": 94.607,
+      "median_time_to_first_answer_token": 94.607,
       "id": "bcf8db0a-3bb6-4d82-9516-0f57370c85a6",
       "release_date": "2026-07-09"
     },
@@ -48126,14 +48237,14 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 50.997,
-      "median_time_to_first_token_seconds": 3.189,
-      "median_time_to_first_answer_token": 42.407,
+      "median_output_tokens_per_second": 51.663,
+      "median_time_to_first_token_seconds": 3.043,
+      "median_time_to_first_answer_token": 41.755,
       "id": "19496b81-9f41-4214-a77a-1df803b3c5ae",
       "release_date": "2026-08-26"
     },
     "anthropic/claude-opus-4-8": {
-      "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
+      "name": "Claude Opus 4.8 (Max)",
       "slug": "claude-opus-4-8",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -48204,14 +48315,14 @@
         "price_1m_input_tokens": 0.75,
         "price_1m_output_tokens": 3.75
       },
-      "median_output_tokens_per_second": 261.454,
-      "median_time_to_first_token_seconds": 13.317,
-      "median_time_to_first_answer_token": 13.317,
+      "median_output_tokens_per_second": 255.648,
+      "median_time_to_first_token_seconds": 12.487,
+      "median_time_to_first_answer_token": 12.487,
       "id": "8a999846-4c1d-4ce7-a8b7-1310a7166fd7",
       "release_date": "2026-09-02"
     },
     "anthropic/claude-sonnet-5-5-medium": {
-      "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Medium Effort, Default Fallback)",
+      "name": "Claude Sonnet 5.5 (Medium, Default Fallback)",
       "slug": "claude-sonnet-5-5-medium",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -48219,7 +48330,7 @@
         "slug": "anthropic"
       },
       "evaluations": {
-        "artificial_analysis_intelligence_index": 40.7,
+        "artificial_analysis_intelligence_index": 40.8,
         "artificial_analysis_coding_index": null,
         "artificial_analysis_math_index": null,
         "mmlu_pro": null,
@@ -48243,14 +48354,14 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 111.866,
-      "median_time_to_first_token_seconds": 1.285,
-      "median_time_to_first_answer_token": 1.285,
+      "median_output_tokens_per_second": 109.442,
+      "median_time_to_first_token_seconds": 1.825,
+      "median_time_to_first_answer_token": 1.825,
       "id": "042e8a37-fcd0-40f4-8f41-99215fb68eda",
       "release_date": "2026-09-28"
     },
     "anthropic/claude-opus-4-7": {
-      "name": "Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",
+      "name": "Claude Opus 4.7 (Max)",
       "slug": "claude-opus-4-7",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -48360,9 +48471,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 39.474,
-      "median_time_to_first_token_seconds": 1.757,
-      "median_time_to_first_answer_token": 52.424,
+      "median_output_tokens_per_second": 38.601,
+      "median_time_to_first_token_seconds": 1.752,
+      "median_time_to_first_answer_token": 53.564,
       "id": "8df710d3-9dae-4498-9b4e-9818238e6f31",
       "release_date": "2026-08-12"
     },
@@ -48399,9 +48510,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.47
       },
-      "median_output_tokens_per_second": 52.688,
-      "median_time_to_first_token_seconds": 1.459,
-      "median_time_to_first_answer_token": 39.419,
+      "median_output_tokens_per_second": 52.111,
+      "median_time_to_first_token_seconds": 1.475,
+      "median_time_to_first_answer_token": 39.855,
       "id": "9ac3908c-9eb2-44db-8c01-3ec7da6fc2ae",
       "release_date": "2026-08-26"
     },
@@ -48594,14 +48705,14 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 226.5,
-      "median_time_to_first_token_seconds": 0.78,
-      "median_time_to_first_answer_token": 9.61,
+      "median_output_tokens_per_second": 214.866,
+      "median_time_to_first_token_seconds": 0.804,
+      "median_time_to_first_answer_token": 10.112,
       "id": "dbe7c625-3100-4463-b479-a228c41f75dd",
       "release_date": "2026-09-10"
     },
     "anthropic/claude-opus-5-low": {
-      "name": "Claude Opus 5 (Adaptive Reasoning, Low Effort)",
+      "name": "Claude Opus 5 (Low)",
       "slug": "claude-opus-5-low",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -48835,7 +48946,7 @@
       "release_date": "2026-04-23"
     },
     "anthropic/claude-sonnet-5": {
-      "name": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)",
+      "name": "Claude Sonnet 5 (Max)",
       "slug": "claude-sonnet-5",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -48867,9 +48978,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 94.143,
-      "median_time_to_first_token_seconds": 162.437,
-      "median_time_to_first_answer_token": 162.437,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "23c86e4a-c769-43c0-a056-79e3cd15834f",
       "release_date": "2026-06-30"
     },
@@ -48906,9 +49017,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 138.803,
-      "median_time_to_first_token_seconds": 83.996,
-      "median_time_to_first_answer_token": 83.996,
+      "median_output_tokens_per_second": 137.613,
+      "median_time_to_first_token_seconds": 84.827,
+      "median_time_to_first_answer_token": 84.827,
       "id": "6fb13851-40ce-4bda-ad3f-6b38e0c5daa7",
       "release_date": "2026-09-22"
     },
@@ -48945,9 +49056,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 99.383,
-      "median_time_to_first_token_seconds": 19.048,
-      "median_time_to_first_answer_token": 19.048,
+      "median_output_tokens_per_second": 105.011,
+      "median_time_to_first_token_seconds": 26.038,
+      "median_time_to_first_answer_token": 26.038,
       "id": "9e30696f-16fa-4b4f-ba53-161895a85fed",
       "release_date": "2026-07-09"
     },
@@ -48984,9 +49095,9 @@
         "price_1m_input_tokens": 0.14,
         "price_1m_output_tokens": 0.28
       },
-      "median_output_tokens_per_second": 58.456,
-      "median_time_to_first_token_seconds": 3.38,
-      "median_time_to_first_answer_token": 37.594,
+      "median_output_tokens_per_second": 53.285,
+      "median_time_to_first_token_seconds": 4.244,
+      "median_time_to_first_answer_token": 41.778,
       "id": "127de816-57d3-4037-8484-480a613cd413",
       "release_date": "2026-09-21"
     },
@@ -49140,11 +49251,50 @@
         "price_1m_input_tokens": 1.32,
         "price_1m_output_tokens": 3.96
       },
-      "median_output_tokens_per_second": 104.703,
-      "median_time_to_first_token_seconds": 1.174,
-      "median_time_to_first_answer_token": 20.276,
+      "median_output_tokens_per_second": 110.467,
+      "median_time_to_first_token_seconds": 1.089,
+      "median_time_to_first_answer_token": 19.194,
       "id": "83173329-c09a-41f1-a028-a282a5f908d7",
       "release_date": "2026-08-13"
+    },
+    "anthropic/claude-sonnet-5-5-low": {
+      "name": "Claude Sonnet 5.5 (Low, Default Fallback)",
+      "slug": "claude-sonnet-5-5-low",
+      "model_creator": {
+        "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
+        "name": "Anthropic",
+        "slug": "anthropic"
+      },
+      "evaluations": {
+        "artificial_analysis_intelligence_index": 35.9,
+        "artificial_analysis_coding_index": null,
+        "artificial_analysis_math_index": null,
+        "mmlu_pro": null,
+        "gpqa": null,
+        "hle": 0.362,
+        "livecodebench": null,
+        "scicode": 0.491,
+        "math_500": null,
+        "aime": null,
+        "aime_25": null,
+        "ifbench": null,
+        "lcr": 0.76,
+        "terminalbench_hard": null,
+        "terminalbench_v2_1": null,
+        "terminalbench_v4_0": 0.207070707070707,
+        "tau2": null,
+        "tau_banking": null
+      },
+      "pricing": {
+        "price_1m_blended_3_to_1": 4,
+        "price_1m_input_tokens": 2,
+        "price_1m_output_tokens": 10
+      },
+      "median_output_tokens_per_second": 105.173,
+      "median_time_to_first_token_seconds": 0.844,
+      "median_time_to_first_answer_token": 0.844,
+      "id": "bbc2ffea-cf6b-43be-8c41-1769347e234d",
+      "release_date": "2026-09-28"
     },
     "xai/grok-4-6-low": {
       "name": "Grok 4.6 (Low)",
@@ -49179,9 +49329,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 6
       },
-      "median_output_tokens_per_second": 75.072,
-      "median_time_to_first_token_seconds": 2.341,
-      "median_time_to_first_answer_token": 2.341,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "c07e65e6-32fc-451e-938d-7477a1c3ffcc",
       "release_date": "2026-08-12"
     },
@@ -49218,9 +49368,9 @@
         "price_1m_input_tokens": 0.44,
         "price_1m_output_tokens": 1.32
       },
-      "median_output_tokens_per_second": 223.706,
-      "median_time_to_first_token_seconds": 0.714,
-      "median_time_to_first_answer_token": 9.654,
+      "median_output_tokens_per_second": 221.641,
+      "median_time_to_first_token_seconds": 0.759,
+      "median_time_to_first_answer_token": 9.783,
       "id": "7707a46f-895f-4247-b7a8-ddab87c9a11d",
       "release_date": "2026-08-21"
     },
@@ -49257,9 +49407,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 131.692,
-      "median_time_to_first_token_seconds": 26.343,
-      "median_time_to_first_answer_token": 26.343,
+      "median_output_tokens_per_second": 138.896,
+      "median_time_to_first_token_seconds": 26.376,
+      "median_time_to_first_answer_token": 26.376,
       "id": "19813eb2-460a-475c-af65-810bb8660fec",
       "release_date": "2026-09-22"
     },
@@ -49303,7 +49453,7 @@
       "release_date": "2026-07-09"
     },
     "anthropic/claude-sonnet-5-xhigh": {
-      "name": "Claude Sonnet 5 (Adaptive Reasoning, Xhigh Effort)",
+      "name": "Claude Sonnet 5 (Xhigh)",
       "slug": "claude-sonnet-5-xhigh",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -49335,9 +49485,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 79.816,
-      "median_time_to_first_token_seconds": 16.189,
-      "median_time_to_first_answer_token": 16.189,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "99f376bf-cbcb-4124-bf3e-6b0a4e6e9bea",
       "release_date": "2026-06-30"
     },
@@ -49413,9 +49563,9 @@
         "price_1m_input_tokens": 1.4,
         "price_1m_output_tokens": 4.4
       },
-      "median_output_tokens_per_second": 74.73,
-      "median_time_to_first_token_seconds": 3.316,
-      "median_time_to_first_answer_token": 30.079,
+      "median_output_tokens_per_second": 72.857,
+      "median_time_to_first_token_seconds": 3.041,
+      "median_time_to_first_answer_token": 30.492,
       "id": "cc1e488b-8ba4-464d-875d-690166b15ad3",
       "release_date": "2026-08-18"
     },
@@ -49452,9 +49602,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 90.88,
-      "median_time_to_first_token_seconds": 2.628,
-      "median_time_to_first_answer_token": 2.628,
+      "median_output_tokens_per_second": 94.478,
+      "median_time_to_first_token_seconds": 2.576,
+      "median_time_to_first_answer_token": 2.576,
       "id": "81972fba-1219-477e-bbfb-18c656a63ff7",
       "release_date": "2026-07-09"
     },
@@ -49491,9 +49641,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 84.73,
-      "median_time_to_first_token_seconds": 1.768,
-      "median_time_to_first_answer_token": 1.768,
+      "median_output_tokens_per_second": 94.525,
+      "median_time_to_first_token_seconds": 1.742,
+      "median_time_to_first_answer_token": 1.742,
       "id": "01459872-433a-4ab2-8e99-7083162172eb",
       "release_date": "2026-09-22"
     },
@@ -49536,9 +49686,9 @@
       "id": "78332c88-fe60-42c8-af9d-3617e44cf1f5",
       "release_date": "2026-07-21"
     },
-    "china-mobile/jt236b": {
+    "china-mobile/jt-4-1-flash-236b-a21b": {
       "name": "JT-4.1 Flash 236B A21B (Reasoning)",
-      "slug": "jt236b",
+      "slug": "jt-4-1-flash-236b-a21b",
       "model_creator": {
         "id": "7e7b7290-eacc-420e-a35f-7c8eb4e5205d",
         "name": "China Mobile",
@@ -49725,9 +49875,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 45.887,
-      "median_time_to_first_token_seconds": 1.228,
-      "median_time_to_first_answer_token": 44.813,
+      "median_output_tokens_per_second": 46.566,
+      "median_time_to_first_token_seconds": 1.182,
+      "median_time_to_first_answer_token": 44.132,
       "id": "b01dee41-c62b-48ed-8d16-984adc405e5c",
       "release_date": "2026-08-14"
     },
@@ -49920,9 +50070,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 131.134,
-      "median_time_to_first_token_seconds": 8.035,
-      "median_time_to_first_answer_token": 8.035,
+      "median_output_tokens_per_second": 128.535,
+      "median_time_to_first_token_seconds": 10.447,
+      "median_time_to_first_answer_token": 10.447,
       "id": "7d1229bc-deea-4717-ba5b-f59a35d991e3",
       "release_date": "2026-09-22"
     },
@@ -49998,9 +50148,9 @@
         "price_1m_input_tokens": 1.75,
         "price_1m_output_tokens": 14
       },
-      "median_output_tokens_per_second": 97.734,
-      "median_time_to_first_token_seconds": 54.486,
-      "median_time_to_first_answer_token": 54.486,
+      "median_output_tokens_per_second": 98.54,
+      "median_time_to_first_token_seconds": 47.472,
+      "median_time_to_first_answer_token": 47.472,
       "id": "59b5b14b-5365-4ee7-824a-18a8e6309644",
       "release_date": "2026-02-05"
     },
@@ -50083,7 +50233,7 @@
       "release_date": "2026-07-09"
     },
     "anthropic/claude-opus-4-6-adaptive": {
-      "name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",
+      "name": "Claude Opus 4.6 (Max)",
       "slug": "claude-opus-4-6-adaptive",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -50122,7 +50272,7 @@
       "release_date": "2026-02-05"
     },
     "anthropic/claude-sonnet-5-high": {
-      "name": "Claude Sonnet 5 (Adaptive Reasoning, High Effort)",
+      "name": "Claude Sonnet 5 (High)",
       "slug": "claude-sonnet-5-high",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -50154,9 +50304,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 74.136,
-      "median_time_to_first_token_seconds": 6.572,
-      "median_time_to_first_answer_token": 6.572,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "ba0224cf-0351-4f56-8508-b3f1a740ae4a",
       "release_date": "2026-06-30"
     },
@@ -50200,7 +50350,7 @@
       "release_date": "2026-04-08"
     },
     "anthropic/claude-opus-4-7-non-reasoning": {
-      "name": "Claude Opus 4.7 (Non-reasoning, High Effort)",
+      "name": "Claude Opus 4.7 (Non-reasoning, High)",
       "slug": "claude-opus-4-7-non-reasoning",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -50310,9 +50460,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 113.534,
-      "median_time_to_first_token_seconds": 23.34,
-      "median_time_to_first_answer_token": 40.956,
+      "median_output_tokens_per_second": 119.542,
+      "median_time_to_first_token_seconds": 13.675,
+      "median_time_to_first_answer_token": 30.405,
       "id": "bb3d7e75-8e22-4082-b9d6-1db0803e042f",
       "release_date": "2026-09-03"
     },
@@ -50466,9 +50616,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 94.889,
-      "median_time_to_first_token_seconds": 1.924,
-      "median_time_to_first_answer_token": 1.924,
+      "median_output_tokens_per_second": 95.106,
+      "median_time_to_first_token_seconds": 1.864,
+      "median_time_to_first_answer_token": 1.864,
       "id": "26e0f83a-ca98-4f34-94ac-7c5e251ee410",
       "release_date": "2026-07-09"
     },
@@ -50505,14 +50655,14 @@
         "price_1m_input_tokens": 3,
         "price_1m_output_tokens": 15
       },
-      "median_output_tokens_per_second": 35.685,
-      "median_time_to_first_token_seconds": 3.624,
-      "median_time_to_first_answer_token": 59.671,
+      "median_output_tokens_per_second": 35.663,
+      "median_time_to_first_token_seconds": 4.11,
+      "median_time_to_first_answer_token": 60.191,
       "id": "512d17ef-13d2-4f65-bf9b-154b0dec7e8d",
       "release_date": "2026-07-16"
     },
     "anthropic/claude-sonnet-4-6-adaptive": {
-      "name": "Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",
+      "name": "Claude Sonnet 4.6 (Max)",
       "slug": "claude-sonnet-4-6-adaptive",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -50622,9 +50772,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 129.627,
-      "median_time_to_first_token_seconds": 26.238,
-      "median_time_to_first_answer_token": 26.238,
+      "median_output_tokens_per_second": 124.808,
+      "median_time_to_first_token_seconds": 26.718,
+      "median_time_to_first_answer_token": 26.718,
       "id": "bbd93ebe-80da-4594-bb19-61e69d0331df",
       "release_date": "2026-02-19"
     },
@@ -50700,9 +50850,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 91.177,
-      "median_time_to_first_token_seconds": 0.781,
-      "median_time_to_first_answer_token": 22.717,
+      "median_output_tokens_per_second": 74.309,
+      "median_time_to_first_token_seconds": 1.198,
+      "median_time_to_first_answer_token": 28.113,
       "id": "277f939a-985b-4b37-859d-b3eabc7c0b26",
       "release_date": "2026-06-01"
     },
@@ -50817,9 +50967,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 82.254,
-      "median_time_to_first_token_seconds": 0.986,
-      "median_time_to_first_answer_token": 0.986,
+      "median_output_tokens_per_second": 91.783,
+      "median_time_to_first_token_seconds": 1.19,
+      "median_time_to_first_answer_token": 1.19,
       "id": "d3e20e76-9e1a-45b6-b809-ad6aa37430cf",
       "release_date": "2026-09-22"
     },
@@ -51012,14 +51162,14 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 90.613,
-      "median_time_to_first_token_seconds": 1.067,
-      "median_time_to_first_answer_token": 23.139,
+      "median_output_tokens_per_second": 90.999,
+      "median_time_to_first_token_seconds": 1.07,
+      "median_time_to_first_answer_token": 23.048,
       "id": "1b64aa81-c223-4b8f-909b-82185a234765",
       "release_date": "2026-08-06"
     },
     "anthropic/claude-sonnet-5-medium": {
-      "name": "Claude Sonnet 5 (Adaptive Reasoning, Medium Effort)",
+      "name": "Claude Sonnet 5 (Medium)",
       "slug": "claude-sonnet-5-medium",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -51051,9 +51201,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 77.947,
-      "median_time_to_first_token_seconds": 1.729,
-      "median_time_to_first_answer_token": 1.729,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "effcd151-7c31-4437-af3d-e88daeae9385",
       "release_date": "2026-06-30"
     },
@@ -51208,8 +51358,8 @@
         "price_1m_output_tokens": 3
       },
       "median_output_tokens_per_second": 53.544,
-      "median_time_to_first_token_seconds": 1.205,
-      "median_time_to_first_answer_token": 38.558,
+      "median_time_to_first_token_seconds": 1.173,
+      "median_time_to_first_answer_token": 38.526,
       "id": "6657d7de-a2a9-40bc-a32f-86e80ad63698",
       "release_date": "2026-08-14"
     },
@@ -51246,15 +51396,15 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 92.706,
+      "median_output_tokens_per_second": 93.096,
       "median_time_to_first_token_seconds": 1.582,
       "median_time_to_first_answer_token": 1.582,
       "id": "cc4a20cd-09fe-4962-a430-119c815e85fa",
       "release_date": "2026-07-09"
     },
-    "china-mobile/jt-4-1-flash-236b-a21b": {
+    "china-mobile/jt-4-1-flash-236b-a21b-non-reasoning": {
       "name": "JT-4.1 Flash 236B A21B (Non-reasoning)",
-      "slug": "jt-4-1-flash-236b-a21b",
+      "slug": "jt-4-1-flash-236b-a21b-non-reasoning",
       "model_creator": {
         "id": "7e7b7290-eacc-420e-a35f-7c8eb4e5205d",
         "name": "China Mobile",
@@ -51441,9 +51591,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 1.8
       },
-      "median_output_tokens_per_second": 156.329,
-      "median_time_to_first_token_seconds": 0.47,
-      "median_time_to_first_answer_token": 13.264,
+      "median_output_tokens_per_second": 152.496,
+      "median_time_to_first_token_seconds": 0.548,
+      "median_time_to_first_answer_token": 13.663,
       "id": "f9739750-6d42-450f-ba1e-2f76c869b4fe",
       "release_date": "2026-08-10"
     },
@@ -51565,7 +51715,7 @@
       "release_date": "2026-08-30"
     },
     "anthropic/claude-opus-4-6": {
-      "name": "Claude Opus 4.6 (Non-reasoning, High Effort)",
+      "name": "Claude Opus 4.6 (Non-reasoning, High)",
       "slug": "claude-opus-4-6",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -51675,9 +51825,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 53.509,
+      "median_output_tokens_per_second": 54.821,
       "median_time_to_first_token_seconds": 1.209,
-      "median_time_to_first_answer_token": 38.587,
+      "median_time_to_first_answer_token": 37.692,
       "id": "7e30585f-fad7-40df-a8cb-03c1d96df38a",
       "release_date": "2026-08-14"
     },
@@ -51753,9 +51903,9 @@
         "price_1m_input_tokens": 5,
         "price_1m_output_tokens": 30
       },
-      "median_output_tokens_per_second": 140.839,
-      "median_time_to_first_token_seconds": 0.84,
-      "median_time_to_first_answer_token": 15.041,
+      "median_output_tokens_per_second": 135.332,
+      "median_time_to_first_token_seconds": 0.938,
+      "median_time_to_first_answer_token": 15.717,
       "id": "c4169d75-9d24-4794-a9c3-69e1fe364de5",
       "release_date": "2026-06-25"
     },
@@ -51831,9 +51981,9 @@
         "price_1m_input_tokens": 0.95,
         "price_1m_output_tokens": 4
       },
-      "median_output_tokens_per_second": 78.639,
-      "median_time_to_first_token_seconds": 1.175,
-      "median_time_to_first_answer_token": 29.52,
+      "median_output_tokens_per_second": 85.4,
+      "median_time_to_first_token_seconds": 1.233,
+      "median_time_to_first_answer_token": 27.333,
       "id": "8d0cb231-7303-452c-9923-a9620b948475",
       "release_date": "2026-06-12"
     },
@@ -51870,9 +52020,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 135.057,
+      "median_output_tokens_per_second": 168.73,
       "median_time_to_first_token_seconds": 1.871,
-      "median_time_to_first_answer_token": 16.68,
+      "median_time_to_first_answer_token": 13.724,
       "id": "7261504e-503c-4a66-a9d3-a3272cdf9ad6",
       "release_date": "2026-07-30"
     },
@@ -51987,9 +52137,9 @@
         "price_1m_input_tokens": 0.136,
         "price_1m_output_tokens": 0.555
       },
-      "median_output_tokens_per_second": 87.035,
-      "median_time_to_first_token_seconds": 2.125,
-      "median_time_to_first_answer_token": 25.105,
+      "median_output_tokens_per_second": 88.664,
+      "median_time_to_first_token_seconds": 2.077,
+      "median_time_to_first_answer_token": 24.634,
       "id": "b23e6c69-96e5-44c9-8f58-4b42e0c399d5",
       "release_date": "2026-07-06"
     },
@@ -52065,9 +52215,9 @@
         "price_1m_input_tokens": 0.14,
         "price_1m_output_tokens": 0.28
       },
-      "median_output_tokens_per_second": 49.473,
-      "median_time_to_first_token_seconds": 2.154,
-      "median_time_to_first_answer_token": 42.58,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "22d09131-343b-4adf-8760-533e20a2155f",
       "release_date": "2026-04-22"
     },
@@ -52104,9 +52254,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 1.6
       },
-      "median_output_tokens_per_second": 55.572,
-      "median_time_to_first_token_seconds": 1.67,
-      "median_time_to_first_answer_token": 37.66,
+      "median_output_tokens_per_second": 55.737,
+      "median_time_to_first_token_seconds": 1.694,
+      "median_time_to_first_answer_token": 37.577,
       "id": "a87fce42-eea3-4e45-a96d-fe057814f371",
       "release_date": "2026-06-01"
     },
@@ -52221,9 +52371,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 4.05
       },
-      "median_output_tokens_per_second": 176.51,
-      "median_time_to_first_token_seconds": 2.381,
-      "median_time_to_first_answer_token": 13.711,
+      "median_output_tokens_per_second": 167.429,
+      "median_time_to_first_token_seconds": 2.314,
+      "median_time_to_first_answer_token": 14.26,
       "id": "0de09623-2b1a-4c8d-86ef-7f5245d4e24b",
       "release_date": "2026-07-15"
     },
@@ -52423,7 +52573,7 @@
       "release_date": "2025-11-13"
     },
     "anthropic/claude-sonnet-4-6": {
-      "name": "Claude Sonnet 4.6 (Non-reasoning, High Effort)",
+      "name": "Claude Sonnet 4.6 (Non-reasoning, High)",
       "slug": "claude-sonnet-4-6",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -52494,9 +52644,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 247.779,
-      "median_time_to_first_token_seconds": 0.756,
-      "median_time_to_first_answer_token": 0.756,
+      "median_output_tokens_per_second": 234.567,
+      "median_time_to_first_token_seconds": 0.778,
+      "median_time_to_first_answer_token": 0.778,
       "id": "73c96f99-0de3-4668-a4bd-b106a0fe18f2",
       "release_date": "2026-09-10"
     },
@@ -52618,7 +52768,7 @@
       "release_date": "2026-04-30"
     },
     "anthropic/claude-sonnet-5-low": {
-      "name": "Claude Sonnet 5 (Adaptive Reasoning, Low Effort)",
+      "name": "Claude Sonnet 5 (Low)",
       "slug": "claude-sonnet-5-low",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -52650,9 +52800,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 68.313,
-      "median_time_to_first_token_seconds": 1.688,
-      "median_time_to_first_answer_token": 1.688,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "142b93bf-09c4-42dc-9c3a-50b1a222cbd4",
       "release_date": "2026-06-30"
     },
@@ -52806,9 +52956,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 200.68,
-      "median_time_to_first_token_seconds": 1.125,
-      "median_time_to_first_answer_token": 11.091,
+      "median_output_tokens_per_second": 190.312,
+      "median_time_to_first_token_seconds": 1.065,
+      "median_time_to_first_answer_token": 11.574,
       "id": "62ea3198-9866-4d9f-8406-a79ee78c7164",
       "release_date": "2026-09-22"
     },
@@ -53086,7 +53236,7 @@
       "release_date": "2026-01-27"
     },
     "anthropic/claude-sonnet-4-6-non-reasoning-low-effort": {
-      "name": "Claude Sonnet 4.6 (Non-reasoning, Low Effort)",
+      "name": "Claude Sonnet 4.6 (Non-reasoning, Low)",
       "slug": "claude-sonnet-4-6-non-reasoning-low-effort",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -53125,7 +53275,7 @@
       "release_date": "2026-02-17"
     },
     "anthropic/claude-sonnet-5-non-reasoning": {
-      "name": "Claude Sonnet 5 (Non-reasoning, High Effort)",
+      "name": "Claude Sonnet 5 (Non-reasoning, High)",
       "slug": "claude-sonnet-5-non-reasoning",
       "model_creator": {
         "id": "f0aa413f-e8ae-4fcd-9c48-0e049f4f3128",
@@ -53157,9 +53307,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 72.555,
-      "median_time_to_first_token_seconds": 1.469,
-      "median_time_to_first_answer_token": 1.469,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "d58b9ada-fd9d-4fff-a086-242034657963",
       "release_date": "2026-06-30"
     },
@@ -53274,9 +53424,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 172.677,
-      "median_time_to_first_token_seconds": 0.847,
-      "median_time_to_first_answer_token": 14.021,
+      "median_output_tokens_per_second": 162.892,
+      "median_time_to_first_token_seconds": 0.903,
+      "median_time_to_first_answer_token": 14.869,
       "id": "5b52def2-ac9b-4465-ad80-91ea8079e253",
       "release_date": "2026-06-04"
     },
@@ -53538,7 +53688,7 @@
         "lcr": 0.7,
         "terminalbench_hard": null,
         "terminalbench_v2_1": 0.389513108614232,
-        "terminalbench_v4_0": null,
+        "terminalbench_v4_0": 0,
         "tau2": null,
         "tau_banking": 0.160824742268041
       },
@@ -53625,9 +53775,9 @@
         "price_1m_input_tokens": 0.075,
         "price_1m_output_tokens": 0.22
       },
-      "median_output_tokens_per_second": 331.676,
-      "median_time_to_first_token_seconds": 1.194,
-      "median_time_to_first_answer_token": 7.224,
+      "median_output_tokens_per_second": 361.649,
+      "median_time_to_first_token_seconds": 1.186,
+      "median_time_to_first_answer_token": 6.716,
       "id": "6d6fa1c9-b833-40b2-8a58-fa810e24a84e",
       "release_date": "2026-09-11"
     },
@@ -53859,9 +54009,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 343.46,
-      "median_time_to_first_token_seconds": 6.972,
-      "median_time_to_first_answer_token": 6.972,
+      "median_output_tokens_per_second": 334.865,
+      "median_time_to_first_token_seconds": 7.174,
+      "median_time_to_first_answer_token": 7.174,
       "id": "093b9df2-ebee-4309-943f-5a7e88360adf",
       "release_date": "2026-07-21"
     },
@@ -54093,7 +54243,7 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 128.731,
+      "median_output_tokens_per_second": 124.805,
       "median_time_to_first_token_seconds": 2.093,
       "median_time_to_first_answer_token": 2.093,
       "id": "bf9708d8-933d-44f6-affa-b696a7a650c9",
@@ -54171,9 +54321,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 85.789,
-      "median_time_to_first_token_seconds": 1.629,
-      "median_time_to_first_answer_token": 1.629,
+      "median_output_tokens_per_second": 86.212,
+      "median_time_to_first_token_seconds": 1.622,
+      "median_time_to_first_answer_token": 1.622,
       "id": "30ef2a79-e800-4165-9f13-2a338f120db7",
       "release_date": "2026-02-16"
     },
@@ -54483,9 +54633,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 12
       },
-      "median_output_tokens_per_second": 88.446,
-      "median_time_to_first_token_seconds": 0.764,
-      "median_time_to_first_answer_token": 0.764,
+      "median_output_tokens_per_second": 99.368,
+      "median_time_to_first_token_seconds": 0.762,
+      "median_time_to_first_answer_token": 0.762,
       "id": "9b97a35e-6ac7-44d9-91c6-422fa678963e",
       "release_date": "2026-07-09"
     },
@@ -54717,9 +54867,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 4.8
       },
-      "median_output_tokens_per_second": 99.108,
-      "median_time_to_first_token_seconds": 1.143,
-      "median_time_to_first_answer_token": 1.143,
+      "median_output_tokens_per_second": 124.412,
+      "median_time_to_first_token_seconds": 1.11,
+      "median_time_to_first_answer_token": 1.11,
       "id": "0179b427-93dc-415c-bb4c-f980ddf8d088",
       "release_date": "2026-03-30"
     },
@@ -54830,13 +54980,13 @@
         "tau_banking": null
       },
       "pricing": {
-        "price_1m_blended_3_to_1": 1.98,
-        "price_1m_input_tokens": 1.32,
-        "price_1m_output_tokens": 3.96
+        "price_1m_blended_3_to_1": 1.427,
+        "price_1m_input_tokens": 0.91,
+        "price_1m_output_tokens": 2.98
       },
-      "median_output_tokens_per_second": 154.714,
-      "median_time_to_first_token_seconds": 1.045,
-      "median_time_to_first_answer_token": 1.045,
+      "median_output_tokens_per_second": 118.779,
+      "median_time_to_first_token_seconds": 1.048,
+      "median_time_to_first_answer_token": 1.048,
       "id": "d4f5b250-be37-4801-85e6-32fda4179337",
       "release_date": "2026-08-13"
     },
@@ -54873,9 +55023,9 @@
         "price_1m_input_tokens": 2,
         "price_1m_output_tokens": 8
       },
-      "median_output_tokens_per_second": 111.73,
-      "median_time_to_first_token_seconds": 8.557,
-      "median_time_to_first_answer_token": 8.557,
+      "median_output_tokens_per_second": 113.629,
+      "median_time_to_first_token_seconds": 7.653,
+      "median_time_to_first_answer_token": 7.653,
       "id": "16c5b637-8bce-4252-81f2-1b87a36a4e4c",
       "release_date": "2025-04-16"
     },
@@ -54912,9 +55062,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 53.967,
-      "median_time_to_first_token_seconds": 1.2,
-      "median_time_to_first_answer_token": 1.2,
+      "median_output_tokens_per_second": 54.608,
+      "median_time_to_first_token_seconds": 1.199,
+      "median_time_to_first_answer_token": 1.199,
       "id": "353c92f3-2148-4c2d-9231-aa7e1322a1fd",
       "release_date": "2026-08-14"
     },
@@ -54951,9 +55101,9 @@
         "price_1m_input_tokens": 0.075,
         "price_1m_output_tokens": 0.22
       },
-      "median_output_tokens_per_second": 322.584,
-      "median_time_to_first_token_seconds": 1.772,
-      "median_time_to_first_answer_token": 7.972,
+      "median_output_tokens_per_second": 360.189,
+      "median_time_to_first_token_seconds": 1.804,
+      "median_time_to_first_answer_token": 7.357,
       "id": "e33dc369-ae81-40e0-8c4e-28b002d02197",
       "release_date": "2026-08-04"
     },
@@ -55146,9 +55296,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 1.15
       },
-      "median_output_tokens_per_second": 209.289,
-      "median_time_to_first_token_seconds": 1.358,
-      "median_time_to_first_answer_token": 10.914,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "6c7b322e-2f35-48ff-9171-fb621a726fc0",
       "release_date": "2026-05-29"
     },
@@ -55654,8 +55804,8 @@
         "price_1m_output_tokens": 0.5
       },
       "median_output_tokens_per_second": 133.599,
-      "median_time_to_first_token_seconds": 0.862,
-      "median_time_to_first_answer_token": 0.862,
+      "median_time_to_first_token_seconds": 0.823,
+      "median_time_to_first_answer_token": 0.823,
       "id": "63cb48ea-0b0c-4e07-8ded-6d28dec4fa28",
       "release_date": "2026-09-22"
     },
@@ -55692,9 +55842,9 @@
         "price_1m_input_tokens": 0.6,
         "price_1m_output_tokens": 3.6
       },
-      "median_output_tokens_per_second": 87.717,
-      "median_time_to_first_token_seconds": 1.72,
-      "median_time_to_first_answer_token": 38.041,
+      "median_output_tokens_per_second": 88.332,
+      "median_time_to_first_token_seconds": 1.71,
+      "median_time_to_first_answer_token": 37.779,
       "id": "0e66bae9-41f1-42fc-9276-ce8cb6f72919",
       "release_date": "2026-02-16"
     },
@@ -55731,9 +55881,9 @@
         "price_1m_input_tokens": 0.435,
         "price_1m_output_tokens": 0.87
       },
-      "median_output_tokens_per_second": 23.717,
-      "median_time_to_first_token_seconds": 1.205,
-      "median_time_to_first_answer_token": 1.205,
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
       "id": "4764d31d-f4af-4297-8bd1-e993f26bcb64",
       "release_date": "2026-04-22"
     },
@@ -55770,9 +55920,9 @@
         "price_1m_input_tokens": 0.375,
         "price_1m_output_tokens": 2.25
       },
-      "median_output_tokens_per_second": 144.886,
-      "median_time_to_first_token_seconds": 1.129,
-      "median_time_to_first_answer_token": 38.366,
+      "median_output_tokens_per_second": 140.458,
+      "median_time_to_first_token_seconds": 1.106,
+      "median_time_to_first_answer_token": 39.517,
       "id": "8665ca00-c687-44c7-875c-22618cb31c4f",
       "release_date": "2026-04-16"
     },
@@ -55926,9 +56076,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 3.2
       },
-      "median_output_tokens_per_second": 143.338,
-      "median_time_to_first_token_seconds": 1.087,
-      "median_time_to_first_answer_token": 1.087,
+      "median_output_tokens_per_second": 143.658,
+      "median_time_to_first_token_seconds": 1.015,
+      "median_time_to_first_answer_token": 1.015,
       "id": "021b1b31-d2fc-4653-ab74-c10bd2f41c8e",
       "release_date": "2026-02-24"
     },
@@ -56004,9 +56154,9 @@
         "price_1m_input_tokens": 0.325,
         "price_1m_output_tokens": 1.35
       },
-      "median_output_tokens_per_second": 149.832,
-      "median_time_to_first_token_seconds": 0.594,
-      "median_time_to_first_answer_token": 13.943,
+      "median_output_tokens_per_second": 144.908,
+      "median_time_to_first_token_seconds": 0.521,
+      "median_time_to_first_answer_token": 14.323,
       "id": "583f98fb-c4b8-4df3-8d40-60ac0ed69882",
       "release_date": "2026-08-10"
     },
@@ -56277,9 +56427,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 5
       },
-      "median_output_tokens_per_second": 126.021,
-      "median_time_to_first_token_seconds": 13.494,
-      "median_time_to_first_answer_token": 13.494,
+      "median_output_tokens_per_second": 115.257,
+      "median_time_to_first_token_seconds": 14.969,
+      "median_time_to_first_answer_token": 14.969,
       "id": "a6340098-d7ae-462d-b372-0a0a67fc44b4",
       "release_date": "2025-10-15"
     },
@@ -56433,9 +56583,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 122.27,
-      "median_time_to_first_token_seconds": 1.875,
-      "median_time_to_first_answer_token": 18.233,
+      "median_output_tokens_per_second": 128.715,
+      "median_time_to_first_token_seconds": 2.021,
+      "median_time_to_first_answer_token": 17.559,
       "id": "eb4ba465-3fcd-4065-9fe2-e8225e7b2c6c",
       "release_date": "2026-05-08"
     },
@@ -56862,9 +57012,9 @@
         "price_1m_input_tokens": 0.4,
         "price_1m_output_tokens": 3.2
       },
-      "median_output_tokens_per_second": 131.336,
-      "median_time_to_first_token_seconds": 1.021,
-      "median_time_to_first_answer_token": 16.25,
+      "median_output_tokens_per_second": 131.778,
+      "median_time_to_first_token_seconds": 1.007,
+      "median_time_to_first_answer_token": 16.184,
       "id": "2236df45-0699-40d1-b5cc-69ee345d2257",
       "release_date": "2026-02-24"
     },
@@ -57018,9 +57168,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 5
       },
-      "median_output_tokens_per_second": 107.348,
-      "median_time_to_first_token_seconds": 0.456,
-      "median_time_to_first_answer_token": 0.456,
+      "median_output_tokens_per_second": 107.529,
+      "median_time_to_first_token_seconds": 0.44,
+      "median_time_to_first_answer_token": 0.44,
       "id": "c2b1e769-7aee-4669-8076-73918bdebf6c",
       "release_date": "2025-10-15"
     },
@@ -57135,9 +57285,9 @@
         "price_1m_input_tokens": 0.375,
         "price_1m_output_tokens": 2.25
       },
-      "median_output_tokens_per_second": 151.553,
-      "median_time_to_first_token_seconds": 1.1,
-      "median_time_to_first_answer_token": 1.1,
+      "median_output_tokens_per_second": 156.782,
+      "median_time_to_first_token_seconds": 1.103,
+      "median_time_to_first_answer_token": 1.103,
       "id": "66938aab-78fa-49d7-8461-b48b6833e837",
       "release_date": "2026-04-16"
     },
@@ -57369,9 +57519,9 @@
         "price_1m_input_tokens": 0.16,
         "price_1m_output_tokens": 0.65
       },
-      "median_output_tokens_per_second": 77.89,
-      "median_time_to_first_token_seconds": 0.291,
-      "median_time_to_first_answer_token": 25.968,
+      "median_output_tokens_per_second": 77.943,
+      "median_time_to_first_token_seconds": 0.275,
+      "median_time_to_first_answer_token": 25.935,
       "id": "1071dea1-43e7-4fe9-b936-3034bb622b2e",
       "release_date": "2026-08-25"
     },
@@ -57447,9 +57597,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 34.905,
-      "median_time_to_first_token_seconds": 0.974,
-      "median_time_to_first_answer_token": 50.71,
+      "median_output_tokens_per_second": 35.359,
+      "median_time_to_first_token_seconds": 0.986,
+      "median_time_to_first_answer_token": 50.083,
       "id": "cd26a386-4873-46ff-b853-d239050025a2",
       "release_date": "2026-04-02"
     },
@@ -57759,9 +57909,9 @@
         "price_1m_input_tokens": 1.5,
         "price_1m_output_tokens": 7.5
       },
-      "median_output_tokens_per_second": 168.676,
-      "median_time_to_first_token_seconds": 0.578,
-      "median_time_to_first_answer_token": 12.435,
+      "median_output_tokens_per_second": 169.484,
+      "median_time_to_first_token_seconds": 0.583,
+      "median_time_to_first_answer_token": 12.384,
       "id": "dd059b25-d82a-4ead-82a4-4adceaaec48b",
       "release_date": "2026-04-29"
     },
@@ -57798,9 +57948,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.3
       },
-      "median_output_tokens_per_second": 149.398,
-      "median_time_to_first_token_seconds": 1.376,
-      "median_time_to_first_answer_token": 14.763,
+      "median_output_tokens_per_second": 144.183,
+      "median_time_to_first_token_seconds": 1.405,
+      "median_time_to_first_answer_token": 15.277,
       "id": "feb02d3b-ff8d-4ed4-b165-13f8d4a7192c",
       "release_date": "2026-06-03"
     },
@@ -57837,9 +57987,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 129.817,
-      "median_time_to_first_token_seconds": 19.301,
-      "median_time_to_first_answer_token": 34.708,
+      "median_output_tokens_per_second": 123.957,
+      "median_time_to_first_token_seconds": 17.145,
+      "median_time_to_first_answer_token": 33.279,
       "id": "0d94dc87-12c8-4d4a-8d99-804ce3f17bc2",
       "release_date": "2025-11-27"
     },
@@ -57993,7 +58143,7 @@
         "price_1m_input_tokens": 0.14,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 35.8,
+      "median_output_tokens_per_second": 39.237,
       "median_time_to_first_token_seconds": 0.917,
       "median_time_to_first_answer_token": 0.917,
       "id": "d0aa27aa-4705-4184-9a1d-483b78c9331c",
@@ -58344,9 +58494,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 216.074,
-      "median_time_to_first_token_seconds": 10.349,
-      "median_time_to_first_answer_token": 19.605,
+      "median_output_tokens_per_second": 214.522,
+      "median_time_to_first_token_seconds": 10.789,
+      "median_time_to_first_answer_token": 20.112,
       "id": "61bd9367-e520-4ec8-989e-5fbf50e61610",
       "release_date": "2025-10-29"
     },
@@ -58422,9 +58572,9 @@
         "price_1m_input_tokens": 0.17,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 81.389,
-      "median_time_to_first_token_seconds": 0.389,
-      "median_time_to_first_answer_token": 0.389,
+      "median_output_tokens_per_second": 85.082,
+      "median_time_to_first_token_seconds": 0.391,
+      "median_time_to_first_answer_token": 0.391,
       "id": "20da3b31-fc0a-4359-abec-d59367bf1d9f",
       "release_date": "2026-03-02"
     },
@@ -58500,9 +58650,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 220.424,
-      "median_time_to_first_token_seconds": 0.211,
-      "median_time_to_first_answer_token": 9.284,
+      "median_output_tokens_per_second": 198.165,
+      "median_time_to_first_token_seconds": 0.223,
+      "median_time_to_first_answer_token": 10.316,
       "id": "2e9ff877-fd2c-4ce7-b631-7ca1bdb6d13e",
       "release_date": "2026-05-20"
     },
@@ -58539,9 +58689,9 @@
         "price_1m_input_tokens": 0.13,
         "price_1m_output_tokens": 0.4
       },
-      "median_output_tokens_per_second": 119.816,
-      "median_time_to_first_token_seconds": 0.686,
-      "median_time_to_first_answer_token": 0.686,
+      "median_output_tokens_per_second": 111.657,
+      "median_time_to_first_token_seconds": 0.672,
+      "median_time_to_first_answer_token": 0.672,
       "id": "70882ec6-914c-41f0-9754-5e8f75005f77",
       "release_date": "2026-04-02"
     },
@@ -58578,9 +58728,9 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 14.652,
+      "median_output_tokens_per_second": 16.011,
       "median_time_to_first_token_seconds": 0.578,
-      "median_time_to_first_answer_token": 137.08,
+      "median_time_to_first_answer_token": 125.494,
       "id": "651ef7ae-9a8f-477e-9c8e-460aa156ba02",
       "release_date": "2026-03-02"
     },
@@ -58734,9 +58884,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 292.171,
-      "median_time_to_first_token_seconds": 0.409,
-      "median_time_to_first_answer_token": 7.254,
+      "median_output_tokens_per_second": 284.385,
+      "median_time_to_first_token_seconds": 0.4,
+      "median_time_to_first_answer_token": 7.433,
       "id": "29976311-665a-4b2f-ac72-557c33e0758e",
       "release_date": "2026-08-11"
     },
@@ -58773,9 +58923,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 0.9
       },
-      "median_output_tokens_per_second": 159.689,
-      "median_time_to_first_token_seconds": 0.858,
-      "median_time_to_first_answer_token": 13.382,
+      "median_output_tokens_per_second": 154.483,
+      "median_time_to_first_token_seconds": 0.85,
+      "median_time_to_first_answer_token": 13.797,
       "id": "63872e9c-3377-4a6b-b477-7bba244c38e9",
       "release_date": "2026-03-11"
     },
@@ -58812,9 +58962,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 137.72,
-      "median_time_to_first_token_seconds": 4.518,
-      "median_time_to_first_answer_token": 19.04,
+      "median_output_tokens_per_second": 141.442,
+      "median_time_to_first_token_seconds": 3.62,
+      "median_time_to_first_answer_token": 17.76,
       "id": "f4274721-ef28-4121-aa88-8e97267a5a82",
       "release_date": "2025-11-27"
     },
@@ -59046,9 +59196,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 194.163,
-      "median_time_to_first_token_seconds": 12.332,
-      "median_time_to_first_answer_token": 22.633,
+      "median_output_tokens_per_second": 226.558,
+      "median_time_to_first_token_seconds": 13.355,
+      "median_time_to_first_answer_token": 22.183,
       "id": "fbdf8da1-b341-448c-b3cb-8aff1d8f70b9",
       "release_date": "2025-10-29"
     },
@@ -59124,9 +59274,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 232.838,
-      "median_time_to_first_token_seconds": 0.934,
-      "median_time_to_first_answer_token": 0.934,
+      "median_output_tokens_per_second": 231.914,
+      "median_time_to_first_token_seconds": 0.959,
+      "median_time_to_first_answer_token": 0.959,
       "id": "6f3534b1-1168-472e-b3e3-23ab521504f5",
       "release_date": "2026-03-30"
     },
@@ -59319,9 +59469,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.75
       },
-      "median_output_tokens_per_second": 825.509,
-      "median_time_to_first_token_seconds": 2.863,
-      "median_time_to_first_answer_token": 2.863,
+      "median_output_tokens_per_second": 841.966,
+      "median_time_to_first_token_seconds": 2.807,
+      "median_time_to_first_answer_token": 2.807,
       "id": "765c9f31-95ec-4f14-900a-80614c3b0777",
       "release_date": "2026-09-08"
     },
@@ -59670,9 +59820,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 205.977,
-      "median_time_to_first_token_seconds": 5.056,
-      "median_time_to_first_answer_token": 14.766,
+      "median_output_tokens_per_second": 202.158,
+      "median_time_to_first_token_seconds": 4.103,
+      "median_time_to_first_answer_token": 13.996,
       "id": "6fd796d3-f346-4f66-97df-5da81714fc73",
       "release_date": "2025-10-29"
     },
@@ -59904,9 +60054,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.595
       },
-      "median_output_tokens_per_second": 154.951,
-      "median_time_to_first_token_seconds": 0.53,
-      "median_time_to_first_answer_token": 13.438,
+      "median_output_tokens_per_second": 161.877,
+      "median_time_to_first_token_seconds": 0.517,
+      "median_time_to_first_answer_token": 12.872,
       "id": "f0083258-8646-45b8-8082-7aaf6c2ea82a",
       "release_date": "2025-08-05"
     },
@@ -60216,9 +60366,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 173.192,
-      "median_time_to_first_token_seconds": 0.668,
-      "median_time_to_first_answer_token": 12.216,
+      "median_output_tokens_per_second": 173.831,
+      "median_time_to_first_token_seconds": 0.632,
+      "median_time_to_first_answer_token": 12.137,
       "id": "3fd96175-4ef1-434c-8795-f873aec2abc1",
       "release_date": "2026-03-16"
     },
@@ -60333,9 +60483,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 169.803,
-      "median_time_to_first_token_seconds": 1.146,
-      "median_time_to_first_answer_token": 12.924,
+      "median_output_tokens_per_second": 171.714,
+      "median_time_to_first_token_seconds": 1.187,
+      "median_time_to_first_answer_token": 12.834,
       "id": "c8a79180-7d16-4474-8701-9a77c0baa56a",
       "release_date": "2025-09-11"
     },
@@ -60372,9 +60522,9 @@
         "price_1m_input_tokens": 0.135,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 34.917,
-      "median_time_to_first_token_seconds": 1.048,
-      "median_time_to_first_answer_token": 58.326,
+      "median_output_tokens_per_second": 53.125,
+      "median_time_to_first_token_seconds": 1.044,
+      "median_time_to_first_answer_token": 38.691,
       "id": "2d28a13a-096e-475a-beb8-26bbd1c7d51c",
       "release_date": "2026-03-02"
     },
@@ -60528,9 +60678,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 59.346,
-      "median_time_to_first_token_seconds": 0.337,
-      "median_time_to_first_answer_token": 34.038,
+      "median_output_tokens_per_second": 54.947,
+      "median_time_to_first_token_seconds": 0.434,
+      "median_time_to_first_answer_token": 36.833,
       "id": "adfae555-f489-4f3e-9064-c6b7fcdd0783",
       "release_date": "2026-08-25"
     },
@@ -60606,9 +60756,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 58.514,
+      "median_output_tokens_per_second": 55.911,
       "median_time_to_first_token_seconds": 1.636,
-      "median_time_to_first_answer_token": 35.816,
+      "median_time_to_first_answer_token": 37.407,
       "id": "7eaf926c-5f39-4e58-ae50-c38b5fc630fc",
       "release_date": "2026-08-06"
     },
@@ -60801,9 +60951,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 361.067,
-      "median_time_to_first_token_seconds": 1.028,
-      "median_time_to_first_answer_token": 6.567,
+      "median_output_tokens_per_second": 371.23,
+      "median_time_to_first_token_seconds": 1.014,
+      "median_time_to_first_answer_token": 6.401,
       "id": "b6d2e43d-3082-43f5-9318-0f4dbcb54163",
       "release_date": "2026-04-01"
     },
@@ -60840,9 +60990,9 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 14.397,
-      "median_time_to_first_token_seconds": 0.757,
-      "median_time_to_first_answer_token": 0.757,
+      "median_output_tokens_per_second": 14.286,
+      "median_time_to_first_token_seconds": 0.799,
+      "median_time_to_first_answer_token": 0.799,
       "id": "30c9ba61-d0a1-4794-938e-35865f379d15",
       "release_date": "2026-03-02"
     },
@@ -61113,9 +61263,9 @@
         "price_1m_input_tokens": 0.195,
         "price_1m_output_tokens": 1.095
       },
-      "median_output_tokens_per_second": 261.649,
-      "median_time_to_first_token_seconds": 0.242,
-      "median_time_to_first_answer_token": 7.886,
+      "median_output_tokens_per_second": 262.664,
+      "median_time_to_first_token_seconds": 0.247,
+      "median_time_to_first_answer_token": 7.862,
       "id": "8c748e53-61ae-48b8-af8d-eb8298b1e9db",
       "release_date": "2026-04-29"
     },
@@ -61152,9 +61302,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.545
       },
-      "median_output_tokens_per_second": 157.912,
-      "median_time_to_first_token_seconds": 0.537,
-      "median_time_to_first_answer_token": 13.202,
+      "median_output_tokens_per_second": 155.929,
+      "median_time_to_first_token_seconds": 0.511,
+      "median_time_to_first_answer_token": 13.337,
       "id": "c99f3bde-7c08-4de8-bd5c-8ee9123ebffa",
       "release_date": "2025-08-05"
     },
@@ -61230,9 +61380,9 @@
         "price_1m_input_tokens": 0.26,
         "price_1m_output_tokens": 0.91
       },
-      "median_output_tokens_per_second": 83.632,
-      "median_time_to_first_token_seconds": 0.594,
-      "median_time_to_first_answer_token": 0.594,
+      "median_output_tokens_per_second": 77.341,
+      "median_time_to_first_token_seconds": 0.604,
+      "median_time_to_first_answer_token": 0.604,
       "id": "922c69c7-9037-43c6-8bcf-a1c555e7f3eb",
       "release_date": "2025-04-05"
     },
@@ -61308,9 +61458,9 @@
         "price_1m_input_tokens": 1.25,
         "price_1m_output_tokens": 10
       },
-      "median_output_tokens_per_second": 120.708,
-      "median_time_to_first_token_seconds": 0.704,
-      "median_time_to_first_answer_token": 0.704,
+      "median_output_tokens_per_second": 126.736,
+      "median_time_to_first_token_seconds": 0.731,
+      "median_time_to_first_answer_token": 0.731,
       "id": "a20ae33a-46e1-41e6-81a0-fe8b00d2e538",
       "release_date": "2025-11-27"
     },
@@ -61347,9 +61497,9 @@
         "price_1m_input_tokens": 0.07,
         "price_1m_output_tokens": 0.215
       },
-      "median_output_tokens_per_second": 217.167,
-      "median_time_to_first_token_seconds": 0.485,
-      "median_time_to_first_answer_token": 9.694,
+      "median_output_tokens_per_second": 215.106,
+      "median_time_to_first_token_seconds": 0.542,
+      "median_time_to_first_answer_token": 9.839,
       "id": "16149b9c-a1e9-4669-a5cb-ff3c00d78f89",
       "release_date": "2025-08-05"
     },
@@ -61425,9 +61575,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 76.298,
+      "median_output_tokens_per_second": 83.749,
       "median_time_to_first_token_seconds": 0.269,
-      "median_time_to_first_answer_token": 26.482,
+      "median_time_to_first_answer_token": 24.15,
       "id": "1e9907e0-ffac-4595-b006-962e4f1da7cf",
       "release_date": "2026-06-09"
     },
@@ -61737,9 +61887,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 164.157,
-      "median_time_to_first_token_seconds": 1.032,
-      "median_time_to_first_answer_token": 1.032,
+      "median_output_tokens_per_second": 173.617,
+      "median_time_to_first_token_seconds": 1.022,
+      "median_time_to_first_answer_token": 1.022,
       "id": "2698f6c6-e436-47ce-a583-dbc25596c571",
       "release_date": "2025-09-11"
     },
@@ -62088,9 +62238,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.3
       },
-      "median_output_tokens_per_second": 153.275,
-      "median_time_to_first_token_seconds": 1.39,
-      "median_time_to_first_answer_token": 1.39,
+      "median_output_tokens_per_second": 148.067,
+      "median_time_to_first_token_seconds": 1.396,
+      "median_time_to_first_answer_token": 1.396,
       "id": "025ec6b6-df4a-449f-9a03-24e4388d6863",
       "release_date": "2026-06-03"
     },
@@ -62166,9 +62316,9 @@
         "price_1m_input_tokens": 0.5,
         "price_1m_output_tokens": 1.5
       },
-      "median_output_tokens_per_second": 77.233,
-      "median_time_to_first_token_seconds": 0.705,
-      "median_time_to_first_answer_token": 0.705,
+      "median_output_tokens_per_second": 80.64,
+      "median_time_to_first_token_seconds": 0.753,
+      "median_time_to_first_answer_token": 0.753,
       "id": "4928e950-7f37-4475-b0dc-c5bad781a321",
       "release_date": "2025-12-02"
     },
@@ -62205,9 +62355,9 @@
         "price_1m_input_tokens": 0.35,
         "price_1m_output_tokens": 1.2
       },
-      "median_output_tokens_per_second": 87.345,
-      "median_time_to_first_token_seconds": 0.859,
-      "median_time_to_first_answer_token": 0.859,
+      "median_output_tokens_per_second": 92.468,
+      "median_time_to_first_token_seconds": 0.901,
+      "median_time_to_first_answer_token": 0.901,
       "id": "fc92f822-04b7-420d-9c07-a21af5e9aac7",
       "release_date": "2026-02-03"
     },
@@ -62439,9 +62589,9 @@
         "price_1m_input_tokens": 0.03,
         "price_1m_output_tokens": 0.12
       },
-      "median_output_tokens_per_second": 231.496,
-      "median_time_to_first_token_seconds": 0.233,
-      "median_time_to_first_answer_token": 8.873,
+      "median_output_tokens_per_second": 230.791,
+      "median_time_to_first_token_seconds": 0.24,
+      "median_time_to_first_answer_token": 8.906,
       "id": "0c64b008-20c3-408d-bd68-15136df8cd2c",
       "release_date": "2026-08-25"
     },
@@ -62673,9 +62823,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 154.338,
-      "median_time_to_first_token_seconds": 0.526,
-      "median_time_to_first_answer_token": 0.526,
+      "median_output_tokens_per_second": 164.23,
+      "median_time_to_first_token_seconds": 0.523,
+      "median_time_to_first_answer_token": 0.523,
       "id": "12f6a061-0ab3-4c76-b225-49abee253651",
       "release_date": "2026-03-16"
     },
@@ -62751,9 +62901,9 @@
         "price_1m_input_tokens": 0.07,
         "price_1m_output_tokens": 0.18
       },
-      "median_output_tokens_per_second": 195.352,
-      "median_time_to_first_token_seconds": 0.415,
-      "median_time_to_first_answer_token": 10.652,
+      "median_output_tokens_per_second": 196.13,
+      "median_time_to_first_token_seconds": 0.424,
+      "median_time_to_first_answer_token": 10.621,
       "id": "36f73aaf-d38a-4b56-a2b3-d04d17186910",
       "release_date": "2025-08-05"
     },
@@ -62946,9 +63096,9 @@
         "price_1m_input_tokens": 0.02,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 82.811,
-      "median_time_to_first_token_seconds": 0.351,
-      "median_time_to_first_answer_token": 24.502,
+      "median_output_tokens_per_second": 78.167,
+      "median_time_to_first_token_seconds": 0.393,
+      "median_time_to_first_answer_token": 25.979,
       "id": "d80eb0f1-f62e-4d31-99d2-7a925eb126b0",
       "release_date": "2026-04-03"
     },
@@ -62985,9 +63135,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 151.276,
-      "median_time_to_first_token_seconds": 0.605,
-      "median_time_to_first_answer_token": 13.826,
+      "median_output_tokens_per_second": 199.364,
+      "median_time_to_first_token_seconds": 0.577,
+      "median_time_to_first_answer_token": 10.609,
       "id": "76dcf6ef-39ea-4be0-b693-b88da25b4caf",
       "release_date": "2025-12-15"
     },
@@ -63180,9 +63330,9 @@
         "price_1m_input_tokens": 0.3,
         "price_1m_output_tokens": 2.5
       },
-      "median_output_tokens_per_second": 217.023,
-      "median_time_to_first_token_seconds": 0.884,
-      "median_time_to_first_answer_token": 0.884,
+      "median_output_tokens_per_second": 221.778,
+      "median_time_to_first_token_seconds": 0.886,
+      "median_time_to_first_answer_token": 0.886,
       "id": "76bce7fb-3a3f-4b66-a78d-35ccf3edf5d2",
       "release_date": "2025-10-29"
     },
@@ -64194,9 +64344,9 @@
         "price_1m_input_tokens": 0.19,
         "price_1m_output_tokens": 0.68
       },
-      "median_output_tokens_per_second": 108.637,
-      "median_time_to_first_token_seconds": 0.655,
-      "median_time_to_first_answer_token": 0.655,
+      "median_output_tokens_per_second": 84.635,
+      "median_time_to_first_token_seconds": 0.682,
+      "median_time_to_first_answer_token": 0.682,
       "id": "adf9a85e-abc3-4f28-937b-db6655cc5238",
       "release_date": "2025-04-05"
     },
@@ -64740,9 +64890,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.97
       },
-      "median_output_tokens_per_second": 109.737,
-      "median_time_to_first_token_seconds": 0.922,
-      "median_time_to_first_answer_token": 19.147,
+      "median_output_tokens_per_second": 109.967,
+      "median_time_to_first_token_seconds": 0.936,
+      "median_time_to_first_answer_token": 19.123,
       "id": "b97ef678-2d31-4375-9416-67ea97f87204",
       "release_date": "2025-09-22"
     },
@@ -64935,9 +65085,9 @@
         "price_1m_input_tokens": 0.71,
         "price_1m_output_tokens": 0.72
       },
-      "median_output_tokens_per_second": 80.239,
-      "median_time_to_first_token_seconds": 0.627,
-      "median_time_to_first_answer_token": 0.627,
+      "median_output_tokens_per_second": 80.531,
+      "median_time_to_first_token_seconds": 0.614,
+      "median_time_to_first_answer_token": 0.614,
       "id": "976cc8ad-7904-4056-83c5-960181f47d5f",
       "release_date": "2024-12-06"
     },
@@ -65364,9 +65514,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 36.891,
-      "median_time_to_first_token_seconds": 0.751,
-      "median_time_to_first_answer_token": 54.965,
+      "median_output_tokens_per_second": 38.998,
+      "median_time_to_first_token_seconds": 0.699,
+      "median_time_to_first_answer_token": 51.985,
       "id": "82b207dd-d285-4a52-b2fc-2cbd27543899",
       "release_date": "2025-08-27"
     },
@@ -65481,9 +65631,9 @@
         "price_1m_input_tokens": 0.02,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 79.759,
-      "median_time_to_first_token_seconds": 0.28,
-      "median_time_to_first_answer_token": 0.28,
+      "median_output_tokens_per_second": 72.18,
+      "median_time_to_first_token_seconds": 0.295,
+      "median_time_to_first_answer_token": 0.295,
       "id": "5303601c-8133-4f52-bc4e-5241ee6b3c10",
       "release_date": "2026-04-03"
     },
@@ -65559,9 +65709,9 @@
         "price_1m_input_tokens": 0.04,
         "price_1m_output_tokens": 0.16
       },
-      "median_output_tokens_per_second": 100.118,
-      "median_time_to_first_token_seconds": 4.747,
-      "median_time_to_first_answer_token": 24.723,
+      "median_output_tokens_per_second": 71.595,
+      "median_time_to_first_token_seconds": 9.817,
+      "median_time_to_first_answer_token": 37.752,
       "id": "f1d52583-9d20-4099-99ac-b5df9430c3b6",
       "release_date": "2025-08-18"
     },
@@ -65598,9 +65748,9 @@
         "price_1m_input_tokens": 1,
         "price_1m_output_tokens": 3
       },
-      "median_output_tokens_per_second": 37.282,
-      "median_time_to_first_token_seconds": 0.744,
-      "median_time_to_first_answer_token": 0.744,
+      "median_output_tokens_per_second": 39.13,
+      "median_time_to_first_token_seconds": 0.738,
+      "median_time_to_first_answer_token": 0.738,
       "id": "d3968fd3-97d8-4693-8d26-19cefc6f5d5f",
       "release_date": "2025-08-27"
     },
@@ -65642,45 +65792,6 @@
       "median_time_to_first_answer_token": 0,
       "id": "7b269763-ecc0-41ef-aa29-47ef632ac065",
       "release_date": "2025-02-25"
-    },
-    "nvidia/nvidia-nemotron-3-nano-4b": {
-      "name": "NVIDIA Nemotron 3 Nano 4B",
-      "slug": "nvidia-nemotron-3-nano-4b",
-      "model_creator": {
-        "id": "0c303112-430d-4367-a484-51defaa2e166",
-        "name": "NVIDIA",
-        "slug": "nvidia"
-      },
-      "evaluations": {
-        "artificial_analysis_intelligence_index": 7.4,
-        "artificial_analysis_coding_index": 8,
-        "artificial_analysis_math_index": null,
-        "mmlu_pro": null,
-        "gpqa": 0.513,
-        "hle": 0.049,
-        "livecodebench": null,
-        "scicode": 0.161,
-        "math_500": null,
-        "aime": null,
-        "aime_25": null,
-        "ifbench": 0.582312925170068,
-        "lcr": 0.216666666666667,
-        "terminalbench_hard": 0.0681818181818182,
-        "terminalbench_v2_1": 0.0374531835205993,
-        "terminalbench_v4_0": 0,
-        "tau2": 0.280701754385965,
-        "tau_banking": null
-      },
-      "pricing": {
-        "price_1m_blended_3_to_1": 0,
-        "price_1m_input_tokens": 0,
-        "price_1m_output_tokens": 0
-      },
-      "median_output_tokens_per_second": 0,
-      "median_time_to_first_token_seconds": 0,
-      "median_time_to_first_answer_token": 0,
-      "id": "9ee13921-62a4-425a-a22b-df3302198d93",
-      "release_date": "2026-03-16"
     },
     "nvidia/llama-nemotron-super-49b-v1-5": {
       "name": "Llama Nemotron Super 49B v1.5 (Non-reasoning)",
@@ -66769,8 +66880,8 @@
         "price_1m_output_tokens": 10
       },
       "median_output_tokens_per_second": 66.572,
-      "median_time_to_first_token_seconds": 0.413,
-      "median_time_to_first_answer_token": 0.413,
+      "median_time_to_first_token_seconds": 0.468,
+      "median_time_to_first_answer_token": 0.468,
       "id": "3bc32f13-5afa-4e28-bce1-10e57376686b",
       "release_date": "2025-03-13"
     },
@@ -67002,9 +67113,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 221.323,
-      "median_time_to_first_token_seconds": 0.34,
-      "median_time_to_first_answer_token": 0.34,
+      "median_output_tokens_per_second": 240.771,
+      "median_time_to_first_token_seconds": 0.369,
+      "median_time_to_first_answer_token": 0.369,
       "id": "23b379f7-18df-492a-9fc1-a56c5a5b9cfc",
       "release_date": "2025-12-15"
     },
@@ -67041,9 +67152,9 @@
         "price_1m_input_tokens": 0.05,
         "price_1m_output_tokens": 0.195
       },
-      "median_output_tokens_per_second": 158.167,
-      "median_time_to_first_token_seconds": 1.435,
-      "median_time_to_first_answer_token": 1.435,
+      "median_output_tokens_per_second": 157.725,
+      "median_time_to_first_token_seconds": 1.393,
+      "median_time_to_first_answer_token": 1.393,
       "id": "2e8694f9-7782-47a6-a6ba-fdce89d939c8",
       "release_date": "2025-08-18"
     },
@@ -68250,9 +68361,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.7
       },
-      "median_output_tokens_per_second": 2356.613,
-      "median_time_to_first_token_seconds": 0.49,
-      "median_time_to_first_answer_token": 0.49,
+      "median_output_tokens_per_second": 2430.154,
+      "median_time_to_first_token_seconds": 0.487,
+      "median_time_to_first_answer_token": 0.487,
       "id": "8014c311-fa23-4a4b-8485-8a864db8a113",
       "release_date": "2026-07-24"
     },
@@ -68367,9 +68478,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 44.85,
-      "median_time_to_first_token_seconds": 0.33,
-      "median_time_to_first_answer_token": 0.33,
+      "median_output_tokens_per_second": 45.31,
+      "median_time_to_first_token_seconds": 0.334,
+      "median_time_to_first_answer_token": 0.334,
       "id": "9f873c2f-2c2d-4ccb-9e1b-71bf61b052be",
       "release_date": "2024-02-26"
     },
@@ -68640,9 +68751,9 @@
         "price_1m_input_tokens": 0.06,
         "price_1m_output_tokens": 0.25
       },
-      "median_output_tokens_per_second": 32.843,
-      "median_time_to_first_token_seconds": 26.749,
-      "median_time_to_first_answer_token": 26.749,
+      "median_output_tokens_per_second": 54.18,
+      "median_time_to_first_token_seconds": 9.431,
+      "median_time_to_first_answer_token": 9.431,
       "id": "5dba8d07-9992-483c-81db-dac97cb15ba8",
       "release_date": "2025-09-22"
     },
@@ -68679,9 +68790,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.2
       },
-      "median_output_tokens_per_second": 75.954,
-      "median_time_to_first_token_seconds": 0.669,
-      "median_time_to_first_answer_token": 0.669,
+      "median_output_tokens_per_second": 90.25,
+      "median_time_to_first_token_seconds": 0.61,
+      "median_time_to_first_answer_token": 0.61,
       "id": "713fae11-c75c-4f10-ae2c-8e4074cd58af",
       "release_date": "2025-12-02"
     },
@@ -68757,9 +68868,9 @@
         "price_1m_input_tokens": 0.25,
         "price_1m_output_tokens": 0.97
       },
-      "median_output_tokens_per_second": 107.46,
-      "median_time_to_first_token_seconds": 0.887,
-      "median_time_to_first_answer_token": 0.887,
+      "median_output_tokens_per_second": 108.088,
+      "median_time_to_first_token_seconds": 0.889,
+      "median_time_to_first_answer_token": 0.889,
       "id": "0b226b82-1462-4860-bf1a-f8aed7024791",
       "release_date": "2025-09-22"
     },
@@ -69069,9 +69180,9 @@
         "price_1m_input_tokens": 0.125,
         "price_1m_output_tokens": 0.5
       },
-      "median_output_tokens_per_second": 34.85,
-      "median_time_to_first_token_seconds": 1.103,
-      "median_time_to_first_answer_token": 1.103,
+      "median_output_tokens_per_second": 31.733,
+      "median_time_to_first_token_seconds": 1.107,
+      "median_time_to_first_answer_token": 1.107,
       "id": "ee708f92-374e-4123-b900-e22d7b2afc19",
       "release_date": "2024-12-12"
     },
@@ -69147,9 +69258,9 @@
         "price_1m_input_tokens": 0.035,
         "price_1m_output_tokens": 0.14
       },
-      "median_output_tokens_per_second": 242.493,
-      "median_time_to_first_token_seconds": 0.546,
-      "median_time_to_first_answer_token": 0.546,
+      "median_output_tokens_per_second": 270.29,
+      "median_time_to_first_token_seconds": 0.605,
+      "median_time_to_first_answer_token": 0.605,
       "id": "344c6718-c573-41d4-9556-10287a3fa1fc",
       "release_date": "2024-12-03"
     },
@@ -69342,9 +69453,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.6
       },
-      "median_output_tokens_per_second": 194.963,
-      "median_time_to_first_token_seconds": 0.781,
-      "median_time_to_first_answer_token": 0.781,
+      "median_output_tokens_per_second": 185.856,
+      "median_time_to_first_token_seconds": 0.797,
+      "median_time_to_first_answer_token": 0.797,
       "id": "ab7f016c-a29b-4710-bdf6-6a5cd96aacca",
       "release_date": "2025-10-28"
     },
@@ -69420,9 +69531,9 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 17.23,
-      "median_time_to_first_token_seconds": 0.352,
-      "median_time_to_first_answer_token": 0.352,
+      "median_output_tokens_per_second": 17.25,
+      "median_time_to_first_token_seconds": 0.339,
+      "median_time_to_first_answer_token": 0.339,
       "id": "2cd04201-2b6e-47ef-853e-7601f705f2a8",
       "release_date": "2025-02-26"
     },
@@ -69810,9 +69921,9 @@
         "price_1m_input_tokens": 0.2,
         "price_1m_output_tokens": 0.8
       },
-      "median_output_tokens_per_second": 94.426,
-      "median_time_to_first_token_seconds": 0.838,
-      "median_time_to_first_answer_token": 22.019,
+      "median_output_tokens_per_second": 95.419,
+      "median_time_to_first_token_seconds": 0.816,
+      "median_time_to_first_answer_token": 21.777,
       "id": "dbbcf240-a69e-4078-8f16-7c94c7a8c514",
       "release_date": "2025-03-10"
     },
@@ -70317,9 +70428,9 @@
         "price_1m_input_tokens": 0.15,
         "price_1m_output_tokens": 0.15
       },
-      "median_output_tokens_per_second": 100.566,
-      "median_time_to_first_token_seconds": 0.491,
-      "median_time_to_first_answer_token": 0.491,
+      "median_output_tokens_per_second": 108.195,
+      "median_time_to_first_token_seconds": 0.469,
+      "median_time_to_first_answer_token": 0.469,
       "id": "9741f3c2-cbb1-4a3f-99ee-7bd7384d9038",
       "release_date": "2025-12-02"
     },
@@ -70512,9 +70623,9 @@
         "price_1m_input_tokens": 0.345,
         "price_1m_output_tokens": 0.345
       },
-      "median_output_tokens_per_second": 14.014,
-      "median_time_to_first_token_seconds": 1.339,
-      "median_time_to_first_answer_token": 1.339,
+      "median_output_tokens_per_second": 13.941,
+      "median_time_to_first_token_seconds": 1.618,
+      "median_time_to_first_answer_token": 1.618,
       "id": "5fb47ff6-a30e-4c2c-96f2-55e95a13390f",
       "release_date": "2024-09-25"
     },
@@ -72033,9 +72144,9 @@
         "price_1m_input_tokens": 0.1,
         "price_1m_output_tokens": 0.1
       },
-      "median_output_tokens_per_second": 223.989,
-      "median_time_to_first_token_seconds": 0.494,
-      "median_time_to_first_answer_token": 0.494,
+      "median_output_tokens_per_second": 227.136,
+      "median_time_to_first_token_seconds": 0.46,
+      "median_time_to_first_answer_token": 0.46,
       "id": "66f4ce73-9a9b-4b49-9c6e-bedb9bfdc720",
       "release_date": "2025-12-02"
     },
@@ -72579,11 +72690,50 @@
         "price_1m_input_tokens": 0,
         "price_1m_output_tokens": 0
       },
-      "median_output_tokens_per_second": 130.511,
-      "median_time_to_first_token_seconds": 0.215,
-      "median_time_to_first_answer_token": 0.215,
+      "median_output_tokens_per_second": 129.334,
+      "median_time_to_first_token_seconds": 0.214,
+      "median_time_to_first_answer_token": 0.214,
       "id": "81444bc8-72f9-4a2d-ad43-27e3f0d2f461",
       "release_date": "2026-02-17"
+    },
+    "nvidia/nvidia-nemotron-3-nano-4b": {
+      "name": "NVIDIA Nemotron 3 Nano 4B",
+      "slug": "nvidia-nemotron-3-nano-4b",
+      "model_creator": {
+        "id": "0c303112-430d-4367-a484-51defaa2e166",
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "evaluations": {
+        "artificial_analysis_intelligence_index": 4.8,
+        "artificial_analysis_coding_index": 8,
+        "artificial_analysis_math_index": null,
+        "mmlu_pro": null,
+        "gpqa": 0.513,
+        "hle": 0.049,
+        "livecodebench": null,
+        "scicode": 0.161,
+        "math_500": null,
+        "aime": null,
+        "aime_25": null,
+        "ifbench": 0.582312925170068,
+        "lcr": 0.216666666666667,
+        "terminalbench_hard": 0.0681818181818182,
+        "terminalbench_v2_1": 0.0374531835205993,
+        "terminalbench_v4_0": 0,
+        "tau2": 0.280701754385965,
+        "tau_banking": null
+      },
+      "pricing": {
+        "price_1m_blended_3_to_1": 0,
+        "price_1m_input_tokens": 0,
+        "price_1m_output_tokens": 0
+      },
+      "median_output_tokens_per_second": 0,
+      "median_time_to_first_token_seconds": 0,
+      "median_time_to_first_answer_token": 0,
+      "id": "9ee13921-62a4-425a-a22b-df3302198d93",
+      "release_date": "2026-03-16"
     },
     "google/gemma-3-12b": {
       "name": "Gemma 3 12B Instruct",
@@ -72664,14 +72814,14 @@
       "release_date": "2026-09-03"
     }
   },
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "source": "Artificial Analysis API",
   "attribution": "Rankings provided by Artificial Analysis (https://artificialanalysis.ai/). Please attribute per their terms.",
-  "count": 679,
+  "count": 680,
   "metadata": {
     "total_models": 689,
-    "compact_entries": 13591,
-    "full_data_entries": 679,
+    "compact_entries": 13628,
+    "full_data_entries": 680,
     "prompt_options": {
       "parallel_queries": 1,
       "prompt_length": 1000
