@@ -25,6 +25,10 @@ jobs:
         run: node rankings-builder.mjs
         env:
           ARTIFICIAL_ANALYSIS_KEY: ${{ secrets.ARTIFICIAL_ANALYSIS_KEY }}
+          # medium keeps the previous 1,000-token speed preset. Set repository
+          # variable AA_PROMPT_TYPE to long, 100k, vision_single_image,
+          # medium_coding, or medium_parallel to use another preset.
+          AA_PROMPT_TYPE: ${{ vars.AA_PROMPT_TYPE }}
       
       - name: Commit updated rankings
         uses: stefanzweifel/git-auto-commit-action@v5
