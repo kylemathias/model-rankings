@@ -11,32 +11,47 @@ This repository provides a `rankings.json` file that contains intelligence and c
 ```json
 {
   "models": {
-    "openai/gpt-4o": { "int": 71, "code": 68 },
-    "anthropic/claude-3.5-sonnet": { "int": 70, "code": 65 }
+    "openai/gpt-4o": { "int": 71, "code": 68, "agent": 64 },
+    "anthropic/claude-3.5-sonnet": { "int": 70, "code": 65, "agent": 60 }
   },
   "fullData": {
     "openai/gpt-4o": {
       "name": "GPT-4o",
       "slug": "gpt-4o",
-      "model_creator": { "name": "OpenAI", "slug": "openai" },
+      "release_date": "2024-05-13",
+      "model_creator": { "name": "OpenAI", "slug": "openai", "country": "us" },
+      "reasoning_model": false,
       "evaluations": {
         "artificial_analysis_intelligence_index": 71.2,
         "artificial_analysis_coding_index": 68.5,
-        "mmlu_pro": 0.82,
-        "gpqa": 0.65,
-        "...": "..."
+        "artificial_analysis_agentic_index": 64.1,
+        "artificial_analysis_engineering_index": 40.2,
+        "gpqa_diamond": 0.65,
+        "...": "headline indexes, six capability indexes, and per-benchmark scores"
       },
       "pricing": {
         "price_1m_input_tokens": 2.5,
         "price_1m_output_tokens": 10.0,
-        "price_1m_blended_3_to_1": 5.0
+        "price_1m_blended_3_to_1": 5.0,
+        "price_1m_blended_7_to_2_to_1": 3.1,
+        "price_1m_cache_hit_tokens": 1.25,
+        "price_1m_cache_write_tokens": 3.75
+      },
+      "performance": {
+        "median_output_tokens_per_second": 85.3,
+        "median_time_to_first_token_seconds": 0.45,
+        "median_time_to_first_answer_token_seconds": 0.45,
+        "median_end_to_end_response_time_seconds": 1.2
       },
       "median_output_tokens_per_second": 85.3,
       "median_time_to_first_token_seconds": 0.45,
-      "...": "all other AA fields"
+      "median_time_to_first_answer_token": 0.45,
+      "context_window_tokens": 128000,
+      "openrouter_api_id": "openai/gpt-4o",
+      "...": "cost to run the index, parameters, modalities, licensing, Hugging Face URL"
     }
   },
-  "updated": "2025-12-28",
+  "updated": "2026-10-06",
   "source": "Artificial Analysis API",
   "attribution": "Rankings provided by Artificial Analysis...",
   "count": 123,
@@ -44,27 +59,61 @@ This repository provides a `rankings.json` file that contains intelligence and c
     "total_models": 150,
     "compact_entries": 400,
     "full_data_entries": 150,
-    "prompt_options": {}
+    "endpoint": "/api/v2/language/models",
+    "tier": "pro",
+    "intelligence_index_version": 4.3,
+    "prompt_options": { "prompt_type": "medium", "prompt_length": 1000, "parallel_queries": 1 }
   }
 }
 ```
 
 ### Data Structure
 
-- **`models`**: Compact lookup map for quick matching (int/code scores only)
-  - Keys: Multiple formats for flexible matching (slug, creator/slug, name)
-  - Values: `{ int: number, code: number }`
-  
-- **`fullData`**: Complete Artificial Analysis data for each model
-  - Keys: Primary identifier (creator/slug or slug)
-  - Values: Full AA response including:
-    - All evaluation benchmarks (MMLU, GPQA, HumanEval, etc.)
-    - Pricing (input/output tokens, blended)
-    - Performance metrics (tokens/sec, TTFT)
-    - Model metadata (name, creator, parameters, etc.)
+- **`models`**: Compact lookup map for quick matching
+  - Keys: Multiple formats for flexible matching (slug, creator/slug, name, OpenRouter id)
+  - Values include:
+    - `int`, `code`, `agent`: Intelligence, Coding, and Agentic indexes, rounded
+    - `tb4`, `sci`, `tbHard`, `lcb`: Terminal-Bench 4.0, SciCode, Terminal-Bench Hard, and LiveCodeBench, as 0–100 pass rates when Artificial Analysis published that benchmark
+    - `in`, `out`, `blend`: USD per 1M input, output, and 3:1 blended tokens
+    - `cache`, `cacheWrite`: cache-hit and cache-write USD per 1M tokens, on tiers that return them
+    - `speed`: median output tokens per second
+    - `ttft`: median seconds to first token
+    - `context`: context window in tokens, when the tier includes it
+  - A score field is left out when that value is missing
+  - `codeFrom` is set when `code` is not the published Coding Index. `terminal-bench-4.0+scicode` is the equal-weight coding category from Intelligence Index v4.3 (Terminal-Bench 4.0 and SciCode). `terminalbench_hard` and `livecodebench` are that benchmark's pass rate. The legacy list leaves the Coding Index null for those models even though the component scores are present.
 
-- `int`: Intelligence score (0-100)
-- `code`: Coding score (0-100)
+- **`fullData`**: Artificial Analysis list payload for each ranked model
+  - Keys: Primary identifier (creator/slug or slug)
+  - Values include:
+    - Headline indexes (Intelligence, Coding, Agentic) and the six Capability Indexes
+    - Per-benchmark scores on the Pro endpoint (GPQA Diamond, Terminal-Bench, SciCode, AA-LCR, HLE, and the rest of the current set)
+    - Pricing (input, output, cache hit, cache write, and blended ratios on Pro)
+    - Performance medians, plus percentiles on Pro. Medians are also copied to the previous top-level names so existing readers keep working
+    - Intelligence Index run cost, context window, parameter counts, modalities, licensing, Hugging Face URL, and `openrouter_api_id` when the tier includes them
+    - `model_creator.slug` is restored from the slug this file used before. The language-model API returns creator id, name, and on Pro a country code
+
+- `int`: Intelligence Index, rounded
+- `code`: Coding Index when Artificial Analysis published one. Otherwise the coding category or the best published coding benchmark, with `codeFrom` naming which
+- `agent`: Agentic Index, rounded
+
+### API migration
+
+`GET /api/v2/data/llms/models` is retired on 4 November 2026. After that, calls return `410 Gone`. The builder now calls [`GET /api/v2/language/models`](https://artificialanalysis.ai/data-api/docs) and follows `pagination.has_more`. The same `ARTIFICIAL_ANALYSIS_KEY` is sent as `x-api-key`.
+
+If that route returns `403` (the key is free-tier), the builder uses [`GET /api/v2/language/models/free`](https://artificialanalysis.ai/data-api/migrate-v2-data). The free payload has the headline and capability indexes, median speed, and input/output/cache prices. It does not include per-benchmark scores, blended prices, percentiles, context window, or OpenRouter ids.
+
+Speed and latency stay on the previous 1,000-token preset (`prompt_type=medium`). The new API's own default is `long` (10,000 tokens). Set `AA_PROMPT_TYPE` to `long`, `100k`, `vision_single_image`, `medium_coding`, or `medium_parallel` to change it. `metadata.intelligence_index_version` is the index vintage for the scores in the file (major.minor only).
+
+These evaluation names changed with the new schema, and the old names are not copied forward:
+
+| Previous field | Current field |
+| --- | --- |
+| `gpqa` | `gpqa_diamond` |
+| `lcr` | `aa_lcr` |
+| `tau2` | `tau2_telecom` |
+| `median_time_to_first_answer_token` | `performance.median_time_to_first_answer_token_seconds` (the old name is still filled on each `fullData` record) |
+
+`mmlu_pro`, `livecodebench`, `math_500`, `aime`, and `artificial_analysis_math_index` are not in the current list schema. Detail-only fields (per-evaluation token counts, Omniscience breakdown, Openness breakdown, and per-provider rows) stay off the daily pull. Loading them would be one request per model, past the free (100/day) and Pro (500/day) quotas for this catalog.
 
 ## Setup
 
@@ -85,6 +134,8 @@ git push -u origin main
 3. Name: `ARTIFICIAL_ANALYSIS_KEY`
 4. Value: Your Artificial Analysis API key
 5. Click "Add secret"
+
+Optional repository variable: `AA_PROMPT_TYPE` (Settings → Secrets and variables → Actions → Variables). Leave it unset to keep `medium`.
 
 ### 3. Enable GitHub Actions
 
