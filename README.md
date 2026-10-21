@@ -4,7 +4,7 @@ Automated daily rankings for LLM models, fetched from [Artificial Analysis](http
 
 ## Overview
 
-This repository provides a `rankings.json` file that contains intelligence and coding scores for various LLM models. It's updated daily via GitHub Actions.
+This repository provides a `rankings.json` file that contains intelligence and coding scores for various LLM models. GitHub Actions refreshes it every day at 06:00 UTC and again whenever a change other than `rankings.json` is merged to `main`.
 
 ## Data Format
 
