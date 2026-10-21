@@ -1,12 +1,21 @@
 name: Update Rankings
 
 on:
+  push:
+    branches: [main]
+    # The job's own rankings.json commit must not start another run.
+    paths-ignore:
+      - rankings.json
   schedule:
     - cron: '0 6 * * *'  # Daily at 6am UTC
   workflow_dispatch:  # Manual trigger button
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-rankings
+  cancel-in-progress: false
 
 jobs:
   build:
