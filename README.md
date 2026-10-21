@@ -71,8 +71,16 @@ This repository provides a `rankings.json` file that contains intelligence and c
 
 - **`models`**: Compact lookup map for quick matching
   - Keys: Multiple formats for flexible matching (slug, creator/slug, name, OpenRouter id)
-  - Values: `{ int: number, code: number, agent: number }`
-  - A score field is left out when that headline index is missing
+  - Values include:
+    - `int`, `code`, `agent`: Intelligence, Coding, and Agentic indexes, rounded
+    - `tb4`, `sci`, `tbHard`, `lcb`: Terminal-Bench 4.0, SciCode, Terminal-Bench Hard, and LiveCodeBench, as 0–100 pass rates when Artificial Analysis published that benchmark
+    - `in`, `out`, `blend`: USD per 1M input, output, and 3:1 blended tokens
+    - `cache`, `cacheWrite`: cache-hit and cache-write USD per 1M tokens, on tiers that return them
+    - `speed`: median output tokens per second
+    - `ttft`: median seconds to first token
+    - `context`: context window in tokens, when the tier includes it
+  - A score field is left out when that value is missing
+  - `codeFrom` is set when `code` is not the published Coding Index. `terminal-bench-4.0+scicode` is the equal-weight coding category from Intelligence Index v4.3 (Terminal-Bench 4.0 and SciCode). `terminalbench_hard` and `livecodebench` are that benchmark's pass rate. The legacy list leaves the Coding Index null for those models even though the component scores are present.
 
 - **`fullData`**: Artificial Analysis list payload for each ranked model
   - Keys: Primary identifier (creator/slug or slug)
@@ -85,7 +93,7 @@ This repository provides a `rankings.json` file that contains intelligence and c
     - `model_creator.slug` is restored from the slug this file used before. The language-model API returns creator id, name, and on Pro a country code
 
 - `int`: Intelligence Index, rounded
-- `code`: Coding Index, rounded
+- `code`: Coding Index when Artificial Analysis published one. Otherwise the coding category or the best published coding benchmark, with `codeFrom` naming which
 - `agent`: Agentic Index, rounded
 
 ### API migration

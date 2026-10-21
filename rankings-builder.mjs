@@ -122,15 +122,82 @@ export function resolveCreatorSlug(model) {
   return null;
 }
 
+function finite(value) {
+  return value != null && Number.isFinite(value);
+}
+
+export function roundMetric(value, places) {
+  const factor = 10 ** places;
+  return Math.round(value * factor) / factor;
+}
+
+/**
+ * Coding score for the compact map.
+ * The published Coding Index is null for models that were not run on its
+ * older suite (Terminal-Bench 2.1). Intelligence Index v4.3's coding
+ * category is the equal-weight average of Terminal-Bench 4.0 and SciCode.
+ * When that pair is missing, the pass rate of Terminal-Bench Hard or
+ * LiveCodeBench is used. `codeFrom` is set only for those substitutes.
+ */
 export function compactScores(evaluations) {
   const entry = {};
-  const int = evaluations?.artificial_analysis_intelligence_index;
-  const code = evaluations?.artificial_analysis_coding_index;
-  const agent = evaluations?.artificial_analysis_agentic_index;
-  if (int != null && Number.isFinite(int)) entry.int = Math.round(int);
-  if (code != null && Number.isFinite(code)) entry.code = Math.round(code);
-  if (agent != null && Number.isFinite(agent)) entry.agent = Math.round(agent);
+  const intScore = evaluations?.artificial_analysis_intelligence_index;
+  const codeScore = evaluations?.artificial_analysis_coding_index;
+  const agentScore = evaluations?.artificial_analysis_agentic_index;
+  if (finite(intScore)) entry.int = Math.round(intScore);
+  if (finite(agentScore)) entry.agent = Math.round(agentScore);
+
+  const tb4 = evaluations?.terminalbench_v4_0;
+  const sci = evaluations?.scicode;
+  const hard = evaluations?.terminalbench_hard;
+  const lcb = evaluations?.livecodebench;
+  if (finite(tb4)) entry.tb4 = Math.round(tb4 * 100);
+  if (finite(sci)) entry.sci = Math.round(sci * 100);
+  if (finite(hard)) entry.tbHard = Math.round(hard * 100);
+  if (finite(lcb)) entry.lcb = Math.round(lcb * 100);
+
+  if (finite(codeScore)) {
+    entry.code = Math.round(codeScore);
+  } else if (finite(tb4) && finite(sci)) {
+    entry.code = Math.round((100 * (tb4 + sci)) / 2);
+    entry.codeFrom = "terminal-bench-4.0+scicode";
+  } else if (finite(hard)) {
+    entry.code = entry.tbHard;
+    entry.codeFrom = "terminalbench_hard";
+  } else if (finite(lcb)) {
+    entry.code = entry.lcb;
+    entry.codeFrom = "livecodebench";
+  }
+
   return Object.keys(entry).length > 0 ? entry : null;
+}
+
+export function compactEntry(model) {
+  const entry = compactScores(model?.evaluations);
+  if (!entry) return null;
+
+  const pricing = model.pricing || {};
+  const performance =
+    model.performance && typeof model.performance === "object" ? model.performance : {};
+  const input = pricing.price_1m_input_tokens;
+  const output = pricing.price_1m_output_tokens;
+  const blend = pricing.price_1m_blended_3_to_1;
+  const cache = pricing.price_1m_cache_hit_tokens;
+  const cacheWrite = pricing.price_1m_cache_write_tokens;
+  const speed = performance.median_output_tokens_per_second ?? model.median_output_tokens_per_second;
+  const ttft = performance.median_time_to_first_token_seconds ?? model.median_time_to_first_token_seconds;
+
+  if (finite(input)) entry.in = roundMetric(input, 4);
+  if (finite(output)) entry.out = roundMetric(output, 4);
+  if (finite(blend)) entry.blend = roundMetric(blend, 4);
+  if (finite(cache)) entry.cache = roundMetric(cache, 4);
+  if (finite(cacheWrite)) entry.cacheWrite = roundMetric(cacheWrite, 4);
+  if (finite(speed) && speed > 0) entry.speed = Math.round(speed);
+  if (finite(ttft) && ttft > 0) entry.ttft = roundMetric(ttft, 2);
+  if (finite(model.context_window_tokens) && model.context_window_tokens > 0) {
+    entry.context = model.context_window_tokens;
+  }
+  return entry;
 }
 
 export function toFullRecord(model, creatorSlug) {
@@ -235,13 +302,15 @@ export function buildRankings(apiModels, meta) {
   const models = {};
   const fullData = {};
   let count = 0;
+  let codingFilled = 0;
 
   for (const model of apiModels || []) {
     const slug = model.slug?.toLowerCase();
     if (!slug) continue;
 
-    const entry = compactScores(model.evaluations);
+    const entry = compactEntry(model);
     if (!entry) continue;
+    if (entry.codeFrom) codingFilled += 1;
 
     const creator = resolveCreatorSlug(model);
     if (creator) count += 1;
@@ -254,7 +323,12 @@ export function buildRankings(apiModels, meta) {
     });
 
     const fullKey = creator ? `${creator}/${slug}` : slug;
-    fullData[fullKey] = toFullRecord(model, creator);
+    const record = toFullRecord(model, creator);
+    if (finite(entry.code)) {
+      record.coding_score = entry.code;
+      record.coding_score_source = entry.codeFrom ?? "artificial_analysis_coding_index";
+    }
+    fullData[fullKey] = record;
   }
 
   return {
@@ -273,6 +347,7 @@ export function buildRankings(apiModels, meta) {
       tier: meta.tier ?? null,
       intelligence_index_version: meta.intelligenceIndexVersion ?? null,
       prompt_options: meta.promptOptions,
+      coding_filled: codingFilled,
     },
   };
 }

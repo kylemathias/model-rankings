@@ -82,6 +82,40 @@ test("compact scores round headline indexes and keep agent", () => {
   assert.deepEqual(compactScores({ artificial_analysis_agentic_index: 0 }), { agent: 0 });
 });
 
+test("missing coding index is filled from the current coding category", () => {
+  const filled = compactScores({
+    artificial_analysis_intelligence_index: 57.6,
+    artificial_analysis_coding_index: null,
+    terminalbench_v4_0: 0.595959595959596,
+    scicode: 0.669,
+  });
+  assert.equal(filled.int, 58);
+  assert.equal(filled.code, 63);
+  assert.equal(filled.codeFrom, "terminal-bench-4.0+scicode");
+  assert.equal(filled.tb4, 60);
+  assert.equal(filled.sci, 67);
+});
+
+test("terminal-bench hard and livecodebench fill code when the index is absent", () => {
+  const hard = compactScores({
+    artificial_analysis_intelligence_index: 32.5,
+    artificial_analysis_coding_index: null,
+    terminalbench_hard: 0.53030303030303,
+    livecodebench: 0.889,
+  });
+  assert.equal(hard.code, 53);
+  assert.equal(hard.codeFrom, "terminalbench_hard");
+  assert.equal(hard.tbHard, 53);
+  assert.equal(hard.lcb, 89);
+
+  const lcbOnly = compactScores({
+    artificial_analysis_intelligence_index: 12,
+    livecodebench: 0.42,
+  });
+  assert.equal(lcbOnly.code, 42);
+  assert.equal(lcbOnly.codeFrom, "livecodebench");
+});
+
 test("creator slugs stay compatible with the previous file", () => {
   assert.equal(resolveCreatorSlug({ model_creator: { name: "Z AI" } }), "zai");
   assert.equal(resolveCreatorSlug({ model_creator: { name: "Microsoft" } }), "azure");
@@ -176,7 +210,24 @@ test("buildRankings keeps lookup shape and records new metadata", () => {
   );
 
   assert.equal(output.count, 1);
-  assert.deepEqual(output.models["openai/gpt-oss-20b"], { int: 25, code: 19, agent: 28 });
+  assert.deepEqual(output.models["openai/gpt-oss-20b"], {
+    int: 25,
+    code: 19,
+    agent: 28,
+    in: 0.06,
+    out: 0.2,
+    blend: 0.09,
+    cache: 0.015,
+    cacheWrite: 0.075,
+    speed: 296,
+    ttft: 0.65,
+    context: 131072,
+  });
+  assert.equal(output.fullData["openai/gpt-oss-20b"].coding_score, 19);
+  assert.equal(
+    output.fullData["openai/gpt-oss-20b"].coding_score_source,
+    "artificial_analysis_coding_index",
+  );
   assert.equal(output.models["unscored"], undefined);
   assert.equal(output.fullData["openai/gpt-oss-20b"].reasoning_model, true);
   assert.equal(output.fullData.unscored, undefined);
