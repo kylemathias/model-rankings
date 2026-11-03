@@ -5,6 +5,7 @@ import {
   PRO_ENDPOINT,
   addCompactAliases,
   buildRankings,
+  carryForwardRetired,
   compactScores,
   fetchAllModels,
   resolveCreatorSlug,
@@ -376,3 +377,72 @@ test("retries a 500 once and does not fall back on 401", async () => {
     "https://artificialanalysis.ai/api/v2/language/models?page=1&prompt_type=medium",
   ]);
 });
+
+const META = { updated: "2026-11-03", endpoint: PRO_ENDPOINT, tier: "pro", intelligenceIndexVersion: 5, promptOptions: {} };
+
+function retiredModel(overrides = {}) {
+  return {
+    ...proModel,
+    name: "GPT-6 Sol",
+    slug: "gpt-6-sol",
+    openrouter_api_id: "openai/gpt-6-sol",
+    evaluations: { artificial_analysis_intelligence_index: 47.6, artificial_analysis_coding_index: 40.2 },
+    ...overrides,
+  };
+}
+
+test("a model the source stops listing keeps its last scores, marked retired", () => {
+  const previous = buildRankings([proModel, retiredModel()], { ...META, updated: "2026-10-30" });
+  const output = carryForwardRetired(buildRankings([proModel], META), previous);
+
+  assert.equal(output.models["gpt-6-sol"].int, 48);
+  assert.equal(output.models["gpt-6-sol"].retired, true);
+  assert.equal(output.models["openai/gpt-6-sol"].int, 48);
+  assert.equal(output.models["gpt-6-sol-latest"].int, 48);
+  assert.equal(output.fullData["openai/gpt-6-sol"].retired, true);
+  assert.equal(output.fullData["openai/gpt-6-sol"].last_seen, "2026-10-30");
+  assert.equal(output.models["openai/gpt-oss-20b"].retired, undefined);
+  assert.equal(output.metadata.retired_entries, 1);
+  assert.equal(output.metadata.full_data_entries, 2);
+});
+
+test("a retired model keeps the date the source last listed it across later runs", () => {
+  const first = carryForwardRetired(
+    buildRankings([proModel], { ...META, updated: "2026-11-01" }),
+    buildRankings([proModel, retiredModel()], { ...META, updated: "2026-10-30" }),
+  );
+  const second = carryForwardRetired(buildRankings([proModel], META), first);
+  assert.equal(second.fullData["openai/gpt-6-sol"].last_seen, "2026-10-30");
+  assert.equal(second.models["gpt-6-sol"].int, 48);
+});
+
+test("a current model wins an alias over a retired one and retired models expire after a year", () => {
+  const current = retiredModel({ evaluations: { artificial_analysis_intelligence_index: 60 } });
+  const output = carryForwardRetired(
+    buildRankings([current], META),
+    buildRankings([current, { ...retiredModel(), slug: "gpt-6-sol-old", name: "GPT-6 Sol" }], { ...META, updated: "2026-10-01" }),
+  );
+  assert.equal(output.models["gpt-6 sol"].int, 60);
+  assert.equal(output.models["gpt-6-sol-old"].retired, true);
+
+  const expired = carryForwardRetired(
+    buildRankings([proModel], { ...META, updated: "2027-12-01" }),
+    buildRankings([proModel, retiredModel()], { ...META, updated: "2026-10-30" }),
+  );
+  assert.equal(expired.models["gpt-6-sol"], undefined);
+  assert.equal(expired.metadata.retired_entries, 0);
+});
+
+test("no previous file carries nothing", () => {
+  const output = carryForwardRetired(buildRankings([proModel], META), null);
+  assert.equal(output.metadata.retired_entries, 0);
+  assert.equal(output.models["openai/gpt-oss-20b"].int, 25);
+});
+
+test("scores from another Intelligence Index version are not carried forward", () => {
+  const previous = buildRankings([proModel, retiredModel()], { ...META, updated: "2026-10-27", intelligenceIndexVersion: 4.3 });
+  const output = carryForwardRetired(buildRankings([proModel], META), previous);
+  assert.equal(output.models["gpt-6-sol"], undefined);
+  assert.equal(output.metadata.retired_entries, 0);
+});
+
