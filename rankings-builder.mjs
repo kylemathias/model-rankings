@@ -352,6 +352,66 @@ export function buildRankings(apiModels, meta) {
   };
 }
 
+/** Retired models stay in the file this long after the source last listed them. */
+export const RETIRED_MAX_AGE_DAYS = 365;
+
+function daysBetween(fromDate, toDate) {
+  const from = Date.parse(`${fromDate}T00:00:00Z`);
+  const to = Date.parse(`${toDate}T00:00:00Z`);
+  if (!Number.isFinite(from) || !Number.isFinite(to)) return 0;
+  return Math.round((to - from) / 86_400_000);
+}
+
+/**
+ * Artificial Analysis drops a model from its list once newer versions ship,
+ * but apps keep serving the older one (on 2026-11-03 GPT-6 Sol and the GPT-5.6
+ * models vanished when GPT-6.1 arrived). Keep every model the previous file
+ * had and today's list lacks, with its last scores, marked `retired` and with
+ * the date the source last listed it. Current models always win an alias.
+ *
+ * Scores from another Intelligence Index version are not comparable (on
+ * 2026-10-28 AA moved from 4.3 to 5 and listed about 600 fewer models), so a
+ * previous file on another index version carries nothing forward.
+ */
+export function carryForwardRetired(output, previous, { today = output.updated, maxAgeDays = RETIRED_MAX_AGE_DAYS } = {}) {
+  const previousFull = previous?.fullData;
+  const currentIndex = output.metadata?.intelligence_index_version ?? null;
+  const previousIndex = previous?.metadata?.intelligence_index_version ?? null;
+  const sameIndex = currentIndex === null || previousIndex === null || String(currentIndex) === String(previousIndex);
+  let carried = 0;
+  if (sameIndex && previousFull && typeof previousFull === "object") {
+    for (const [key, record] of Object.entries(previousFull)) {
+      if (output.fullData[key] || !record || typeof record !== "object") continue;
+      const slug = typeof record.slug === "string" ? record.slug.toLowerCase() : "";
+      if (!slug) continue;
+      const lastSeen = typeof record.last_seen === "string" ? record.last_seen : previous.updated ?? today;
+      if (daysBetween(lastSeen, today) > maxAgeDays) continue;
+      const entry = compactEntry(record);
+      if (!entry) continue;
+      delete entry.codeFrom;
+      entry.retired = true;
+
+      output.fullData[key] = { ...record, retired: true, last_seen: lastSeen };
+      const aliases = {};
+      addCompactAliases(aliases, entry, {
+        slug,
+        creator: record.model_creator?.slug ?? (key.includes("/") ? key.split("/")[0] : undefined),
+        name: record.name,
+        openrouterId: record.openrouter_api_id,
+      });
+      for (const [alias, value] of Object.entries(aliases)) {
+        if (!(alias in output.models)) output.models[alias] = value;
+      }
+      carried += 1;
+    }
+  }
+
+  output.metadata.retired_entries = carried;
+  output.metadata.compact_entries = Object.keys(output.models).length;
+  output.metadata.full_data_entries = Object.keys(output.fullData).length;
+  return output;
+}
+
 async function readBody(res) {
   const text = await res.text();
   try {
@@ -509,10 +569,19 @@ async function main() {
   });
 
   const outPath = "./rankings.json";
+  let previous = null;
+  try {
+    previous = JSON.parse(await fs.readFile(outPath, "utf8"));
+  } catch {
+    // First run, or an unreadable file: nothing to carry forward.
+  }
+  carryForwardRetired(output, previous);
+
   await fs.writeFile(outPath, JSON.stringify(output, null, 2), "utf8");
   console.log(`✓ Wrote ${output.count} model entries to ${outPath}`);
   console.log(`✓ Compact entries: ${output.metadata.compact_entries}`);
   console.log(`✓ Full data entries: ${output.metadata.full_data_entries}`);
+  console.log(`✓ Retired entries kept: ${output.metadata.retired_entries}`);
   console.log(`✓ Endpoint: ${output.metadata.endpoint}`);
   console.log(`Updated: ${output.updated}`);
 }

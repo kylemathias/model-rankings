@@ -115,6 +115,18 @@ These evaluation names changed with the new schema, and the old names are not co
 
 `mmlu_pro`, `livecodebench`, `math_500`, `aime`, and `artificial_analysis_math_index` are not in the current list schema. Detail-only fields (per-evaluation token counts, Omniscience breakdown, Openness breakdown, and per-provider rows) stay off the daily pull. Loading them would be one request per model, past the free (100/day) and Pro (500/day) quotas for this catalog.
 
+## Retired models
+
+Artificial Analysis drops a model from its list once newer versions ship, but apps often keep serving the older one. Each build therefore keeps every model the previous `rankings.json` had and the new list lacks:
+
+- The compact entries keep their last scores with `"retired": true`.
+- `fullData` gets `"retired": true` and `"last_seen"`, the last date the source listed the model.
+- A model listed again under the same alias wins over the retired entry.
+- A retired model is removed 365 days after `last_seen`.
+- `metadata.retired_entries` counts them.
+
+Scores are carried forward only while the Intelligence Index version stays the same. Scores from different index versions are not comparable: on 2026-10-28 the index moved from 4.3 to 5 and the list dropped about 600 models. Models that were scored only on 4.3 have no score in this file.
+
 ## Setup
 
 ### 1. Create GitHub Repository
